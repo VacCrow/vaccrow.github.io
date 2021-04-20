@@ -1,2 +1,3 @@
 # vaccrow.github.io
-Strategies used by the Communist Seals in Final Fantasy XIV
+Website regrouping strategies used by the Communist Seals static in Final Fantasy XIV
+Udner construction
