@@ -1,0 +1,60 @@
+html{
+	font-size: 15px;
+	background-color: $bg-base;
+	color: $ft-base;
+	font-family: $Roboto;
+	scroll-behavior: smooth;
+	height: 100%;
+}
+
+body{
+	margin: 0 auto;
+	line-height: 1.5;
+}
+
+main{
+	margin: 50px auto 0 auto;
+	min-height: calc(100vh - 148px);
+}
+
+@media screen and (min-width: 1921px){
+	main{
+		width: 1920px;
+	}
+}
+
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
+.group{
+	width: 70%;
+}
+
+h1{
+	font-size: 3em;
+}
+
+h2{
+	font-size: 2em;
+}
+
+h3{
+	font-size: 1.5em;
+}
+
+p{
+	line-height: 1.4em;
+}
+
+.aboutSection{
+	margin: 0 20%;
+	background-color: $bg-article;
+	padding: 5px 5px 5px 10px;
+	border-radius: 6px 0 0 0;
+}
+
+.current{
+	color: black;
+}

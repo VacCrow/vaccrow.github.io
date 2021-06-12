@@ -1,0 +1,35 @@
+.site-nav {
+    text-align: center;
+    margin-bottom: 1em;
+    width: 100%;
+    font-family: $Eurostar;
+    /*position: fixed;
+    top: 0;*/
+}
+
+.site-nav ul {
+    padding: 0.25em 0.75em;
+    margin: 0;
+    display: inline-block;
+    background-color: $nav-bg;
+    list-style: none;
+    border-radius: 0 0 .5rem .5rem;
+}
+
+.site-nav li {
+    display: inline-block;
+    font-size: 1.25rem;
+}
+
+.site-nav a {
+    display: block;
+    text-transform: uppercase;
+    border: 1px solid $nav-bg;
+    border-radius: .25rem;
+    padding: 0.5em 0.5em;
+    transition: all 0.4s ease;
+}
+
+.site-nav a:hover {
+    border-color: $nav-hover;
+}

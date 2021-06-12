@@ -1,0 +1,22 @@
+<footer>
+	© 2021 VacCrow. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> & GitHub Pages.
+	
+	<button onclick="toTop()" id="topButton">Top</button>
+	<script type="text/javascript">
+		topBtn = document.getElementById("topButton");
+		window.onscroll = function() {scrollFunction()};
+
+		function scrollFunction(){
+			if(document.body.scrollTop > 60 || document.documentElement.scrollTop > 60){	// For Safari, then Chrome, Firefox, IE and Opera
+			topBtn.style.display = "block";
+			}else{
+			topBtn.style.display = "none";
+			}
+		}
+
+		function toTop(){
+		document.body.scrollTop = 0;			// For Safari
+		document.documentElement.scrollTop = 0;	// For Chrome, Firefox, IE and Opera
+		}
+	</script>
+</footer>

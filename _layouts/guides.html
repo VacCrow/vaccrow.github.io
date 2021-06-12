@@ -1,0 +1,84 @@
+---
+layout: default
+---
+
+<div class="guideGrid">
+	<div class="guideTitle">
+		{% assign filename = page.name | remove: ".md" %}
+		Strategy guide<br>
+		{{ page.title }}
+	</div>
+	<div class="guideSideNav">
+		{% if site.data.guidesSummary[filename][0].name == "Abilities Breakdown" %}
+			{% for item in site.data.guidesSummary[filename] %}
+				<ul>
+					<li><a href="#{{ item.name }}">{{ item.name }}</a></li>
+					<ul>
+						{% for entry in item.section %}
+							{% if item.name == "Abilities Breakdown" %}
+								<li><a href="#AB{{entry.name}}">{{ entry.name }}</a></li>
+							{% endif %}
+							{% if item.name == "Strategy" %}
+								<li><a href="#S{{entry.name}}">{{ entry.name }}</a></li>
+							{% endif %}
+						{% endfor %}
+					</ul>
+				</ul>
+			{% endfor %}
+
+		{% else site.data.guidesSummary[filename][O].name != "Abilities Breakdown" %}
+			{% for item in site.data.guidesSummary[filename] %}
+				<ul>
+					<li><a href="#{{ item.name }}">{{ item.name }}</a></li>
+					<ul>
+						{% for entry in item.section %}
+							<li><a href="#{{ item.name }}{{ entry.name }}">{{ entry.name }}</a></li>
+							<ul>
+							{% for subentry in entry.phases %}
+								{% if entry.name == "Abilities Breakdown" %}
+									<li><a href="#AB{{subentry.phase}}">{{ subentry.phase }}</a></li>
+								{% endif %}
+								{% if entry.name == "Strategy" %}
+									<li><a href="#S{{subentry.phase}}">{{ subentry.phase }}</a></li>
+								{% endif %}
+							{% endfor %}
+							</ul>
+						{% endfor %}
+					</ul>
+				</ul>
+			{% endfor %}
+
+		{% endif %}
+
+	</div>
+	<div class="guideArticle">
+		{{ content }}
+	</div>
+
+	<script type="text/javascript">
+		var slideIndex = [];
+		var slideId= [];
+		{% for slide in (1..page.slideNumber) %}
+		showSlides(1,{{ forloop.index0 }});
+		{% endfor %}
+
+		function plusSlides(n, no){
+			showSlides(slideIndex[no] += n, no);
+		}
+
+		function showSlides(n, no){
+			var i;
+			if(typeof slideId[no] === 'undefined') {slideId[no] = "slide" + no;}	//initialize slideId
+			if(typeof slideIndex[no] === 'undefined') {slideIndex[no] = 1;}			//initialize slideIndex
+			var x = document.getElementsByClassName(slideId[no]);
+			var captionText = document.getElementById("caption" + no);
+			if(n > x.length) {slideIndex[no] = 1}									//loop back to the first slide
+			if(n < 1) {slideIndex[no] = x.length}									//loop to the last slide
+			for(i = 0; i < x.length; i++){
+			x[i].style.display = "none";
+			}
+			x[slideIndex[no]-1].style.display = "block";
+			captionText.innerHTML = x[slideIndex[no]-1].id;
+		}
+	</script>
+</div>

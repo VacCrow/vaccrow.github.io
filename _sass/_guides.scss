@@ -1,0 +1,226 @@
+/*						*/
+/*		GUIDES LIST		*/
+/*						*/
+
+.guidePage{
+	margin: 0 5%;
+	text-align: center;
+}
+
+.guideCategory{
+	font-family: $Eurostar;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	background-color: $bg-article;
+}
+
+.guideCategory + .guideCategory{
+	padding-top: 30px;
+}
+
+.guideCategory h1{
+	margin: 0;
+}
+
+.guideButton{
+	flex: 1;
+	margin: 10px auto;
+	border: 10px solid $bg-guidebutton;
+	border-radius: 0.8em;
+	background-color: $bg-guidebutton;
+	max-width: 450px;
+}
+
+.guideButton img{
+	border-radius: 0.8em 0.8em 0.4em 0.4em;
+	max-width: 450px;
+	max-height: 300px;
+}
+
+.guideCategoryHeader{
+	width: 100%;
+
+	padding: 0.3em 0;
+	background-color: #4d456b;
+}
+
+@media screen and (max-width: 800px){
+	.guideCategory{
+		flex-direction: column;
+	}
+	.guideButton{
+		width: 300px;
+	}
+	.guideButton img{
+		max-height: 240px;
+		display: none;
+	}
+}
+
+/*						*/
+/*		GUIDE PAGE		*/
+/*						*/
+
+.guideGrid{
+	text-align: left;
+	background-color: $bg-guidetitle;
+}
+
+.guideTitle{
+	font-size: 60px;
+	margin: 0 15%;
+}
+
+.guideSideNav{
+	background-color: $bg-article;
+	float: left;
+	width: 15%;
+	position: sticky;
+	top: 0px;
+	padding: 12px;
+	margin-left: 5%;
+	border: 1px solid $side-border;
+	border-radius: 6px;
+	box-shadow: 0 2px 4px $side-border-shadow;
+}
+
+.guideSideNav a:hover{
+	background-color: $side-link-hover;
+	border-radius: 5px;
+}
+
+.guideArticle{
+	margin-left: 22%;
+	background-color: $bg-article;
+	padding: 5px 5px 5px 10px;
+	border-radius: 6px 0 0 0;
+}
+
+.guideSection{
+	background-color: $bg-section;
+	padding: 4px 8px 4px 8px;
+	margin: 12px 5% 12px 0;
+	border-radius: 6px;
+	box-shadow: 0 2px 4px $side-border-shadow;
+}
+
+.guideSection > hr{
+	width: 100%;
+	border: 2px solid;
+	border-radius: 2px;
+}
+
+.guideSection .phys{
+	color: $ft-physical;
+}
+
+.guideSection .magic{
+	color: $ft-magical;
+}
+
+.guideSection .buff{
+	color: $ft-buff;
+}
+
+.guideSection .debuff{
+	color: $ft-debuff
+}
+
+.guideSection .speDebuff{
+	color: $ft-spedebuff;
+}
+
+@media all and (max-width: 1250px){
+	.guideSideNav{
+		display: none;
+	}
+	.guideArticle{
+		margin-left: 5%;
+	}
+}
+
+.titleImg{
+	width: 1000px;
+	height: 600px;
+	display: block;
+	margin: 0 auto;
+}
+
+.soloImg{
+	width: 600px;
+	height: 600px;
+	display: block;
+	margin: 0 auto;
+	border: 5px solid $bg-base;
+}
+
+.chartImg{
+	object-fit: contain;
+	display: block;
+	margin: 0 auto;
+	border: 5px solid $bg-base;
+}
+
+/*						*/
+/*		SLIDESHOW		*/
+/*						*/
+.slideshow{
+	display: none;
+}
+
+.slideImg{
+	vertical-align: middle;
+	width: 600px;
+	height: 600px;
+}
+
+.slideshowContainer{
+	max-width: 600px;
+	position: relative;
+	margin: auto;
+	border: 5px solid $bg-base;
+}
+
+.captionContainer{
+	text-align: center;
+	background-color: $bg-base;
+	padding: 2px 16px;
+	min-height: 51px;
+	color: white;
+}
+
+.slideNumberText{
+	color: $ft-base;
+	font-size: 12px;
+	padding: 4px 4px 4px 2px;
+	position: absolute;
+	background-color: $bg-base;
+	border-radius: 0 0 5px 0;
+	top: 0;
+}
+
+.prev, .next{
+	cursor: pointer;
+	position: absolute;
+	top: 50%;
+	width: auto;
+	padding: 16px;
+	margin-top: -22px;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	transition: 0.6s ease;
+	border-radius: 0 3px 3px 0;
+	user-select: none;
+}
+
+.next{
+	right: 0;
+	border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover{
+	background-color: #f1f1f1;
+	color: black;
+}

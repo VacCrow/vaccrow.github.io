@@ -1,0 +1,171 @@
+#
+#FIGHTNAME:
+#  - name: Abilities Breakdown
+#    section:
+#      - name: General Abilities
+#      - name : X Abilities
+#  - name: Strategy
+#    section:
+#      - name: Phase Y
+#      - name: Phase Y+1 OR NAME
+#
+
+
+#-----------ULTIMATES FIGHTS-----------
+UCOB:
+  - name: Twintania
+    section:
+      - name: Abilities Breakdown
+      - name: Strategy
+  - name: Nael Deus Darnus
+    section:
+      - name: Abilities Breakdown
+      - name: Quotes
+      - name: Strategy
+  - name: Bahamut Prime
+    section:
+      - name: Abilities Breakdown
+      - name: Trios
+      - name: Strategy
+        phases:
+          - phase: Quickmarch Trio
+          - phase: Blackfire Trio
+          - phase: Fellruin Trio
+          - phase: Heavensfall Trio
+          - phase: Tenstrike Trio
+          - phase: Grand Octet
+  - name: Teraflare
+    section:
+      - name: Abilities Breakdown
+      - name: Strategy
+  - name: Golden Bahamut
+    section:
+      - name: Abilities Breakdown
+      - name: Strategy
+        
+
+UWU:
+  - name: Garuda
+    section:
+      - name: Abilities Breakdown
+      - name: Strategy
+  - name: Ifrit
+    section:
+      - name: Abilities Breakdown
+      - name: Strategy
+  - name: Titan
+    section:
+      - name: Abilities Breakdown
+      - name: Strategy
+  - name: Ultima
+    section:
+      - name: Abilities Breakdown
+      - name: Strategy
+        phases:
+          - phase: Predation
+          - phase: Anihilation
+          - phase: Suppression
+
+TEA:
+  - name: Living Liquid
+    section:
+      - name: Abilities Breakdown
+      - name: Strategy
+  - name: Limit Cut
+  - name: Brute Justice & Cruise Chaser
+    section:
+      - name: Abilities Breakdown
+      - name: Strategy
+  - name: Alexander Prime
+    section:
+      - name: Abilities Breakdown
+      - name: Strategy
+        phases:
+          - phase: Temporal Stasis
+          - phase: Inception Formation
+          - phase: Wormhole Formation
+  - name: Perfect Alexander
+    section:
+      - name: Abilities Breakdown
+      - name: Strategy
+        phases:
+          - phase: Fate Calibration ⍺
+          - phase: TB
+          - phase: Fate Calibration ꞵ
+
+
+
+#------------SAVAGE FIGHTS-----------
+E9S:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+      - name: Obscure Wood Abilities
+      - name: Empty Plane
+  - name: Strategy
+    section:
+      - name: Phase 1
+      - name: Phase 2
+      - name: Phase 3
+
+E10S:
+  - name: Abilities Breakdown
+    section:
+      - name: Shadowkeeper Forms
+      - name: Shadow's Abilities
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: Phase 1
+      - name: Phase 2
+      - name: Phase 3
+
+E11S:
+  - name: Abilities Breakdown
+    section:
+      - name: Elemental Abilities
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: Phase 1
+      - name: Phase 2
+      - name: Phase 3
+      - name: Phase 4
+
+E12S_Part1:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+      - name: Primal Abilities
+      - name: Junction Shiva Phase
+      - name: Junction Titan Phase
+      - name: Guardian of Eden Abilities
+      - name: Kingsblaze / Lionsblaze Phase
+  - name: Strategy
+    section:
+      - name: Junction Shiva
+      - name: Junction Titan
+      - name: Guardian of Eden
+      - name: Kingsblaze / Lionsblaze
+
+E12S_Part2:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+      - name: Spell-in-Waiting Abilities
+      - name: Basic Relativity
+      - name: Singular Apocalypse
+      - name: Intermediate Relativity
+      - name: Dual Apocalypse
+      - name: Advanced Relativity
+      - name: Triple Apocalypse
+      - name: Terminal Relativity
+  - name: Strategy
+    section:
+      - name: Basic Relativity
+      - name: Singular Apocalypse
+      - name: Intermediate Relativity
+      - name: Dual Apocalypse
+      - name: Advanced Relativity
+      - name: Triple Apocalypse
+      - name: Terminal Relativity

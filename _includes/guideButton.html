@@ -1,0 +1,7 @@
+{% if include.style %}
+	<div class="guideButton" style="{{ include.style }}">{% else %}
+	<div class="guideButton">{% endif %}
+		<a href="{{ "/guides" | append: include.link }}" class="button">
+		<img src="{{ "/assets/img/guides" | append: include.link | append: ".png" }}" >
+		<div class="guideButtonTitle">{{ include.title | upcase }}</div></a>
+	</div>
