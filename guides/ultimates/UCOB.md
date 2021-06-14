@@ -248,7 +248,7 @@ Most of the time, there's only two or four possible quotes used at a specific mo
 
 Once *Twintania* disappear, everyone should regroup next the South **Neurolink** toward the centre of the arena.
 
-**Heavensfall** will push back everyone near the wall, quickly heal the group and spread around the allagan monolith. Stand into the safe spot from **Thermionic Bursts** slices, then move to an adjacent slice once the first set explode.  
+**Heavensfall** will push back everyone near the wall, quickly heal the group and spread around the allagan monolith. Stand into the safe spot from **Thermionic Burst** slices, then move to an adjacent slice once the first set explode.  
 At the same time, *Nael* will attack with **Meteor Stream**, remember to stay spread to not overlap them.
 
 Finally, *Nael* will jump with **Dalamud Dive** on the player who was tanking Twintania when she died. Take care to not get caught in the AoE. She will immediately follow with **Bahamut's Claw**.  
@@ -449,7 +449,7 @@ If *Nael* isn't in the middle, once the markers appear, split into left and righ
 If *Nael* appears between *Twintania* and *Bahamut Prime*, you have to split into four groups of 2. Bait the **Twisters** and **Megaflare** puddles the same way:
 <img class="soloImg" src="{{ page.imagePath | append: "heavensfall2b.jpg" }}">
 
-Afterward, you'll use the **Heavensfall** knockback to get pushed into your tower. The player how dodge to the right will take the 4 towers to the right of *Nael*, the one under *Nael* included. Whereas the players who dodge to the left will take the towers to the left of *Nael*.  
+Afterward, you'll use the **Heavensfall** knockback to get pushed into your tower. The players who dodged to the right will take the 4 towers to the right of *Nael*, the one under *Nael* included. Whereas the players who dodged to the left will take the towers to the left of *Nael*.  
 After the knockback you have one second to adjust your position:
 
 {% assign slideCounter = slideCounter | plus: 1 %}
