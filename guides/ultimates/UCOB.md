@@ -2,7 +2,7 @@
 layout: guides
 title: The Unending Coil of Bahamut (Ultimate) | UCOB
 imagePath: /assets/img/guides/ultimates/UCOB/
-slideNumber: 9
+slideNumber: 10
 ---
 
 *Patch: 4.11  
@@ -259,25 +259,29 @@ The main Tank can use his invulnerability for both **Dalamud Dive** and **Bahamu
 
 Next, *Nael* will summon the dragons and buff herself with **Bahamut's Favor**. In the meantime, move *Nael* away from the centre so the group can stack mid without being inside her hitbox.
 
-Two players will get the <span class="speDebuff">Thunderstruck</span> debuff while *Nael* first quote is pronounced. It will be **Lunar Dynamo** followed by **Iron Chariot** (_O hallowed **moon**, shine you the **iron** path!_) or **Thermionic Beam** (_O hallowed **moon**, take **fire and scorch** my foes!_)  
+Two players will get the <span class="speDebuff">Thunderstruck</span> debuff while *Nael* <ins>first quote</ins> is pronounced. It will be **Lunar Dynamo** followed by **Iron Chariot** (_O hallowed **moon**, shine you the **iron** path!_) or **Thermionic Beam** (_O hallowed **moon**, take **fire and scorch** my foes!_)  
 The players with <span class="speDebuff">Thunderstruck</span> will move to *Nael* side rear while the rest of the group will stack in front of her.  
-<span class="speDebuff">Thunderstruck</span> and the **Lunar Dynamo** will resolve at the same time, then either stack for **Thermonic Beam** or move out for **Iron Chariot**.
+<span class="speDebuff">Thunderstruck</span> and the **Lunar Dynamo** will resolve at the same time, then either stack for **Thermonic Beam** or move out for **Iron Chariot**. Once it's is done, the whole group will stack together for **Fireball**.  
 
-Once the first quote is done, the whole group will stack together for **Fireball**. Also, **Wing of Salvation** puddles will start to appear, one before **Fireball** and one after. If you have to avoid them, rotate clockwise as a group around *Nael*.  
+{% assign slideCounter = slideCounter | plus: 1 %}
+
+{% include slideshow.html imgLink="quote1-1.jpg;quote1-2.jpg;quote1-3.jpg" imgDesc="The group stack in front for <strong>Lunar Dynamo</strong> witrh the Thunderstruck player behind <em>Nael</em>;If <strong>Iron Chariot</strong>, move away from the boss (or stack for <strong>Thermionic Beam</strong>);Regroup in front of the boss for the <strong>Fireball</strong>" slideNumber=slideCounter %}
+
+Also, **Wing of Salvation** puddles will start to appear, one before **Fireball** and one after. If you have to avoid them, rotate clockwise as a group around *Nael*.  
 When the first **Wing of Salvation** puddle explode, the player with the 5s <span class="speDebuff">Doom</span> debuff grab the cleanse puddle, and the 10s <span class="speDebuff">Doom</span> debuff will do the same when the second cleanse puddle is available.
 
 Have a break while *Nael* uses **Bahamut's Claw** on the main Tank.
 
 Another player will get tethered for **Fireball**, that player will move alone behind *Nael* while the rest stack in front of her. When the **Fireball** is done, the players with the newly acquired Thunderstuck will move behind *Nael* so it can resolve in peace.
 
-Quickly stack middle for the next quote since it will be **Thermionic Beam** followed by either **Iron Chariot** (_**Blazing** path, lead me to **iron** rule!_) or **Lunar Dynamo** (_Take **fire**, O hallowed **moon**!_). Think about using mitigation for **Thermionic Beam**.  
+Quickly stack middle for the <ins>second quote</ins> since it will be **Thermionic Beam** followed by either **Iron Chariot** (_**Blazing** path, lead me to **iron** rule!_) or **Lunar Dynamo** (_Take **fire**, O hallowed **moon**!_). Think about using mitigation for **Thermionic Beam**.  
 When the second part of the quote is performed, a new set of **Wing of Salvation** and <span class="speDebuff">Doom</span> debuff will happen. The player with 5s on his debuff takes the first cleanse puddle, the one with 10s takes the second and the one with 15s takes the last. To sum up, if you have 3-4 seconds left on your debuff, it's your turn to cleanse.  
 When the last **Wing of Salvation** puddle appear, two <span class="speDebuff">Thunderstruck</span> will be applied. These players have to disengage from the boss to not cleave the group since everyone had to dodge the puddle.  
 Once the debuffs are done, everyone regroups mid for the incoming **Fireball** except the player who got the previous one to avoid getting two <span class="speDebuff">Firescorched</span> stacks.
 
 Another break with **Bahamut's Claw**.
 
-Spread for the incoming third quote that will always start with **Raven's Dive** followed by**Iron Chariot** (_From **on high I descend**, the **iron** path to call!_ or _From **on high I descend**, the **iron** path to walk!_) or **Lunar Dynamo** (_From **on high I descend**, the hallowed **moon** to call!_).  
+Spread for the incoming <ins>third quote</ins> that will always start with **Raven's Dive** followed by **Iron Chariot** (_From **on high I descend**, the **iron** path to call!_ or _From **on high I descend**, the **iron** path to walk!_) or **Lunar Dynamo** (_From **on high I descend**, the hallowed **moon** to call!_).  
 So move in or out accordingly, but everyone has to stack together for the last **Fireball**.  
 Stay stacked for the **Fireball**, then dodge the **Wing of Salvation** puddles. Right after the **Fireball** explosion, players with <span class="speDebuff">Thunderstruck</span> have to move away. Once again, don't hesitate to disengage from the boss since everyone will be scattered around *Nael* and the **Wing of Salvation** puddles.  
 Don't forget to purge the last <span class="speDebuff">Doom</span> debuffs.
@@ -285,9 +289,9 @@ Don't forget to purge the last <span class="speDebuff">Doom</span> debuffs.
 *Nael* will now cast **Ravensbeak**, don't forget to swap Tanks.
 
 **Divebombs** will now happen. When a dive marker appear on a player, that player must move to its appropriate position. 
-While the first dive marker appears, *Nael* will tell her fourth quote where she will perform **Dalamud Dive** => **Thermionic Beam** (_Fleeting light! 'Neath the **red moon**, **scorch** you the earth!_) or **Meteor Stream** => **Dalamud Dive** (_Fleeting light! Amid a **rain of stars**, exalt you the **red moon**!_).  
+While the first dive marker appears, *Nael* will tell her <ins>fourth quote</ins> where she will perform **Dalamud Dive** => **Thermionic Beam** (_Fleeting light! 'Neath the **red moon**, **scorch** you the earth!_) or **Meteor Stream** => **Dalamud Dive** (_Fleeting light! Amid a **rain of stars**, exalt you the **red moon**!_).  
 If it is the former, leave the tank alone and once **Dalamud Dive** is done, regroup under *Nael*. If it is the latter, everyone spread from each other and once you've been hit, regroup under *Nael* and leave the tank alone for **Dalamud Dive**.  
-But before performing her quote, she will throw 4 Hypernova to the furthest player, usually players with the dive marker. The first and third divebomb markers will disappear as soon as they get it by a Hypernova, so they can move out of the puddle immediately. The second divebomb marker will have to run to the left of their baiting spot, wait for **Hypernova** then move clockwise to get out of the puddle, the marker will disappear at the same time.
+But before performing her quote, she will throw 4 **Hypernova** to the furthest player, usually players with the dive marker. The first and third divebomb markers will disappear as soon as they get it by a Hypernova, so they can move out of the puddle immediately. The second divebomb marker will have to run to the left of their baiting spot, wait for **Hypernova** then move clockwise to get out of the puddle, the marker will disappear at the same time.
 
 Right after *Nael* perform the second mechanic of her quote, she will use **Bahamut's Claw**.
 
