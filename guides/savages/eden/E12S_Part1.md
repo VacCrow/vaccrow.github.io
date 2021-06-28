@@ -16,17 +16,17 @@ ___
 <div class="guideSection" markdown="1">
 <h2><a id="ABGeneral Abilities">General Abilities:</a></h2>
 
-+ **Maleficium:**
++ **<ins>Maleficium</ins>:**
 Raid-wide AoE dealing <span class="magic">magical damage</span>.
 
 ___
 
-+ **Rapturous Reach:**
++ **<ins>Rapturous Reach</ins>:**
 *Eden's Promise* will either cleave its left or right, dealing <span class="phys">physical damage</span> and applying a <span class="debuff">Damage Down</span> debuff. <ins>Careful, the cleave isn't a 180° but a 200° cleave.</ins>
 
 ___
 
-+ **Formless judgement:**
++ **<ins>Formless judgement</ins>:**
 Two tankbusters in a row on both the main target and the second player in the aggro list. Targets for the first attacks are acquired and set when the cast begins, targets for the second attacks are set when the cast is over.
 
     + *Eden's Promise* attacks on the main target will deal **slash** <span class="phys">physical damage</span> and apply a <span class="debuff">Slashing Resistance Down</span> debuff.  
@@ -34,7 +34,7 @@ Two tankbusters in a row on both the main target and the second player in the ag
 
 ___
 
-+ **Paradise Lost:**
++ **<ins>Paradise Lost</ins>:**
 Enrage.
 </div>
 
@@ -44,42 +44,42 @@ Enrage.
 Six memories of primals will appear along the North edge. *Eden's Promise* will either use Cast or Stock on Leviathan/Gaura/Ramuh/Ifrit or will use Junction on Titan/Shiva.  
 Leviathan, Garuda, Ramuh and Ifrit memories deal <span class="magic">magical damage</span> and apply a <span class="debuff">Damage Down</span> debuff. <u>Also, Ifrit and Garuda memories can never be casted together</u>
 
-+ **Cast:**
++ **<ins>Cast</ins>:**
 *Eden's Promise* will be tethered to two primal memories and will activate them at the end of the cast.
 
 ___
 
-+ **Stock:**
++ **<ins>Stock</ins>:**
 *Eden's Promise* will be tethered to two primal memories and will store their effects without activating them.
 
 ___
 
-+ **Release:**
++ **<ins>Release</ins>:**
 *Eden's Promise* will activate the memories previously stored.
 
 ___
 
-+ **Leviathan's memories:**
++ **<ins>Leviathan's memories</ins>:**
 Temporary Current will be casted, performing two line AoEs on the East and West side. A North-South line through *Eden's Promise* is safe.
 
 ___
 
-+ **Garuda's memories:**
++ **<ins>Garuda's memories</ins>:**
 Ferostorm will be casted, performing cones AoE toward each cardinal. Intercardinal cones are safe spots.
 
 ___
 
-+ **Ramuh's memories:**
++ **<ins>Ramuh's memories</ins>:**
 Judgement Bolt will be casted, performing a point-blank AoE. Max melee range and beyond is safe.
 
 ___
 
-+ **Ifrit's memories:**
++ **<ins>Ifrit's memories</ins>:**
 Conflag Strike will be casted, performing two 160° cleaves toward the North and South. East and West sides of the boss are safe.
 
 ___
 
-+ **Junction Shiva:**
++ **<ins>Junction Shiva</ins>:**
 *Eden's Promise* will receive the Junction Shiva buff.  
 	+ For the first junction casted, *Eden's Promise* will cast **Frigid Stone** twice over the buff duration, an AoE on every player dealing **ice** <span class="magic">magical damage</span> and applying a <span class="debuff">Ice Resistance Down II</span> debuff.  
 	+ For the second junction casted, *Eden's Promise* will switch to the **Junction Shiva Phase.**  
@@ -87,7 +87,7 @@ ___
 
 ___
 
-+ **Junction Titan:**
++ **<ins>Junction Titan</ins>:**
 *Eden's Promise* will receive the Junction Titan buff.  
 	+ For the first junction casted, *Eden's Promise* will cast **Under the Weight** twice over the buff duration, a share marker on both Healers dealing **earth** <span class="magic">magical damage</span> and applying a <span class="debuff">Earth Resistance Down II</span> debuff.  
 	+ For the third junction casted, *Eden's Promise* will switch to the **Junction Titan Phase.**  
@@ -97,12 +97,12 @@ ___
 <div class="guideSection" markdown="1">
 <h2><a id="ABJunction Shiva Phase">Junction Shiva Phase:</a></h2>
 
-+ **Diamond Dust:**
++ **<ins>Diamond Dust</ins>:**
 Raid-wide AoE dealing huge <span class="magic">magical damage</span> and applying <span class="debuff">Thin Ice</span> on every player after 5 seconds. <span class="debuff">Thin Ice</span> is lasting 13 seconds.
 
 ___
 
-+ **Icicle Impact:**
++ **<ins>Icicle Impact</ins>:**
 Nine AoEs will appear, one middle and eight spread along the edge:
 	+ Only seven AoEs will first appear creating two safe spots along the edge used for **Ice Floe**. After 5 seconds, these two spots will also be marked with an AoE.
 	+ Then, after 2 seconds, the 7 initial AoEs will resolve, leaving the two newest AoE as unsafe.
@@ -110,35 +110,35 @@ Nine AoEs will appear, one middle and eight spread along the edge:
 
 ___
 
-+ **Ice Floe:**
++ **<ins>Ice Floe</ins>:**
 Stack marker on both Healers dealing **ice** <span class="magic">magical damage</span> and applying a <span class="debuff">Ice Resistance Down II</span> debuff.
 
 ___
 
-+ **Ice Pillar:**
++ **<ins>Ice Pillar</ins>:**
 AoE on every player dealing small <span class="phys">physical damage</span> and applying a <span class="debuff">Physical Vulnerability Up</span>. Once it resolves, an ice pillar will drop at that location and everyone will be tethered to a random pillar (in fact it seems that Tanks/Healers are tethered to a pillar dropped by a dps but who cares KEKW?).
 If a player dies, the pillar he was tethered with will explode in AoE during **Pillar Pierce**.
 
 ___
 
-+ **Plunging Ice:**
++ **<ins>Plunging Ice</ins>:**
 Knockback from the center of the arena, dealing <span class="magic">magical damage</span>.
 
 ___
 
-+ **Pillar Pierce:**
++ **<ins>Pillar Pierce</ins>:**
 Every pillar will fly toward the player they're tethered with, dealing <span class="phys">physical damage</span> and applying a <span class="debuff">Physical Vulnerability Up</span>. It will deal lethal damage if the player is too close from its own pillar. The tether changes from a pink colour to a purple one when far enough, however Tanks can survive the damage from their pillar even if the tether is still pink.
 </div>
 
 <div class="guideSection" markdown="1">
 <h2><a id="ABJunction Titan Phase">Junction Titan Phase:</a></h2>
 
-+ **Earthen Fury:**
++ **<ins>Earthen Fury</ins>:**
 Raid-wide AoE dealing huge <span class="magic">magical damage</span>.
 
 ___
 
-+ **Bomb Boulder:**
++ **<ins>Bomb Boulder</ins>:**
 9 boulders will appear: 1 in the middle and 8 spread along the outside of the arena . When the boulders are dropped, they deal small <span class="phys">physical damage</span>.  
 Each player will then recieve one of these three debuffs:
 	+ <span style="color: darkorange"><strong>Force Of The Land</strong> (orange cube)</span>: the boulder will explode dealing <span class="magic">magical damage</span> that can be shared and applying a <span class="debuff">Earth Resistance Down II</span>. The player needs to be with, at least, another player who also carries the Force Of The Land debuff during the explosion. If the player is alone, it deals lethal damage.
@@ -161,25 +161,25 @@ The *Guardian of Eden* will spawn South, outside of the arena and will cast abil
 
 ___
 
-+ **Obliteration:**
++ **<ins>Obliteration</ins>:**
 Share line AoE from the Guardian of Eden dealing huge <span class="magic">magical damage</span> that needs to be shared with the whole group.
 
 ___
 
-+ **Classical Sculpture:**
++ **<ins>Classical Sculpture</ins>:**
 Two *Chiseled Sculptures* will target both Healer with a stack marker dealing <span class="phys">physical damage</span> and applying a <span class="debuff">Physical Vulnerability Up</span>.
 The *Chiseled Sculptures* will then appear where the stack markers were. Each *Sculpture* will be tether to 4 random players, marking them with 1, 2, 3 and 4. One *Sculpture* will use blue squares and the other one purple triangles.
 Then, every 2 seconds, each *Chiseled Sculpture* will cast **Blade Of Flame**, a line AoE dealing **light** <span class="magic">magical damage</span> and applying a <span class="debuff">Light Resistance Down</span>, toward their tethered players following the number order.
 
 ___
 
-+ **Palm Of Temperance:**
++ **<ins>Palm Of Temperance</ins>:**
 The *Guardian of Eden* will move its hand to the South West or the South East of the arena and perform a linear knockback from there, dealing <span class="phys">physical damage</span>. The knockback length is above ¾ of the arena width.  
 <ins>Knockback immunities cannot be used!</ins>
 
 ___
 
-+ **Laser Eye:**
++ **<ins>Laser Eye</ins>:**
 Huge knockback from the center of the arena dealing <span class="magic">magical damage</span>. Knockback immunities can be used.
 To be knocked to the edge, you have to stand close to the middle.
 </div>

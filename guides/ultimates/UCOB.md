@@ -8,7 +8,7 @@ slideNumber: 9
 *Patch: 4.11  
 Minimum ilvl: i340  
 Maximum ilvl: i345  
-Maxsubstat ilvl: i418  
+Maxsubstat ilvl: i418 (if you use a Bozjan relic weapon, the substats are capped to 280, 200 and 80 for a paladin sword and shield)  
 DPS Requirement: non existant KEKW  
 Loot:*
 + *Token: Dreadwyrm Totem (1 token for an Ultimate Dreadwyrm weapon)*
@@ -25,35 +25,35 @@ When *Twintania* health reaches specifics thresholds, respectively at 74%, 44% a
 
 ___
 
-+ **Plumet:** Non telegraphed cleave tank buster on the main target dealing <span class="phys">physical damage</span>.
++ **<ins>Plumet</ins>:** Non telegraphed cleave tank buster on the main target dealing <span class="phys">physical damage</span>.
 
 ___
 
-+ **Twister:** At the end of the cast, small tornados will be placed under 4 random players. If someone steps on it, it will kill that player and knock back any close player into the wall, thus killing them.
++ **<ins>Twister</ins>:** At the end of the cast, small tornados will be placed under 4 random players. If someone steps on it, it will kill that player and knock back any close player into the wall, thus killing them.
 
 ___
 
-+ **Fireball:** A random DPS or Healers will be marked with a red marker. After a few second, *Twintania* will hurl a fireball at that player, dealing <span class="magic">magical damage</span> that can be shared. At least 6 players are needed in the stack.
++ **<ins>Fireball</ins>:** A random DPS or Healers will be marked with a red marker. After a few second, *Twintania* will hurl a fireball at that player, dealing <span class="magic">magical damage</span> that can be shared. At least 6 players are needed in the stack.
 
 ___
 
-+ **Death Sentence:** Tank buster on the main target dealing **slashing** <span class="phys">physical damage</span> and applying a <span class="debuff">Slashing Resistance Down II</span> debuff for 34 seconds. Requires a tank swap since *Twintania* auto-attacks are slashing type.
++ **<ins>Death Sentence</ins>:** Tank buster on the main target dealing **slashing** <span class="phys">physical damage</span> and applying a <span class="debuff">Slashing Resistance Down II</span> debuff for 34 seconds. Requires a tank swap since *Twintania* auto-attacks are slashing type.
 
 ___
 
-+ **Liquid Hell:** *Twintania* will target a random player that is beyond a specific range. She will attack 5 times and each attack will leave a fire puddle lasting 15 seconds. Standing inside a puddle will kill any player. In order for the 5 hits to be aimed at the right player, make sure that only that player is away from *Twintania*.
++ **<ins>Liquid Hell</ins>:** *Twintania* will target a random player that is beyond a specific range. She will attack 5 times and each attack will leave a fire puddle lasting 15 seconds. Standing inside a puddle will kill any player. In order for the 5 hits to be aimed at the right player, make sure that only that player is away from *Twintania*.
 Once the second **Neurolink** is dropped, **Liquid Hell** will also target a second player but in a completely random manner except the main Tank.
 
 ___
 
-+ **Generate:** A random DPS will be marked with a purple marker (with three orbs linked together and rotating) and a **Hatch** (a purple aetherical sphere) will appear under *Twintania*. This **Hatch** will slowly move toward the marked player.  
++ **<ins>Generate</ins>:** A random DPS will be marked with a purple marker (with three orbs linked together and rotating) and a **Hatch** (a purple aetherical sphere) will appear under *Twintania*. This **Hatch** will slowly move toward the marked player.  
 If the player isn't standing or didn't have the <span class="speDebuff">Neurolink</span> debuff, it will deal (lethal) <span class="magic">magical damage</span> and apply a <span class="debuff">Damage Down</span> debuff on the whole group.  
 If the player is standing **AND** have the <span class="speDebuff">Neurolink</span> debuff, it will deal <span class="magic">magical damage</span> and apply a <span class="speDebuff">Mana Hypersensitivity</span> debuff lasting 15 seconds that make any **Hatch** dealing lethal <span class="magic">magical damage</span>. If another player is caught in the **Hatch** explosion, it will kill him.  
 Once the second **Neurolink** is dropped, **Generate** will also target a second DPS and create another **Hatch**. These **Hatch** need to be soaked in two different **Neurolink**.
 
 ___
 
-+ **Aetheric Profusion:**
++ **<ins>Aetheric Profusion</ins>:**
 Enrage. Happens after the second **Fireball** or **Death Sentence** when the second **Neurolink** is dropped.
 
 </div>
@@ -72,7 +72,7 @@ Right after, she will cast **Twister** followed by **Fireball**. First place the
 
 Swap Tanks during the incoming **Death Sentence**.
 
-**Plumet** will soon follow, with a **Twister** + **Fireball** right after.
+**Plumet** will soon follow, with a **Twister** and **Fireball** right after.
 
 At this point, if *Twintania* hasn't dropped her first **Neurolink**, she will enrage.
 
@@ -117,34 +117,34 @@ The last **Death Sentence** and the enrage, **Aetheric Profusion**, right after.
 <div class="guideSection" markdown="1">
 <h2><a id="Nael Deus DarnusAbilities Breakdown">Abilities Breakdown</a></h2>
 
-+ **Heavensfall:**
++ **<ins>Heavensfall</ins>:**
 A giant allagan monolith will fall down, performing a raidwide AoE dealing <span class="magic">magical damage</span> scaling down the further you are from the centre and knock backing everyone. The centre of the arena is also becoming a death zone as long as the monolith is here.
 
 ___
 
-+ **Thermionic Bursts:**
++ **<ins>Thermionic Bursts</ins>:**
 Divides the arena into 16 pie slices. 8 non adjacents slices will glow before exploding then after 4 seconds, the 8 others will also explode. Deals high <span class="magic">magical damage</span> and apply a <span class="speDebuff">Paralysis</span> debuff.  
 
    During *Bahamut Prime* phase, two opposites slices will explodes. Then the explosions will either rotate clockwise or counter-clockwise.
 
 ___
 
-+ **Meteor Stream:**
++ **<ins>Meteor Stream</ins>:**
 *Nael* will attack with small AoE dealing <span class="phys">physical damage</span>. She attack 4 players and the 4 other, 3 seconds later.
 
 ___
 
-+ **Dalamud Dive:**
++ **<ins>Dalamud Dive</ins>:**
 *Nael* jumps on the main target dealing AoE <span class="phys">physical damage</span>.
 
 ___
 
-+ **Bahamut's Claw:**
++ **<ins>Bahamut's Claw</ins>:**
 5 hits tank buster on the main target dealing <span class="phys">physical damage</span>.
 
 ___
 
-+ **Bahamut's Favor:**
++ **<ins>Bahamut's Favor</ins>:**
 *Nael* will gain a <span class="buff">Damage Up</span> buff and 5 dragons will spawn outside the arena on cardinals or intercardinals (see **Divebomb** for more precisions about their positions):
 	+ Thunder Dragon: Apply a <span class="speDebuff">Thunderstruck</span> debuff on two random players lasting 5 seconds. When it resolves, **Chain Lightning** will be cast on their owner, dealing AoE <span class="magic">magical damage</span> and applying a Paralysis debuff lasting around 1 minutes to anyone else caught in the AoE.
 
@@ -156,37 +156,37 @@ ___
 
 ___
 
-+ **Lunar Dynamo:**
++ **<ins>Lunar Dynamo</ins>:**
 Non telegraphed donut-shaped AoE dealing lethal damage and knock backing anyone hit.
 
 ___
 
-+ **Iron Chariot:**
++ **<ins>Iron Chariot</ins>:**
 Non telegraphed point-blank AoE dealing lethal damage and knock backing anyone hit.
 
 ___
 
-+ **Thermonic Beam:**
++ **<ins>Thermonic Beam</ins>:**
 Non telegraphed AoE on a random player dealing <span class="magic">magical damage</span>.
 
 ___
 
-+ **Raven's Dive:**
++ **<ins>Raven's Dive</ins>:**
 *Nael* jumps on a random player in a small AoE dealing tiny <span class="phys">physical damage</span>. It will knock back anyone hit except the target.
 
 ___
 
-+ **Ravensbeak:**
++ **<ins>Ravensbeak</ins>:**
 Tank buster on the main target dealing <span class="phys">physical damage</span> and applying a <span class="debuff">Piercing Resistance Down II</span> debuff lasting 53 seconds. Require a Tank swap since *Nael* auto-attacks are piercing type.
 
 ___
 
-+ **Hypernova:**
++ **<ins>Hypernova</ins>:**
 *Nael* will put puddles under the furthest player. If a player stands inside a puddle, he will be pulled in, receive <span class="magic">magical damage</span> and a big <span class="debuff">Bleeding</span> debuff.
 
 ___
 
-+ **Divebomb:**
++ **<ins>Divebomb</ins>:**
 A green marker will appear above 3 random players except the main Tank sequentially. When a marker disappear, 1 or 2 dragon(s) from **Bahamut's Favor** will dive through the location where the player was at that moment.  
 Starting from the North of the arena and going clockwise, the dragons n°1 and 2 will dive the first marker, the dragon n°3 will dive the second marker and dragons n°4 and 5 will dive the third marker. The dives are always in a 2-1-2 pattern. There are 8 seconds between each dive.  
 
@@ -201,7 +201,7 @@ Starting from the North of the arena and going clockwise, the dragons n°1 and 2
 
 ___
 
-+ **Megaflare:**
++ **<ins>Megaflare</ins>:**
 Enrage during P2.  
 
    Raid-wide AoE dealing high <span class="magic">magical damage</span> during P4.
@@ -224,8 +224,8 @@ Most of the time, there's only two or four possible quotes used at a specific mo
 	+ _Take **fire**, O hallowed **moon**!_ : **Thermionic Beam** => **Lunar Dynamo**
 
 + Third set:
-	+ _From **on high I descend**, the **iron** path to call!_ or _From **on high I descend**, the **iron** path to walk!_ : **Raven's Dive** => **Iron Chariot**
-	+ _From **on high I descend**, the hallowed **moon** to call!_ : **Raven's Dive** => **Lunar Dynamo**
+	+ _From on high I **descend**, the **iron** path to call!_ or _From on high I **descend**, the **iron** path to walk!_ : **Raven's Dive** => **Iron Chariot**
+	+ _From on high I **descend**, the hallowed **moon** to call!_ : **Raven's Dive** => **Lunar Dynamo**
 
 + Fourth set:
 	+ _Fleeting light! 'Neath the **red moon**, **scorch** you the earth!_ : **Dalamud Dive** => **Thermionic Beam**
@@ -245,6 +245,9 @@ Most of the time, there's only two or four possible quotes used at a specific mo
 
 <div class="guideSection" markdown="1">
 <h2><a id="Nael Deus DarnusStrategy">Strategy</a></h2>
+
+<em>Note about this phase: players will have to juggle with their <span class="speDebuff">Icebitten</span> and <span class="speDebuff">Firescorched</span> debuffs.  
+There's multiple way to do it but this guide will cover the <strong>Fireball</strong> IN/OUT/IN/IN way. It is the easiest one since players won't have to care about their current debuffs since they will cancel each other on their own. Reducing RNG in this phase a bit more.</em>
 
 Once *Twintania* disappear, everyone should regroup next the South **Neurolink** toward the centre of the arena.
 
@@ -299,38 +302,38 @@ Finally, *Nael* will force another tank swap with **Ravensbeak** followed by **B
 <div class="guideSection" markdown="1">
 <h2><a id="Bahamut PrimeAbilities Breakdown">Abilities Breakdown</a></h2>
 
-+ **Seventh Umbral Era:**
++ **<ins>Seventh Umbral Era</ins>:**
 Raid-wide AoE dealing <span class="magic">magical damage</span> and pushing back everyone
 
 ___
 
-+ **Calamitous Flames:**
++ **<ins>Calamitous Flames</ins>:**
 4 raid-wide AoE dealing <span class="magic">magical damage</span> in a quick succession. Require at least a LB2 Tank to survive.
 
 ___
 
-+ **Flare Breath:**
++ **<ins>Flare Breath</ins>:**
 Mini tankbuster cleave dealing <span class="magic">magical damage</span>.
 
 ___
 
-+ **Flatten:**
++ **<ins>Flatten</ins>:**
 Tankbuster dealing massive <span class="phys">physical damage</span>.
 
 ___
 
-+ **Earth Shaker:**
++ **<ins>Earth Shaker</ins>:**
 Place a Earth Shaker marker on 3 or 4 players. After a few seconds, Bahamut will perform a 90° cleave toward the marked players dealing <span class="phys">physical damage</span> and applying an <span class="debuff">Earth Resistance Down II</span> debuff. A puddle will appear where the player was. Standing inside the puddle will apply a Sludge debuff, a DoT, deadly if you have the debuff.
 
 ___
 
-+ **Tempest Wing:**
++ **<ins>Tempest Wing</ins>:**
 Bahamut will be tethered to two random players. The tether can be intercepted by standing between Bahamut and its target.  
 When it resolves, deals <span class="magic">magical damage</span> in AoE. Any player hit other than the target will be stunned and knocked back.
 
 ___
 
-+ **Megaflare:**
++ **<ins>Megaflare</ins>:**
 	+ Two to four players will get marked by a **Megaflare** marker (three diamonds shaped rotation around players). After a few seconds, these players will be hit by an AoE dealing <span class="magic">magical damage</span> that must be shared with other marked players.
 	+ Four random players will get hit by an AoE dealing <span class="magic">magical damage</span>.
 	+ **Megaflare** towers will appear. Each tower need to (At least?) one player standing inside and will receive small <span class="magic">magical damage</span>. Otherwise, the tower will explode dealing raid-wide lethal damage.
@@ -340,7 +343,7 @@ ___
 
 ___
 
-+ **Gigaflare:**
++ **<ins>Gigaflare</ins>:**
 Raid-wide AoE dealing massive <span class="magic">magical damage</span>.
 
 </div>
@@ -350,14 +353,14 @@ Raid-wide AoE dealing massive <span class="magic">magical damage</span>.
 
 Through this phase, *Bahamut Prime* will often cast a **Trio** where both *Nael* and *Twintania* will join *Bahamut Prime* for a series for mechanics. Most of the time, the boss won't be targetable during a **Trio**.
 
-+ **Quickmarch Trio:**
++ **<ins>Quickmarch Trio</ins>:**
 	+ *Nael*, *Twintania* and *Bahamut Prime* will dive together in a straight line from the edge of the arena.
 	+ During *Twintania* dive, **Twisters** happen.
 	+ Three DPS will get a **Megaflare** stack, the remaining DPS and the Healers will get an **Earth Shaker** marker and two random players will get a **Tempest Wing** tether.
 
 ___
 
-+ **Blackfire Trio:**
++ **<ins>Blackfire Trio</ins>:**
 	+ *Nael*, *Twintania* and *Bahamut Prime* appear in a triangle pattern around the arena.
 	+ *Twintania* will use **Liquid Hell** while *Nael* will perform **Thermionic Beam** after the third **Liquid Hell**.
 	+ One Tank, one Heal and two DPS will get a **Megaflare** stack, four **Megaflare** towers will appear spread around the arena.
@@ -365,7 +368,7 @@ ___
 
 ___
 
-+ **Fellruin Trio:**
++ **<ins>Fellruin Trio</ins>:**
 	+ *Nael*, *Twintania* and *Bahamut Prime* appear in a triangle pattern near the middle (on top of the **Neurolink** if the guide position is used).
 	+ *Nael* will say a quote from the fifth set. Either **Raven's Dive** => **Lunar Dynamo** or **Lunar Dynamo** => **Raven's Dive**.
 	+ Two random players will get a **Tempest Wing** tether.
@@ -374,7 +377,7 @@ ___
 
 ___
 
-+ **Heavensfall Trio:**
++ **<ins>Heavensfall Trio</ins>:**
 	+ *Nael*, *Twintania* and *Bahamut Prime* will appear on the edge together.
 	+ *Twintania* and *Bahamut Prime* will dive at the same time toward two random players.
 	+ **Twisters** appear during the dive.
@@ -383,7 +386,7 @@ ___
 	+ Three **Hypernovas** follow by **Fireball**
 
 ___
-+ **Tenstrike Trio:**
++ **<ins>Tenstrike Trio</ins>:**
 	+ **Generate** on three players.
 	+ **Meteor Stream** but will attack players one by one.
 	+ Second set of **Hatch** on the same players.
@@ -391,7 +394,7 @@ ___
 
 ___
 
-+ **Grand Octet:**
++ **<ins>Grand Octet</ins>:**
 	+ *Nael*, *Twintania*, *Bahamut Prime* and the 5 dragons will spawn on every cardinal/intercardinal.
 	+ The dive order is the following: *Nael*, the 5 dragons, *Bahamut Prime* and *Twintania* last.
 	+ The 5 dragons will dive in a clockwise manner if *Bahamut Prime* is located at an intercardinal. The first dragon to dive is the first clockwise of *Bahamut Prime*. They will dive in a counter-clockwise manner if *Bahamut Prime* is located at a cardinal. The first dragon to dive is the first counter-clockwise of *Bahamut Prime*.
@@ -513,17 +516,17 @@ In the meantime *Bahamut Prime* will fill his <u>Aethertrail Attunement</u> gaug
 
 ___
 
-+ **Twin Fury:**
++ **<ins>Twin Fury</ins>:**
 *Twintania* enrage.
 
 ___
 
-+ **White Fury:**
++ **<ins>White Fury</ins>:**
 *Nael* enrage.
 
 ___
 
-+ **Teraflare:**
++ **<ins>Teraflare</ins>:**
 *Bahamut Prime*'s ultimate.  
 If the <u>Aethertrail Attunement</u> reaches 100 when it is casted, it's a wipe.  
 If the gauge in inferior to 100, the whole group will be killed before being resurrected by *Phoenix*. *Phoenix* will bring everyone to full hp, grant a full LB3 to the group and a <span class="buff">Phoenix's Blessing</span> buff to every player, that doubles the damage done and lasts until the player death.  
@@ -565,19 +568,19 @@ You can now use your caster LB to finish them both at the same.
 <div class="guideSection" markdown="1">
 <h2><a id="Golden BahamutAbilities Breakdown">Abilities Breakdown</a></h2>
 
-+ **Morn Afah:**
++ **<ins>Morn Afah</ins>:**
 AoE on a random player dealing very high <span class="magic">magical damage</span> that must be shared with the whole group. Requires proper mitigation.  
 
    The last one is also the enrage. *Golden Bahamut* will target every player with **Morn Afah** from the top of the enmity list to the bottom.
 
 ___
 
-+ **Akh Morn:**
++ **<ins>Akh Morn</ins>:**
 AoE tankbuster dealing high <span class="magic">magical damage</span> that must be shared between the Tanks. It will hit three times + one time per **Akh Morn** previously cast.
 
 ___
 
-+ **Exaflare:**
++ **<ins>Exaflare</ins>:**
 Three waves of 2 AoE dealing lethal <span class="magic">magical damage</span>. They will move and cross the arena in a straight line.
 
 </div>
