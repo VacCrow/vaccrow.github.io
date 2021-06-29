@@ -41,8 +41,8 @@ ___
 
 ___
 
-+ **<ins>Liquid Hell</ins>:** *Twintania* will target a random player that is beyond a specific range. She will attack 5 times and each attack will leave a fire puddle lasting 15 seconds. Standing inside a puddle will kill any player. In order for the 5 hits to be aimed at the right player, make sure that only that player is away from *Twintania*.
-Once the second **Neurolink** is dropped, **Liquid Hell** will also target a second player but in a completely random manner except the main Tank.
++ **<ins>Liquid Hell</ins>:** *Twintania* will target a random player that is beyond a specific range. She will attack 5 times and each attack will leave a fire puddle lasting 15 seconds. Standing inside a puddle will kill any player. In order for the 5 hits to be aimed at the right player, make sure that only that player is away from *Twintania*.  
+Once the second **Neurolink** is dropped, the **Liquid Hell** may also target a second player randomly for all 5 hits except the main Tank.
 
 ___
 
