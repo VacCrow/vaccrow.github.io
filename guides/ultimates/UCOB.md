@@ -99,7 +99,7 @@ Once the second **Neurolink** is on the ground, move her to the final location.
 
 Another **Liquid Hell** on the baiter followed by a double **Generate**. Either callout which **Neurolink** you're using or use a priority system.
 
-Once the **Hatches** explode, one random DPS will get the **Fireball** marker and a random player (except the main Tank) will get targeted by **Liquid Hell**.  
+Once the **Hatches** explode, one random DPS will get the **Fireball** marker and a random player (except the main Tank) will get targeted by **Liquid Hell** for all 5 hits.  
 If you're a melee or you've got the **Fireball** marker, bait the **Liquid Hell** so you can end up stacking with the rest of the group.
 
 Another **Twister** into double **Generate**, remember to bait **Twister** before moving into the **Neurolink**.
