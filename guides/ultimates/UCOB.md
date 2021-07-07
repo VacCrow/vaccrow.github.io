@@ -21,7 +21,7 @@ ___
 <div class="guideSection" markdown="1">
 <h2><a id="TwintaniaAbilities Breakdown">Abilities Breakdown</a></h2>
 
-When *Twintania* health reaches specifics thresholds, respectively at 74%, 44% and 0%, she will drop a **Neurolink** under her hitbox. Standing inside a **Neurolink** will give you the <span class="speDebuff">Neurolink</span> debuff, slowing you down, reducing your healing and greatly reducing your damage done.
+When *Twintania* health reaches specifics thresholds, respectively at 75%, 45% and 0%, she will drop a **Neurolink** under her hitbox. Standing inside a **Neurolink** will give you the <span class="speDebuff">Neurolink</span> debuff, slowing you down, reducing your healing and greatly reducing your damage done.
 
 ___
 
@@ -77,7 +77,7 @@ Swap Tanks during the incoming **Death Sentence**.
 At this point, if *Twintania* hasn't dropped her first **Neurolink**, she will enrage.
 
 
-**<u>First Neurolink Dropped (74% to 44%)</u>**
+**<u>First Neurolink Dropped (75% to 45%)</u>**
 
 Once the **Neurolink** is on the ground, move her to the next location. You can make a small stop in the middle on the arena for a few seconds before resuming since she will be casting.
 
@@ -87,20 +87,20 @@ When the **Hatch** reach the **Neurolink**, another **Liquid Hell** is launched.
 
 **Death Sentence**, swap during the cast.
 
-Then, *Twintania* will cast **Twister** into **Generate**. Marked DPS have to put their **Twisters** outside the **Neurolinks** to avoid putting it inside. So dodge the **Twister** then move inside the **Neurolink**
+Then, *Twintania* will cast **Twister** into **Generate**. Marked DPS have to put their **Twisters** outside the **Neurolinks**. So dodge the **Twister** then move inside the **Neurolink**
 
 And followed by a **Plumet**.
 
 If the **Neurolink** isn't dropped yet, she will repeat **Liquid Hell** => **Generate** => **Liquid Hell** one more time.
 
-**<u>Second Neurolink Dropped (44% to 0%)</u>**
+**<u>Second Neurolink Dropped (45% to 0%)</u>**
 
 Once the second **Neurolink** is on the ground, move her to the final location.
 
 Another **Liquid Hell** on the baiter followed by a double **Generate**. Either callout which **Neurolink** you're using or use a priority system.
 
 Once the **Hatches** explode, one random DPS will get the **Fireball** marker and a random player (except the main Tank) will get targeted by **Liquid Hell** for all 5 hits.  
-If you're a melee or you've got the **Fireball** marker, bait the **Liquid Hell** so you can end up stacking with the rest of the group.
+If you're a melee or you've got the **Fireball** marker, try to bait the **Liquid Hell** so you can end up stacking with the rest of the group.
 
 Another **Twister** into double **Generate**, remember to bait **Twister** before moving into the **Neurolink**.
 
@@ -267,7 +267,7 @@ The players with <span class="speDebuff">Thunderstruck</span> will move to *Nael
 
 {% include slideshow.html imgLink="quote1-1.jpg;quote1-2.jpg;quote1-3.jpg" imgDesc="The group stack in front for <strong>Lunar Dynamo</strong> witrh the Thunderstruck player behind <em>Nael</em>;If <strong>Iron Chariot</strong>, move away from the boss (or stack for <strong>Thermionic Beam</strong>);Regroup in front of the boss for the <strong>Fireball</strong>" slideNumber=slideCounter %}
 
-Also, **Wing of Salvation** puddles will start to appear, one before **Fireball** and one after. If you have to avoid them, rotate clockwise as a group around *Nael*.  
+Also, **Wing of Salvation** puddles will start to appear, one before **Fireball** and one after. If you have to avoid them, rotate around *Nael*.  
 When the first **Wing of Salvation** puddle explode, the player with the 5s <span class="speDebuff">Doom</span> debuff grab the cleanse puddle, and the 10s <span class="speDebuff">Doom</span> debuff will do the same when the second cleanse puddle is available.
 
 Have a break while *Nael* uses **Bahamut's Claw** on the main Tank.
