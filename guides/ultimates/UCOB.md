@@ -64,7 +64,7 @@ Enrage. Happens after the second **Fireball** or **Death Sentence** when the sec
 The three **Neurolinks** need to be dropped in a triangle formation, at the same distance from the centre of the arena like this:
 <img class="soloImg" src="{{ page.imagePath | append: "neurolinks.jpg" }}">
 
-**<u>Start of the fight (100% to 74%)</u>**
+**<u>Start of the fight (100% to 75%)</u>**
 
 Pull *Twintania* at the first Neurolink location. She will immediately start with a **Plumet**.
 
@@ -412,7 +412,7 @@ ___
 <h2><a id="Bahamut PrimeStrategy">Strategy</a></h2>
 
 Once *Nael* is defeated, group all together at mid-distance between the edge and the centre for the incoming **Seventh Umbral Era**.  
-As soon as the group get pushed, use the Tank LB. If LB3 is available, it will require way less healing to survive the four **Calamitous Flames**. Otherwise, use LB2 and quick heal between each hit.
+As soon as the group get pushed, use the Tank LB. If LB3 is available, it will require few healing to survive the four **Calamitous Flames**. Otherwise, use LB2 and quickly heal between each hit.
 
 *Bahamut Prime* will become targetable and use *Nael* enmity list, so swap Tank if you want to.
 
@@ -469,19 +469,19 @@ Don't hesitate to sacrifice the **Fireball** player if the group is low to survi
 
 Triple **Flare Breath** from *Bahamut Prime*, *wink* *wink*.
 
-<a id="STenstrike Trio"></a>Guess who's back? THE GANG. With **Tenstrike Trio**. *Twintania* will appear middle and three random players will get a **Generate** marker. Also, *Nael* will use **Meteor Stream** on every player, one by one, so stay spread until **Generate** is over.  
-The three player with the marker will stand inside a **Neurolink** and soak their **Hatch**. Once it's done, a second set of **Hatches** will target the same players. These players have to move out toward the edge and three other players have to intercept the **Hatches** while inside a **Neurolink**. <u>The <strong>Hatch</strong> is badly coded, so if you have the marker, don't wriggle and move in a straight line or the <strong>Hatch</strong> may go TokyoDrift for no reason.</u>
+<a id="STenstrike Trio"></a>Guess who's back? THE GANG. With **Tenstrike Trio**. *Twintania* will appear middle and three random players will get a **Generate** marker. Also *Nael* will use **Meteor Stream** on every player, one by one on the DPS then the Healers then the Tanks, so stay spread until **Generate** is over.  
+The three player with the marker will stand inside a **Neurolink** and soak their **Hatch**. Once it's done, a second set of **Hatches** will target the same players. These players have to move out toward the edge and three other players have to intercept the **Hatches** while inside a **Neurolink**. <u>The <strong>Hatch</strong> is badly coded, so if you have the marker, don't wriggle and move away in a straight line or the <strong>Hatch</strong> may go TokyoDrift™ for no reason.</u>
 
 Then four players will get a **Earthshaker** marker. Shortly after, the other four players will also receive a **Earthshaker** marker.  
-The first **Earthshakers** will spread to the South side of the arena and not far from the edge. The other will be safe North and will get their marker soon. While dodging the first set, players can already preposition around a marker to show where they're going.  
+The first **Earthshakers** will spread to the South side of the arena and not far from the edge. The other will be safe North and will get their marker soon. While dodging the first set, these players can already preposition around a marker to show where they're going.  
 Once the set is done, the players who got hit will move North while the newly marked player with spread South. Since *Bahamut Prime* appear after the first set, you can put the **Earthshaker** in melee range.  
-**Gigaflare** is next.
+**Gigaflare** is next to end this Trio.
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 
 {% include slideshow.html imgLink="tenstrike1.jpg;tenstrike2.jpg" imgDesc="First <strong>Earthshakers</strong>;Second <strong>Earthshakers</strong>" slideNumber=slideCounter %}
 
-Then *Bahamut Prime* will use **Flatten** and **Flare Breath**. At this point, *Bahamut Prime* needs to be under 60%, otherwise he will gain a <span class="buff">Damage Up</span> buff that will cause a wipe.
+Then *Bahamut Prime* will use **Flatten** and **Flare Breath**. At this point, *Bahamut Prime* needs to be under 60%, otherwise he will gain a <span class="buff">Damage Up</span> buff that will cause a wipe afterward.
 
 <a id="SGrand Octet"></a>The gang is back one last time for **Grand Octet**.  
 Once everyone is here, identify where *Bahamut Prime* is. If he's at a cardinal, the group will move counter-clockwise. Otherwise, if he's at an intercardinal, the group will rotate clockwise.  
@@ -500,9 +500,9 @@ Once the dive markers appear, if you have to rotate clockwise (because *Bahamut 
 
 {% include slideshow.html imgLink="octetCardNael.jpg;octetInterNael.jpg" imgDesc="Movement when <em>Bahamut</em> is at a cardinal;Movement when <em>Bahamut</em> is at an intercardinal" slideNumber=slideCounter %}
 
-When only *Twintania* is left, the player who didn't get a dive marker will have to bait *Twintania* last **Divebomb**. However, at the same time, 4 **Megaflare** towers will spawn in the centre of the arena and 1 Tank, 1 Healer and 2 DPS will get a **Megaflare** marker. It means that the **Divebomb** player can either, get to soak a tower of stack with the other.  
-To solve that, the player with the dive marker stays left of *Twintania* while the **Megaflares** player stacks to the right. The other three players will have to stand inside a tower but let the closest one available for the dive player. That way, if he has to soak a tower, he will be next to it.  
-When *Twintania* dives, **Twisters** will appear. The stack can split in two-way to ensure that no overlap happen. And the towers players can either bait the **Twister** outside or do a U shape inside the tower.
+When only *Twintania* is left, the player who didn't get a dive marker will have to bait *Twintania* last **Divebomb**. However, at the same time, 4 **Megaflare** towers will spawn in the centre of the arena and 1 Tank, 1 Healer and 2 DPS will get a **Megaflare** marker. It means that the **Divebomb** player can either, get to soak a tower or stack for **Megaflare** with the others.  
+To solve that, the player with the dive marker stays left of *Twintania* while the **Megaflares** players stack to the right. The other three players will have to stand inside a tower but let the closest one available for the dive player. That way, if he has to soak a tower, he will be next to it.  
+When *Twintania* dives, **Twisters** will appear. The stack can split in two-way to ensure that no overlap happen. And the towers players can run around inside their tower to bait **Twister**, that way, the stack players can move between towers to bait the **Twisters** without any problems. (Tower players can also bait the **Twister** outside of it although I don't recommend it).
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 
