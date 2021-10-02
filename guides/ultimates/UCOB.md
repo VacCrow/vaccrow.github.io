@@ -491,7 +491,7 @@ While all of this happen, watch if you got a dive marker on you. Because the las
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 
-{% include slideshow.html imgLink="octet1card.jpg;octet2card.jpg;octet3card.jpg;octet4card.jpg;octet1inter.jpg;octet2inter.jpg;octet3inter.jpg;octet4inter.jpg" imgDesc="<em>Bahamut</em> is at a cardinal. Wait middle;Move when the dive markers appear;Wait for <em>Nael</em>'s dive;Rotate in a counter-clockwise manner. Move back mid when <em>Bahamut</em> dive marker appears;<em>Bahamut</em> is at an intercardinal. Wait middle;Move when the dive markers appear;Wait for <em>Nael</em>'s dive;Rotate in a counter-clockwise manner. Move back mid when <em>Bahamut</em> dive marker appears" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="octet1card.jpg;octet2card.jpg;octet3card.jpg;octet4card.jpg;octet1inter.jpg;octet2inter.jpg;octet3inter.jpg;octet4inter.jpg" imgDesc="<em>Bahamut</em> is at a cardinal. Wait middle;Move when the dive markers appear;Wait for <em>Nael</em>'s dive;Rotate in a counter-clockwise manner. Move back mid when <em>Bahamut</em> dive marker appears;<em>Bahamut</em> is at an intercardinal. Wait middle;Move when the dive markers appear;Wait for <em>Nael</em>'s dive;Rotate in a clockwise manner. Move back mid when <em>Bahamut</em> dive marker appears" slideNumber=slideCounter %}
 
 If *Nael* is in front of *Bahamut Prime*, you have to move to an adjacent spot next to *Neal* since she is the first to dive.  
 Once the dive markers appear, if you have to rotate clockwise (because *Bahamut Prime* is at an intercardinal), go to the first clockwise spot after *Nael*. If you have to rotate counter-clockwise, move to the first counter-clockwise spot after *Nael*:
