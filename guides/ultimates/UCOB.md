@@ -485,28 +485,30 @@ Then *Bahamut Prime* will use **Flatten** and **Flare Breath**. At this point, *
 
 <a id="SGrand Octet"></a>The gang is back one last time for **Grand Octet**.  
 Once everyone is here, identify where *Bahamut Prime* is. If he's at a cardinal, the group will move counter-clockwise. Otherwise, if he's at an intercardinal, the group will rotate clockwise.  
-Once the dive markers appear, move to the opposite side of *Bahamut Prime*. As soon as *Nael* dives, the group can start moving in the planned direction. Only use sprint if you're behind the group.  
-When the *Bahamut Prime* marker appears, move back to the middle of the arena.  
+Once the first dive markers appear, move to the opposite side of *Bahamut Prime*. Then, as soon as *Nael* dives, the group can start moving in the planned direction. Only use sprint if you're lagging behind the group.  
+When the *Bahamut Prime* marker appears (the red one), continue a bit then move to the middle of the arena in a circular motion.  
 While all of this happen, watch if you got a dive marker on you. Because the last dive will be on the player that didn't get any marker:
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 
 {% include slideshow.html imgLink="octet1card.jpg;octet2card.jpg;octet3card.jpg;octet4card.jpg;octet1inter.jpg;octet2inter.jpg;octet3inter.jpg;octet4inter.jpg" imgDesc="<em>Bahamut</em> is at a cardinal. Wait middle;Move when the dive markers appear;Wait for <em>Nael</em>'s dive;Rotate in a counter-clockwise manner. Move back mid when <em>Bahamut</em> dive marker appears;<em>Bahamut</em> is at an intercardinal. Wait middle;Move when the dive markers appear;Wait for <em>Nael</em>'s dive;Rotate in a clockwise manner. Move back mid when <em>Bahamut</em> dive marker appears" slideNumber=slideCounter %}
 
-If *Nael* is in front of *Bahamut Prime*, you have to move to an adjacent spot next to *Neal* since she is the first to dive.  
+If *Nael* is in front of *Bahamut Prime*, you have to move to an adjacent spot, next to *Nael*, since she is the first to dive.  
 Once the dive markers appear, if you have to rotate clockwise (because *Bahamut Prime* is at an intercardinal), go to the first clockwise spot after *Nael*. If you have to rotate counter-clockwise, move to the first counter-clockwise spot after *Nael*:
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 
 {% include slideshow.html imgLink="octetCardNael.jpg;octetInterNael.jpg" imgDesc="Movement when <em>Bahamut</em> is at a cardinal;Movement when <em>Bahamut</em> is at an intercardinal" slideNumber=slideCounter %}
 
-When only *Twintania* is left, the player who didn't get a dive marker will have to bait *Twintania* last **Divebomb**. However, at the same time, 4 **Megaflare** towers will spawn in the centre of the arena and 1 Tank, 1 Healer and 2 DPS will get a **Megaflare** marker. It means that the **Divebomb** player can either, get to soak a tower or stack for **Megaflare** with the others.  
-To solve that, the player with the dive marker stays left of *Twintania* while the **Megaflares** players stack to the right. The other three players will have to stand inside a tower but let the closest one available for the dive player. That way, if he has to soak a tower, he will be next to it.  
-When *Twintania* dives, **Twisters** will appear. The stack can split in two-way to ensure that no overlap happen. And the towers players can run around inside their tower to bait **Twister**, that way, the stack players can move between towers to bait the **Twisters** without any problems. (Tower players can also bait the **Twister** outside of it although I don't recommend it).
+When only *Twintania* is left, the player who didn't get a dive marker will have to bait *Twintania* last **Divebomb**. However, at the same time, 4 **Megaflare** towers will spawn in the centre of the arena and 1 Tank, 1 Healer and 2 DPS will get a **Megaflare** marker. It means that the **Divebomb** player can either, have to soak a tower or stack for **Megaflare** with the others.  
+To solve this, the player with the dive marker stays left of *Twintania* while the **Megaflares** players stack to the right. The other players will have to stand inside a tower but let the closest one available for the dive player if necessary. That way, if he has to soak a tower, he will be next to it. Otherwise, this player can stack with the others if he have to.  
+When *Twintania* dives, **Twisters** will appear. The stack can split when the **Megaflare** explosion happen to ensure that no **Twister** overlap. And the towers players can run in circle inside their tower to bait **Twister**, that way, the stack players can move between the towers without any problems.
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 
 {% include slideshow.html imgLink="octet5.jpg;octet6.jpg;octet7.jpg" imgDesc="Dive marker to the left of <em>Twintania</em>, and <strong>Megaflare</strong> stack to the right;When the dive marker appears, move to your tower (or the stack);Wait for <strong>Twister</strong> before moving in" slideNumber=slideCounter %}
+
+You can also use the Tank LB3 to "salvage" the **Megaflare** stack only. Use the Tank LB when the towers and **Megaflare** markers appear.  
 
 </div>
 
@@ -515,7 +517,7 @@ When *Twintania* dives, **Twisters** will appear. The stack can split in two-way
 <div class="guideSection" markdown="1">
 <h2><a id="TeraflareAbilities Breakdown">Abilities Breakdown</a></h2>
 
-*Nael* and *Twintania* must be killed at the same time. When one die, the other will start casting his enrage.  
+*Nael* and *Twintania* must be killed at the same time. When one die, the other will start casting her enrage.  
 In the meantime *Bahamut Prime* will fill his <u>Aethertrail Attunement</u> gauge.
 
 ___
@@ -548,22 +550,24 @@ They will both start with a **Bahamut's Claw** and **Plumet**.
 
 Then, *Twintania* will cast **Liquil Hell** that must be baited as usual.  
 Right when it ends, a triple **Generate** will target 3 random DPS. To easily resolve this, assign a **Neurolink** to 3 DPS. The last DPS will be floating and will pick the empty **Neurolink** if he has a marker.  
-But at the same time, *Twintania* will also cast **Twister**. If you're standing in a **Neurolink** next to the bosses. You can soak the **Hatch** then move away from the **Twister**. However, if you're in the far away **Neurolink**, you have to bait the **Twister** before moving in.
+But at the same time, *Twintania* will also cast **Twister**. If you're standing in a **Neurolink** next to the bosses. You have to soak the **Hatch** then move away from the **Twister** baited inside the **Neurolink**. However, if you're in the far away **Neurolink**, you have to bait the **Twister** outside before moving in.
 
-*Nael* will now tell a quote from the sixth set with four possibilities, two of them start with **Lunar Dynamo** and two other with **Iron Chariot**.  
+*Nael* will now tell a quote from the sixth set with four possibilities, two of them start with **Lunar Dynamo** and the other two with **Iron Chariot**.  
 When the three mechanics from the quote are over, **Twister** is cast.
 
 Mitigate the incoming **Megaflare** from *Nael*.  
-Then **Ravensbeak** and **Death Sentence** tankbusters will require a Tank swap. Followed by their classic tankbusters: **Bahamut's Claw** and **Plumet**.
+Then **Ravensbeak** and **Death Sentence** tankbusters will require a Tank swap. Followed by their respective instant tankbusters: **Bahamut's Claw** and **Plumet**.
 
 From now on, it will be a repeat. *Twintania* will use **Liquid Hell** followed by a triple **Generate** and **Twister**.
 
-*Nael* will perform another quote from the sixth set. But if the previous quote started with **Lunar Dynamo** this one will start with **Iron Chariot**, reducing the possibilities to two quotes.  
+*Nael* will perform another quote from the sixth set. But if the previous quote started with **Lunar Dynamo** this one will start with **Iron Chariot** (the opposite is true too), reducing the possibilities to two quotes.  
 Don't forget the **Twister** at the end of the quote.
 
 Another Tank swap will be enforced with **Ravensbeak** and **Death Sentence**. With a **Megaflare** coming next.
 
-You can now use your caster LB to finish them both at the same.
+**Teraflare**, the enrage, is next.
+
+You can use the caster LB to finish/damage them both at the same.
 
 </div>
 
@@ -594,13 +598,12 @@ Three waves of 2 AoE dealing lethal <span class="magic">magical damage</span>. T
 
 The DPS check is this phase is pretty lennient as long as you mitigate and dodge every ability properly. Hence don't worry about your uptime but about staying live. Ah, ah ah!
 
-To start with, *Golden Bahamut* will use **Morh Afah**. Every **Morn Afah** require mitigation and planned beforehand.
+To start with, *Golden Bahamut* will use **Morh Afah**. Every **Morn Afah** require planned mitigation beforehand.
 Next is the first **Akh Morn**, hitting three times. Have the Tanks stack together and use all their defensive cooldowns, they will be back for the last one.
 
 **Exaflare** is next. It can cross the arena in any of the eight direction and each set of AoE won't always be adjacent, rendering this mechanic a bit random.  
-You can move to the wall, stand where the third explosion is and move inside the first one when it's done.  
-You can also move between the first and second explosion.  
-And you can cross through one AoE. Just stand at the edge of it and when it explodes, quickly move in. The timing needs to be on point however. Only use this technique when you know what you're doing.
+You can stand in the third explosion path and move inside the first one when it's done (you can also move between the first and second explosion).  
+And you can also cross through one explosion. Just stand at the edge of it and when it explodes, quickly move in. The timing needs to be on point however. Only use this technique when you know what you're doing.
 
 Once it's done, second **Akh Morn**, hitting four times. Use one of your tank invunerability.  
 Followed by **Morn Afah**, once again mitigate it.  
@@ -609,7 +612,7 @@ And another set of **Exaflare**.
 Next is **Morn Afah**, mitigate it, with the third **Akh Morn** after, that will hit five times. Use your second Tank invulnerability for this one.  
 **Exaflare** once again.
 
-Fourth **Morn Afah**, then the fourth **Akh Morn**, hitting six times. Have the Tanks use all their defensive cooldowns again.  
+Fourth **Morn Afah**, then the fourth **Akh Morn**, hitting six times. Let the Tanks share it and use all their defensive cooldowns again.  
 **Exaflare**, and another one.
 
 Final **Morn Afah** that need to be mitigated.
