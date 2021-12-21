@@ -485,7 +485,7 @@ Then *Bahamut Prime* will use **Flatten** and **Flare Breath**. At this point, *
 
 <a id="SGrand Octet"></a>The gang is back one last time for **Grand Octet**.  
 Once everyone is here, identify where *Bahamut Prime* is. If he's at a cardinal, the group will move counter-clockwise. Otherwise, if he's at an intercardinal, the group will rotate clockwise.  
-Once the first dive markers appear, move to the opposite side of *Bahamut Prime*. Then, as soon as *Nael* dives, the group can start moving in the planned direction. Only use sprint if you're lagging behind the group.  
+Once the first dive markers appear, move to the opposite side of *Bahamut Prime*. Then, as soon as *Nael* dives, the group can start moving in the planned direction. Use sprint if you're lagging behind the group.  
 When the *Bahamut Prime* marker appears (the red one), continue a bit then move to the middle of the arena in a circular motion.  
 While all of this happen, watch if you got a dive marker on you. Because the last dive will be on the player that didn't get any marker:
 

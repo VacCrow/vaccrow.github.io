@@ -349,7 +349,7 @@ Meanwhile, *Brute Justice* will cast **Flamethrower**. In order for **Flamethrow
 
 *Cruise Chaser* will cast **Whirlwind** acting as a heal check before the next Compressed debuffs.
 
-The Healer with Compressed Lightning shares with the *Cruise Chaser* Tank on North while the Compressed Water stack is happening South with the available player.
+The Healer with Compressed Lightning shares with the *Cruise Chaser* Tank on North while the Compressed Water stack is happening South with the available players.
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 
