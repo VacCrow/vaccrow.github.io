@@ -19,12 +19,19 @@
 	padding-top: 30px;
 }
 
+.guideCategory > hr{
+	flex-basis: 100%;
+	height: 0;
+	margin: 0;
+	border: 0;
+}
+
 .guideCategory h1{
 	margin: 0;
 }
 
 .guideButton{
-	flex: 1;
+	flex: 50%;
 	margin: 10px auto;
 	border: 10px solid $bg-guidebutton;
 	border-radius: 0.8em;

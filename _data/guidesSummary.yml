@@ -96,6 +96,41 @@ TEA:
 
 
 #------------SAVAGE FIGHTS-----------
+
+#------------PANDAEMONIUM-----------
+P1S:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: Phase 1
+
+P2S:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: Phase 1
+
+P3S:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: Phase 1
+
+P4S:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: Phase 1
+
+#------------EDEN-----------
 E9S:
   - name: Abilities Breakdown
     section:

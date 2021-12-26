@@ -11,7 +11,7 @@ DPS Requirement: ~98k
 Loot:*
 + *Chest n°1: Edenmorn Earring/Necklace/Bracelet/Ring/Waist coffer*
 + *Chest n°2: 2 unique among Edenmorn Earring/Necklace/Bracelet/Ring/Waist coffer*
-+ *Token: Book of Umbra (6 tokens for Edenmorn Waist or 4 tokens for Earring/Necklace/Bracelet/Ring)*
++ *Token: Book of Umbra (6 tokens for Edenmorn Waist or 4 tokens for Edenmorn Earring/Necklace/Bracelet/Ring)*
 
 ___
 
@@ -123,7 +123,7 @@ ___
 <h1><a id="Strategy">Strategy</a></h1>
 
 <div class="guideSection" markdown="1">
-<a id="SPhase 2"></a>
+<a id="SPhase 1"></a>
 
 *Cloud of Darkness* begins the fight with **Ground-razing Particle Beam** followed by **The Art of Darkness** with two orbs or no orb followed by a second **The Art of Darkness** using the pattern she didn’t use before.
 Next cast is **Devouring Dark**, you may use your Tank invulnerability.
@@ -171,7 +171,7 @@ Finally **Empty Floor** is casted, switching to the tile layout and going into t
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SPhase 2">Phase 2</a>
+<a id="SPhase 2"></a>
 
 *For this phase, players starting in the inner circle tiles will be referred as “melees” while the one starting outside will be referred as “ranged”.*
 
@@ -215,7 +215,7 @@ Then **The Third Art of Darkness** will be casted:
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SPhase 3">Phase 3</a>
+<a id="SPhase 3"></a>
 
 First cast will be **Flood of Obscurity**. Handle the knockback and place the Evil Seeds the same way as in phase 1.
 

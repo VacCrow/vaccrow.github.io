@@ -117,7 +117,7 @@ Cruise Chaser will be untargetable during the whole transition.
 ___
 
 + **<ins>Optical Sight</ins>:**
-AoEs that strike at cardinal and intercardinal positions on oppositre side of the arena dealing lethal damage.  
+AoEs that strike at cardinal and intercardinal positions on opposite sides of the arena dealing lethal damage.  
 Strikes the arena four times in a row while rotating clockwise (ie. one set will strike N->NE->E->SE and the other S->SW->W->NW), a fifth AoE will hit the center of the arena. It will repeat one more time, the second set of **Optical Sights** will resume their rotation from where the first set stopped.
 
 ___
