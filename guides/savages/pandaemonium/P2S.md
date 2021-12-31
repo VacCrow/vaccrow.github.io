@@ -26,7 +26,7 @@ Raid-wide AoE dealing <span class="magic">magical damage</span>.
 ___
 
 + **<ins>Doubled Impact</ins>:**
-Shared tank buster dealing <span class="magic">magical damage</span>.
+Shared tank buster on the main target dealing <span class="magic">magical damage</span>.
 
 ___
 

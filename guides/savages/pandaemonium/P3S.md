@@ -43,7 +43,7 @@ Four *Darkened Fire* adds will spawn in the arena. These adds are invulnerable. 
 ___
 
 + **<ins>Brightened Fire</ins>:**
-Four players will be marked by a number. Afterward, *Phoenix* will shoot a fire orb, dealing <span class="magic">magical damage</span> and killing any *Darkened Fire* hit.
+Four players will be marked by a number. Afterward, *Phoenix* will shoot a fire orb following the numbers order, dealing <span class="magic">magical damage</span> and killing any *Darkened Fire* hit.
 
 ___
 

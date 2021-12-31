@@ -41,17 +41,19 @@ Share marker dealing <span class="magic">magical damage</span>.
 ___
 
 + **<ins>Heavy Hand</ins>:**
-Tank buster dealing <span class="phys">physical damage</span>.
+Tank buster on the main target dealing <span class="phys">physical damage</span>.
 
 ___
 
 + **<ins>Intemperence </ins>:**
-Each player will recieve a <span class="speDebuff">Hot Spell</span> or <span class="speDebuff">Cold Spell</span> debuff, increasing the damage received from Fire and Ice spells and  respectively. While this debuff is up, getting hit by a Fire attack will give <span class="speDebuff">Hot Spell</span> and <span class="speDebuff">Cold Spell</span> if hit by an Ice attack.
+Each player will recieve a <span class="speDebuff">Hot Spell</span> or <span class="speDebuff">Cold Spell</span> debuff lasting 15 seconds, increasing the damage received from Fire and Ice spells  respectively.  
+While this debuff is up, getting hit by a Fire attack will give <span class="speDebuff">Hot Spell</span> and <span class="speDebuff">Cold Spell</span> if hit by an Ice attack. It will also reset the duration to 15 seconds.
 
 ___
 
 + **<ins>Intemperate Torment</ins>:**
-*Erichthonios* will divide the arena in 4. Each quadrant will have 3 Fire and/or Ice cubes stacked on top of each other. After a few seconds, the bottom cube will start shaking and will shatter, dealing Fire or Ice <span class="magic">magical damage</span> inside its quadrant based on the cube's element. If the cube and the player's debuff elements were identical, a <span class="debuff">vunl / Damage Down</span> debuff will be applied.  
+*Erichthonios* will divide the arena in 4 quadrants. Each quadrant will have 3 Fire and/or Ice cubes stacked on top of each other. After a few seconds, the bottom cube will start shaking and will shatter, dealing Fire or Ice <span class="magic">magical damage</span> inside its quadrant based on the cube's element. If the cube and the player's debuff elements were identical, a <span class="debuff">vunl / Damage Down</span> debuff will be applied.  
+The last cube explosion will remove the debuff afterward.  
 Each quadrant is separated by black lines. Standing inside them when the cubes explode deals lethal damage.
 
 ___
