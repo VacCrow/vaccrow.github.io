@@ -9,9 +9,9 @@ slideNumber: 4
 Minimum ilvl: i575  
 DPS Requirement: ~k  
 Loot:*
-+ *Chest n°1: X Head/Hand/Foot coffer + Y (Weapon Token)*
-+ *Chest n°2: X Head/Hand/Foot coffer + Y (Accesory Upgrade)*
-+ *Token: Book of X (6 tokens for X Head/Hand/Foot or 4 tokens for Accessory upgrade)*
++ *Chest n°1: Asphodelos Head/Hand/Foot coffer + Discal Tomestone (Weapon Token)*
++ *Chest n°2: Asphodelos Head/Hand/Foot coffer + Radiant Coating  (Accesory Upgrade)*
++ *Token: Book of Asphodelos Mythos II (6 tokens for Asphodelos Head/Hand/Foot or 4 tokens for Accessory upgrade)*
 
 ___
 

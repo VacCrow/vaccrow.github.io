@@ -9,9 +9,9 @@ slideNumber: 4
 Minimum ilvl: i580  
 DPS Requirement: ~k  
 Loot:*
-+ *Chest n°1: X Weapon*
-+ *Chest n°2: X Chest/Weapon coffer + Y*
-+ *Token: Book of X (8 tokens for X Chest or Weapon)*
++ *Chest n°1: Asphodelos Weapon*
++ *Chest n°2: Asphodelos Chest/Weapon coffer + Demi-Phoinix Horn*
++ *Token: Book of Asphodelos Mythos IV (8 tokens for Asphodelos Chest or Weapon)*
 
 ___
 

@@ -9,9 +9,9 @@ slideNumber: 4
 Minimum ilvl: i570  
 DPS Requirement: ~k  
 Loot:*
-+ *Chest n°1: X Earring/Necklace/Bracelet/Ring/Waist coffer*
-+ *Chest n°2: 2 unique among X Earring/Necklace/Bracelet/Ring/Waist coffer*
-+ *Token: Book of X (6 tokens for X Waist or 4 tokens for X Earring/Necklace/Bracelet/Ring)*
++ *Chest n°1: Asphodelos Earring/Necklace/Bracelet/Ring coffer*
++ *Chest n°2: 2 unique among Asphodelos Earring/Necklace/Bracelet/Ring coffer*
++ *Token: Book of Asphodelos Mythos I (4 tokens for Asphodelos Earring/Necklace/Bracelet/Ring)*
 
 ___
 

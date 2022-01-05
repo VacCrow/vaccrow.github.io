@@ -9,9 +9,9 @@ slideNumber: 4
 Minimum ilvl: i500  
 DPS Requirement: ~98k  
 Loot:*
-+ *Chest n°1: Edenmorn Earring/Necklace/Bracelet/Ring/Waist coffer*
-+ *Chest n°2: 2 unique among Edenmorn Earring/Necklace/Bracelet/Ring/Waist coffer*
-+ *Token: Book of Umbra (6 tokens for Edenmorn Waist or 4 tokens for Edenmorn Earring/Necklace/Bracelet/Ring)*
++ *Chest n°1: Edenmorn Earring/Necklace/Bracelet/Ring coffer*
++ *Chest n°2: 2 unique among Edenmorn Earring/Necklace/Bracelet/Ring coffer*
++ *Token: Book of Umbra (4 tokens for Edenmorn Earring/Necklace/Bracelet/Ring)*
 
 ___
 

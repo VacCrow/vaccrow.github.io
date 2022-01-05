@@ -9,9 +9,9 @@ slideNumber: 4
 Minimum ilvl: i580  
 DPS Requirement: ~k  
 Loot:*
-+ *Chest n°1: X Legs coffer + Y (Armor upgrade)*
-+ *Chest n°2: X Head/Hand/Foot coffer + Y (Weapon Upgrade)*
-+ *Token: Book of X (8 tokens for X Legs or 4 tokens for Armor or Weapon upgrade)*
++ *Chest n°1: Asphodelos Legs coffer + Radiant Twine (Armor upgrade)*
++ *Chest n°2: Asphodelos Head/Hand/Foot coffer + Radiant Roborant (Weapon Upgrade)*
++ *Token: Book of Asphodelos Mythos III (8 tokens for Asphodelos Legs or 4 tokens for Armor or Weapon upgrade)*
 
 ___
 
