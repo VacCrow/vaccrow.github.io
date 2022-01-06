@@ -105,6 +105,8 @@ P1S:
   - name: Strategy
     section:
       - name: Phase 1
+      - name: Phase 2
+      - name: Phase 3
 
 P2S:
   - name: Abilities Breakdown
