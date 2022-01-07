@@ -2,12 +2,12 @@
 layout: guides
 title: Asphodelos - The First Circle (Savage) | P1S
 imagePath: /assets/img/guides/savages/pandaemonium/P1S/
-slideNumber: 4
+slideNumber: 0
 ---
 
 *Patch: 6.05  
 Minimum ilvl: i570  
-DPS Requirement: ~k  
+DPS Requirement: ~39.5k  
 Loot:*
 + *Chest n°1: Asphodelos Earring/Necklace/Bracelet/Ring coffer*
 + *Chest n°2: 2 unique among Asphodelos Earring/Necklace/Bracelet/Ring coffer*
@@ -54,13 +54,13 @@ Afterward the current main target will either get hit by:
 ___
 
 + **<ins>Intemperence </ins>:**
-*Erichthonios* will divide the arena in 9 quadrants and each quadrant will have 3 Spell Crystals. When a crystal explodes, (it shakes a bit before), it will apply <span class="speDebuff">Hot Spell</span> (red crystal), <span class="speDebuff">Cold Spell</span> (blue crystal) or <span class="speDebuff">Disastrous Spell</span> (purple crystal).
+*Erichthonios* will divide the arena in 9 quadrants and each quadrant will have 3 Spell Crystals. When a crystal explodes, (it shakes a bit before), it will apply <span class="speDebuff">Hot Spell</span> (red crystal), <span class="speDebuff">Cold Spell</span> (blue crystal) or <span class="speDebuff">Disastrous Spell</span> (purple crystal):
 	+ <span class="speDebuff">Hot Spell</span> and <span class="speDebuff">Cold Spell</span> debuffs last 15 seconds and deal <span class="magic">magical damage</span>. The damage is decreased if a player has a debuff from the opposite element.  
 	+ <span class="speDebuff">Disastrous Spell</span> deals lethal damage.
 
-Each quadrant is separated by black lines. Standing inside them when the cubes explode deals lethal damage.  
-If the crystal and the player's debuff elements are identical, a <span class="debuff">Damage Down</span> debuff will be applied on top on increased damage.  
-If a quadrant will a Hot Crystal or Cold Crustal isn't soaked when it explodes, every player will recieve <span class="magic">magical damage</span> and a <span class="debuff">Damage Down</span> debuff.
+	Each quadrant is separated by black lines. Standing inside them when the crystals explode deals lethal damage.  
+	If the crystal and the player's debuff elements are identical, a <span class="debuff">Damage Down</span> debuff will be applied on top of increased damage.  
+	If a quadrant with a Hot Crystal or Cold Crystal isn't soaked when it explodes, every player will recieve <span class="magic">magical damage</span> and a <span class="debuff">Damage Down</span> debuff.
 
 ___
 
@@ -80,7 +80,7 @@ During the cast, Fire or Holy orbs will rotate around *Erichthonios*. The sectio
 ___
 
 + **<ins>Aetherflail</ins>:**
-Combination of **Aetherchain** and **Gaoler's Fail** happening simultaneously. One weapon will be an anchor and the other a morningstar/chakram.
+Combination of **Aetherchain** and **Gaoler's Fail** happening consecutively. One weapon will be an anchor and the other a morningstar/chakram.
 
 ___
 
@@ -113,21 +113,59 @@ ___
 
 Soon after, he will use **Aetherial Shackles** immadiatly followed by **Warder's Wrath**, so don't forget to stay mid for a second to recieve some heals.  
 Have everyone spread around the boss, melees in on cardinals and ranged slightly out on intercardinals.  
-If a ranged player have <span class="speDebuff">Shackles of Companionship</span>, that player must swap position with the one who has <span class="speDebuff">Shackles of Loneliness</span>. Otherwise, everyone assumes these positions:
+If a ranged player have <span class="speDebuff">Shackles of Companionship</span> (or a melee have <span class="speDebuff">Shackles of Loneliness</span>), that player swap his position with his partner :
+<img class="soloImg" src="{{ page.imagePath | append: "aetherialShackles.jpg" }}">
 
+Next is **Gaoler's Flail**, with either the morningstar/chakram combo or double anchor.
 
-Next is **Gaoler's Flail**, with either the combo morningstar/chakram or double anchor.  
-Follow by **Pitiless Flail of Grace** or **Pitiless Flail of Purgation** at random. Swap tank during the cast and have the new tank share or move away depending of the cast name. For the flare, the tank can stand at max melee range at North East while the rest of the rest of the group stays South to keep uptime.
+Follow by **Pitiless Flail of Grace** or **Pitiless Flail of Purgation** at random. Swap tank during the cast and have the new tank share with the group or move away depending of the cast name. For the flare, the tank can stand at max melee range at North East while the rest of the rest of the group stays South to keep uptime.
 
+Another **Gaoler's Flail** with the combo that hasn't been used previously, follow by, once again, **Warder's Wrath**.
+
+*Erichtonios* will teleport mid and cast **Intemperance** and divide the arena into 9. Everyone spread out and wait for **Intemperate Torment** to know the explosion order. Between each explosion, *Erichtonios* will cast **Warder's Wrath** so stay as close as possible to the boss to get healed.  
+After each explosion, very player will swap (or not) their <span class="speDebuff">Hot Spell</span> and <span class="speDebuff">Cold Spell</span> debuffs to be able to fulfill their last explosion condition.  
+<u>If the North section has a Hot > Hot > Cold or a Cold > Cold > Hot sequence (regardless of the explosion order), the North Tank has to swap his position with an adjacent DPS for the last explosion. In this case, the involved Tank and DPS have to swap their debuffs on each explosion.</u>
+
+Then *Erichtonios* will perform **Pitiless Flail of Purgation** or **Pitiless Flail of Grace**, the one he didn't do previously.  
+Before using **Shining Cells** and swaping the arena.
 
 </div>
 
 <div class="guideSection" markdown="1">
 <a id="SPhase 2"></a>
 
+Happy to show you his new shinny room, *Erichtonios* will cast **Aetherflail**. Move to the correct side, in or out, on the correct tile.  
+
+He will chain with a random **Pitiless Flail of Grace** or **Pitiless Flail of Purgation**. The main Tank has to go to the centre to avoid being knockback into the wall.
+
+He will do a second **Aetherflail**, it's random and non related to the first one.
+
+Next is **Shackles of Time**, have everyone stands on a Holy surface while the player with the debuff embraces his inner-communism and stands on a Fire surface.  
+When **Shackles of Time** resolves, the main target will get hit by **Heavy Hand**.
+
+Since you didn't care about his room, he will **Slam Shut** you out.
+
+*Erichtonios* moves middle and cast **Fourfold Shackles**. Players with <span class="speDebuff">Shackles of Companionship</span> will move in and players with <span class="speDebuff">Shackles of Loneliness</span> will move out and grab a position based on their timer debuff as shown:
+<img class="soloImg" src="{{ page.imagePath | append: "fourfoldShackles.jpg" }}">
+
+He will cast another **Warder's Wrath**.
+
+Then it's **Intemperance** into **Intemperate Torment**. This one is solved like the first one except than instead of two **Warden's Wrath**, it has a **Gaoler's Flail** happening between the second and third explosion. Remember to dodge accordingly between them.
+
+He will use **Warder's Wrath** once **Intemperence** is done.
+
+And he will show you his shinny room a second time with **Shining cells**.
 </div>
 
 <div class="guideSection" markdown="1">
 <a id="SPhase 3"></a>
 
+*Erichtonios* will perform two sequences one after the other but in a random order:
++ A player will recieve **Shackles of Time** while *Erichtonios* performs a random **Pitiless Flail of Grace** or **Pitiless Flail of Purgation**.  
+The flare/share will happen a 3 seconds before **Shackles of Time** resolves. Same as before, the player with the buff must always stand on a Fire surface while the rest of the group stays on a Holy surface.  
+	Followed by **Warder's Wrath**.
++ The boss will use **Aetherial Shackles** followed by two **Aetherchain**. Solve **Aetherial Shackles** as before and stand either on a Holy or Fire surface base on **Aetherchain** element. Stand at the limit of a surface to easilly swap  between elements.  
+	Followed by **Warder's Wrath**.
+
+Then *Erichtonios* will cast **Aetherflail** three times in a row followed by **Warder's Wrath** three times in row before casting the enrage **Lethe**.
 </div>
