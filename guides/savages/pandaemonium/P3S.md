@@ -7,7 +7,7 @@ slideNumber: 4
 
 *Patch: 6.05  
 Minimum ilvl: i580  
-DPS Requirement: ~k  
+DPS Requirement: 42.2k (full fight)  
 Loot:*
 + *Chest n°1: Asphodelos Legs coffer + Radiant Twine (Armor upgrade)*
 + *Chest n°2: Asphodelos Head/Hand/Foot coffer + Radiant Roborant (Weapon Upgrade)*

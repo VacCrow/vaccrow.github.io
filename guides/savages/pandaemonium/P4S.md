@@ -7,7 +7,7 @@ slideNumber: 4
 
 *Patch: 6.05  
 Minimum ilvl: i580  
-DPS Requirement: ~k  
+DPS Requirement: 48.2k 47.9k  
 Loot:*
 + *Chest n°1: Asphodelos Weapon*
 + *Chest n°2: Asphodelos Chest/Weapon coffer + Demi-Phoinix Horn*
