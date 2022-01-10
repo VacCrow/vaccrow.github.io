@@ -125,6 +125,8 @@ P3S:
   - name: Strategy
     section:
       - name: Phase 1
+      - name: Adds
+      - name: Phase 2
 
 P4S:
   - name: Abilities Breakdown
