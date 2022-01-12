@@ -96,15 +96,47 @@ If they are dropped to close to each other, they will explode dealing <span clas
 
 ___
 
-+ **<ins>Experimental Charplume</ins>:**
++ **<ins>Experimental Ashplume</ins>:**
 After the cast, *Phoinix* will perform an ability dealing fire <span class="magic">magical damage</span> and applying a <span class="debuff">Fire Resistance Down II</span> debuff, based of the number of orbs it uses:  
-	+ One orb: share AoE on both Healer(?), dealing fire <span class="magic">magical damage</span>.  
+	+ One orb: share AoE on a random Tank and Healer, dealing fire <span class="magic">magical damage</span>.  
 	+ Eight black orbs: AoE on every player, dealing fire <span class="magic">magical damage</span>.
 
 ___
 
 + **<ins>Experimental Gloryplume</ins>:**
 *Phoenix* will perform **Experimental Fireplume** and **Experimental Gloryplume** in this order in succession. Both attack can use a different number of orbs.
+
+___
+
++ **<ins>Fountain of Fire</ins>:**
+Two sets of four *Fountains* will spawn on North/South or East/West. Each subsequent *Fountains* will appear in a clockwise manner on the next cardinal/intercardinal. Must be soaked by a player (or it will explode?).  
+When soaked, it deals massive fire <span class="magic">magical damage</span> and applies a <span class="debuff">Trickle of Fire</span> debuff, boosting Healing spells.
+
+___
+
++ **<ins>Sun's Pinion</ins>:**
+The two closest players from *Phoinix* will recieve an AoE, when it resolves a *Sunshadow* will spawn and get tethered to that player. It's a proximity tether and after 6 seconds, it will dash toward that player.  
+Both attacks deal fire <span class="magic">magical damage</span> and apply a <span class="debuff">Fire Resistance Down II</span> debuff lasting 4 seconds.
+
+___
+
++ **<ins>Firestorms of Asphodelos</ins>:**
+Raid-wide AoE dealing <span class="magic">magical damage</span>. The periodic raid-wide AoE from **Blazing Rain** will be back. And 3 *Fire Tornadoes* will spawn North, South East and South West.
+
+___
+
++ **<ins>Flames of Asphodelos</ins>:**
+*Phoinix* will fire three set of two cones AoE in sequence that will cover the whole arena. (Deals <span class="magic">magical damage</span> and applies a <span class="debuff">Damage Down</span> debuff if hit?)
+
+___
+
++ **<ins>Storms of Asphodelos</ins>:**
+Cones from tornadoes (100% proximity), boss (proximity? protean?), and two tethers tb.
+
+___
+
++ **<ins> Darkblaze Twister</ins>:**
+Well it's in the log. /shrug
 
 </div>
 ___
