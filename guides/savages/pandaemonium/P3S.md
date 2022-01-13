@@ -45,7 +45,7 @@ ___
 + **<ins>Darkened Fire</ins>:**
 Four *Darkened Fire* adds will spawn on top of either DPS or Tanks/Healers.  
 If two adds are too close, they explode dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Damage Down</span> debuff. After 22 seconds, the adds will exploded dealing very high <span class="magic">magical damage</span> and applying a <span class="debuff">Damage Down</span> debuff.  
-Each adds have a <span class="buff">Darkened Fire</span> buff with 4 stacks. As long as an add has one stack it has an <span class="buff">Invincibility</span> buff and doesn't take damage. A stack is remove when it's hit by **Brightened Fire**.
+Each adds have a <span class="buff">Darkened Fire</span> buff with 4 stacks. As long as an add has one stack of <span class="buff">Darkened Fire</span>, it has an <span class="buff">Invincibility</span> buff and doesn't take damage. A stack is remove when hit by **Brightened Fire**.
 
 ___
 
@@ -76,19 +76,6 @@ AoE dealing fire <span class="magic">magical damage</span> and applying a <span 
 
 ___
 
-+ **<ins>Blazing Rain</ins>:**
-Periodic raid-wide AoE dealing small <span class="magic">magical damage</span> during the add phase.  
-Small *Sunbirds* will spawn on cardinal. After 30 seconds, they will cast **Great Whirlwind** dealing high raid-wide <span class="magic">magical damage</span>.  
-Once dead, they will reborn into bigger *Sunbirds*. After 45 seconds, they will cast **Great Whirlwind** dealing high raid-wide <span class="magic">magical damage</span>. Once they are reborn, they will cast **Fireglide Sweep**. They will tether themself to a random Tank/Healer and that player will be tethered to a random DPS (roles here can be randomly swaped). After 10 seconds, they will to the first player they're tethered with and soon after, to the seconds. **Fireglide Sweep** is a line AoE dealing <span class="phys">physical damage</span> and applying a <span class="debuff">Blunt Resistance Down</span> to anyone of its path.
-When all adds are dead, any *Sunbirds* close to another one will raise and fuse with *Phoinix* filling the boss' gauge.
-
-___
-
-+ **<ins>Dead Rebirth</ins>:**
-*Phoinix* ultimate dealing high <span class="magic">magical damage</span> or wiping the group if the gauge reaches 100.  
-From now on, the dead *Sunbirds* will transform into *Sparkfledged* and will join *Phoinix* in orbit around him, are untargetable, and will attack the second player in the enmity list.
-
-___
 
 + **<ins>Fledgling Flight</ins>:**
 *Sunbirds* will move on top of Tanks/Healers or DPS with an arrow pointing in a cardinal direction. After a few second they will drop on a ground and cast**Ashen Eye**, a frontal cone in the arrow direction, dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Damage Down</span> debuff.  
@@ -109,7 +96,7 @@ ___
 ___
 
 + **<ins>Fountain of Fire</ins>:**
-Two sets of four *Fountains* will spawn on North/South or East/West. Each subsequent *Fountains* will appear in a clockwise manner on the next cardinal/intercardinal. Must be soaked by a player (or it will explode?).  
+Two sets of four Fountains will spawn on North/South or East/West. Each subsequent Fountains will appear in a clockwise manner on the next cardinal/intercardinal. Must be soaked by a player (or it will explode?).  
 When soaked, it deals massive fire <span class="magic">magical damage</span> and applies a <span class="debuff">Trickle of Fire</span> debuff, boosting Healing spells.
 
 ___
@@ -131,12 +118,29 @@ ___
 ___
 
 + **<ins>Storms of Asphodelos</ins>:**
-Cones from tornadoes (100% proximity), boss (proximity? protean?), and two tethers tb.
+From stream and log: one tb tether (so I guess 2 in total), 3 Cones from each tornadoes (100% it's proximity based), 1 cone from the boss (probably 3 cones in total, another protean like?).
 
 ___
 
-+ **<ins> Darkblaze Twister</ins>:**
++ **<ins>Darkblaze Twister</ins>:**
 Well it's in the log. /shrug
+
+</div>
+
+<div class="guideSection" markdown="1">
+<h2><a id="ABAdds Phase">Adds Phase</a></h2>
+
++ **<ins>Blazing Rain</ins>:**
+Periodic raid-wide AoE dealing small <span class="magic">magical damage</span> during the add phase.  
+Small *Sunbirds* will spawn on cardinal. After 30 seconds, they will cast **Great Whirlwind** dealing high raid-wide <span class="magic">magical damage</span>.  
+Once dead, they will reborn into bigger *Sunbirds*. After 45 seconds, they will cast **Great Whirlwind** dealing high raid-wide <span class="magic">magical damage</span>. Once they are reborn, they will cast **Fireglide Sweep**. They will tether themself to a random Tank/Healer and that player will be tethered to a random DPS (roles here can be randomly swaped). After 10 seconds, they will to the first player they're tethered with and soon after, to the seconds. **Fireglide Sweep** is a line AoE dealing <span class="phys">physical damage</span> and applying a <span class="debuff">Blunt Resistance Down</span> to anyone of its path.
+When all adds are dead, any *Sunbirds* close to another one will raise and fuse with *Phoinix* filling the boss' gauge.
+
+___
+
++ **<ins>Dead Rebirth</ins>:**
+*Phoinix* ultimate dealing high <span class="magic">magical damage</span> or wiping the group if the gauge reaches 100.  
+From now on, the dead *Sunbirds* will transform into *Sparkfledged* and will join *Phoinix* in orbit around him, are untargetable, and will attack the second player in the enmity list.
 
 </div>
 ___
@@ -193,8 +197,24 @@ This phase will start with **Heat of Condemnation**, stack and grab the tethers 
 *Phoinix* will cast **Fledgling Flight** and the *Sparkfledged* will appear on top of 4 players, these players have to place them on the edge of the inner square, facing outside, on cardinal. Once placed, everyone should move in to avoid **Ashen Eye**:
 <img class="soloImg" src="{{ page.imagePath | append: "fledgling.jpg" }}">
 
-Stack mid after for **Experimental Gloryplume**. The **Experimental Fireplume** part is always 8 orbs here(?), and the **Experimental Charplume** is random. Base on the initial explosion, split into 2 groups on each side, then either stack or spread when the middle explosion happens.  
-Example with 1 orb for the **Experimental Charplume** part:  
+Stack mid after for **Experimental Gloryplume**. The **Experimental Fireplume** part is always 8 orbs here, and the **Experimental Ashplume** is random. Base on the initial explosion, split into 2 groups, Tanks/Melees on one side and Healer/Ranged on the other, then either stack or spread when the middle explosion happens.  
+Example with 1 orb for the **Experimental Ashplume** part:  
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="gloryP1.jpg;gloryP2.jpg;gloryP3.jpg;gloryP4.jpg;gloryP5.jpg" imgDesc="Identify where you're going on the first explosion;Start moving;Step into the second explosion;Move a bit more;The stack happen right after the last explosion" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="gloryP1.jpg;gloryP2.jpg;gloryP3.jpg;gloryP4.jpg;gloryP5.jpg" imgDesc="Identify where you're going on the first explosion;Start moving;Step into the second explosion;Stack properly;The stack happen right after the last explosion" slideNumber=slideCounter %}
+
+Regroup to heal everyone and get ready for **Fountain of Fire**. During the cast, let the Tanks being the closest to the boss since the first **Sun's Pinion** bait is immediate.
+<img class="soloImg" src="{{ page.imagePath | append: "fount1.jpg" }}">
+
+When the first Fountains appear, the Healers must move into them, on their respective sides, ready to soak them. Healers must heal themself after each soak.  
+Meanwhile the rest of the group will split in 3 to bait the **Sun's Pinion** AoEs, Tanks, Melees and Ranged in this order. Everyone should be outside *Phoinix*' hitbox except the baiters who should be inside.  
+When a player gets his **Sun's Pinion**, he will place it in front of the Fountain of their respective healer. The Tanks will place their AoEs in front of the first Fountains, Melees in front of the seconds and Ranged in front of the third. When a player *Sunshadow* appears, he has to wait half a second for the previous *Sunshadows* to dash then move across the arena to stand behind the opposite *Sunshadow* and wait here for his dash:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="fount2.jpg;fount3.jpg;fount4.jpg;fount5.jpg;fount6.jpg;fount7.jpg;fount8.jpg;fount9.jpg" imgDesc="Watch the first fountains to find your positions;Tanks move out and Melees move in;Melees get their <strong>Sun's Pinion</strong>;Melees move back, Ranged move in;Tanks swap positions, Ranged get their <strong>Sun's Pinion</strong>;1st dash happens, Melees swap positions, Ranged move out;2nd dash happens;Ranged swap positions" slideNumber=slideCounter %}
+
+After the last Fountains, regoup mid to heal and shield everyone with the <span class="debuff">Trickle of Fire</span> debuff for the two incoming **Scorched Exaltation** followed by **Heat of Condemnation**.
+
+Then Firestorms of Asphodelos into Flames of Asphodelos into Experimental Ashplume (spread or group stack).  
+Flames of Asphodelos into Storms of Asphodelos.  
+Darkblaze Twister  
+Profit
 </div>

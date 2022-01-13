@@ -122,6 +122,7 @@ P3S:
   - name: Abilities Breakdown
     section:
       - name: General Abilities
+      - name: Adds Phase
   - name: Strategy
     section:
       - name: Phase 1
