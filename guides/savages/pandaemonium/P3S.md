@@ -2,7 +2,7 @@
 layout: guides
 title: Asphodelos - The Third Circle (Savage) | P3S
 imagePath: /assets/img/guides/savages/pandaemonium/P3S/
-slideNumber: 4
+slideNumber: 5
 ---
 
 *Patch: 6.05  
@@ -105,6 +105,25 @@ ___
 The two closest players from *Phoinix* will recieve an AoE, when it resolves a *Sunshadow* will spawn and get tethered to that player. It's a proximity tether and after 6 seconds, it will dash toward that player.  
 Both attacks deal fire <span class="magic">magical damage</span> and apply a <span class="debuff">Fire Resistance Down II</span> debuff lasting 4 seconds.
 
+___
+
++ **<ins>Firestorms of Asphodelos</ins>:**
+Raid-wide AoE dealing <span class="magic">magical damage</span>. The periodic raid-wide AoE from **Blazing Rain** will be back. And 3 *Fire Tornadoes* will spawn North, South East and South West.
+
+___
+
++ **<ins>Flames of Asphodelos</ins>:**
+*Phoinix* will fire three set of two cones AoE in sequence that will cover the whole arena. (Deals <span class="magic">magical damage</span> and applies a <span class="debuff">Damage Down</span> debuff if hit?)
+
+___
+
++ **<ins>Storms of Asphodelos</ins>:**
+From stream and log: one tb tether (so I guess 2 in total), 3 Cones from each tornadoes (100% it's proximity based), 1 cone from the boss (probably 3 cones in total, another protean like?).
+
+___
+
++ **<ins>Darkblaze Twister</ins>:**
+Well it's in the log. /shrug
 
 </div>
 
@@ -183,7 +202,7 @@ Example with 1 orb for the **Experimental Ashplume** part:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="gloryP1.jpg;gloryP2.jpg;gloryP3.jpg;gloryP4.jpg;gloryP5.jpg" imgDesc="Identify where you're going on the first explosion;Start moving;Step into the second explosion;Stack properly;The stack happen right after the last explosion" slideNumber=slideCounter %}
 
-Regroup to heal everyone and get ready for **Fountain of Fire**. During the cast, let the Tanks being the closest to the boss since the first **Sun's Pinion** bait is immediate.
+Regroup to heal everyone and get ready for **Fountain of Fire**. During the cast, let the Tanks being the closest to the boss since the first **Sun's Pinion** bait is immediate:
 <img class="soloImg" src="{{ page.imagePath | append: "fount1.jpg" }}">
 
 When the first Fountains appear, the Healers must move into them, on their respective sides, ready to soak them. Healers must heal themself after each soak.  
@@ -194,8 +213,11 @@ When a player gets his **Sun's Pinion**, he will place it in front of the Founta
 
 After the last Fountains, regoup mid to heal and shield everyone with the <span class="debuff">Trickle of Fire</span> debuff for the two incoming **Scorched Exaltation** followed by **Heat of Condemnation**.
 
-Then Firestorms of Asphodelos into Flames of Asphodelos into Experimental Ashplume (spread or group stack).  
-Flames of Asphodelos into Storms of Asphodelos.  
-Darkblaze Twister  
-Profit
+*Phoinix* will then cast **Firestorms of Asphodelos**. Heal everyone for **Flames of Asphodelos** into **Experimental Ashplume**, dodge the cones then either spread around the boss or stack in Melees and Ranged groups.
+
+Afterward **Flames of Asphodelos** will be casted again but with **Storms of Asphodelos** this time. Dodge the cones again and have two ranged DPS and a Healer bait the Tornadoes cones toward the outside, the Tanks must grab the tethers and move South outside the hitbox while the remaining Healer and the two Melees move inside the boss' hitbox to bait the cones toward the East, West and North East/West (based on where the other Healer is).  
+If both Tanks have their invulnerability, they can grab the tethers and move South inside the boss' hitbox and use them, one ranged will bait the North Tornado toward the outside and the rest of group stack North at max melee range, on the opposite side of the ranged DPS:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="stormAsphoLegit.jpg;stormAsphoInvul.jpg" imgDesc="'Classic' strategy;Startegy using Tanks' invulnerability" slideNumber=slideCounter %}
+
 </div>
