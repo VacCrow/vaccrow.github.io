@@ -105,25 +105,6 @@ ___
 The two closest players from *Phoinix* will recieve an AoE, when it resolves a *Sunshadow* will spawn and get tethered to that player. It's a proximity tether and after 6 seconds, it will dash toward that player.  
 Both attacks deal fire <span class="magic">magical damage</span> and apply a <span class="debuff">Fire Resistance Down II</span> debuff lasting 4 seconds.
 
-___
-
-+ **<ins>Firestorms of Asphodelos</ins>:**
-Raid-wide AoE dealing <span class="magic">magical damage</span>. The periodic raid-wide AoE from **Blazing Rain** will be back. And 3 *Fire Tornadoes* will spawn North, South East and South West.
-
-___
-
-+ **<ins>Flames of Asphodelos</ins>:**
-*Phoinix* will fire three set of two cones AoE in sequence that will cover the whole arena. (Deals <span class="magic">magical damage</span> and applies a <span class="debuff">Damage Down</span> debuff if hit?)
-
-___
-
-+ **<ins>Storms of Asphodelos</ins>:**
-From stream and log: one tb tether (so I guess 2 in total), 3 Cones from each tornadoes (100% it's proximity based), 1 cone from the boss (probably 3 cones in total, another protean like?).
-
-___
-
-+ **<ins>Darkblaze Twister</ins>:**
-Well it's in the log. /shrug
 
 </div>
 
