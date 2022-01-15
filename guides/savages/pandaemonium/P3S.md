@@ -123,7 +123,19 @@ From stream and log: one tb tether (so I guess 2 in total), 3 Cones from each to
 ___
 
 + **<ins>Darkblaze Twister</ins>:**
-Well it's in the log. /shrug
+*Phoinix* will tether himself to each Tornadoes. One is black the other two are red. After a few seconds, the black tether tornado wil perform an AoE knockback and then the other two will do a donut will a small safe zone, next to the Tornadoes.
+
+___
+
++ **<ins>Death's Toll</ins>:**
+Each player will recieve a <span class="speDebuff">Death's Toll</span> debuff lasting 25 seconds with either 1, 2 or 4 stacks. Four players with 1 stacks, two others with 2 stacks and the two last ones with 4 stacks.  
+When it resolves, if the player still has one stack he will die. A stack is removed when the player is hit by lethal damage.  
+When all stacks are removed, the player will be inflicted by a <span class="debuff">HP Recovery Down</span> debuff, lasting 15 seconds.
+
+___
+
++ **<ins>Life’s Agonies</ins>:**
+Raid-wide AoE dealing very high <span class="magic">magical damage</span> that scales on missing HPs.
 
 </div>
 
@@ -194,7 +206,7 @@ He will then become targetable and cast **Dead Rebirth**, mitigate appropriately
 
 This phase will start with **Heat of Condemnation**, stack and grab the tethers as usual.
 
-*Phoinix* will cast **Fledgling Flight** and the *Sparkfledged* will appear on top of 4 players, these players have to place them on the edge of the inner square, facing outside, on cardinal. Once placed, everyone should move in to avoid **Ashen Eye**:
+*Phoinix* will cast **Fledgling Flight** and the *Sparkfledged* will appear on top of 4 players, these players have to place them on the edge of the inner square, facing outside, on cardinals. Once placed, everyone should move in to avoid **Ashen Eye**:
 <img class="soloImg" src="{{ page.imagePath | append: "fledgling.jpg" }}">
 
 Stack mid after for **Experimental Gloryplume**. The **Experimental Fireplume** part is always 8 orbs here, and the **Experimental Ashplume** is random. Base on the initial explosion, split into 2 groups, Tanks/Melees on one side and Healer/Ranged on the other, then either stack or spread when the middle explosion happens.  
@@ -216,8 +228,20 @@ After the last Fountains, regoup mid to heal and shield everyone with the <span 
 *Phoinix* will then cast **Firestorms of Asphodelos**. Heal everyone for **Flames of Asphodelos** into **Experimental Ashplume**, dodge the cones then either spread around the boss or stack in Melees and Ranged groups.
 
 Afterward **Flames of Asphodelos** will be casted again but with **Storms of Asphodelos** this time. Dodge the cones again and have two ranged DPS and a Healer bait the Tornadoes cones toward the outside, the Tanks must grab the tethers and move South outside the hitbox while the remaining Healer and the two Melees move inside the boss' hitbox to bait the cones toward the East, West and North East/West (based on where the other Healer is).  
-If both Tanks have their invulnerability, they can grab the tethers and move South inside the boss' hitbox and use them, one ranged will bait the North Tornado toward the outside and the rest of group stack North at max melee range, on the opposite side of the ranged DPS:
+If both Tanks have their invulnerability, they can grab the tethers and move South inside the boss' hitbox and use them, one ranged will bait the North Tornado toward the outside and the rest of group stack North-ish at max melee range, on the opposite side of the ranged DPS:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="stormAsphoLegit.jpg;stormAsphoInvul.jpg" imgDesc="'Classic' strategy;Startegy using Tanks' invulnerability" slideNumber=slideCounter %}
 
+Next is **Darkblaze Twister** into **Experimental Ashplume**, regroup in front of the black tethered Tornado and rotate clockwise around *Phoinix* to bait the 4 **Searing Breeze**. Then move back to the black Tornado, get knockback away and stack into the Tornadoes' AoE in group, Melees on one and Ranged on the other. Then stay stack or spread based on **Experimental Ashplume** pattern.
+
+Quickly regroup and heal for the incomming **Scorched Exaltation**.
+</div>
+
+<div class="guideSection" markdown="1">
+<a id="SPhase 3"></a>
+
+The arena will go back to normal and *Phoinix* will cast **Death's Toll** into **Fledgling Flight**. The *Sparkfledged* will appear on top of 4 players, these players have to place them on the edge of the inner square, facing the middle of the arena, on cardinals. Once placed, to remove their stacks, players must be hit by **Ashen Eye**. The players with 1 stack will move behind a *Sparkfiledged* on a cardinal, players with 2 stacks will move at an intercardinal and the players with 4 stacks will stay middle:
+<img class="soloImg" src="{{ page.imagePath | append: "deathToll.jpg" }}">
+
+Immediatly move middle once all **Ashen Eye** are done to get healed for **Life’s Agonies**. Use Healer LB if heals aren't fast enough in order to survive.
 </div>
