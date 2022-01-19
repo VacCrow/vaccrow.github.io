@@ -37,7 +37,7 @@ ___
 
 + **<ins>Devouring Dark</ins>:**
 Two-hit magical tank buster. The first hit will deal small <span class="magic">magical damage</span> and apply a <span class="debuff">Magic Vulnerability Up</span> debuff for 4 seconds in a small AoE. The second hit will be a line AoE dealing massive damage.
-Swap tank during the cast bar or use any invulnerability.
+Swap tank during the cast or use any invulnerability.
 
 ___
 

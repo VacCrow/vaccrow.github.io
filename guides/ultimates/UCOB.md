@@ -146,13 +146,11 @@ ___
 
 + **<ins>Bahamut's Favor</ins>:**
 *Nael* will gain a <span class="buff">Damage Up</span> buff and 5 dragons will spawn outside the arena on cardinals or intercardinals (see **Divebomb** for more precisions about their positions):
-	+ Thunder Dragon: Apply a <span class="speDebuff">Thunderstruck</span> debuff on two random players lasting 5 seconds. When it resolves, **Chain Lightning** will be cast on their owner, dealing AoE <span class="magic">magical damage</span> and applying a Paralysis debuff lasting around 1 minutes to anyone else caught in the AoE.
-
-	+ Dark Dragon: Apply a <span class="speDebuff">Doom</span> debuff to two random players lasting 5 and 10 seconds the first time. The second and third time, it will apply a <span class="speDebuff">Doom</span> debuff to 3 other players lasting 5, 10 and 15 seconds. In the end, everyone will have had one <span class="speDebuff">Doom</span> debuff.
-	+ Light Dragon: Cast **Wing of Salvation**, placing light puddle under random player. After 3 seconds, it will explode killing anyone inside and will leave a small cleanse puddle on the ground, used to remove the <span class="speDebuff">Doom</span> debuff.
-
-	+ Ice Dragon: Will periodically cast **Iceball** on everyone, one by one, applying the <span class="speDebuff">Icebitten</span> debuff. If a player got two stacks of <span class="speDebuff">Icebitten</span>, he will die. If a player had a <span class="speDebuff">Firescorched</span> debuff, <span class="speDebuff">Icebitten</span> will cleanse it.
-	+ Fire Dragon: Will tether to a random player three times. A fireball will be launch at that player applying the <span class="speDebuff">Firescorched</span> debuff to anyone hit. If a player got two stacks of <span class="speDebuff">Firescorched</span>, he will die. If a player had an <span class="speDebuff">Icebitten</span> debuff, <span class="speDebuff">Firescorched</span> will cleanse it.
+	+ *Thunder Dragon*: Apply a <span class="speDebuff">Thunderstruck</span> debuff on two random players lasting 5 seconds. When it resolves, **Chain Lightning** will be cast on their owner, dealing AoE <span class="magic">magical damage</span> and applying a Paralysis debuff lasting around 1 minutes to anyone else caught in the AoE.
+	+ *Dark Dragon*: Apply a <span class="speDebuff">Doom</span> debuff to two random players lasting 5 and 10 seconds the first time. The second and third time, it will apply a <span class="speDebuff">Doom</span> debuff to 3 other players lasting 5, 10 and 15 seconds. In the end, everyone will have had one <span class="speDebuff">Doom</span> debuff.
+	+ *Light Dragon*: Cast **Wing of Salvation**, placing light puddle under random player. After 3 seconds, it will explode killing anyone inside and will leave a small cleanse puddle on the ground, used to remove the <span class="speDebuff">Doom</span> debuff.
+	+ *Ice Dragon*: Will periodically cast **Iceball** on everyone, one by one, applying the <span class="speDebuff">Icebitten</span> debuff. If a player got two stacks of <span class="speDebuff">Icebitten</span>, he will die. If a player had a <span class="speDebuff">Firescorched</span> debuff, <span class="speDebuff">Icebitten</span> will cleanse it.
+	+ *Fire Dragon*: Will tether to a random player three times. A fireball will be launch at that player applying the <span class="speDebuff">Firescorched</span> debuff to anyone hit. If a player got two stacks of <span class="speDebuff">Firescorched</span>, he will die. If a player had an <span class="speDebuff">Icebitten</span> debuff, <span class="speDebuff">Firescorched</span> will cleanse it.
 
 ___
 
@@ -343,7 +341,7 @@ ___
 	+ **Megaflare** towers will appear. Each tower need to (At least?) one player standing inside and will receive small <span class="magic">magical damage</span>. Otherwise, the tower will explode dealing raid-wide lethal damage.
 	+ Four big **Megaflare** puddles will appear on the ground. After a while, they will explode dealing <span class="magic">magical damage</span>.  
 
-   Due to Square Enix reasons, every mechanic written above won't appear simultaneously on each Megaflare cast (more information on the **Trios** section)
+	Due to Square Enix reasons, every mechanic written above won't appear simultaneously on each Megaflare cast (more information on the **Trios** section)
 
 ___
 

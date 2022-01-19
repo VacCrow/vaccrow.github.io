@@ -130,7 +130,15 @@ P3S:
       - name: Phase 2
       - name: Phase 3
 
-P4S:
+P4S_Part1:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: Phase 1
+
+P4S_Part2:
   - name: Abilities Breakdown
     section:
       - name: General Abilities

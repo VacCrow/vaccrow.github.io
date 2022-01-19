@@ -35,7 +35,7 @@ ___
 Raid-wide AoE dealing <span class="magic">magical damage</span>.  
 Also spawns *Tornadoes* on three different cardinal. These *Tornadoes* will use **Protean Waves** multiple times through the phase.
 
-The third **Cascade** cast is the enrage.
+	The third **Cascade** cast is the enrage.
 
 ___
 
