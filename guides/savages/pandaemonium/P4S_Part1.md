@@ -97,7 +97,7 @@ ___
 + **<ins>Belone Burst</ins>:**
 *Hesperos* will consume his <span class="buff">Aethersucker</span> and 8 orbs will spawn on cardinals/intercardinals. They will tether to the closest player and will be marked with that player role. If a player pops an orb with the same role as his, he will die.  
 When an orb is popped, it deals high <span class="magic">magical damage</span> that need to be soaked by two players and applies a <span class="speDebuff">Thrice-come Ruin</span> stack to anyone hit, transforming into a <span class="speDebuff">Doom</span> debuff at 3 stacks.  
-Orbs has to be pop by players with an <span class="speDebuff">Acting Role</span> debuff that corespond to the orb role mark.
+Orbs has to be pop by players with an <span class="speDebuff">Acting Role</span> debuff that corespond to the orb's role mark.
 
 ___
 
