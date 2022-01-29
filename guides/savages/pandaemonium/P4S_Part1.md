@@ -1,14 +1,15 @@
 ---
 layout: guides
-title: Asphodelos - The Fourth Circle (Savage) | P4S
+title: Asphodelos - The Fourth Circle (Savage) | P4S (Part 1)
 imagePath: /assets/img/guides/savages/pandaemonium/P4S_Part1/
-slideNumber: 4
+slideNumber: 2
 ---
 
 *Patch: 6.05  
 Minimum ilvl: i580  
 DPS Requirement: 48.2k  
-Loot:*
+Enrage timer: 07:13  
+Loot: None since it's a door boss*
 
 ___
 
@@ -105,16 +106,10 @@ ___
 All tiles will explode and deal <span class="magic">magical damage</span>.
 
 ___
-___
-From normal mode bellow:
-
-+ **<ins>Hell Skewer</ins>:**
-*Hesperos* will turn toward a random player and perform a line AoE in the same direction. Deals <span class="magic">magical damage</span> and some unknown shit.
-
-___
 
 + **<ins>Belone Coils</ins>:**
-Four towers will appear, spread around the middle of the arena. Each tower will contain a role that is forbidden. At least one player, not of a forbidden role, has to stand inside the towers.
+Four towers will appear, spread around the middle of the arena. Each tower will contain a role that is forbidden. At least one player, not of a forbidden role, has to stand inside the towers.  
+The cast of **Belone Coils** will modify *Heperos*' <span class="buff">Aethersucker</span> debuff. The towers' forbidden role(s) will be removed from <span class="buff">Aethersucker</span> when it will be used on **Aetheric Chlamys** or **Director’s Belone**.
 
 </div>
 ___
@@ -172,4 +167,23 @@ When the orbs appear, each pairs will run to the opposite side and pop the 2 orb
 {% include slideshow.html imgLink="burst1.jpg;burst2.jpg;burst3.jpg;burst4.jpg;burst5.jpg" imgDesc="Spread around the boss based on your debuff;Orbs spawn;Move to the opposite intercardinal side with your pair;Soak the first orb;Wait a bit for heals and soak the second orb" slideNumber=slideCounter %}
 
 Quickly take out the orbs before he start casting **Periaktoi** then stand into the tile that wasn't tethered previously.
+</div>
+
+<div class="guideSection" markdown="1">
+<a id="SPhase 2"></a>
+Grab the boss North before he cast the next **Bloodrake** on everyone. He will be followed by **Belone Coils** and **Inversive Chlamys**. Have everyone stack behind the boss, players of the fobidden role(s) will grab the tether and spread along the North edge while the other will soak the towers.
+Example with towers fobidden for DPS:
+<img class="soloImg" src="{{ page.imagePath | append: "coil.jpg" }}">
+
+He will then cast **Aetheric Chlamys** that will force the role(s) who grabed the tethers to grab them again on the next **Inversive Chlamys**.
+
+Next is another **Bloodrake** on every players followed by another **Belone Coils**. Players who can take the towers have to move in.  
+Once they're soaked, these players will move middle for the incomming **Director's Belone** to immediatly spread <span class="speDebuff">Role Call</span> among these players. When it's done, the 2 players without a debuff have to move in to get one.  
+Then the players who got hit by the previous **Inversive Chlamys** will grab the tethers and everyone will assume the same positions used for the first mechanic.
+
+*Heperos* will carry on with **Decollation** followed by **Elegant Evisceration**, remember to swap to use the remaining Tank inuvlnerability.
+
+Next is **Setting the Scene** into **Pinax**, same as previously. Four different **Mekhane** with a random **Swift** between the third and forth **Mekhane**.
+
+*Heperos* will cast **Decollation** three time in a row before enraging. His life needs to be brought down under 50% or it will be a wipe.
 </div>

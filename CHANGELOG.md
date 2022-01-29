@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.3] - 05/01/2022
+  + Pandamonium Savage added
+
 ## [1.2] - 20/11/2021
   + UCOB added
   + Changelog updated after 4 months

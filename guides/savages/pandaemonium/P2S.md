@@ -8,6 +8,7 @@ slideNumber: 5
 *Patch: 6.05  
 Minimum ilvl: i575  
 DPS Requirement: 41.9k  
+Enrage timer: 10:28  
 Loot:*
 + *Chest n°1: Asphodelos Head/Hand/Foot coffer + Discal Tomestone (Weapon Token)*
 + *Chest n°2: Asphodelos Head/Hand/Foot coffer + Radiant Coating  (Accesory Upgrade)*

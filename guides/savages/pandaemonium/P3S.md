@@ -8,6 +8,7 @@ slideNumber: 5
 *Patch: 6.05  
 Minimum ilvl: i580  
 DPS Requirement: 42.2k (full fight)  
+Enrage timer: 11:03 (full fight)  
 Loot:*
 + *Chest n°1: Asphodelos Legs coffer + Radiant Twine (Armor upgrade)*
 + *Chest n°2: Asphodelos Head/Hand/Foot coffer + Radiant Roborant (Weapon Upgrade)*

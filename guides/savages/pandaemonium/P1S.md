@@ -8,6 +8,7 @@ slideNumber: 0
 *Patch: 6.05  
 Minimum ilvl: i570  
 DPS Requirement: 39.7k  
+Enrage timer: 10:00  
 Loot:*
 + *Chest n°1: Asphodelos Earring/Necklace/Bracelet/Ring coffer*
 + *Chest n°2: 2 unique among Asphodelos Earring/Necklace/Bracelet/Ring coffer*

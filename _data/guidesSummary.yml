@@ -137,6 +137,7 @@ P4S_Part1:
   - name: Strategy
     section:
       - name: Phase 1
+      - name: Phase 2
 
 P4S_Part2:
   - name: Abilities Breakdown
