@@ -114,9 +114,9 @@ ___
 + **<ins>Akanthai: Act 3</ins>:**
 **Act** composed of a **Water IV** and eight **Thunder III** along the edge of the arena.  
 The resolve order is:
-	+ **Thunder III** towers on North or South.
+	+ **Thunder III** 4 towers on East or West side.
 	+ **Water IV**.
-	+ **Thunder III** towers on South or North, the one who didn't explode first.
+	+ **Thunder III** 4 towers on West or East, the one who didn't explode first.
 
 ___
 
