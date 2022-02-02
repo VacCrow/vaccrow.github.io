@@ -31,7 +31,9 @@ Large AoE dealing <span class="phys">magical damage</span> and applying a <span 
 ___
 
 + **<ins>Hemitheos's Fire III</ins>**:
-Blue tether between two players, turn dark when far. Explode when broken it seems.
+Two players are tethered with a Fire icon on top of them with a <span class="speDebuff">Thornpricked</span> debuff.  
+Turns dark when too far from each other, indicating it will break in 2 seconds. When broken, it explodes in a shared AoE dealing <span class="phys">magical damage</span> and applying a <span class="debuff">Magic Vulnerability Up</span>.  
+If the tether isn't broken when <span class="speDebuff">Thornpricked</span> resolve, it will kill both tethered player and will trigger the shared AoE.
 
 ___
 
@@ -42,13 +44,20 @@ if a tower isn't soaked it will explode, dealing raidwide <span class="phys">mag
 ___
 
 + **<ins>Hemitheos's Dark IV</ins>:**
-Dark AoE. /shrug
-Give <span class="speDebuff">Thornpricked</span> debuff?
+Two players are tethered with a Dark icon on top a player with a <span class="speDebuff">Thornpricked</span> debuff.  
+Turns dark when too far from each other, indicating it will break in 2 seconds. When broken, it explode dealing dealing raid-wide <span class="phys">magical damage</span> and applying a <span class="debuff">Magic Vulnerability Up</span>.
 
 ___
 
-+ **<ins>Hemitheos's Water IV</ins>**: (no info)
-Kb. Like every water spell Sadge.
++ **<ins>Hemitheos's Aero III</ins>**:
+Two players are tethered with a Wind icon on top of them with a <span class="speDebuff">Thornpricked</span> debuff.  
+Turns dark when too far from each other, indicating it will break in 2 seconds. When broken, it explode, dealing lethal damage to the tethered players and placing an AoE on the ground dealing <span class="phys">magical damage</span> and applying a <span class="debuff">Damage Down</span>.  
+If the tether isn't broken when <span class="speDebuff">Thornpricked</span> resolve, it will only put an AoE on the ground.
+
+___
+
++ **<ins>Hemitheos's Water IV</ins>**:
+Knockback from the middle of the arena.
 
 </div>
 
@@ -80,7 +89,7 @@ ___
 ___
 
 + **<ins>Dark Design</ins>**:
-Baited AoE?
+Baited AoE under every players, dealing very high <span class="phys">magical damage</span>.
 
 ___
 
@@ -89,8 +98,11 @@ ___
 The resolve order is:
 	+ **Fire IV** North/South and **Thunder III** towers East/West OR **Fire IV** East/West and **Thunder III** towers North/South.
 	+ **Fire IV** East/West and **Thunder III** towers North/South OR **Fire IV** North/South and **Thunder III** towers East/West. Opposite pattern of the previous one.
-	+ **Thunder III** towers.
-	+ **Fire IV** East/West or North/South, the ones who didn't explode first.
+	+ **Dark IV** between a Tank and a Healer, <span class="speDebuff">Thornpricked</span> lasts 10 seconds.
+	+ **Fire III** between a Tank and a Healer, <span class="speDebuff">Thornpricked</span> lasts 12 seconds.
+	+ **Fire III** between two DPS, <span class="speDebuff">Thornpricked</span> lasts 16 seconds.
+	+ **Aero III** between two DPS, <span class="speDebuff">Thornpricked</span> lasts 16 seconds.
+
 
 ___
 
@@ -110,6 +122,7 @@ ___
 
 + **<ins>Kothornos Kick</ins>:**
 Dash on main target (phys damage) then cone (mgc damage) on ?.
+Both hit gives magic vuln.
 
 </div>
 ___
