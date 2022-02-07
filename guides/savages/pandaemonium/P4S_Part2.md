@@ -224,9 +224,10 @@ Then based on your tether and role assumed the following position:
 + Both **Fire III** DPS has to move into the North/East tower safe spot and share with the **Fire III** Healer if possible. Then one of the DPS will rotate into the next clockwise safe spot while the other will go counterclockwise. The tether will break and they will share with the available players.
 + ***The Physical Ranged DPS has to stand into the first North/East tower and soak it regardless of his tether element.***
 
+Here's an example with the first towers on North and South:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="act2-.jpg;" imgDesc="" slideNumber=slideCounter %}
-
+{% include slideshow.html imgLink="act2-1.jpg;act2-2.jpg;act2-3.jpg" imgDesc="Break the <strong>Dark IV</storng> tether and bait <strong>Dark Design</storng>;<strong>Dark IV</storng> Healer and <strong>Fire III</storng> Tank move South, <strong>Fire III</storng> Healer North and the Physical Ranged in the tower;<strong>Dark IV</storng> Tank and a <strong>Fire III</storng> DPS move to the other group, Healers in towers and <strong>Fire III</storng> DPS on this marks" slideNumber=slideCounter %}
+<strong></storng>
 Once **Act 2** is done, quickly regroup, heal and mitigate for the incoming **Ultimate Impulse**.
 </div>
 
