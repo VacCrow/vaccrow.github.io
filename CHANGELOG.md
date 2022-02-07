@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.31] - 06/02/2022
+  + Pandamonium Savage completed
+
 ## [1.3] - 05/01/2022
   + Pandamonium Savage added
 

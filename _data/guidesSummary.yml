@@ -142,10 +142,16 @@ P4S_Part1:
 P4S_Part2:
   - name: Abilities Breakdown
     section:
+      - name: Akanthai Abilities
       - name: General Abilities
   - name: Strategy
     section:
-      - name: Phase 1
+      - name: Akanthai-Act 1
+      - name: Akanthai-Act 2
+      - name: Akanthai-Act 3
+      - name: Akanthai-Act 4
+      - name: Akanthai-Finale
+      - name: Akanthai-Curtain Call
 
 #------------EDEN-----------
 E9S:

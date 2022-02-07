@@ -8,7 +8,7 @@ slideNumber: 5
 *Patch: 6.05  
 Minimum ilvl: i580  
 DPS Requirement: 42.2k (full fight)  
-Enrage timer: 11:03 (full fight)  
+Enrage timer: 11:03 (full fight including adds enrage)  
 Loot:*
 + *Chest n°1: Asphodelos Legs coffer + Radiant Twine (Armor upgrade)*
 + *Chest n°2: Asphodelos Head/Hand/Foot coffer + Radiant Roborant (Weapon Upgrade)*
@@ -114,12 +114,16 @@ Raid-wide AoE dealing <span class="magic">magical damage</span>. The periodic ra
 ___
 
 + **<ins>Flames of Asphodelos</ins>:**
-*Phoinix* will fire three set of two cones AoE in sequence that will cover the whole arena. (Deals <span class="magic">magical damage</span> and applies a <span class="debuff">Damage Down</span> debuff if hit?)
+*Phoinix* will fire three set of two cones AoE in sequence that will cover the whole arena. Deals <span class="magic">magical damage</span> and applies a <span class="debuff">Damage Down</span> debuff if hit.
 
 ___
 
 + **<ins>Storms of Asphodelos</ins>:**
-From stream and log: one tb tether (so I guess 2 in total), 3 Cones from each tornadoes (100% it's proximity based), 1 cone from the boss (probably 3 cones in total, another protean like?).
+Combination of:
+	+ 2 **Heat of Condemnation** tethers.
+	+ 3 **Winds of Asphodelos** from the boss.
+	+ 1 **Winds of Asphodelos** from each *Fire Tornadoes*.
+**Winds of Asphodelos**: cone AoE aimed at the closest players dealing <span class="magic">magical damage</span> and applies a <span class="debuff">Fire Resistance Down II</span>.
 
 ___
 
