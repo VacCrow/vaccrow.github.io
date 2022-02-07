@@ -190,7 +190,7 @@ ___
 <h1><a id="Strategy">Strategy</a></h1>
 
 <div class="guideSection" markdown="1">
-<a id="SAkanthai-Act 1"></a>
+<a id="SAkanthai Act 1"></a>
 
 The fight starts with **Searing Stream** immediatly followed by **Akanthai: Act 1** and another **Searing Stream**.
 
@@ -208,7 +208,7 @@ Once **Act 1** is completed, the boss will cast **Nearsight** or **Farsight**:
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SAkanthai-Act 2"></a>
+<a id="SAkanthai Act 2"></a>
 
 *Hesperos* will cast **Akanthai: Act 2** and when every mechanics are shown he will cast **Demigod Double**, use a Tank invulnerability.
 
@@ -231,7 +231,7 @@ Once **Act 2** is done, quickly regroup, heal and mitigate for the incoming **Ul
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SAkanthai-Act 3"></a>
+<a id="SAkanthai Act 3"></a>
 
 *Hesperos* will immediatly follow up with **Akanthai: Act 3** and **Wreath Of Thorns**. Identify where the first set of tower is. The first set will be soaked by Ranged while the second is taken care of by the Melees.  
 At the end of the cast, everyone must be inside *Hesperos*' hitbox. While a single melee will move out of it, at max melee range, on the Melees side (East or West) in order to bait **Kothornos Kick**. Then the Ranged will move into their assigned towers. The Melee who baited has to move out of the boss hitbox while the other 3 Melees will move in and spread around the boss to bait **Kothornos Quake**. These player must aim towards the outside in order to not cleave anyone.  
@@ -245,7 +245,7 @@ When **Act 3** is done, the boss will cast **Nearsight** or **Farsight**, resolv
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SAkanthai-Act 4"></a>
+<a id="SAkanthai Act 4"></a>
 
 *Hesperos* will cast the next **Akanthai: Act 4** followed by **Searing Stream**. Heal up during **Wreath of Thorns** cast.
 Everyone has to wait for the second **Searing Stream** to recieve heals, then based on their *Thorn*:
@@ -259,7 +259,7 @@ All tethers has been broken before **Ultimate Impulse** cast reach 60%, heal and
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SAkanthai-Finale"></a>
+<a id="SAkanthai Finale"></a>
 
 *Hesperos* will continue with **Searing Stream** before casting **Akanthai: Finale**. Once **Wreath of Thorns** is casted, everyone will spread around the *Thorn* they're tethred to, with Melees in contact with the boss and Ranged along the edge or on the sides.
 <img class="soloImg" src="{{ page.imagePath | append: "finale.jpg" }}">
@@ -270,7 +270,7 @@ Once **Akanthai** is done, the boss will cast another **Nearsight** or **Farsigh
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SAkanthai-Curtain Call"></a>
+<a id="SAkanthai Curtain Call"></a>
 
 *Hesperos* will use **Akanthai: Curtain Call** to close the fight. Every player will be tethered to a *Thorn* with **Dark IV**.  
 The tethers need to be popped in a specific order:
