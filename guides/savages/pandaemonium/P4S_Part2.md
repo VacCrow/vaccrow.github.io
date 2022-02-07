@@ -226,7 +226,7 @@ Then based on your tether and role assumed the following position:
 
 Here's an example with the first towers on North and South:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="act2-1.jpg;act2-2.jpg;act2-3.jpg" imgDesc="Break the <strong>Dark IV</strong> tether and bait <strong>Dark Design</strong>;<strong>Dark IV</storng> Healer and <strong>Fire III</strong> Tank move South, <strong>Fire III</strong> Healer North and the Physical Ranged in the tower;<strong>Dark IV</strong> Tank and a <strong>Fire III</strong> DPS move to the other group, Healers in towers and <strong>Fire III</strong> DPS on this marks" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="act2-1.jpg;act2-2.jpg;act2-3.jpg" imgDesc="Break the <strong>Dark IV</strong> tether and bait <strong>Dark Design</strong>;<strong>Dark IV</strong> Healer and <strong>Fire III</strong> Tank move South, <strong>Fire III</strong> Healer North and the Physical Ranged in the tower;<strong>Dark IV</strong> Tank and a <strong>Fire III</strong> DPS move to the other group, Healers in towers and <strong>Fire III</strong> DPS on this marks" slideNumber=slideCounter %}
 
 Once **Act 2** is done, quickly regroup, heal and mitigate for the incoming **Ultimate Impulse**.
 </div>
