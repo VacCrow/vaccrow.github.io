@@ -93,6 +93,12 @@ TEA:
           - phase: TB
           - phase: Fate Calibration ꞵ
 
+DSR:
+  - name: PHASE_X
+    section:
+      - name: Abilities Breakdown
+      - name: Strategy
+
 
 
 #------------SAVAGE FIGHTS-----------

@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.4] - 25/42/2022
+  + DSR implemented
+
 ## [1.31] - 06/02/2022
   + Pandamonium Savage completed
 

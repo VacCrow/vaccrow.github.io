@@ -5,16 +5,17 @@ imagePath: /assets/img/guides/ultimates/TEA/
 slideNumber: 18
 ---
 
-*Patch: 4.31  
+*Patch: 5.11  
 Minimum ilvl: i470  
 Maximum ilvl: i475  
-Maxsubstat ilvl: unknown at the moment  
+Maxsubstat ilvl: 595  
 DPS Requirement: ~80k for Perfect Alexander (downtime included)  
 Loot:*
-+ *Token: Colossus Totem (1 token for an Ultima weapon)*
++ *Token: Colossus Totem (1 token for an Ultimate weapon)*
 
 *Notes: Two pots can be used in Perfect Alexander phase. One when the phase starts and the second after the second Almighty Judgement.*
 
+___
 <h1>P1 & Limit Cut editing in progress</h1>
 
 <h1><a id="Living Liquid">Living Liquid</a></h1>

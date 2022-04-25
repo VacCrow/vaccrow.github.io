@@ -29,8 +29,8 @@ ___
 + **<ins>Formless judgement</ins>:**
 Two tankbusters in a row on both the main target and the second player in the aggro list. Targets for the first attacks are acquired and set when the cast begins, targets for the second attacks are set when the cast is over.
 
-    + *Eden's Promise* attacks on the main target will deal **slash** <span class="phys">physical damage</span> and apply a <span class="debuff">Slashing Resistance Down</span> debuff.  
-    + *Eden's Promise* attacks on the second target will deal **pierce** <span class="phys">physical damage</span> and apply a <span class="debuff">Piercing Resistance Down</span> debuff.
+	+ *Eden's Promise* attacks on the main target will deal **slash** <span class="phys">physical damage</span> and apply a <span class="debuff">Slashing Resistance Down</span> debuff.  
+	+ *Eden's Promise* attacks on the second target will deal **pierce** <span class="phys">physical damage</span> and apply a <span class="debuff">Piercing Resistance Down</span> debuff.
 
 ___
 
