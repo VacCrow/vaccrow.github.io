@@ -11,7 +11,7 @@ Maximum ilvl: i605
 Maxsubstat ilvl: unknown at the moment (i725 probably)  
 DPS Requirement: ~1524890k or a bit less if you sacrifce a Lala  
 Loot:*
-+ *Token:  Totem (1 token for a weapon)*
++ *Token: 1 Totem (1 token for a weapon)*
 
 *Notes: There is no notes Sadge.*
 
