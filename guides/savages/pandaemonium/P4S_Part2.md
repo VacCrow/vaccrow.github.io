@@ -2,7 +2,7 @@
 layout: guides
 title: Asphodelos - The Fourth Circle (Savage) | P4S (Part 2)
 imagePath: /assets/img/guides/savages/pandaemonium/P4S_Part2/
-slideNumber: 4
+slideNumber: 3
 ---
 
 *Patch: 6.05  
@@ -240,7 +240,7 @@ When **Kothornos Quake** and the first **Thunder III** resolve, everyone has to 
 Then 3 Ranged will move back to the middle of the arena while the last one will stay next to the edge to bait the next **Kothornos Kick**. At the same time, the second set of **Thunder III** will resolve.  
 Once **Kothornos Kick** is done, the Melees can dash to the boss and the baiter can move back middle outside of the boss' hitbox. Let the other 3 Ranged move in and bait the incomming **Kothornos Quakes**.
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="act3-.jpg;" imgDesc="" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="act3-1.jpg;act3-2.jpg;act3-3.jpg;act3-4.jpg" imgDesc="A Melee baits <strong>Kothornos Kick</strong>;Ranged move into the first set of <strong>Thunder III</strong>, the 3 other Melees move in to bait <strong>Kothornos Kick</strong>;Melees move into the second set of <strong>Thunder III</strong>, one Ranged baits <strong>Kothornos Kick</strong>;The 3 other Ranged move in to bait <strong>Kothornos Kick</strong>" slideNumber=slideCounter %}
 
 When **Act 3** is done, the boss will cast **Nearsight** or **Farsight**, resolve as previously. He will then link up with **Heart Stake**, have both Tanks mitigating this or swap during the cast to have both hit into a Tank invulnerability.
 </div>
@@ -256,7 +256,7 @@ Everyone has to wait for the second **Searing Stream** to recieve heals, then ba
 
 Afterward, everyone must regroup South to get healed and break the **Dark IV** tethers in sequencially, starting from North in a clockwise manner. Remember to always be away from the *Thorn* that is triggered to avoid the **Fire IV** AoE.
 
-All tethers has been broken before **Ultimate Impulse** cast reach 60%, heal and mitigate accordingly.
+All tethers has to be broken before **Ultimate Impulse** cast reach 60%, heal and mitigate accordingly.
 </div>
 
 <div class="guideSection" markdown="1">
@@ -275,8 +275,8 @@ Once **Akanthai** is done, the boss will cast another **Nearsight** or **Farsigh
 
 *Hesperos* will use **Akanthai: Curtain Call** to close the fight. Every player will be tethered to a *Thorn* with **Dark IV**.  
 The tethers need to be popped in a specific order:
-+ Players with the lowest duration will break their tethers first. Reminder that duration are 12, 22, 32 and 42 seconds.
++ Players with the lowest duration will break their tethers first. Reminder that durations are 12, 22, 32 and 42 seconds.
 + A DPS will start first, then it will alternate between a Tank/Healer and DPS.
 
-While the tethers are breaking, *Hesperos* will cast **Hell's Sting**. Move out of it then move in when the first attack is done to avoid the second.
+While the 1st and 5th tethers are breaking, *Hesperos* will cast **Hell's Sting**. Move out of it then move in after the first attack is done to avoid the second set of cones.
 </div>
