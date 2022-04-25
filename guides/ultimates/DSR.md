@@ -9,7 +9,7 @@ slideNumber: 3
 Minimum ilvl: i600  
 Maximum ilvl: i605  
 Maxsubstat ilvl: unknown at the moment (i725 probably)  
-DPS Requirement: ~1524890k or a bit less if you sacrifce a Lala 
+DPS Requirement: ~1524890k or a bit less if you sacrifce a Lala  
 Loot:*
 + *Token:  Totem (1 token for a weapon)*
 
