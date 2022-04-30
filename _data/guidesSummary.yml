@@ -90,15 +90,15 @@ TEA:
       - name: Strategy
         phases:
           - phase: Fate Calibration ⍺
-          - phase: TB
           - phase: Fate Calibration ꞵ
 
 DSR:
-  - name: PHASE_X
+  - name: The Vault Knights
     section:
       - name: Abilities Breakdown
       - name: Strategy
-
+        phases:
+        - phase: Planar Imprisonment
 
 
 #------------SAVAGE FIGHTS-----------

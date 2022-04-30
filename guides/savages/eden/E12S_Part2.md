@@ -16,8 +16,6 @@ Loot:*
 ___
 <h1><a id="Abilities Breakdown">Abilities Breakdown</a></h1>
 
-During the fight, players may receive a <span class="spedebuff">Twice-come Ruin</span> debuff that can be stacked. When a player gots two stacks it transforms into an unremovable <span class="spedebuff">Doom</span> debuff that will kill you 3 seconds later.
-
 <div class="guideSection" markdown="1">
 <h2><a id="ABGeneral Abilities">General Abilities:</a></h2>
 
@@ -56,6 +54,10 @@ Enrage.
 
 During the fight, *Oracle of Darkness* will receive the <span class="buff">Spell-in-Waiting</span> buff and cast delayed spells as Voidwalker in E2S. She will also apply some of these delayed spells during Basic, Intermediate, Advance and Terminal Relativity instantly.  
 When she casts/applies a delayed spell, the player(s) will receive debuff(s) within this list lasting X seconds telling them when the mechanic will resolve.
+
+Furthermore, players may receive a <span class="speDebuff">Twice-come Ruin</span> debuff that can be stacked. When a player gots two stacks, it transforms into an unremovable <span class="speDebuff">Doom</span> debuff that will kill you 3 seconds later.
+
+___
 
 + **<ins>Spell-in-Waiting Dark Eruption</ins>:**
 AoE on a player dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Magic Vulnerability Up</span>.

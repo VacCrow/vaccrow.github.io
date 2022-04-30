@@ -25,6 +25,8 @@ Thought the fight, *Hesperos* will use several **Akanthai: X**. Each **Akanthai*
 During each **Akanthai** cast, *Hesperos* will show every mecanics that will happen. When the cast is over, every mechanics will be replaced by *Thorns*.
 Then he will cast **Wreath Of Thorns**, tethering himself to the *Thorns* in sequence showing the order of the **Akanthai** mechanics.
 
+___
+
 + **<ins>Hemitheos's Fire IV</ins>**:
 Large AoE dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Damage Down</span> debuff.
 

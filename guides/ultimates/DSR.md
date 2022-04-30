@@ -2,41 +2,185 @@
 layout: guides
 title: Dragonsong's Reprise | DSR
 imagePath: /assets/img/guides/ultimates/DSR/
-slideNumber: 3
+slideNumber: 4
 ---
 
 *Patch: 6.11  
 Minimum ilvl: i600  
 Maximum ilvl: i605  
-Maxsubstat ilvl: unknown at the moment (i725 probably)  
+Maxsubstat ilvl: (i725 probably)  
 DPS Requirement: ~1524890k or a bit less if you sacrifce a Lala  
 Loot:*
 + *Token: 1 Dragonsong Totem (1 token for an ultimate weapon of the heavens)*
 
-*Notes: There is no notes Sadge.*
+*Notes: There is no notes yet. Sadge.*
 
 ___
 
-<!-- <h1><a id="PHASE_X">PHASE_X</a></h1>
+<h1><a id="The Vault Knights">The Vault Knights</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="PHASE_XAbilities Breakdown">Abilities Breakdown</a></h2>
+<h2><a id="The Vault KnightsAbilities Breakdown">Abilities Breakdown</a></h2>
+
+*Ser Adelphel* and *Ser Grinnaux* must be killed at the same time. When one die, the other will start casting his enrage.
 
 ___
 
-+ **<ins></ins>:** <span class="phys"></span>.
++ **<ins>Holiest of Holy</ins>:**
+Raid-wide AoE from *Ser Adelphel* dealing <span class="magic">magical damage</span>.
 
 ___
 
++ **<ins>Empty/Full Dimension</ins>:**
+AoE based on *Ser Grinnaux* postion, dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Damage Down</span> debuff:
+	+ **Empty Dimension** has a donut shape.
+	+ **Full Dimension** has a pointblank shape.
+
+___
+
++ **<ins>Holy Shield Bash</ins>:**
+Tank buster tether from *Ser Adelphel* dealing AoE <span class="phys">physical damage</span> and applying <span class="speDebuff">Down for the Count</span> debuff lasting 6 seconds.
+
+___
+
++ **<ins>Holy Blade Dance</ins>:**
+6-hits tank buster from *Ser Adelphel* dealing <span class="phys">physical damage</span>.
+
+___
+
++ **<ins>Heavensblaze</ins>:**
+Share AoE from *Ser Charibert* dealing <span class="magic">magical damage</span>. He will target any random player but the Tanks.  
+Since *Ser Charibert* is outside and not targetable, he's not affected by targeted debuffs such as Reprisal.
+
+___
+
++ **<ins>Hyperdimensional Slash</ins>:**
+*Ser Grinnaux* will mark 4 random players than will get hit by a line AoE dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Magic Vulnerability Up</span> debuff.  
+An *Aetherical Tear* will appear where the line AoE meets the wall. It will:  
+	+ deal very high <span class="magic">magical damage</span> and apply a <span class="debuff">Damage Down</span> debuff to any player close to it. (named **Dimensional Torsion**)
+	+ deal raid-wide <span class="magic">magical damage</span> and apply a <span class="debuff">Damage Down</span> debuff if two *Aetherical Tear* are too close to each other or if a boss is too close to it. (named **Dimensional Purgation**)
+
+	A random player among the 4 others players will get targeted by a 120° shared cleave dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Magic Vulnerability Up</span> debuff.
+
+___
+
++ **<ins>Faith Unmoving</ins>:**
+AoE knockback from *Ser Grinnaux* dealing small <span class="phys">physical damage</span>.
+
+___
+
++ **<ins>Shining Blade</ins>:**
+*Ser Adelphel* will appear on a random cardinal. He will dash between cardinals, 3 three times in a Z shape followed by a last dash toward his starting position. Each dash deals lethal damage and applies a <span class="debuff">Damage Down</span> debuff.  
+On the dash paths, multiple *Brightspheres* will spawn. After 2 seconds, the *Brightsphere* will explode in AoE, dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Damage Down</span> debuff. (named **Bright Flare**)
+
+___
+
++ **<ins>Execution</ins>:**
+AoE tank buster from *Ser Adelphel* dealing <span class="magic">magical damage</span>. It will knock away any player hit but the main target.
+
+___
+
++ **<ins>Holiest Hallowing</ins>:**
+After a 4 seconds cast, *Ser Adelphel* will heal himself for 500k HP and *Ser Grinnaux* for 1M HP. ***Can be interrupted.***
+
+___
+
++ **<ins>Holy Chain</ins>:**
+Every player will be chained and marked with <span class="speDebuff">Burning Chains</span> to another random player, both sharing the same marker. The chains can be broken based on distance.  
+If two players are close to each other when <span class="speDebuff">Burning Chains</span> spawned, it will easily break meanwhile if they are far from each other at start, they'll have to run further away.  
+After a set time and if the chains aren't broken, the players will recieve <span class="magic">magical damage</span> and a <span class="debuff">Damage Down</span> debuff every 3 seconds.
+
+	The markers are assigned in a half random manner:  
+	+ Tanks will be marked with a <span style="color: dodgerblue">Cross</span> and a <span style="color: MediumPurple">Square</span>.
+	+ Healers will be marked with a <span style="color: dodgerblue">Cross</span> and a <span style="color: MediumSeaGreen">Triangle</span>.
+	+ DPS will be marked with a <span style="color: MediumPurple">Square</span> , a <span style="color: MediumSeaGreen">Triangle</span> and two <span style="color: Tomato">Circle</span>.
+
+___
+
++ **<ins>Heavensflame</ins>:**
+AoE on every player dealing fire <span class="magic">magical damage</span> and applying a <span class="debuff">Fire Resistance Down II</span> debuff.
+
+___
+
++ **<ins>Brightblade's Steel/The Bull's Steel</ins>:**
+*Ser Adelphel* and *Ser Grinnaux* respective enrages. They will fully heal themselves and gain <span class="buff">Invincibility</span> and <span class="buff">Damage Up</span> buffs, wiping everyone with their next attacks.
+
+___
+
++ **<ins>Planar Prison</ins>:**
+*Ser Grinnaux* will stun and pull everyone toward him. Afterward, he will chain himself with every player, applying a <span class="speDebuff">Planar Imprisonment</span> debuff, forciong the players to stay inside the reduced arena.
+
+___
+
++ **<ins>Spear of the Fury</ins>:**
+*Ser Zephirin* will cast it from outside the arena. *Haufrechant* will move in to intercept the attack. While he's alive, the group will recieve raid-wide unaspected damage</span>.
+
+___
+
++ **<ins>Brightwinged Flight</ins>:**
+*Ser Adelphel* will protect *Ser Charibert* while giving him two buffs:
++ <span class="buff">Brightwinged Fortitude</span>: reducing damage taken.
++ <span class="buff">Brightwinged Fury</span>: when this buff has 18 seconds left, the two closest players will be targeted every 5 seconds with a thin cleave (**Brightwing**) dealing light <span class="magic">magical damage</span>, applying a <span class="debuff">Light Resistance Down</span> debuff lasting 18 seconds and a <span class="speDebuff">Skyblind</span> debuff lasting 5 seconds. When <span class="speDebuff">Skyblind</span> resolves, a small AoE will explode at that location after 2 seconds, dealing <span class="magic">magical damage</span>.
+
+___
+
++ **<ins>Pure of Heart</ins>:**
+When the cast is over, *Ser Charibert* will deal raid-wide <span class="magic">magical damage</span> based on his remaining HP.
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="PHASE_XStrategy">Strategy</a></h2>
+<h2><a id="The Vault KnightsStrategy">Strategy</a></h2>
 
+Pull both bosses and bring them middle. Focus *Ser Adelphel* during the opener since he will disappear multiple times during the phase.  
+*Ser Adelphel* will use **Holiest of Holy**.
 
-</div> -->
+Next, *Ser Grinnaux* will start casting **Empty Dimension** and *Ser Adelphel* will tether to a random player.  
+The group will move South, on *Ser Grinnaux* hitbox, to mitigate and stack together for the incomming **Heavensblaze**. Meanwhile, one Tank will grab the tether, move North of *Ser Grinnaux* and use his invulnerability to cover for **Holy Shield Bash** and **Holy Blade Dance**.  
+<img class="soloImg" src="{{ page.imagePath | append: "holyBash.jpg" }}">
 
-<h1>Abilities from old fights used as references</h1>
+*Ser Adelphel* will leave the arena and *Ser Grinnaux* will jump to the middle to cast **Hyperdimensional Slash**.  
+The marked players will fan out North and aim as shown in the diagram while the 4 others stack South the boss. Once the first set of attacks is done, roles will be reversed, with marked players fanning out South and the rest stacking North:
+{% assign slideCounter = 0 %}
+{% include slideshow.html imgLink="hyperdim1.jpg;hyperdim2.jpg" imgDesc="Marked players fan out North, the rest stack South;Marked players fan out South, the rest stack North" slideNumber=slideCounter %}
+
+*Ser Adelphel* will appear on a cardinal and *Ser Grinnaux* will cast **Faith Unmoving**. Move away from *Ser Adelphel* or use the knockback from **Faith Unmoving** to do so and wait for *Ser Adelphel*.  
+After the first dash, move toward the cardinal where *Ser Adelphel* dashed to and stop mid-way to dodge the *Brightspheres* explosions.  
+The Tank with *Ser Adelphel* 's aggro will resume his course after the explosion to take **Execution** alone:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="shinning1.jpg;shinning2.jpg;shinning3.jpg;shinning4.jpg" imgDesc="Watch where <em>Ser Adelphel</em> is and get knocked to the opposite side;Watch where he dashes and move in that direction;Stop mid-way to dodge <em>Brightspheres</em> explosions;<em>Ser Adelphel</em>'s Tank resume his run for <strong>Execution</strong>" slideNumber=slideCounter %}
+
+Bring back the bosses middle. The Tank in charge of *Ser Adelphel* must interrupt **Holiest Hallowing** cast in the mean time.
+
+Soon after, *Ser Grinnaux* will cast **Faith Unmoving** and chain markers will be applied to everyone:  
++ The Tanks will move North of *Ser Grinnaux* and the Healers South.
++ The Tank and Healer with the <span style="color: dodgerblue">Cross</span> won't move while the Tank with the <span style="color: Orchid">Square</span> will move to the next clockwise spot and the Healer with the <span style="color: MediumSeaGreen">Triangle</span> will move to the next counter-clockwise spot.
++ The DPS with the <span style="color: MediumSeaGreen">Triangle</span> and <span style="color: Orchid">Square</span> will move to the opposite side of their partner and the two <span style="color: Tomato">Circle</span> take the remaining East and West spots.  
+Stand inside *Ser Grinnaux* hitbox to get knocked away and easily break the chains then wait a bit for **Heavensflame** to resolve on everyone before regrouping.
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="chain1.jpg;chain2.jpg;chain3.jpg;chain4.jpg;chain5.jpg" imgDesc="Tanks North and Healers South;Tank/Healer Cross stay, Tank Square move one spot clockwise, Healer Triangle move one spot counter-clockwise;DPS fill the gap and Circles adjust;Stand inside <em>Ser Grinnaux</em> hitbox and get knocked back;Wait for <strong>Heavensflame</strong>" slideNumber=slideCounter %}
+
+The physical ranged DPS (or the Tank in charge of *Ser Grinnaux*) must interrupt **Holiest Hallowing** cast that happend right after **Heavensflame**.
+
+Bring back the bosses together. Mitigate the incomming **Holiest of Holy** and move in or out for **Empty/Full Dimension**.  
+Immediatly after, the Tank in charge of *Ser Adelphel* must interrupt the **Holiest Hallowing** cast.  
+Afterward, *Sir Adelphel* will cast another **Holiest of Holy**.
+
+Finally they will cast their enrages **Brightblade's Steel** and **The Bull's Steel**.
+
+___
+
+<a id="SPlanar Imprisonment">If they are killed in time, *Ser Grinnaux* will pull everyone into a smaller arena. Right after, *Ser Charibert* will start to cast **Pure of Heart** and need to be brought as low as possible.
+
+The group will stay middle at max melee range. Then the first pair will move inside *Ser Charibert*  's hitbox between him and the wall to bait the first set of **Brightwing** toward the outside. Once they're hit, they move to a side of the arena at max melee range and wait there to lose their <span class="speDebuff">Skyblind</span> debuff before going back with the group.  
+The pairs order is the following: <u>Tanks -> Ranged DPS -> Melee DPS -> Healers</u>. The Melees will move to the left side to drop their debuff while the Ranged will move to the right side:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="planar1.jpg;planar2.jpg;planar3.jpg;planar4.jpg;planar5.jpg;planar6.jpg" imgDesc="Tanks move in;Tanks to the left side and Ranged DPS move in;Ranged DPS to the right side and Melee DPS move in;Melee DPS to the left side and Healers move in;Healers can wait here;Healers mid and heal everyone" slideNumber=slideCounter %}
+
+*Note: if Ser Charibert won't be low enough, you can cheese the mechanic by boosting a Tank mitigation so he may survive the damage or timing a ressurection right when Pure of Heart is happening.*
+
+</div>
+
+<h1>Abilities from old fights</h1>
 
 <div class="guideSection" markdown="1">
 <h2>ThorEx</h2>

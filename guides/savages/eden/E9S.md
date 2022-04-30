@@ -56,7 +56,7 @@ ___
 + **<ins>Flood of Obscurity</ins>:**
 Knock back every player away from *Cloud of Darkness*. An *Evil Seed* will drop under every player, dealing small <span class="magic">magical damage</span> and applying a <span class="debuff">Magic Vulnerability Up</span> debuff for 1 second.  
 After a few seconds, every player will be tethered with <span class="speDebuff">Thorny Vines</span> to the closest *Evil Seed*. Every DPS will also be tethered to a random Tank/Healer with <span class="speDebuff">Thorny Vines</span>.
-Once <span class="speDebuff">Thorny Vines</span> appears, it will break with enough distance. If two players are close to each other when <span class="speDebuff">Thorny Vines</span>, it will easily break meanwhile if they are far from each other, they'll have to run further away. If it isn’t broken fast enough, the players will gain a <span class="debuff">Damage Down</span> debuff.
+Once <span class="speDebuff">Thorny Vines</span> appears, it will break with enough distance. If two players are close to each other when <span class="speDebuff">Thorny Vines</span> spawned, it will easily break meanwhile if they are far from each other at start, they'll have to run further away. If it isn’t broken fast enough, the players will gain a <span class="debuff">Damage Down</span> debuff.
 
 ___
 
