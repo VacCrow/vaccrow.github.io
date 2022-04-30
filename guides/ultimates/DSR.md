@@ -180,6 +180,134 @@ The pairs order is the following: <u>Tanks -> Ranged DPS -> Melee DPS -> Healers
 
 </div>
 
+<h1><a id="Thordan">Thordan</a></h1>
+
+<div class="guideSection" markdown="1">
+<h2><a id="ThordanAbilities Breakdown">Abilities Breakdown</a></h2>
+
+
++ **<ins>Ascalon’s Mercy Concealed</ins>:**
+Cone aimed at every players dealing <span class="phys">physical damage</span> and applying a <span class="debuff"></span> debuff. The players positions are snapshoted at the end of the cast and the cones are fired 2 seconds later.
+
+___
+
++ **<ins>Ascalon’s Might</ins>:**
+120° cleave tank buster on the main target dealing slashing <span class="phys">physical damage</span>.
+
+___
+
++ **<ins>Ancient Quaga</ins>:**
+Raid-wide AoE dealing <span class="magic">magical damage</span>.
+
+___
+
++ **<ins>Heavenly Heel</ins>:**
+Tank buster on the main target dealing <span class="phys">physical damage</span> and applying a <span class="debuff">Slashing Resistance Down</span> debuff.
+
+___
+
++ **<ins>Ultimate End</ins>:**
+Raid-wide AoE dealing very high <span class="magic">magical damage</span>. Require mitigation.
+
+___
+
++ **<ins>Broad Swing</ins>:**
+*Thordan* will perform 3 120° cleave dealing <span class="phys">physical damage</span> and applying a <span class="debuff">Damage Down</span> debuff.  
+He will cleave toward his North West, North East and South with the South one always being the last hit.
+
+___
+
++ **<ins>Aetheric Burst</ins>:**
+Enrage.
+
+___
+
+</div>
+
+<div class="guideSection" markdown="1">
+<h2><a id="ThordanStrength of the Ward">Strength of the Ward</a></h2>
+
+
++ **<ins>Spiral Thrust</ins>:**
+Line AoE performed by the Spear Knights that cross the arena through the middle, dealing <span class="phys">physical damage</span>.
+
+___
+
++ **<ins>Lightning Storm</ins>:**
+AoE on everyone dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Lightning Resistance Down II</span> debuff.
+
+___
+
++ **<ins>Heavy Impact</ins>:**
+Multiple delayed hit AoE performed by the Axe Knight that grow each time, dealing <span class="magic">magical damage</span> on every hit.  
+The first AoE is pointblank while the four next are donut-shaped. Each donut encompass the previous AoE.
+
+___
+
++ **<ins>Dimensional Collapse</ins>:**
+Groud AoEs that grow over time, dealing <span class="magic">magical damage</span>, applying a <span class="debuff">Damage Down</span> debuff and a <span class="debuff">Heavy</span> debuff. Grow 7 times before exploding.
+
+___
+
++ **<ins>Conviction</ins>:**
+Towers that deal small <span class="magic">magical damage</span> when soaked. Deals very high raid-wide <span class="magic">magical damage</span> when not soaked.
+
+___
+
++ **<ins>Skyward Leap</ins>:**
+A player recieve a blue marker. After 9 seconds, a knight will dive that player in AoE, dealing <span class="magic">magical damage</span>, applying a <span class="debuff">Physical Vulnerability Up</span> debuff and a <span class="debuff">Magic Vulnerability Up</span> debuff.
+
+___
+
++ **<ins>The Dragon’s Rage</ins>:**
+Share AoE on a non-Tank and non **Skyward Leap** marked player, dealing <span class="magic">magical damage</span>.
+
+</div>
+
+<div class="guideSection" markdown="1">
+<h2><a id="ThordanSanctity of the Ward">Sanctity of the Ward</a></h2>
+
+
++ **<ins>The Dragon’s Gaze</ins>:**
+Thordan will appear on a random cardinal/intercardinal and a Dragon Eye will appear at the opposide of Thordan. Require the players to look-away from both else they recieve unaspected damage.
+
+___
+
++ **<ins>Sacred Sever</ins>:**
+Two players will recieve a one or two swords marker. After a few second *Ser Zephirin* will dash on the player with the one sword then to the two swords marked player. It will repeat this a second time.  
+Each hits are shares that deal <span class="phys">physical damage</span> and applies <span class="debuff">Physical Vulnerability Up</span> debuff. The damage decreases the futher the marked player is from *Ser Zephirin*.
+
+___
+
++ **<ins>Heimal Storm</ins>:**
+Shares AoE dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Ice Resistance Down II</span> debuff. Leaves an ice puddle that apply <span class="debuff">Frostbite(?)</span>.  
+*Ser Grinnaux* will target either the Tanks/Healers or the DPS.  
+
+___
+
++ **<ins>Heavens' Stake</ins>:**
+Four large fire AoE dealing <span class="magic">magical damage</span> will appear on intercardinal halfway between the centre and the edge. They leave a fire puddle that apply <span class="debuff">Burn(?)</span>.
+
+___
+
++ **<ins>Holy Comet</ins>:**
+Two players recieve a red marker. When it disappears, meteors will drop at the player location at regular interval. When a meteor drops it deals small <span class="magic">magical damage</span> to surround players. If two meteors are to close to each other, they will explode and deal very high <span class="magic">magical damage</span> and apply a <span class="debuff">Damage Down</span> debuff.
+
+___
+
++ **<ins></ins>:**
+<span class="phys"></span>.
+
+___
+
+</div>
+
+<div class="guideSection" markdown="1">
+<h2><a id="PHASE_XStrategy">Strategy</a></h2>
+
+
+</div>
+
 <h1>Abilities from old fights</h1>
 
 <div class="guideSection" markdown="1">
@@ -201,7 +329,7 @@ The pairs order is the following: <u>Tanks -> Ranged DPS -> Melee DPS -> Healers
 	+ Convistion: towers. Raid damage + paralyze if not soak  
 	+ Sacred Cross: dps check, damage based on remaining hp  
 	+ Spiral trust: dash through the arena  
-	+ Divine Right: gives shield/swordf stance. More defense/damage  
+	+ Divine Right: gives shield/sword stance. More defense/damage  
 	+ Blade dance: tb  
 	+ Skyward Leap: blue markers, deal proximity damage after a bit  
 	+ Holiest Holy: raidwide  

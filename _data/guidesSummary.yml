@@ -99,6 +99,15 @@ DSR:
       - name: Strategy
         phases:
         - phase: Planar Imprisonment
+  - name: Thordan
+    section:
+      - name: Abilities Breakdown
+      - name: Strength of the Ward
+      - name: Sanctity of the Ward
+      - name: Strategy
+        phases:
+        - phase: Strength of the Ward
+        - phase: Sanctity of the Ward
 
 
 #------------SAVAGE FIGHTS-----------
