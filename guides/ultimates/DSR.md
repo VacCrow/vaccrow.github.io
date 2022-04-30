@@ -152,7 +152,7 @@ The Tank with *Ser Adelphel* 's aggro will resume his course after the explosion
 Bring back the bosses middle. The Tank in charge of *Ser Adelphel* must interrupt **Holiest Hallowing** cast in the mean time.
 
 Soon after, *Ser Grinnaux* will cast **Faith Unmoving** and chain markers will be applied to everyone:  
-+ The Tanks will move North of *Ser Grinnaux* and the Healers South.
++ The Tanks move North of *Ser Grinnaux* and the Healers South before the chains are assigned.
 + The Tank and Healer with the <span style="color: dodgerblue">Cross</span> won't move while the Tank with the <span style="color: Orchid">Square</span> will move to the next clockwise spot and the Healer with the <span style="color: MediumSeaGreen">Triangle</span> will move to the next counter-clockwise spot.
 + The DPS with the <span style="color: MediumSeaGreen">Triangle</span> and <span style="color: Orchid">Square</span> will move to the opposite side of their partner and the two <span style="color: Tomato">Circle</span> take the remaining East and West spots.  
 Stand inside *Ser Grinnaux* hitbox to get knocked away and easily break the chains then wait a bit for **Heavensflame** to resolve on everyone before regrouping.
