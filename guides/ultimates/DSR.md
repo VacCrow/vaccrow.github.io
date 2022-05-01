@@ -39,12 +39,14 @@ AoE based on *Ser Grinnaux* postion, dealing <span class="magic">magical damage<
 ___
 
 + **<ins>Holy Shield Bash</ins>:**
-Tank buster tether from *Ser Adelphel* dealing AoE <span class="phys">physical damage</span> and applying <span class="speDebuff">Down for the Count</span> debuff lasting 6 seconds.
+Tank buster tether from *Ser Adelphel* (& *Ser Janlenoux*) dealing AoE <span class="phys">physical damage</span> and applying <span class="speDebuff">Down for the Count</span> debuff lasting 6 seconds.  
+Deals less damage the further away *Ser Adelphel* is.
 
 ___
 
 + **<ins>Holy Blade Dance</ins>:**
-6-hits tank buster from *Ser Adelphel* dealing <span class="phys">physical damage</span>.
+6-hits tank buster from *Ser Adelphel* (& *Ser Janlenoux*) dealing <span class="phys">physical damage</span>.  
+If enough distance has been covered with **Holy Shield Bash**, **Holy Blade Dance** only hits three times.
 
 ___
 
@@ -176,6 +178,7 @@ The pairs order is the following: <u>Tanks -> Ranged DPS -> Melee DPS -> Healers
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="planar1.jpg;planar2.jpg;planar3.jpg;planar4.jpg;planar5.jpg;planar6.jpg" imgDesc="Tanks move in;Tanks to the left side and Ranged DPS move in;Ranged DPS to the right side and Melee DPS move in;Melee DPS to the left side and Healers move in;Healers can wait here;Healers mid and heal everyone" slideNumber=slideCounter %}
 
+If one person survive, you'll reach the next phase that has a checkpoint.
 *Note: if Ser Charibert won't be low enough, you can cheese the mechanic by boosting a Tank mitigation so he may survive the damage or timing a ressurection right when Pure of Heart is happening.*
 
 </div>
@@ -269,7 +272,7 @@ Share AoE on a non-Tank and non **Skyward Leap** marked player, dealing <span cl
 
 
 + **<ins>The Dragon’s Gaze</ins>:**
-Thordan will appear on a random cardinal/intercardinal and a Dragon Eye will appear at the opposide of Thordan. Require the players to look-away from both else they recieve unaspected damage.
+*Thordan* and a *Dragon Eye* will appear on a different random cardinal/intercardinal. Require the players to look-away from both else they recieve unaspected damage.
 
 ___
 
@@ -303,7 +306,52 @@ ___
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="PHASE_XStrategy">Strategy</a></h2>
+<h2><a id="ThordanStrategy">Strategy</a></h2>
+
+You can restart the fight to reset your cooldowns.
+
+Pull *Thordan* and have the group stacked behind the boss to bait the incoming **Ascalon's Mercy Concealed**. When the cast bar is over, dodge to his sides.  
+Right after, *Thordan* will perform **Ascalon’s Might** three times in a row, use your Tank invulnerability to go through.  
+Next *Thordan* will summon his Knights and cast **Strength of the Ward**. You can swap Tanks during the cast for later.
+
+<a id="SStrength of the Ward">As soon as *Thordan* leaves, everyone has to spread around the arena and wait for the Dragoon Knights to arrive. If a player has a Dragoon Knight behind him, that player will move toward the middle of the arena telling that his position is unsafe. The player on the opposite side will also move to the middle since it's not safe. The players who moved will regroup at the safe spots with their respective light party in order to dodge **Spiral Thrusts**.  
+Then each light party will form a triangle within their safe spot to avoid overlaping **Lightning Storm**. The Healer shall be on the corner near the middle, the DPS on corners along the edge and the Tank along the edge between the DPS:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="strength1.jpg;strength2.jpg;strength3.jpg" imgDesc="Spread out;Find the safe spots;Regroup with your party" slideNumber=slideCounter %}
+
+Once both attacks are done, each party regroups and dodge together the **Heavy Impact** AoEs. Watch the enemy list for **Ascalon’s Might** cast bar and move out to dodge them. Then, get some healing before the next mechanics.
+
+Then two Paladin Knights will appear along with **Dimensional Collapse** AoEs and **Conviction** towers. *Thordan* will also move to the cardinal/incardinal opposite of the Paladin Knights.  
+Three non-Tank players will recieve a **Skyward Leap** marker and each of them has to move to a safe spot away from *Thordan*, next to the edge. <u>The players next to *Thordan* has to move away by a few step.</u>  
+The non-Tank players that aren't marked will move right underneath *Thordan* to recieve **The Dragon’s Rage**. The two Tanks has to quickly grab the **Holy Shield Bash** tethers and run toward *Thordan* safe spot. The Tanks will take the far left/right corner of the safe spot while crossing the tethers to reduce the damage taken and create a bigger safe zone for the non-marked players.  
+Once **Skyward Leap** and **The Dragon’s Rage** are done. The previously marked players will move into the tower in front of them while the players who stacked will split among the 3 closest towers.
+Example with *Thordan* North:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="strength4.jpg;strength5.jpg;strength6.jpg" imgDesc="<strong>Skyward Leap</strong> players spread away from <u>Thordan<u>, unmarked players under him and Tanks to their sides with tethers crossed;Everything resolves;Everyone moves into the closest tower" slideNumber=slideCounter %}
+
+When *Thordan* jumps back mid, regroup and heal everyone for the incoming **Ancient Quaga**.  
+Followed by **Heavenly Heel** into three **Ascalon’s Might**, use the Tank invulnerability.  
+Next *Thordan* will once again summon his Knights and cast **Sanctity of the Ward**.
+
+Two Paladin Knights will appear mid, facing opposite direction and a Dark Knight (*Ser Zephirin*) will appear along the edge. Quickly identify *Ser Janlenoux* (Silver armour with a white plume), if he's on the West side, everyone will rotate counter-clockwise to dodge, if he's East then it's clockwise.  
+When *Thordan* leaves, quickly form two groups of 4 East and West. Then two **Sacred Sever** markers will appear and groups need to be reajusted:
++ Marked player: they change group in order that #1 is away from *Ser Zephirin* while #2 is near him.
++ Tanks: if there's no marker in your group, swap group. Otherwise stay.
++ Non-marked player: do nothing ᕕ( ᐛ )ᕗ
+With the group reformed, take position to the East and West next to the edge and turn away from *Thordan* and the *Dragon Eye*. If one of them is East or West, you can take a few step clockwise/counter-clockwise to have an easier time to dodge.  
+When everything is happening, both groups must run clockwise or counter-clockwise based on *Ser Janlenoux* 's position but stop before they reach the next intercardinal spot in order to end up in the small safe spot available.  
+Once the *Brightspheres* from the second dash explode, go b ack to your East and West spot to avoid the last dash:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink=".jpg" imgDesc="" slideNumber=slideCounter %}
+
+#If I put Sanctity, the site crash KEKW
+
+*Thordan* will teleport North and cast **Ultimate End**. Heal and use proper mitigation for this raid-wide.  
+*Thordan* will move a bit and use **Broad Swing**. Stand behind him and move into the first cleave once it happend. He will turn and repeat this a second time.
+
+**Aetheric Burst** is then casted to end this phase.
+
+
 
 
 </div>

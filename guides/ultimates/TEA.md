@@ -372,7 +372,7 @@ This player will bait **Super Jump** since it targets the furthest player. After
 
 {% include slideshow.html imgLink="jump1.jpg;jump2.jpg;jump3.jpg" imgDesc="The player wait South;<em>Brute Justice</em> jumps;Have a step back, the rest of the group near the edge" slideNumber=slideCounter %}
 
-Then **Whirlwind** will be casted twice followed by the enrageq **Eternal Darkness** + **Final Sentence**.
+Then **Whirlwind** will be casted twice followed by the enrages **Eternal Darkness** + **Final Sentence**.
 
 </div>
 
@@ -694,7 +694,7 @@ The prisons will spawn in a clockwise manner, starting on the North East.
 <div class="guideSection" markdown="1">
 <h2><a id="Perfect AlexanderStrategy">Strategy</a></h2>
 
-Since you may enter this phase with your resources being full (mana + gauge), I recommend to check The Balance/Akhmorning for any specific opener.
+Since you may enter this phase with your resources being full (mana + gauge), your opener may vary.
 
 *Perfect Alexander* will appear in the middle of the arena with the aggro meter being reset.
 He will cast **Final Word**, allocating a debuff to everyone. Immediately move to your assigned position:
