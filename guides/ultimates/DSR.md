@@ -2,7 +2,7 @@
 layout: guides
 title: Dragonsong's Reprise | DSR
 imagePath: /assets/img/guides/ultimates/DSR/
-slideNumber: 4
+slideNumber: 10
 ---
 
 *Patch: 6.11  
