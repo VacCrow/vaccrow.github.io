@@ -343,7 +343,7 @@ With the group reformed, take position to the East and West next to the edge and
 When everything is happening, both groups must run clockwise or counter-clockwise based on *Ser Janlenoux* 's position but stop before they reach the next intercardinal spot in order to end up in the small safe spot available.  
 Once the *Brightspheres* from the second dash explode, go back to your East and West spot to avoid the last dash:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink=".jpg" imgDesc="" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="" imgDesc="" slideNumber=slideCounter %}
 
 Everyone regroups mid for heal then pre-spread in pairs at each cardinal with a Tank/Healer and a DPS. Each pair will be in charge of a quadrant as shown bellow:
 <img class="soloImg" src="{{ page.imagePath | append: "sanctityMeteor.jpg" }}">
@@ -358,7 +358,7 @@ After **Heimal Storm** happens, it's time to soak **Conviction** towers within y
 
 Once the first set of towers are soaked, the meteor players start to run clockwise around the arena without sprinting to reach the tower on the opposite side, North and South. Meanwhile the outter players will position themself into free towers, inner players will allign with free towers. After a few second **Faith Unmoving** will happen, meteor and outter players must use their knockback immunity while the inner players use the knockbac kto get into their towers:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink=".jpg" imgDesc="" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="" imgDesc="" slideNumber=slideCounter %}
 
 *Thordan* will teleport North and cast **Ultimate End**. Heal and use proper mitigation for this raid-wide.  
 Then *Thordan* will move a bit and use **Broad Swing**. Stand behind him and move into the first cleave once it happend. He will turn and repeat this a second time.
