@@ -341,10 +341,8 @@ When *Thordan* leaves, quickly form two groups of 4 East and West. Then two **Sa
 With the group reformed, take position to the East and West next to the edge and turn away from *Thordan* and the *Dragon Eye*. If one of them is East or West, you can take a few step clockwise/counter-clockwise to have an easier time to dodge.  
 When everything is happening, both groups must run clockwise or counter-clockwise based on *Ser Janlenoux* 's position but stop before they reach the next intercardinal spot in order to end up in the small safe spot available.  
 Once the *Brightspheres* from the second dash explode, go b ack to your East and West spot to avoid the last dash:
-{% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink=".jpg" imgDesc="" slideNumber=slideCounter %}
 
-#If I put Sanctity, the site crash KEKW
+<h2>If I put Sanctity, the site crash KEKW</h2>
 
 *Thordan* will teleport North and cast **Ultimate End**. Heal and use proper mitigation for this raid-wide.  
 *Thordan* will move a bit and use **Broad Swing**. Stand behind him and move into the first cleave once it happend. He will turn and repeat this a second time.
