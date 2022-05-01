@@ -322,12 +322,12 @@ Then each light party will form a triangle within their safe spot to avoid overl
 Once both attacks are done, each party regroups and dodge together the **Heavy Impact** AoEs. Watch the enemy list for **Ascalon’s Might** cast bar and move out to dodge them. Then, get some healing before the next mechanics.
 
 Then two Paladin Knights will appear along with **Dimensional Collapse** AoEs and **Conviction** towers. *Thordan* will also move to the cardinal/incardinal opposite of the Paladin Knights.  
-Three non-Tank players will recieve a **Skyward Leap** marker and each of them has to move to a safe spot away from *Thordan*, next to the edge. <u>The players next to *Thordan* has to move away by a few step.</u>  
+Three non-Tank players will recieve a **Skyward Leap** marker and each of them has to move to a safe spot away from *Thordan*, next to the edge. <u>The players next to *Thordan* has to move away from him by a few step.</u>  
 The non-Tank players that aren't marked will move right underneath *Thordan* to recieve **The Dragon’s Rage**. The two Tanks has to quickly grab the **Holy Shield Bash** tethers and run toward *Thordan* safe spot. The Tanks will take the far left/right corner of the safe spot while crossing the tethers to reduce the damage taken and create a bigger safe zone for the non-marked players.  
 Once **Skyward Leap** and **The Dragon’s Rage** are done. The previously marked players will move into the tower in front of them while the players who stacked will split among the 3 closest towers.
 Example with *Thordan* North:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="strength4.jpg;strength5.jpg;strength6.jpg" imgDesc="<strong>Skyward Leap</strong> players spread away from <u>Thordan<u>, unmarked players under him and Tanks to their sides with tethers crossed;Everything resolves;Everyone moves into the closest tower" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="strength4.jpg;strength5.jpg;strength6.jpg" imgDesc="<strong>Skyward Leap</strong> players spread away from <u>Thordan</u>, unmarked players under him and Tanks to their sides with tethers crossed;Everything resolves;Everyone moves into the closest tower" slideNumber=slideCounter %}
 
 When *Thordan* jumps back mid, regroup and heal everyone for the incoming **Ancient Quaga**.  
 Followed by **Heavenly Heel** into three **Ascalon’s Might**, use the Tank invulnerability.  
@@ -338,20 +338,32 @@ When *Thordan* leaves, quickly form two groups of 4 East and West. Then two **Sa
 + Marked player: they change group in order that #1 is away from *Ser Zephirin* while #2 is near him.
 + Tanks: if there's no marker in your group, swap group. Otherwise stay.
 + Non-marked player: do nothing ᕕ( ᐛ )ᕗ
+
 With the group reformed, take position to the East and West next to the edge and turn away from *Thordan* and the *Dragon Eye*. If one of them is East or West, you can take a few step clockwise/counter-clockwise to have an easier time to dodge.  
 When everything is happening, both groups must run clockwise or counter-clockwise based on *Ser Janlenoux* 's position but stop before they reach the next intercardinal spot in order to end up in the small safe spot available.  
-Once the *Brightspheres* from the second dash explode, go b ack to your East and West spot to avoid the last dash:
+Once the *Brightspheres* from the second dash explode, go back to your East and West spot to avoid the last dash:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink=".jpg" imgDesc="" slideNumber=slideCounter %}
 
-<h2>If I put Sanctity, the site crash KEKW</h2>
+Everyone regroups mid for heal then pre-spread in pairs at each cardinal with a Tank/Healer and a DPS. Each pair will be in charge of a quadrant as shown bellow:
+<img class="soloImg" src="{{ page.imagePath | append: "sanctityMeteor.jpg" }}">
+
+Two players will get the meteor marker. These players need to be on pair opposite of each other: North and South by default, the only exception is if they're already opposite of each other East and West. If a player need to swap his position, he has to swap with a player of the same role, a Tank/Healer with a Tank/Healer for example.  
+Once groups are set, each pair has to stand between the **Heavens' Stake** AoEs to place **Heimal Storm** without overlapping inner and outter towers.  
+After **Heimal Storm** happens, it's time to soak **Conviction** towers within your quadrant:
++ Meteor player always take the outter tower and the most counter-clockwise one if there's no outter mid tower.
++ If there's two outter towers, DPS takes the most counter-clockwise one while the Tank/Healer takes the most clockwise one.
++ If there's one inner and one outter tower, DPS takes the one out and Tank/Healer goes in.
++ Inner players adjust with the available towers.
+
+Once the first set of towers are soaked, the meteor players start to run clockwise around the arena without sprinting to reach the tower on the opposite side, North and South. Meanwhile the outter players will position themself into free towers, inner players will allign with free towers. After a few second **Faith Unmoving** will happen, meteor and outter players must use their knockback immunity while the inner players use the knockbac kto get into their towers:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink=".jpg" imgDesc="" slideNumber=slideCounter %}
 
 *Thordan* will teleport North and cast **Ultimate End**. Heal and use proper mitigation for this raid-wide.  
-*Thordan* will move a bit and use **Broad Swing**. Stand behind him and move into the first cleave once it happend. He will turn and repeat this a second time.
+Then *Thordan* will move a bit and use **Broad Swing**. Stand behind him and move into the first cleave once it happend. He will turn and repeat this a second time.
 
-**Aetheric Burst** is then casted to end this phase.
-
-
-
-
+The enrage, **Aetheric Burst**, is then casted to end this phase.
 </div>
 
 <h1>Abilities from old fights</h1>
