@@ -327,13 +327,13 @@ The non-Tank players that aren't marked will move right underneath *Thordan* to 
 Once **Skyward Leap** and **The Dragon’s Rage** are done. The previously marked players will move into the tower in front of them while the players who stacked will split among the 3 closest towers.
 Example with *Thordan* North:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="strength4.jpg;strength5.jpg;strength6.jpg" imgDesc="<strong>Skyward Leap</strong> players spread away from <u>Thordan</u>, unmarked players under him and Tanks to their sides with tethers crossed;Everything resolves;Everyone moves into the closest tower" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="strength4.jpg;strength5.jpg;strength6.jpg" imgDesc="<strong>Skyward Leap</strong> players spread away from <em>Thordan</em>, unmarked players under him and Tanks to their sides with tethers crossed;Everything resolves;Everyone moves into the closest tower" slideNumber=slideCounter %}
 
 When *Thordan* jumps back mid, regroup and heal everyone for the incoming **Ancient Quaga**.  
 Followed by **Heavenly Heel** into three **Ascalon’s Might**, use the Tank invulnerability.  
 Next *Thordan* will once again summon his Knights and cast **Sanctity of the Ward**.
 
-Two Paladin Knights will appear mid, facing opposite direction and a Dark Knight (*Ser Zephirin*) will appear along the edge. Quickly identify *Ser Janlenoux* (Silver armour with a white plume), if he's on the West side, everyone will rotate counter-clockwise to dodge, if he's East then it's clockwise.  
+<a id="SSanctity of the Ward">Two Paladin Knights will appear mid, facing opposite direction and a Dark Knight (*Ser Zephirin*) will appear along the edge. Quickly identify *Ser Janlenoux* (Silver armour with a white plume), if he's on the West side, everyone will rotate counter-clockwise to dodge, if he's East then it's clockwise.  
 When *Thordan* leaves, quickly form two groups of 4 East and West. Then two **Sacred Sever** markers will appear and groups need to be reajusted:
 + Marked player: they change group in order that #1 is away from *Ser Zephirin* while #2 is near him.
 + Tanks: if there's no marker in your group, swap group. Otherwise stay.
@@ -341,9 +341,11 @@ When *Thordan* leaves, quickly form two groups of 4 East and West. Then two **Sa
 
 With the group reformed, take position to the East and West next to the edge and turn away from *Thordan* and the *Dragon Eye*. If one of them is East or West, you can take a few step clockwise/counter-clockwise to have an easier time to dodge.  
 When everything is happening, both groups must run clockwise or counter-clockwise based on *Ser Janlenoux* 's position but stop before they reach the next intercardinal spot in order to end up in the small safe spot available.  
-Once the *Brightspheres* from the second dash explode, go back to your East and West spot to avoid the last dash:
+Once the *Brightspheres* from the second dash explode, go back to your East and West spot to avoid the last dashes.
+
+Here's an example with *Ser Janlenoux* being West, so dodging counter-clockwise:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="" imgDesc="" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="sanctity1.jpg;sanctity2.jpg;sanctity3.jpg;sanctity4.jpg;sanctity5.jpg;sanctity6.jpg" imgDesc="Split into light group and look out for <em>Thordan</em>, the <em>Dragon Eye</em> and <em>Ser Janlenoux</em>;Reform group with marker 1 away from <em>Ser Janlenoux</em> and marker 2 close to him;Move to the East and West and lok away from <em>Thordan</em> and the <em>Dragon Eye</em>;Move to the next counter-clockwise intercardinal but stop a few notch away from it;You're safe from the second set of <em>Brightspheres</em> explosion;Move back to the East and West" slideNumber=slideCounter %}
 
 Everyone regroups mid for heal then pre-spread in pairs at each cardinal with a Tank/Healer and a DPS. Each pair will be in charge of a quadrant as shown bellow:
 <img class="soloImg" src="{{ page.imagePath | append: "sanctityMeteor.jpg" }}">
@@ -353,12 +355,13 @@ Once groups are set, each pair has to stand between the **Heavens' Stake** AoEs 
 After **Heimal Storm** happens, it's time to soak **Conviction** towers within your quadrant:
 + Meteor player always take the outter tower and the most counter-clockwise one if there's no outter mid tower.
 + If there's two outter towers, DPS takes the most counter-clockwise one while the Tank/Healer takes the most clockwise one.
-+ If there's one inner and one outter tower, DPS takes the one out and Tank/Healer goes in.
++ If there's one inner and one outter tower, Tank/Healer takes the one out and DPS goes in.
 + Inner players adjust with the available towers.
 
-Once the first set of towers are soaked, the meteor players start to run clockwise around the arena without sprinting to reach the tower on the opposite side, North and South. Meanwhile the outter players will position themself into free towers, inner players will allign with free towers. After a few second **Faith Unmoving** will happen, meteor and outter players must use their knockback immunity while the inner players use the knockbac kto get into their towers:
+Once the first set of towers are soaked, the meteor players start to run clockwise around the arena without sprinting to reach the tower on the opposite side, North and South. Meanwhile the players paired with the meteor players will take the North West and South East towers. And for the East and West pairs, the Tank/Healers will take the cardinal towers while the DPS will taker the intercardinal ones.  
+After a few second **Faith Unmoving** will happen, meteor and outter players must use their knockback immunity while the inner players use the knockback to get into their towers:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="" imgDesc="" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="sanctity7.jpg;sanctity8.jpg;sanctity9.jpg;sanctity10.jpg;sanctity11.jpg" imgDesc="Preform pairs on cardinals;Adjust pairs to have meteor players on North and South then move away to place the <em>Heimal Storm</em>;Move into your assigned tower;Meteor players start to run around clockwise, outter players get into their towers, inner players aligned themself to their towers;Either use the knockback to get into your towers or use your immunity" slideNumber=slideCounter %}
 
 *Thordan* will teleport North and cast **Ultimate End**. Heal and use proper mitigation for this raid-wide.  
 Then *Thordan* will move a bit and use **Broad Swing**. Stand behind him and move into the first cleave once it happend. He will turn and repeat this a second time.
