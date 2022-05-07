@@ -345,7 +345,7 @@ Once the *Brightspheres* from the second dash explode, go back to your East and 
 
 Here's an example with *Ser Janlenoux* being West, so dodging counter-clockwise:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="sanctity1.jpg;sanctity2.jpg;sanctity3.jpg;sanctity4.jpg;sanctity5.jpg;sanctity6.jpg" imgDesc="Split into light group and look out for <em>Thordan</em>, the <em>Dragon Eye</em> and <em>Ser Janlenoux</em>;Reform group with marker 1 away from <em>Ser Janlenoux</em> and marker 2 close to him;Move to the East and West and lok away from <em>Thordan</em> and the <em>Dragon Eye</em>;Move to the next counter-clockwise intercardinal but stop a few notch away from it;You're safe from the second set of <em>Brightspheres</em> explosion;Move back to the East and West" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="sanctity1.jpg;sanctity2.jpg;sanctity3.jpg;sanctity4.jpg;sanctity5.jpg;sanctity6.jpg" imgDesc="Split into light group and look out for <em>Thordan</em>, the <em>Dragon Eye</em> and <em>Ser Janlenoux</em>;Reform group with marker 1 away from <em>Ser Janlenoux</em> and marker 2 close to him;Move to the East and West and look away from <em>Thordan</em> and the <em>Dragon Eye</em>;Move to the next counter-clockwise intercardinal but stop a few notch away from it during the second dash;You're safe from the second set of <em>Brightspheres</em> explosion;Move back to the East and West" slideNumber=slideCounter %}
 
 Everyone regroups mid for heal then pre-spread in pairs at each cardinal with a Tank/Healer and a DPS. Each pair will be in charge of a quadrant as shown bellow:
 <img class="soloImg" src="{{ page.imagePath | append: "sanctityMeteor.jpg" }}">
