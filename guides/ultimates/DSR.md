@@ -110,7 +110,7 @@ ___
 ___
 
 + **<ins>Planar Prison</ins>:**
-*Ser Grinnaux* will stun and pull everyone toward him. Afterward, he will chain himself with every player, applying a <span class="speDebuff">Planar Imprisonment</span> debuff, forciong the players to stay inside the reduced arena.
+*Ser Grinnaux* will stun and pull everyone toward him. Afterward, he will chain himself with every player, applying a <span class="speDebuff">Planar Imprisonment</span> debuff, forcing the players to stay inside the reduced arena.
 
 ___
 
@@ -122,12 +122,12 @@ ___
 + **<ins>Brightwinged Flight</ins>:**
 *Ser Adelphel* will protect *Ser Charibert* while giving him two buffs:
 + <span class="buff">Brightwinged Fortitude</span>: reducing damage taken.
-+ <span class="buff">Brightwinged Fury</span>: when this buff has 18 seconds left, the two closest players will be targeted every 5 seconds with a thin cleave (**Brightwing**) dealing light <span class="magic">magical damage</span>, applying a <span class="debuff">Light Resistance Down</span> debuff lasting 18 seconds and a <span class="speDebuff">Skyblind</span> debuff lasting 5 seconds. When <span class="speDebuff">Skyblind</span> resolves, a small AoE will explode at that location after 2 seconds, dealing <span class="magic">magical damage</span>.
++ <span class="buff">Brightwinged Fury</span>: when this buff has 18 seconds left, the two closest players will be targeted every 5 seconds with a thin cleave (**Brightwing**) dealing light <span class="magic">magical damage</span>, applying a <span class="debuff">Light Resistance Down</span> debuff lasting 18 seconds and a <span class="speDebuff">Skyblind</span> debuff lasting 5 seconds. When <span class="speDebuff">Skyblind</span> resolves, a small AoE will explode at the player location after 2 seconds, dealing <span class="magic">magical damage</span>.
 
 ___
 
 + **<ins>Pure of Heart</ins>:**
-When the cast is over, *Ser Charibert* will deal raid-wide <span class="magic">magical damage</span> based on his remaining HP.
+When the cast is over, *Ser Charibert* will deal raid-wide <span class="magic">magical damage</span> based on his remaining HP, under 25% is considered safe.
 </div>
 
 <div class="guideSection" markdown="1">
@@ -178,9 +178,8 @@ The pairs order is the following: <u>Tanks -> Ranged DPS -> Melee DPS -> Healers
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="planar1.jpg;planar2.jpg;planar3.jpg;planar4.jpg;planar5.jpg;planar6.jpg" imgDesc="Tanks move in;Tanks to the left side and Ranged DPS move in;Ranged DPS to the right side and Melee DPS move in;Melee DPS to the left side and Healers move in;Healers can wait here;Healers mid and heal everyone" slideNumber=slideCounter %}
 
-If one person survive, you'll reach the next phase that has a checkpoint.
+If one person survive, you'll reach the next phase that has a checkpoint.  
 *Note: if Ser Charibert won't be low enough, you can cheese the mechanic by boosting a Tank mitigation so he may survive the damage or timing a ressurection right when Pure of Heart is happening.*
-
 </div>
 
 <h1><a id="Thordan">Thordan</a></h1>
@@ -190,7 +189,7 @@ If one person survive, you'll reach the next phase that has a checkpoint.
 
 
 + **<ins>Ascalon’s Mercy Concealed</ins>:**
-Cone aimed at every players dealing <span class="phys">physical damage</span> and applying a <span class="debuff"></span> debuff. The players positions are snapshoted at the end of the cast and the cones are fired 2 seconds later.
+Cone aimed at every players dealing <span class="phys">physical damage</span> and applying a <span class="debuff">Damage Down</span> debuff. The players positions are snapshoted at the end of the cast and the cones are fired 2 seconds later.
 
 ___
 
@@ -222,9 +221,6 @@ ___
 
 + **<ins>Aetheric Burst</ins>:**
 Enrage.
-
-___
-
 </div>
 
 <div class="guideSection" markdown="1">
@@ -258,13 +254,12 @@ Towers that deal small <span class="magic">magical damage</span> when soaked. De
 ___
 
 + **<ins>Skyward Leap</ins>:**
-A player recieve a blue marker. After 9 seconds, a knight will dive that player in AoE, dealing <span class="magic">magical damage</span>, applying a <span class="debuff">Physical Vulnerability Up</span> debuff and a <span class="debuff">Magic Vulnerability Up</span> debuff.
+A non-Tank player recieve a blue marker. After 9 seconds, a knight will dive that player in AoE, dealing <span class="magic">magical damage</span>, applying a <span class="debuff">Physical Vulnerability Up</span> debuff and a <span class="debuff">Magic Vulnerability Up</span> debuff.
 
 ___
 
 + **<ins>The Dragon’s Rage</ins>:**
 Share AoE on a non-Tank and non **Skyward Leap** marked player, dealing <span class="magic">magical damage</span>.
-
 </div>
 
 <div class="guideSection" markdown="1">
@@ -284,7 +279,7 @@ ___
 
 + **<ins>Heimal Storm</ins>:**
 Shares AoE dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Ice Resistance Down II</span> debuff. Leaves an ice puddle that apply <span class="debuff">Frostbite</span>.  
-*Ser Grinnaux* will target either the Tanks/Healers or the DPS.  
+*Ser Grinnaux* will target either the Tanks/Healers or the DPS.
 
 ___
 
@@ -294,8 +289,8 @@ Four large fire AoE dealing <span class="magic">magical damage</span> will appea
 ___
 
 + **<ins>Holy Comet</ins>:**
-Two players recieve a red marker. When it disappears, meteors will drop at the player location at regular interval. When a meteor drops it deals small <span class="magic">magical damage</span> to surround players. If two meteors are to close to each other, they will explode and deal very high <span class="magic">magical damage</span> and apply a <span class="debuff">Damage Down</span> debuff.
-
+Two Tanks/Healers or two DPS recieve a red marker. When it disappears, meteors will drop at the player location at regular interval.  
+When a meteor drops it deals small <span class="magic">magical damage</span> to surround players. If two meteors are to close to each other, they will explode and deal very high <span class="magic">magical damage</span> and apply a <span class="debuff">Damage Down</span> debuff.
 </div>
 
 <div class="guideSection" markdown="1">
@@ -314,8 +309,8 @@ Then each light party will form a triangle within their safe spot to avoid overl
 
 Once both attacks are done, each party regroups and dodge together the **Heavy Impact** AoEs. Watch the enemy list for **Ascalon’s Might** cast bar and move out to dodge them. Then, get some healing before the next mechanics.
 
-Then two Paladin Knights will appear along with **Dimensional Collapse** AoEs and **Conviction** towers. *Thordan* will also move to the cardinal/incardinal opposite of the Paladin Knights.  
-Three non-Tank players will recieve a **Skyward Leap** marker and each of them has to move to a safe spot away from *Thordan*, next to the edge. <u>The players next to *Thordan* has to move away from him by a few step.</u>  
+Then two Paladin Knights will appear along with **Dimensional Collapse** AoEs and **Conviction** towers. *Thordan* will also move to the cardinal/incardinal opposite of the Paladin Knights (where they're facing at).  
+Three non-Tank players will recieve a **Skyward Leap** marker and each of them has to move to a safe spot away from *Thordan*, next to the edge. <u>The players next to <em>Thordan</em> has to move away from him by a few step.</u>  
 The non-Tank players that aren't marked will move right underneath *Thordan* to recieve **The Dragon’s Rage**. The two Tanks has to quickly grab the **Holy Shield Bash** tethers and run toward *Thordan* safe spot. The Tanks will take the far left/right corner of the safe spot while crossing the tethers to reduce the damage taken and create a bigger safe zone for the non-marked players.  
 Once **Skyward Leap** and **The Dragon’s Rage** are done. The previously marked players will move into the tower in front of them while the players who stacked will split among the 3 closest towers.
 Example with *Thordan* North:
@@ -326,7 +321,7 @@ When *Thordan* jumps back mid, regroup and heal everyone for the incoming **Anci
 Followed by **Heavenly Heel** into three **Ascalon’s Might**, use the Tank invulnerability.  
 Next *Thordan* will once again summon his Knights and cast **Sanctity of the Ward**.
 
-<a id="SSanctity of the Ward">Two Paladin Knights will appear mid, facing opposite direction and a Dark Knight (*Ser Zephirin*) will appear along the edge. Quickly identify *Ser Janlenoux* (Silver armour with a white plume), if he's on the West side, everyone will rotate counter-clockwise to dodge, if he's East then it's clockwise.  
+<a id="SSanctity of the Ward">Two Paladin Knights will appear mid, facing opposite direction and a Dark Knight (*Ser Zephirin*) will appear along the edge. Quickly identify *Ser Janlenoux* (Silver armour with a white plume), if he's on the West side, everyone will rotate counter-clockwise to dodge, if he's East then it's clockwise. (You can also check the closest Paladin after you're groupped, you'll move toward the intercardinal that this Paladin isn't facing to)  
 When *Thordan* leaves, quickly form two groups of 4 East and West. Then two **Sacred Sever** markers will appear and groups need to be reajusted:
 + Marked player: they change group in order that #1 is away from *Ser Zephirin* while #2 is near him.
 + Non-marked Tanks: if there's no marker in your group, swap group. Otherwise stay.
@@ -338,26 +333,27 @@ Once the *Brightspheres* from the second dash explode, go back to your East and 
 
 Here's an example with *Ser Janlenoux* being West, so dodging counter-clockwise:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="sanctity1.jpg;sanctity2.jpg;sanctity3.jpg;sanctity4.jpg;sanctity5.jpg;sanctity6.jpg" imgDesc="Split into light group and look out for <em>Thordan</em>, the <em>Dragon Eye</em> and <em>Ser Janlenoux</em>;Reform group with marker 1 away from <em>Ser Janlenoux</em> and marker 2 close to him;Move to the East and West and look away from <em>Thordan</em> and the <em>Dragon Eye</em>;Move to the next counter-clockwise intercardinal but stop a few notch away from it during the second dash;You're safe from the second set of <em>Brightspheres</em> explosion;Move back to the East and West" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="sanctity1.jpg;sanctity2.jpg;sanctity3.jpg;sanctity4.jpg;sanctity5.jpg;sanctity6.jpg" imgDesc="Split into light group and look out for <em>Thordan</em>, the <em>Dragon Eye</em> and <em>Ser Janlenoux</em>;Reform group with marker 1 away from <em>Ser Zephirin</em> and marker 2 close to him;Move to the East and West and look away from <em>Thordan</em> and the <em>Dragon Eye</em>;Move to the next counter-clockwise intercardinal but stop a few notch away from it during the second dash;You're safe from the second set of <em>Brightspheres</em> explosion;Move back to the East and West" slideNumber=slideCounter %}
 
 Everyone regroups mid for heal then pre-spread in pairs at each cardinal with a Tank/Healer and a DPS. Each pair will be in charge of a quadrant as shown bellow:
 <img class="soloImg" src="{{ page.imagePath | append: "sanctityMeteor.jpg" }}">
 
-Two players will get the meteor marker. These players need to be on pair opposite of each other: North and South by default, the only exception is if they're already opposite of each other East and West. If a player need to swap his position, he has to swap with a player of the same role, a Tank/Healer with a Tank/Healer for example.  
-Once groups are set, each pair has to stand between the **Heavens' Stake** AoEs to place **Heimal Storm** without overlapping inner and outter towers.  
+Two players will get the meteor marker. These players need to be on pair opposite of each other: North and South by default, the only exception is if they're already opposite of each other East and West. If a player need to swap his position, he has to swap with a player of the same role, a Tank/Healer with another Tank/Healer for example.  
+Once the groups are set, each pair has to stand between the **Heavens' Stake** AoEs to place **Heimal Storm** without overlapping inner and outter towers.  
 After **Heimal Storm** happens, it's time to soak **Conviction** towers within your quadrant:
-+ Meteor player always take the outter tower and the most counter-clockwise one if there's no outter mid tower.
-+ If there's two outter towers, DPS takes the most counter-clockwise one while the Tank/Healer takes the most clockwise one.
-+ If there's one inner and one outter tower, Tank/Healer takes the one out and DPS goes in.
-+ Inner players adjust with the available towers.
++ If there's one inner and one outter tower, the meteor player role moves out and the other moves in.
++ If there's two outter towers, the Tank/Healer takes the most clockwise one while the DPS takes the most counter-clockwise one.
++ Inner players adjust with the available towers *rollSafe*.
 
-Once the first set of towers are soaked, the meteor players start to run clockwise around the arena without sprinting to reach the tower on the opposite side, North and South. Meanwhile the players paired with the meteor players will take the North West and South East towers. And for the East and West pairs, the Tank/Healers will take the cardinal towers while the DPS will taker the intercardinal ones.  
+Once the first set of towers are soaked, the meteor players start to run clockwise around the arena without sprinting to reach the tower on the opposite side, North and South.  
+<u>Players with the same role as the meteor players will soak the cardinals towers while the others will soak the intercardinal towers.</u>  
 After a few second **Faith Unmoving** will happen, meteor and outter players must use their knockback immunity while the inner players use the knockback to get into their towers:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="sanctity7.jpg;sanctity8.jpg;sanctity9.jpg;sanctity10.jpg;sanctity11.jpg" imgDesc="Preform pairs on cardinals;Adjust pairs to have meteor players on North and South then move away to place the <em>Heimal Storm</em>;Move into your assigned tower;Meteor players start to run around clockwise, outter players get into their towers, inner players aligned themself to their towers;Either use the knockback to get into your towers or use your immunity" slideNumber=slideCounter %}
 
+From this point, you may hold your 2 minutes cooldown for the reopener on the next phase if needed.  
 *Thordan* will teleport North and cast **Ultimate End**. Heal and use proper mitigation for this raid-wide.  
-Then *Thordan* will move a bit and use **Broad Swing**. Stand behind him and move into the first cleave once it happend. He will turn and repeat this a second time.
+Then *Thordan* will move a bit toward mid and use **Broad Swing**. Stand behind him and move into the first cleave once it happend. He will turn and repeat this a second time.
 
 The enrage, **Aetheric Burst**, is then casted to end this phase.
 </div>
@@ -456,5 +452,4 @@ The enrage, **Aetheric Burst**, is then casted to end this phase.
 + Nidhogg:  
 	+ Crimson Price: fire orb that attack player with line aoes
 	+ Sable Price: put a  player in gaol, free before cast is over
-
 </div>
