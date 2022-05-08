@@ -242,18 +242,18 @@ AoE on everyone dealing <span class="magic">magical damage</span> and applying a
 ___
 
 + **<ins>Heavy Impact</ins>:**
-Multiple delayed hit AoE performed by the Axe Knight that grow each time, dealing <span class="magic">magical damage</span> on every hit.  
+Multiple delayed hit AoE performed by the Axe Knight that grow each time, dealing <span class="magic">magical damage</span> on every hit and applying a <span class="debuff">Damage Down</span> and a <span class="debuff">Stun</span> debuff.  
 The first AoE is pointblank while the four next are donut-shaped. Each donut encompass the previous AoE.
 
 ___
 
 + **<ins>Dimensional Collapse</ins>:**
-Groud AoEs that grow over time, dealing <span class="magic">magical damage</span>, applying a <span class="debuff">Damage Down</span> debuff and a <span class="debuff">Heavy</span> debuff. Grow 7 times before exploding.
+Groud AoEs that grow over time, dealing <span class="magic">magical damage</span>, applying a <span class="debuff">Damage Down</span> debuff and a <span class="debuff">Heavy</span> debuff that last 30 seconds. Grow 7 times before exploding.
 
 ___
 
 + **<ins>Conviction</ins>:**
-Towers that deal small <span class="magic">magical damage</span> when soaked. Deals very high raid-wide <span class="magic">magical damage</span> when not soaked.
+Towers that deal small <span class="magic">magical damage</span> when soaked. Deals very high raid-wide <span class="magic">magical damage</span> and applies a <span class="debuff">Damage Down</span> and a <span class="debuff">Paralysis</span> debuff. when not soaked.
 
 ___
 
@@ -272,36 +272,29 @@ Share AoE on a non-Tank and non **Skyward Leap** marked player, dealing <span cl
 
 
 + **<ins>The Dragon’s Gaze</ins>:**
-*Thordan* and a *Dragon Eye* will appear on a different random cardinal/intercardinal. Require the players to look-away from both else they recieve unaspected damage.
+*Thordan* and a *Dragon Eye* will appear on a different random cardinal/intercardinal. Require the players to look-away from both else they recieve unaspected damage along with a <span class="debuff">Damage Down</span> and an <span class="debuff">Hysteria</span> debuff..
 
 ___
 
 + **<ins>Sacred Sever</ins>:**
 Two players will recieve a one or two swords marker. After a few second *Ser Zephirin* will dash on the player with the one sword then to the two swords marked player. It will repeat this a second time.  
-Each hits are shares that deal <span class="phys">physical damage</span> and applies <span class="debuff">Physical Vulnerability Up</span> debuff. The damage decreases the futher the marked player is from *Ser Zephirin*.
+Each hit is a share that deals <span class="phys">physical damage</span> and applies <span class="debuff">Physical Vulnerability Up</span> debuff. The damage decreases the futher away the marked player is from *Ser Zephirin*.
 
 ___
 
 + **<ins>Heimal Storm</ins>:**
-Shares AoE dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Ice Resistance Down II</span> debuff. Leaves an ice puddle that apply <span class="debuff">Frostbite(?)</span>.  
+Shares AoE dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Ice Resistance Down II</span> debuff. Leaves an ice puddle that apply <span class="debuff">Frostbite</span>.  
 *Ser Grinnaux* will target either the Tanks/Healers or the DPS.  
 
 ___
 
 + **<ins>Heavens' Stake</ins>:**
-Four large fire AoE dealing <span class="magic">magical damage</span> will appear on intercardinal halfway between the centre and the edge. They leave a fire puddle that apply <span class="debuff">Burn(?)</span>.
+Four large fire AoE dealing <span class="magic">magical damage</span> will appear on intercardinal halfway between the centre and the edge. They leave a fire puddle that apply <span class="debuff">Burn</span>.
 
 ___
 
 + **<ins>Holy Comet</ins>:**
 Two players recieve a red marker. When it disappears, meteors will drop at the player location at regular interval. When a meteor drops it deals small <span class="magic">magical damage</span> to surround players. If two meteors are to close to each other, they will explode and deal very high <span class="magic">magical damage</span> and apply a <span class="debuff">Damage Down</span> debuff.
-
-___
-
-+ **<ins></ins>:**
-<span class="phys"></span>.
-
-___
 
 </div>
 
@@ -336,7 +329,7 @@ Next *Thordan* will once again summon his Knights and cast **Sanctity of the War
 <a id="SSanctity of the Ward">Two Paladin Knights will appear mid, facing opposite direction and a Dark Knight (*Ser Zephirin*) will appear along the edge. Quickly identify *Ser Janlenoux* (Silver armour with a white plume), if he's on the West side, everyone will rotate counter-clockwise to dodge, if he's East then it's clockwise.  
 When *Thordan* leaves, quickly form two groups of 4 East and West. Then two **Sacred Sever** markers will appear and groups need to be reajusted:
 + Marked player: they change group in order that #1 is away from *Ser Zephirin* while #2 is near him.
-+ Tanks: if there's no marker in your group, swap group. Otherwise stay.
++ Non-marked Tanks: if there's no marker in your group, swap group. Otherwise stay.
 + Non-marked player: do nothing ᕕ( ᐛ )ᕗ
 
 With the group reformed, take position to the East and West next to the edge and turn away from *Thordan* and the *Dragon Eye*. If one of them is East or West, you can take a few step clockwise/counter-clockwise to have an easier time to dodge.  
