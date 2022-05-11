@@ -361,10 +361,10 @@ Then *Thordan* will move a bit toward mid and use **Broad Swing**. Stand behind 
 The enrage, **Aetheric Burst**, is then casted to end this phase.
 </div>
 
-<h1><a id="PHASE_X">Nidhogg</a></h1>
+<h1><a id="Nidhogg">Nidhogg</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="PHASE_XAbilities Breakdown">Abilities Breakdown</a></h2>
+<h2><a id="NidhoggAbilities Breakdown">Abilities Breakdown</a></h2>
 
 *Nidhogg* auto-attacks are line cleaves.
 
@@ -402,7 +402,7 @@ ___
 Tower that deals small <span class="magic">magical damage</span>, applies a <span class="debuff">Fire Resistance Down II</span> and a <span class="debuff">Physical Vulnerability Up</span> debuff when soaked. Deals very high raid-wide <span class="magic">magical damage</span> and applies a <span class="debuff">Damage Down</span> debuff when not soaked.  
 Once the tower is soaked, a clone of *Nidhogg* appears and casts **Geirskogul**.
 
-After **Dive from Grace**, 4 towers will spawn at intercardinal, requiering 1 to 4 players per tower where the sum equals 8. All the clones but one will cast **Geirskogul**, the remaining one will cast **Soul Tether**.
+	After **Dive from Grace**, 4 towers will spawn at intercardinal, requiering 1 to 4 players per tower where the sum equals 8. All the clones but one will cast **Geirskogul**, the remaining one will cast **Soul Tether**.
 
 ___
 
@@ -418,11 +418,12 @@ ___
 	+ **Lashing Wheel** has a donut shape.
 
 	There's a 4 seconds delay between the end of the cast and the first attack.
+
 ___
 
 + **<ins>Eye of the Tyrant</ins>:**
 A random player in front of *Nidhogg* is targeted by a share AoE dealing <span class="magic">magical damage</span>.  
-<u>It is non-casted and is always used when the cast of **Gnash and Lash/Lash and Gnash** is complete.</u>
+<u>It is non-casted and is always used when the cast of <strong>Gnash and Lash/Lash and Gnash</strong> is complete.</u>
 
 ___
 
@@ -443,22 +444,21 @@ Enrage.
 <div class="guideSection" markdown="1">
 <h2><a id="NidhoggStrategy">Strategy</a></h2>
 
-Once *Thordan* is dealt with, heal everyone and use mitigation for when *Nidhogg* dives into the arena with **Final Chorus**.
-
-___
-
-For the **Dive from Grace**, players will recieve their set of debuffs. For the whole mechanic, they will use the following positions/order and keep them:
-+ <span class="speDebuff">First in Line</span> and <span class="speDebuff">Third in Line</span>: they take position on West, South and East of *Nidhogg* hitbox.  
-	<u>With <span class="speDebuff">Elusive Jump Target</span> on East facing away from the boss and <span class="speDebuff">Spineshatter Dive Target</span> on West looking at the boss.</u>
+For **Dive from Grace**, players will recieve a set of debuffs and for the whole mechanic, they will use the following positions:
++ <span class="speDebuff">First in Line</span> and <span class="speDebuff">Third in Line</span>: they take position on West, South and East of *Nidhogg* hitbox. ***With <span class="speDebuff">Elusive Jump Target</span> on East facing away from the boss and <span class="speDebuff">Spineshatter Dive Target</span> on West looking at the boss.***
 + <span class="speDebuff">Second in Line</span>: they take position on North East and North West, slightly outside of *Nidhogg* hitbox.
+
+<span class="speDebuff">Elusive Jump Target</span> and <span class="speDebuff">Spineshatter Dive Target</span> must aim their tower at the opposite side. In this example, the sumonner will toward the East to put his tower at *Nidhogg* West side:
 <img class="soloImg" src="{{ page.imagePath | append: "inLine.jpg" }}">
 
-	Furthemore, due to <span class="debuff">Fire Resistance Down II</span> timers, the **Darkdragon Dive** towers must be soaked by specific player based of your debuff:
-	+ 1st towers: by <span class="speDebuff">Third in Line</span> players.
-	+ 2nd towers: by <span class="speDebuff">First in Line</span> East and West players.
-	+ 3rd towers: by <span class="speDebuff">First in Line</span> South player and <span class="speDebuff">Second in Line</span> players.
+Furthemore, due to <span class="debuff">Fire Resistance Down II</span> timers, the **Darkdragon Dive** towers must be soaked by specific player based of your debuff:
++ 1st towers: by <span class="speDebuff">Third in Line</span> players.
++ 2nd towers: by <span class="speDebuff">First in Line</span> East and West players.
++ 3rd towers: by <span class="speDebuff">First in Line</span> South player and <span class="speDebuff">Second in Line</span> players.
 
 ___
+
+Once *Thordan* is dealt with, heal everyone and use mitigation for when *Nidhogg* dives into the arena with **Final Chorus**.
 
 When *Nidhogg* is casting **Dive from Grace** the players will recieve their numbers. <span class="speDebuff">First in Line</span> will pre-spread on East, South and West while <span class="speDebuff">Second in Line</span> will show their position on North East and North West.  
 Then, once the cast is over and Dive debuff are set:
@@ -479,6 +479,7 @@ Right after the second **Lash** or **Gnash** happend, the <span class="speDebuff
 
 As soon as the first **Geirskogul** are done, the <span class="speDebuff">Third in Line</span> players must get into position for their dive and the rest of the party stack North for **Eye of the Tyrant**. Quickly get a look at the **Gnash and Lash/Lash and Gnash** cast and as soon as the **Dark Jumps** and **Eye of the Tyrant** happend, move out or in for **Lash** or **Gnash**.  
 Then the <span class="speDebuff">First in Line</span> South player and <span class="speDebuff">Second in Line</span> players must get into the towers and dodge out or in for the second **Lash** or **Gnash**. Once it's done, move out and bait the **Geirskogul** as usual.
+
 Example with **Gnash and Lash**:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="dfg7.jpg;dfg8.jpg;dfg9.jpg;dfg10.jpg" imgDesc="Third in Line at dives positions and the rest stacks North;Dodge <strong>Gnashing Wheel</strong>;Dodge <strong>Lashing Wheel</strong> and South First in Line and the Second in Line players soak the towers;Bait <strong>Geirskogul</strong>" slideNumber=slideCounter %}
