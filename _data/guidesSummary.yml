@@ -3,7 +3,7 @@
 #  - name: Abilities Breakdown
 #    section:
 #      - name: General Abilities
-#      - name : X Abilities
+#      - name: X Abilities
 #  - name: Strategy
 #    section:
 #      - name: Phase Y
@@ -108,6 +108,10 @@ DSR:
         phases:
         - phase: Strength of the Ward
         - phase: Sanctity of the Ward
+  - name: Nidhogg
+    section:
+      - name: Abilities Breakdown
+      - name: Strategy
 
 
 #------------SAVAGE FIGHTS-----------

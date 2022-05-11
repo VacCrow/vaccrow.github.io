@@ -2,7 +2,7 @@
 layout: guides
 title: Dragonsong's Reprise | DSR
 imagePath: /assets/img/guides/ultimates/DSR/
-slideNumber: 10
+slideNumber: 11
 ---
 
 *Patch: 6.11  
@@ -39,7 +39,7 @@ AoE based on *Ser Grinnaux* postion, dealing <span class="magic">magical damage<
 ___
 
 + **<ins>Holy Shield Bash</ins>:**
-Tank buster tether from *Ser Adelphel* (& *Ser Janlenoux*) dealing AoE <span class="phys">physical damage</span> and applying <span class="speDebuff">Down for the Count</span> debuff lasting 6 seconds.  
+AoE tank buster tether from *Ser Adelphel* (& *Ser Janlenoux*) dealing AoE <span class="phys">physical damage</span> and applying <span class="speDebuff">Down for the Count</span> debuff lasting 6 seconds.  
 Deals less damage the further away *Ser Adelphel* is.
 
 ___
@@ -187,6 +187,9 @@ If one person survive, you'll reach the next phase that has a checkpoint.
 <div class="guideSection" markdown="1">
 <h2><a id="ThordanAbilities Breakdown">Abilities Breakdown</a></h2>
 
+*Thordan* auto-attacks are cone cleaves.
+
+___
 
 + **<ins>Ascalon’s Mercy Concealed</ins>:**
 Cone aimed at every players dealing <span class="phys">physical damage</span> and applying a <span class="debuff">Damage Down</span> debuff. The players positions are snapshoted at the end of the cast and the cones are fired 2 seconds later.
@@ -249,7 +252,7 @@ Groud AoEs that grow over time, dealing <span class="magic">magical damage</span
 ___
 
 + **<ins>Conviction</ins>:**
-Towers that deal small <span class="magic">magical damage</span> when soaked. Deals very high raid-wide <span class="magic">magical damage</span> and applies a <span class="debuff">Damage Down</span> and a <span class="debuff">Paralysis</span> debuff. when not soaked.
+Towers that deal small <span class="magic">magical damage</span> when soaked. Deals very high raid-wide <span class="magic">magical damage</span> and applies a <span class="debuff">Damage Down</span> and a <span class="debuff">Paralysis</span> debuff when not soaked.
 
 ___
 
@@ -356,6 +359,135 @@ From this point, you may hold your 2 minutes cooldown for the reopener on the ne
 Then *Thordan* will move a bit toward mid and use **Broad Swing**. Stand behind him and move into the first cleave once it happend. He will turn and repeat this a second time.
 
 The enrage, **Aetheric Burst**, is then casted to end this phase.
+</div>
+
+<h1><a id="PHASE_X">Nidhogg</a></h1>
+
+<div class="guideSection" markdown="1">
+<h2><a id="PHASE_XAbilities Breakdown">Abilities Breakdown</a></h2>
+
+*Nidhogg* auto-attacks are line cleaves.
+
+___
+
++ **<ins>Final Chorus</ins>:**
+Raid-wide AoE dealing very high <span class="magic">magical damage</span>. Require mitigation.
+
+___
+
++ **<ins>Dive from Grace</ins>:**
+Every player will recieve a number along with a corresponding debuff tell them the order in which **Dark Elusive/High/Spineshatter Jump** will happen:
+	+ <span class="speDebuff">First in Line</span> <img src="https://assets.rpglogs.com/img/ff/abilities/015000-015401.png">: on three players, attacked after 9 seconds.
+	+ <span class="speDebuff">Second in Line</span> <img src="https://assets.rpglogs.com/img/ff/abilities/015000-015402.png">: on two players, attacked after 19 seconds.
+	+ <span class="speDebuff">Third in Line</span> <img src="https://assets.rpglogs.com/img/ff/abilities/015000-015403.png">: on three players, attacked after 30 seconds.
+
+	At the end of the cast everyone will recieve a second debuff among <span class="speDebuff">High Jump Target</span>, <span class="speDebuff">Elusive Jump Target</span> and <span class="speDebuff">Spineshatter Dive Target</span>.
+
+	*Note that for each set of <span class="speDebuff">First/Second/Third in Line</span> debuff, an <span class="speDebuff">Elusive Jump Target</span> is always pared with a <span class="speDebuff">Spineshatter Dive Target</span>.*
+
+___
+
++ **<ins>Dark Elusive/High/Spineshatter Jump</ins>:**
+AoE on a player dealing <span class="phys">physical damage</span> and applying a <span class="debuff">Physical Vulnerability Up</span> for 3 seconds and a <span class="debuff">Fire Resistance Down II</span> debuff for 12 seconds.  
+It will also consume the player's Target debuff and a **Darkdragon Dive** tower will spawn based on the direction he's looking at:
+	+ <span class="speDebuff">High Jump Target</span> <img src="https://assets.rpglogs.com/img/ff/abilities/015000-015389.png">: at the player feet
+	+ <span class="speDebuff">Elusive Jump Target</span> <img src="https://assets.rpglogs.com/img/ff/abilities/015000-015391.png">: 15m behind the player
+	+ <span class="speDebuff">Spineshatter Dive Target</span> <img src="https://assets.rpglogs.com/img/ff/abilities/015000-015390.png">: 15m in front of the player
+
+	*PSA: Nidhogg hitbox is ~15m wide.*
+
+___
+
++ **<ins>Darkdragon Dive</ins>:**
+Tower that deals small <span class="magic">magical damage</span>, applies a <span class="debuff">Fire Resistance Down II</span> and a <span class="debuff">Physical Vulnerability Up</span> debuff when soaked. Deals very high raid-wide <span class="magic">magical damage</span> and applies a <span class="debuff">Damage Down</span> debuff when not soaked.  
+Once the tower is soaked, a clone of *Nidhogg* appears and casts **Geirskogul**.
+
+After **Dive from Grace**, 4 towers will spawn at intercardinal, requiering 1 to 4 players per tower where the sum equals 8. All the clones but one will cast **Geirskogul**, the remaining one will cast **Soul Tether**.
+
+___
+
++ **<ins>Geirskogul</ins>:**
+Untelegraphed line AoE aimed at the closest player from *Nidhogg* 's clone dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Damage Down</span> debuff.
+
+___
+
++ **<ins>Gnash and Lash/Lash and Gnash</ins>:**
+*Nidhogg* will launch two AoE attacks, both dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Damage Down</span> debuff.  
+**Gnash and Lash** consists of **Gnashing Wheel** into **Lashing Wheel** and **Lash and Gnash** is the opposite:
+	+ **Gnashing Wheel** has a pointblank shape.
+	+ **Lashing Wheel** has a donut shape.
+
+	There's a 4 seconds delay between the end of the cast and the first attack.
+___
+
++ **<ins>Eye of the Tyrant</ins>:**
+A random player in front of *Nidhogg* is targeted by a share AoE dealing <span class="magic">magical damage</span>.  
+<u>It is non-casted and is always used when the cast of **Gnash and Lash/Lash and Gnash** is complete.</u>
+
+___
+
++ **<ins>Drachenlance</ins>:**
+Untelegraphed frontal cleave aimed at a random player dealing very high <span class="phys">physical damage</span>.
+
+___
+
++ **<ins>Soul Tether</ins>:**
+AoE tank buster tether dealing <span class="magic">magical damage</span>.
+
+___
+
++ **<ins>Revenge of the Horde</ins>:**
+Enrage.
+</div>
+
+<div class="guideSection" markdown="1">
+<h2><a id="NidhoggStrategy">Strategy</a></h2>
+
+Once *Thordan* is dealt with, heal everyone and use mitigation for when *Nidhogg* dives into the arena with **Final Chorus**.
+
+___
+
+For the **Dive from Grace**, players will recieve their set of debuffs. For the whole mechanic, they will use the following positions/order and keep them:
++ <span class="speDebuff">First in Line</span> and <span class="speDebuff">Third in Line</span>: they take position on West, South and East of *Nidhogg* hitbox.  
+	<u>With <span class="speDebuff">Elusive Jump Target</span> on East facing away from the boss and <span class="speDebuff">Spineshatter Dive Target</span> on West looking at the boss.</u>
++ <span class="speDebuff">Second in Line</span>: they take position on North East and North West, slightly outside of *Nidhogg* hitbox.
+<img class="soloImg" src="{{ page.imagePath | append: "inLine.jpg" }}">
+
+	Furthemore, due to <span class="debuff">Fire Resistance Down II</span> timers, the **Darkdragon Dive** towers must be soaked by specific player based of your debuff:
+	+ 1st towers: by <span class="speDebuff">Third in Line</span> players.
+	+ 2nd towers: by <span class="speDebuff">First in Line</span> East and West players.
+	+ 3rd towers: by <span class="speDebuff">First in Line</span> South player and <span class="speDebuff">Second in Line</span> players.
+
+___
+
+When *Nidhogg* is casting **Dive from Grace** the players will recieve their numbers. <span class="speDebuff">First in Line</span> will pre-spread on East, South and West while <span class="speDebuff">Second in Line</span> will show their position on North East and North West.  
+Then, once the cast is over and Dive debuff are set:
++ <span class="speDebuff">First in Line</span> players can readjust to follow the rule of "<span class="speDebuff">Elusive Jump Target</span> on East and <span class="speDebuff">Spineshatter Dive Target</span> on West".
++ <span class="speDebuff">Third in Line</span> players can call a cardinal if they all have <span class="speDebuff">High Jump Target</span>, otherwise use the rule of "<span class="speDebuff">Elusive Jump Target</span> on East and <span class="speDebuff">Spineshatter Dive Target</span> on West".
+
+Have <span class="speDebuff">First in Line</span> players ready for the dives,  and the rest of the group stacked in front *Nidhogg* for **Eye of the Tyrant** during **Gnash and Lash/Lash and Gnash** cast, remember the in/out or out/in sequence.  
+Once the share and dives happend, quickly move in or out for **Gnash** or **Lash**.  
+In the meantime the <span class="speDebuff">Third in Line</span> player have to get in position to soak the tower, remember to run around the boss hitbox if you must dodge **Gnashing Wheel** to reach South. Move out or in for **Lash** or **Gnash** when soaking the towers. Then move out to bait **Geirskogul**.
+
+Example with **Lash and Gnash**:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="dfg1.jpg;dfg2.jpg;dfg3.jpg" imgDesc="First in Line dives on East, South and West. The rest stacks North;Dodge <strong>Lashing Wheel</strong>;Dodge <strong>Gnashing Wheel</strong> and Third in Line soak towers;Move slightly out to bait <strong>Geirskogul</strong>" slideNumber=slideCounter %}
+
+Right after the second **Lash** or **Gnash** happend, the <span class="speDebuff">Second in Line</span> players must move to their position to get dived at. Right after, the East and West <span class="speDebuff">First in Line</span> players will move in to soak the towers and bait the incoming **Geirskogul**.
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="dfg4.jpg;dfg5.jpg;dfg6.jpg" imgDesc="Move slightly out to bait <strong>Geirskogul</strong> and Second in Line dives on North East and North West;East and West First in Line soak the towers;Bait <strong>Geirskogul</strong>" slideNumber=slideCounter %}
+
+As soon as the first **Geirskogul** are done, the <span class="speDebuff">Third in Line</span> players must get into position for their dive and the rest of the party stack North for **Eye of the Tyrant**. Quickly get a look at the **Gnash and Lash/Lash and Gnash** cast and as soon as the **Dark Jumps** and **Eye of the Tyrant** happend, move out or in for **Lash** or **Gnash**.  
+Then the <span class="speDebuff">First in Line</span> South player and <span class="speDebuff">Second in Line</span> players must get into the towers and dodge out or in for the second **Lash** or **Gnash**. Once it's done, move out and bait the **Geirskogul** as usual.
+Example with **Gnash and Lash**:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="dfg7.jpg;dfg8.jpg;dfg9.jpg;dfg10.jpg" imgDesc="Third in Line at dives positions and the rest stacks North;Dodge <strong>Gnashing Wheel</strong>;Dodge <strong>Lashing Wheel</strong> and South First in Line and the Second in Line players soak the towers;Bait <strong>Geirskogul</strong>" slideNumber=slideCounter %}
+
+*Nidhogg* will resume his auto-attacks so clear away from the main Tank. He will then cast **Drachenlance** on a random target, dodge it sideways.
+
+Next is the final **Darkdragon Dive** towers, regroups in pairs at each intercardinal. If a tower only need one player, the Tank/Healer will adjust to satisfy another tower condition. The DPS will then bait the three **Geirskogul** toward the outside while the Tanks will grab the two **Soul Tether**. Have one Tank in front of *Nidhogg* and the second under him while the group stay away from them.
+
+*Nidhogg* will cast a final **Drachenlance** before his enrage, **Revenge of the Horde**.
 </div>
 
 <h1>Abilities from old fights</h1>

@@ -143,7 +143,7 @@ Immediatly followed up by 3 **Kothornos Quakes**.
 ___
 
 + **<ins>Kothornos Quake</ins>:**
-Cone AoE aimed at closest player dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Magic Vulnerability Up</span>.
+Cone AoE aimed at the closest player dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Magic Vulnerability Up</span>.
 
 ___
 
