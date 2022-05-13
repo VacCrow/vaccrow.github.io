@@ -2,7 +2,7 @@
 layout: guides
 title: Dragonsong's Reprise | DSR
 imagePath: /assets/img/guides/ultimates/DSR/
-slideNumber: 11
+slideNumber: 13
 ---
 
 *Patch: 6.11  
@@ -90,7 +90,7 @@ ___
 + **<ins>Holy Chain</ins>:**
 Every player will be chained and marked with <span class="speDebuff">Burning Chains</span> to another random player, both sharing the same marker. The chains can be broken based on distance.  
 If two players are close to each other when <span class="speDebuff">Burning Chains</span> spawned, it will easily break meanwhile if they are far from each other at start, they'll have to run further away.  
-After a set time and if the chains aren't broken, the players will recieve <span class="magic">magical damage</span> and a <span class="debuff">Damage Down</span> debuff every 3 seconds.
+After a set time and if the chains aren't broken, the players will receive <span class="magic">magical damage</span> and a <span class="debuff">Damage Down</span> debuff every 3 seconds.
 
 	The markers are assigned in a half random manner:  
 	+ Tanks will be marked with a <span style="color: dodgerblue">Cross</span> and a <span style="color: MediumPurple">Square</span>.
@@ -115,7 +115,7 @@ ___
 ___
 
 + **<ins>Spear of the Fury</ins>:**
-*Ser Zephirin* will cast it from outside the arena. *Haufrechant* will move in to intercept the attack. While he's alive, the group will recieve raid-wide unaspected damage</span>.
+*Ser Zephirin* will cast it from outside the arena. *Haufrechant* will move in to intercept the attack. While he's alive, the group will receive raid-wide unaspected damage</span>.
 
 ___
 
@@ -257,7 +257,7 @@ Towers that deal small <span class="magic">magical damage</span> when soaked. De
 ___
 
 + **<ins>Skyward Leap</ins>:**
-A non-Tank player recieve a blue marker. After 9 seconds, a knight will dive that player in AoE, dealing <span class="magic">magical damage</span>, applying a <span class="debuff">Physical Vulnerability Up</span> debuff and a <span class="debuff">Magic Vulnerability Up</span> debuff.
+A non-Tank player receive a blue marker. After 9 seconds, a knight will dive that player in AoE, dealing <span class="magic">magical damage</span>, applying a <span class="debuff">Physical Vulnerability Up</span> debuff and a <span class="debuff">Magic Vulnerability Up</span> debuff.
 
 ___
 
@@ -270,12 +270,12 @@ Share AoE on a non-Tank and non **Skyward Leap** marked player, dealing <span cl
 
 
 + **<ins>The Dragon’s Gaze</ins>:**
-*Thordan* and a *Dragon Eye* will appear on a different random cardinal/intercardinal. Require the players to look-away from both else they recieve unaspected damage along with a <span class="debuff">Damage Down</span> and an <span class="debuff">Hysteria</span> debuff..
+*Thordan* and a *Dragon Eye* will appear on a different random cardinal/intercardinal. Require the players to look-away from both else they receive unaspected damage along with a <span class="debuff">Damage Down</span> and an <span class="debuff">Hysteria</span> debuff..
 
 ___
 
 + **<ins>Sacred Sever</ins>:**
-Two players will recieve a one or two swords marker. After a few second *Ser Zephirin* will dash on the player with the one sword then to the two swords marked player. It will repeat this a second time.  
+Two players will receive a one or two swords marker. After a few second *Ser Zephirin* will dash on the player with the one sword then to the two swords marked player. It will repeat this a second time.  
 Each hit is a share that deals <span class="phys">physical damage</span> and applies <span class="debuff">Physical Vulnerability Up</span> debuff. The damage decreases the futher away the marked player is from *Ser Zephirin*.
 
 ___
@@ -292,7 +292,7 @@ Four large fire AoE dealing <span class="magic">magical damage</span> will appea
 ___
 
 + **<ins>Holy Comet</ins>:**
-Two Tanks/Healers or two DPS recieve a red marker. When it disappears, meteors will drop at the player location at regular interval.  
+Two Tanks/Healers or two DPS receive a red marker. When it disappears, meteors will drop at the player location at regular interval.  
 When a meteor drops it deals small <span class="magic">magical damage</span> to surround players. If two meteors are to close to each other, they will explode and deal very high <span class="magic">magical damage</span> and apply a <span class="debuff">Damage Down</span> debuff.
 </div>
 
@@ -313,8 +313,8 @@ Then each light party will form a triangle within their safe spot to avoid overl
 Once both attacks are done, each party regroups and dodge together the **Heavy Impact** AoEs. Watch the enemy list for **Ascalon’s Might** cast bar and move out to dodge them. Then, get some healing before the next mechanics.
 
 Then two Paladin Knights will appear along with **Dimensional Collapse** AoEs and **Conviction** towers. *Thordan* will also move to the cardinal/incardinal opposite of the Paladin Knights (where they're facing at).  
-Three non-Tank players will recieve a **Skyward Leap** marker and each of them has to move to a safe spot away from *Thordan*, next to the edge. <u>The players next to <em>Thordan</em> has to move away from him by a few step.</u>  
-The non-Tank players that aren't marked will move right underneath *Thordan* to recieve **The Dragon’s Rage**. The two Tanks has to quickly grab the **Holy Shield Bash** tethers and run toward *Thordan* safe spot. The Tanks will take the far left/right corner of the safe spot while crossing the tethers to reduce the damage taken and create a bigger safe zone for the non-marked players.  
+Three non-Tank players will receive a **Skyward Leap** marker and each of them has to move to a safe spot away from *Thordan*, next to the edge. <u>The players next to <em>Thordan</em> has to move away from him by a few step.</u>  
+The non-Tank players that aren't marked will move right underneath *Thordan* to receive **The Dragon’s Rage**. The two Tanks has to quickly grab the **Holy Shield Bash** tethers and run toward *Thordan* safe spot. The Tanks will take the far left/right corner of the safe spot while crossing the tethers to reduce the damage taken and create a bigger safe zone for the non-marked players.  
 Once **Skyward Leap** and **The Dragon’s Rage** are done. The previously marked players will move into the tower in front of them while the players who stacked will split among the 3 closest towers.
 Example with *Thordan* North:
 {% assign slideCounter = slideCounter | plus: 1 %}
@@ -376,12 +376,12 @@ Raid-wide AoE dealing very high <span class="magic">magical damage</span>. Requi
 ___
 
 + **<ins>Dive from Grace</ins>:**
-Every player will recieve a number along with a corresponding debuff tell them the order in which **Dark Elusive/High/Spineshatter Jump** will happen:
+Every player will receive a number along with a corresponding debuff tell them the order in which **Dark Elusive/High/Spineshatter Jump** will happen:
 	+ <span class="speDebuff">First in Line</span> <img src="https://assets.rpglogs.com/img/ff/abilities/015000-015401.png">: on three players, attacked after 9 seconds.
 	+ <span class="speDebuff">Second in Line</span> <img src="https://assets.rpglogs.com/img/ff/abilities/015000-015402.png">: on two players, attacked after 19 seconds.
 	+ <span class="speDebuff">Third in Line</span> <img src="https://assets.rpglogs.com/img/ff/abilities/015000-015403.png">: on three players, attacked after 30 seconds.
 
-	At the end of the cast everyone will recieve a second debuff among <span class="speDebuff">High Jump Target</span>, <span class="speDebuff">Elusive Jump Target</span> and <span class="speDebuff">Spineshatter Dive Target</span>.
+	At the end of the cast everyone will receive a second debuff among <span class="speDebuff">High Jump Target</span>, <span class="speDebuff">Elusive Jump Target</span> and <span class="speDebuff">Spineshatter Dive Target</span>.
 
 	*Note that for each set of <span class="speDebuff">First/Second/Third in Line</span> debuff, an <span class="speDebuff">Elusive Jump Target</span> is always pared with a <span class="speDebuff">Spineshatter Dive Target</span>.*
 
@@ -442,9 +442,58 @@ Enrage.
 </div>
 
 <div class="guideSection" markdown="1">
+<h2><a id="NidhoggEyesAbilities">Abilities Breakdown</a></h2>
+
+After *Estinien* retakes control of his body, *Alphinaud* will appear along with *Haurchefant* and *Ysayle* spirits. Haurchefant will tether to a random player and Ysayle will tether to Alphinaud. After 5 seconds the tethered players will drop a AoE on the ground that gives a buff lasting 90 seconds to anyone inside:
++ <span class="speDebuff">Soul of Friendship</span>: given by *Haurchefant*: allows to deal damage to the *Right Eye*.
++ <span class="speDebuff">Soul of Devotion</span>: given by *Ysayle*: allows to deal damage to the *Left Eye*.
+
+Once the *Left Eye* and *Right Eye* appear, the Duty Gauge will start to fill. When it reaches 100, *Nidhogg* will take control of *Estinien* and wipe the groupe. The Duty Gauge dissapears when both *Eyes* are dead.
+
+The *Right Eye* appears with only 50% of its health.
+
+___
+
++ **<ins>Resentment</ins>:**
+Raid-wide AoE from *Estinien* dealing <span class="magic">magical damage</span> and applying a <span class="debuff">Bleed</span> debuff for 6 seconds.
+
+___
+
++ **<ins>Hatebound</ins>:**
+2 groups of 4 random players will receive the following debuffs:
+	+ <span class="speDebuff">Clawbound</span>: these players will be chained to the *Left Eye*, in red. Any damage taken will also damage the *Left Eye*.
+	+ <span class="speDebuff">Fangbound</span>: these players will be chained to the *Right Eye*, in blue. Any damage taken will heal the *Right Eye*.
+
+These debuffs can be swaped if two players with different debuffs touch each other. After swapping, both players will receive a <span class="speDebuff">Bound and Determined</span> debuff for 3 seconds, preventing them to swap again.
+
+___
+
++ **<ins>Flare Nova & Flare Star</ins>:**
+6 orbs will spawn and grow in size overtime, detonating once they're big enough.  
+Each orb deals sharable <span class="magic">magical damage</span> and applying a <span class="debuff">Fire Resistance Down II</span> debuff for 12 seconds. The damage will scale with the orb size.
+
+	**Flare Nova**:
+	2 medium sized yellow orbs that spawn East and West. Since they're already big, they need to popped by 2 players each.
+
+	**Flare Star**:
+	4 small sized blue orbs that spawn North and South of each *Eye*. Since they are small enough they only need to popped by 1 player.
+
+___
+
++ **<ins>Mirage Dive</ins>:**
+AoE on 2 random players with <span class="speDebuff">Clawbound</span> dealing <span class="phys">piercing physical damage</span> and appylying <span class="debuff">Piercing Resistance Down</span> debuff for 13 seconds.  
+Happens 4 times with 5 seconds in between.
+
+___
+
++ **<ins>Steep in Rage</ins>:**
+Raid-wide AoE from both *Left Eye* and *Right Eye* dealing high <span class="magic">magical damage</span>.
+</div>
+
+<div class="guideSection" markdown="1">
 <h2><a id="NidhoggStrategy">Strategy</a></h2>
 
-For **Dive from Grace**, players will recieve a set of debuffs and for the whole mechanic, they will use the following positions:
+For **Dive from Grace**, players will receive a set of debuffs and for the whole mechanic, they will use the following positions:
 + <span class="speDebuff">First in Line</span> and <span class="speDebuff">Third in Line</span>: they take position on West, South and East of *Nidhogg* hitbox. ***With <span class="speDebuff">Elusive Jump Target</span> on East facing away from the boss and <span class="speDebuff">Spineshatter Dive Target</span> on West looking at the boss.***
 + <span class="speDebuff">Second in Line</span>: they take position on North East and North West, slightly outside of *Nidhogg* hitbox.
 
@@ -458,9 +507,9 @@ Furthemore, due to <span class="debuff">Fire Resistance Down II</span> timers, t
 
 ___
 
-Once *Thordan* is dealt with, heal everyone and use mitigation for when *Nidhogg* dives into the arena with **Final Chorus**.
+<a id="SNidhogg">Once *Thordan* is dealt with, heal everyone and use mitigation for when *Nidhogg* dives into the arena with **Final Chorus**.
 
-When *Nidhogg* is casting **Dive from Grace** the players will recieve their numbers. <span class="speDebuff">First in Line</span> will pre-spread on East, South and West while <span class="speDebuff">Second in Line</span> will show their position on North East and North West.  
+When *Nidhogg* is casting **Dive from Grace** the players will receive their numbers. <span class="speDebuff">First in Line</span> will pre-spread on East, South and West while <span class="speDebuff">Second in Line</span> will show their position on North East and North West.  
 Then, once the cast is over and Dive debuff are set:
 + <span class="speDebuff">First in Line</span> players can readjust to follow the rule of "<span class="speDebuff">Elusive Jump Target</span> on East and <span class="speDebuff">Spineshatter Dive Target</span> on West".
 + <span class="speDebuff">Third in Line</span> players can call a cardinal if they all have <span class="speDebuff">High Jump Target</span>, otherwise use the rule of "<span class="speDebuff">Elusive Jump Target</span> on East and <span class="speDebuff">Spineshatter Dive Target</span> on West".
@@ -489,100 +538,31 @@ Example with **Gnash and Lash**:
 Next is the final **Darkdragon Dive** towers, regroups in pairs at each intercardinal. If a tower only need one player, the Tank/Healer will adjust to satisfy another tower condition. The DPS will then bait the three **Geirskogul** toward the outside while the Tanks will grab the two **Soul Tether**. Have one Tank in front of *Nidhogg* and the second under him while the group stay away from them.
 
 *Nidhogg* will cast a final **Drachenlance** before his enrage, **Revenge of the Horde**.
-</div>
 
-<h1>Abilities from old fights</h1>
+___
 
-<div class="guideSection" markdown="1">
-<h2>ThorEx</h2>
+<a id="SLeft&RightEyes">
 
-+ P1:  
-	+ Ascalon's Might: front cleave (tb? don't remember)  
-	+ Meteorrain: baited aoes under plaeyrs  
-	+ Ascalon's Mercy: 180 cleave with gaps in it, damage + kb  
-	+ Dragon's Eye: increase the boss damage  
-	+ Dragon's Gaze: look away from boss + dragon eye. Histeria + vuln if hit  
-	+ Lightning Storm: aoes on players  
-	+ Dragon's Rage: stack  
-	+ Ancient Quagga: raidwide  
-	+ Heavenly Heel: tb
+Stack up on *Alphinaud* to receive <span class="speDebuff">Soul of Devotion</span> and <span class="speDebuff">Soul of Friendship</span>.
 
-+ Adds
-	+ Holy Chains + Heavenflare: chains (break with distance) + chasing aoes  
-	+ Convistion: towers. Raid damage + paralyze if not soak  
-	+ Sacred Cross: dps check, damage based on remaining hp  
-	+ Spiral trust: dash through the arena  
-	+ Divine Right: gives shield/sword stance. More defense/damage  
-	+ Blade dance: tb  
-	+ Skyward Leap: blue markers, deal proximity damage after a bit  
-	+ Holiest Holy: raidwide  
-	+ Spiral Pierce: line dash on tethered player  
-	+ Hiemal storm: aoe on non tethered. Drop ice puddle  
-	+ Dimentional Collapse: baited aoe that grow in side over time  
-	+ Faith unmoving: kb  
-	+ Holy meteor: aoe on player at random  
+Each Tank must grab the *Eyes* enmity since they will auto-attack though this part. <u>Since the *Left Eye* will lose most of its health from damages taken by the players, everyone has to focus as much as possible the *Right Eye*.</u>  
+And get some mitigation ready for the incoming **Resentment**.
 
-+ P2:  
-	+ Holy Shield Bash: buster on a marked target w/ stun  
-	+ Spear of Fury: line AoE on marked target, share damage. deals high damage on first target hit. Also give Infirmy debuff
+Next, **Hatebound** will assign a debuff to everyone, be spread before the cast is over to avoid unnecessary swap:
++ Tanks and Melee DPS must get the blue chains, <span class="speDebuff">Fangbound</span>.
++ Healers and Ranged DPS must get the red chains, <span class="speDebuff">Clawbound</span>.
 
-<h2>NidEx</h2>
+Any player with the wrong debuff has to stack mid, under *Estinien*. Thus they will automatically swap their debuffs to the correct one.
 
-+ Dragon form:  
-	+ Scarlet Whisper: magical cleave tb
-	+ Deafenning Bellow: radiwide
-	+ Hoorid Raor: baited aoes under players, gives Hysteria OR aoe markers on players
-	+ Cauterize: dive half the arena
-	+ Hot Tail: line AoE. Goes through Nid, front-back
-	+ Hot Wing: line AoE. Hit anywhere but midline
-	+ Ahk Morn: share, hits 4 times + 1 for each subsequent cast
-	+ Bitter Hate: debuff that stack on MT, 8 stacks = death.
-	+ Crimson Price: same as o11s
-	+ Mortal Chorus: raidwide + kb. Otherwise wipe
+Then, Tanks and Healers will move toward the *Left Eye* while the DPS will move toward the *Right Eye*.  
+Once the orbs are here, Healers and Ranged DPS have to wait for the yellow orbs to grow twice before soaking them in pairs. Then the Tanks and Healers will swap their debuffs and Melee and Ranged DPS will do the same. Finally, the Tanks and Melee DPS will wait for the second growth to happen, before taking the blue orbs.
 
-+ Human form:  
-	+ Final Chorus: ultimate raidwide
-	+ Drachenlance: cleave tb
-	+ High Jump: aoe on 4 players, drop a puddle after that give bleed. Clones of Nid spawn inside the puddles
-	+ Gierskogul: 4 lines AoE
-	+ Soul Tether: aoe tb tether that can be grabed
-	+ Ala Morn: tb
-	+ Nid's Claw (red): the claw takes damage when red tethered players take damage
-	+ Nid's Fang (blue): the fang will heal when blue tethered players take damage
-	+ Flare Stare: orb moving towards the fang, claw players must intercept
-	+ Eye of the Tyrant: share (only red players)
-	+ Darkdragon dive: 4 towers. Leaves a fire puddle
-	+ Superjump: proximity raidwide
+Group up around the *Right Eye* without touching each other. The Healers and Ranged DPS will first move inside the *Right Eye* while the Tanks and Melee DPS will spread around it afterward.  
+Every time a set of **Mirage Dive** is done, the next pairs will swap their debuff and position with the two players hit. The order is the following one:
+	Healers -> Ranged DPS -> Flex (the two players who got hit first, they should have 3s left on their <span class="debuff">Piercing Resistance Down</span> debuff).
 
+If the *Right Eye* isn't dead yet, quickly kill him before the next raidwide, **Steep in Rage**, or it will heal up. Then finish off the *Left Eye*, be aware of **Steep in Rage** damage.
 
-<h2>The Vault</h2>
+There's only a few seconds left before the Duty Gauge is filled up.
 
-+ Ser Adelphel Brightblade:  
-	+ Holy Shield Bash: buster on a target + stun
-	+ Holiest of Holy: raidwide
-	+ Dash, leave orbs, explode in Aoe after a bit. Dash on one player when done
-
-+ Ser Grinnaux The Bull:  
-	+ Hyperdimensional Slash: line aoe on a random, leave aetherical tear where it hits the wall. Deals damage when close
-	+ Faith Unmoving: kb
-	+ Dimensional Rift: ground AoEs
-
-+ Ser Charibert:  
-	+ Altar Pyre: raidwide
-	+ Holy Chain: Chains dealing damage, break with distance
-	+ Heavensflame: ground aoes
-	+ Summons row of knights
-	+ Summons Holy Flames, Altar Pyre deals more if Flames are left.
-
-<h2>Sohm Al</h2>
-
-+ Tioman:  
-	+ Comet: prox marker under players
-	+ Chaos Blast: line + circle aoes on players
-
-<h2>The Aery</h2>
-
-+ Nidhogg:  
-	+ Crimson Price: fire orb that attack player with line aoes
-	+ Sable Price: put a  player in gaol, free before cast is over
 </div>

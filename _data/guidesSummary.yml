@@ -111,7 +111,11 @@ DSR:
   - name: Nidhogg
     section:
       - name: Abilities Breakdown
+      - name: Eyes Abilities
       - name: Strategy
+        phases:
+          - phase: Nidhogg
+          - phase: Left & Right Eyes
 
 
 #------------SAVAGE FIGHTS-----------
