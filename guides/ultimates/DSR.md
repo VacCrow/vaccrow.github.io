@@ -541,9 +541,7 @@ Next is the final **Darkdragon Dive** towers, regroups in pairs at each intercar
 
 ___
 
-<a id="SLeft&RightEyes">
-
-Stack up on *Alphinaud* to receive <span class="speDebuff">Soul of Devotion</span> and <span class="speDebuff">Soul of Friendship</span>.
+<a id="SLeft&RightEyes">Stack up on *Alphinaud* to receive <span class="speDebuff">Soul of Devotion</span> and <span class="speDebuff">Soul of Friendship</span>.
 
 Each Tank must grab the *Eyes* enmity since they will auto-attack though this part. <u>Since the *Left Eye* will lose most of its health from damages taken by the players, everyone has to focus as much as possible the *Right Eye*.</u>  
 And get some mitigation ready for the incoming **Resentment**.
