@@ -2,7 +2,7 @@
 layout: guides
 title: Dragonsong's Reprise | DSR
 imagePath: /assets/img/guides/ultimates/DSR/
-slideNumber: 13
+slideNumber: 12
 ---
 
 *Patch: 6.11  
@@ -553,7 +553,10 @@ Next, **Hatebound** will assign a debuff to everyone, be spread before the cast 
 Any player with the wrong debuff has to stack mid, under *Estinien*. Thus they will automatically swap their debuffs to the correct one.
 
 Then, Tanks and Healers will move toward the *Left Eye* while the DPS will move toward the *Right Eye*.  
-Once the orbs are here, Healers and Ranged DPS have to wait for the yellow orbs to grow twice before soaking them in pairs. Then the Tanks and Healers will swap their debuffs and Melee and Ranged DPS will do the same. Finally, the Tanks and Melee DPS will wait for the second growth to happen, before taking the blue orbs.
+Once the orbs are here, Healers and Ranged DPS have to wait for the yellow orbs to grow twice before soaking them in pairs. Then the Tanks and Healers will swap their debuffs and Melee and Ranged DPS will do the same. Finally, the Tanks and Melee DPS will wait for the second growth to happen, before taking the blue orbs:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="flare1.jpg;flare2.jpg" imgDesc="" slideNumber=slideCounter %}
+
 
 Group up around the *Right Eye* without touching each other. The Healers and Ranged DPS will first move inside the *Right Eye* while the Tanks and Melee DPS will spread around it afterward.  
 Every time a set of **Mirage Dive** is done, the next pairs will swap their debuff and position with the two players hit. The order is the following one:
