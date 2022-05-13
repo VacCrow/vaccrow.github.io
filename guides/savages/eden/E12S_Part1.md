@@ -11,10 +11,10 @@ DPS Requirement: ~126k
 Loot: None since it's a door boss*
 
 ___
-<h1><a id="Abilities Breakdown">Abilities Breakdown</a></h1>
+<h1><a id="AbilitiesBreakdown">Abilities Breakdown</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABGeneral Abilities">General Abilities:</a></h2>
+<h2><a id="ABGeneralAbilities">General Abilities:</a></h2>
 
 + **<ins>Maleficium</ins>:**
 Raid-wide AoE dealing <span class="magic">magical damage</span>.
@@ -39,7 +39,7 @@ Enrage.
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABPrimal Abilities">Primal Abilities:</a></h2>
+<h2><a id="ABPrimalsAbilities">Primal Abilities:</a></h2>
 
 Six memories of primals will appear along the North edge. *Eden's Promise* will either use Cast or Stock on Leviathan/Gaura/Ramuh/Ifrit or will use Junction on Titan/Shiva.  
 Leviathan, Garuda, Ramuh and Ifrit memories deal <span class="magic">magical damage</span> and apply a <span class="debuff">Damage Down</span> debuff. <u>Also, Ifrit and Garuda memories can never be casted together</u>
@@ -95,7 +95,7 @@ ___
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABJunction Shiva Phase">Junction Shiva Phase:</a></h2>
+<h2><a id="ABJunctionShivaPhase">Junction Shiva Phase:</a></h2>
 
 + **<ins>Diamond Dust</ins>:**
 Raid-wide AoE dealing huge <span class="magic">magical damage</span> and applying <span class="debuff">Thin Ice</span> on every player after 5 seconds. <span class="debuff">Thin Ice</span> is lasting 13 seconds.
@@ -131,7 +131,7 @@ Every pillar will fly toward the player they're tethered with, dealing <span cla
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABJunction Titan Phase">Junction Titan Phase:</a></h2>
+<h2><a id="ABJunctionTitanPhase">Junction Titan Phase:</a></h2>
 
 + **<ins>Earthen Fury</ins>:**
 Raid-wide AoE dealing huge <span class="magic">magical damage</span>.
@@ -155,7 +155,7 @@ If a boulder isn't affected by any debuffs, he will explode dealing raid-wide <s
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABGuardian of Eden Abilities">Guardian of Eden Abilities:</a></h2>
+<h2><a id="ABGuardianOfEdenAbilities">Guardian of Eden Abilities:</a></h2>
 
 The *Guardian of Eden* will spawn South, outside of the arena and will cast abilities from there.
 
@@ -185,7 +185,7 @@ To be knocked to the edge, you have to stand close to the middle.
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABKingsblaze / Lionsblaze Phase">Kingsblaze / Lionsblaze Phase:</a></h2>
+<h2><a id="ABKingsblaze-LionsblazePhase">Kingsblaze / Lionsblaze Phase:</a></h2>
 
 + Two big *Regal Sculptures* will spawn North and South. These sculptures will launch a wide cone, **Kingsblaze**, toward the closest player, dealing **fire** <span class="magic">magical damage</span> and applying a <span class="debuff">Fire Resistance Down II</span> for 14 seconds. Also a puddle will appear where the player hit was standing (inflict a dot). This attack will be repeated three times.
 
@@ -216,7 +216,7 @@ The main target will use its invulnerability while the second target will use hi
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SJunction Shiva"></a>
+<a id="SJunctionShiva"></a>
 
 *Eden's Promise* will cast **Junction Shiva**.
 Everyone regroups in the middle and prepares mitigation for the incoming **Diamond Dust**. There's no need to over mitigate this because there's 5 seconds after **Diamond Dust** for everyone to get healed.
@@ -245,7 +245,7 @@ Another **Maleficium** is used then *Eden's Promise* will cast **Junction Titan*
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SJunction Titan"></a>
+<a id="SJunctionTitan"></a>
 
 **Earthen Fury** will be casted.
 
@@ -275,7 +275,7 @@ The third set of boulder will be resolved by moving to the following positions:
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SGuardian of Eden"></a>
+<a id="SGuardianOfEden"></a>
 
 Now the boss will use **Cast** and at the same time *Guardian of Eden* will also perform **Obliteration**. Both will resolve at the same moment.
 The group will always stack on the South, South East or East depending on the memories used. The main tank doesn't have to stack with the rest of the group if he's aligned with *Guardian of Eden* and the rest of the group.
@@ -308,7 +308,7 @@ When **Palm Of Temperance** happens, *Eden's Promise* will jump back mid and cas
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SKingsblaze / Lionsblaze"></a>
+<a id="SKingsblaze-Lionsblaze"></a>
 
 *Eden's Promise* will now cast **Stock** before going into the Lion's phase.
 

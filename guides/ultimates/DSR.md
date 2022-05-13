@@ -17,10 +17,10 @@ Loot:*
 
 ___
 
-<h1><a id="The Vault Knights">The Vault Knights</a></h1>
+<h1><a id="TheVaultKnights">The Vault Knights</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="The Vault KnightsAbilities Breakdown">Abilities Breakdown</a></h2>
+<h2><a id="TheVaultKnightsAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 *Ser Adelphel* and *Ser Grinnaux* must be killed at the same time. When one die, the other will start casting his enrage.
 
@@ -131,7 +131,7 @@ When the cast is over, *Ser Charibert* will deal raid-wide <span class="magic">m
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="The Vault KnightsStrategy">Strategy</a></h2>
+<h2><a id="TheVaultKnightsStrategy">Strategy</a></h2>
 
 Pull both bosses and bring them middle. Focus *Ser Adelphel* during the opener since he will disappear multiple times during the phase.  
 *Ser Adelphel* will use **Holiest of Holy**.
@@ -171,7 +171,7 @@ Finally they will cast their enrages **Brightblade's Steel** and **The Bull's St
 
 ___
 
-<a id="SPlanar Imprisonment">If they are killed in time, *Ser Grinnaux* will pull everyone into a smaller arena. Right after, *Ser Charibert* will start to cast **Pure of Heart** and need to be brought as low as possible.
+<a id="SPlanarImprisonment">If they are killed in time, *Ser Grinnaux* will pull everyone into a smaller arena. Right after, *Ser Charibert* will start to cast **Pure of Heart** and need to be brought as low as possible.
 
 The group will stay middle at max melee range. Then the first pair will move inside *Ser Charibert*  's hitbox between him and the wall to bait the first set of **Brightwing** toward the outside. Once they're hit, they move to a side of the arena at max melee range and wait there to lose their <span class="speDebuff">Skyblind</span> debuff before going back with the group.  
 The pairs order is the following: <u>Tanks -> Ranged DPS -> Melee DPS -> Healers</u>. The Melees will move to the left side to drop their debuff while the Ranged will move to the right side:
@@ -185,7 +185,7 @@ If one person survive, you'll reach the next phase that has a checkpoint.
 <h1><a id="Thordan">Thordan</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ThordanAbilities Breakdown">Abilities Breakdown</a></h2>
+<h2><a id="ThordanAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 *Thordan* auto-attacks are cone cleaves.
 
@@ -227,7 +227,7 @@ Enrage.
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ThordanStrength of the Ward">Strength of the Ward</a></h2>
+<h2><a id="ThordanStrengthOfTheWard">Strength of the Ward</a></h2>
 
 
 + **<ins>Spiral Thrust</ins>:**
@@ -266,7 +266,7 @@ Share AoE on a non-Tank and non **Skyward Leap** marked player, dealing <span cl
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ThordanSanctity of the Ward">Sanctity of the Ward</a></h2>
+<h2><a id="ThordanSanctityOfTheWard">Sanctity of the Ward</a></h2>
 
 
 + **<ins>The Dragon’s Gaze</ins>:**
@@ -305,7 +305,7 @@ Pull *Thordan* and have the group stacked behind the boss to bait the incoming *
 Right after, *Thordan* will perform **Ascalon’s Might** three times in a row, use your Tank invulnerability to go through.  
 Next *Thordan* will summon his Knights and cast **Strength of the Ward**. You can swap Tanks during the cast for later.
 
-<a id="SStrength of the Ward">As soon as *Thordan* leaves, everyone has to spread around the arena and wait for the Dragoon Knights to arrive. If a player has a Dragoon Knight behind him, that player will move toward the middle of the arena telling that his position is unsafe. The player on the opposite side will also move to the middle since it's not safe. The players who moved will regroup at the safe spots with their respective light party in order to dodge **Spiral Thrusts**.  
+<a id="SStrengthOfTheWard">As soon as *Thordan* leaves, everyone has to spread around the arena and wait for the Dragoon Knights to arrive. If a player has a Dragoon Knight behind him, that player will move toward the middle of the arena telling that his position is unsafe. The player on the opposite side will also move to the middle since it's not safe. The players who moved will regroup at the safe spots with their respective light party in order to dodge **Spiral Thrusts**.  
 Then each light party will form a triangle within their safe spot to avoid overlaping **Lightning Storm**. The Healer shall be on the corner near the middle, the DPS on corners along the edge and the Tank along the edge between the DPS:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="strength1.jpg;strength2.jpg;strength3.jpg" imgDesc="Spread out;Find the safe spots;Regroup with your party" slideNumber=slideCounter %}
@@ -324,7 +324,7 @@ When *Thordan* jumps back mid, regroup and heal everyone for the incoming **Anci
 Followed by **Heavenly Heel** into three **Ascalon’s Might**, use the Tank invulnerability.  
 Next *Thordan* will once again summon his Knights and cast **Sanctity of the Ward**.
 
-<a id="SSanctity of the Ward">Two Paladin Knights will appear mid, facing opposite direction and a Dark Knight (*Ser Zephirin*) will appear along the edge. Quickly identify *Ser Janlenoux* (Silver armour with a white plume), if he's on the West side, everyone will rotate counter-clockwise to dodge, if he's East then it's clockwise. (You can also check the closest Paladin after you're groupped, you'll move toward the intercardinal that this Paladin isn't facing to)  
+<a id="SSanctityOfTheWard">Two Paladin Knights will appear mid, facing opposite direction and a Dark Knight (*Ser Zephirin*) will appear along the edge. Quickly identify *Ser Janlenoux* (Silver armour with a white plume), if he's on the West side, everyone will rotate counter-clockwise to dodge, if he's East then it's clockwise. (You can also check the closest Paladin after you're groupped, you'll move toward the intercardinal that this Paladin isn't facing to)  
 When *Thordan* leaves, quickly form two groups of 4 East and West. Then two **Sacred Sever** markers will appear and groups need to be reajusted:
 + Marked player: they change group in order that #1 is away from *Ser Zephirin* while #2 is near him.
 + Non-marked Tanks: if there's no marker in your group, swap group. Otherwise stay.
@@ -364,7 +364,7 @@ The enrage, **Aetheric Burst**, is then casted to end this phase.
 <h1><a id="Nidhogg">Nidhogg</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="NidhoggAbilities Breakdown">Abilities Breakdown</a></h2>
+<h2><a id="NidhoggAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 *Nidhogg* auto-attacks are line cleaves.
 

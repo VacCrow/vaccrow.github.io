@@ -102,12 +102,12 @@ DSR:
   - name: Thordan
     section:
       - name: Abilities Breakdown
-      - name: Strength of the Ward
-      - name: Sanctity of the Ward
+      - name: Strength Of The Ward
+      - name: Sanctity Of The Ward
       - name: Strategy
         phases:
-        - phase: Strength of the Ward
-        - phase: Sanctity of the Ward
+        - phase: Strength Of The Ward
+        - phase: Sanctity Of The Ward
   - name: Nidhogg
     section:
       - name: Abilities Breakdown
@@ -178,7 +178,7 @@ E9S:
     section:
       - name: General Abilities
       - name: Obscure Wood Abilities
-      - name: Empty Plane
+      - name: Empty Plane Abilities
   - name: Strategy
     section:
       - name: Phase 1
@@ -189,7 +189,7 @@ E10S:
   - name: Abilities Breakdown
     section:
       - name: Shadowkeeper Forms
-      - name: Shadow's Abilities
+      - name: Shadows Abilities
       - name: General Abilities
   - name: Strategy
     section:
@@ -213,17 +213,17 @@ E12S_Part1:
   - name: Abilities Breakdown
     section:
       - name: General Abilities
-      - name: Primal Abilities
+      - name: Primals Abilities
       - name: Junction Shiva Phase
       - name: Junction Titan Phase
-      - name: Guardian of Eden Abilities
-      - name: Kingsblaze / Lionsblaze Phase
+      - name: Guardian Of Eden Abilities
+      - name: Kingsblaze - Lionsblaze Phase
   - name: Strategy
     section:
       - name: Junction Shiva
       - name: Junction Titan
-      - name: Guardian of Eden
-      - name: Kingsblaze / Lionsblaze
+      - name: Guardian Of Eden
+      - name: Kingsblaze - Lionsblaze
 
 E12S_Part2:
   - name: Abilities Breakdown

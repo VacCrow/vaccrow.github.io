@@ -19,7 +19,7 @@ ___
 <h1><a id="Twintania">Twintania</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="TwintaniaAbilities Breakdown">Abilities Breakdown</a></h2>
+<h2><a id="TwintaniaAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 When *Twintania* health reaches specifics thresholds, respectively at 75%, 45% and 0%, she will drop a **Neurolink** under her hitbox. Standing inside a **Neurolink** will give you the <span class="speDebuff">Neurolink</span> debuff, slowing you down, reducing your healing and greatly reducing your damage done.
 
@@ -112,10 +112,10 @@ The last **Death Sentence** and the enrage, **Aetheric Profusion**, right after.
 
 </div>
 
-<h1><a id="Nael Deus Darnus">Nael Deus Darnus</a></h1>
+<h1><a id="NaelDeusDarnus">Nael Deus Darnus</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Nael Deus DarnusAbilities Breakdown">Abilities Breakdown</a></h2>
+<h2><a id="NaelDeusDarnusAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 + **<ins>Heavensfall</ins>:**
 A giant allagan monolith will fall down, performing a raidwide AoE dealing <span class="magic">magical damage</span> scaling down the further you are from the centre and knock backing everyone. The centre of the arena is also becoming a death zone as long as the monolith is here.
@@ -207,7 +207,7 @@ Enrage during P2.
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Nael Deus DarnusQuotes">Quotes</a></h2>
+<h2><a id="NaelDeusDarnusQuotes">Quotes</a></h2>
 
 Through the second and the fourth phases, *Nael* will use quotes to tell which abilities she will use next instead of casting or showing telegraphs.
 In order to easily identify which mechanics are hidden behind each quote, just find the keywords. If you see **fire, scorch or blazing** on the first part of a quote, it means that **Thermonic Beam** is the first mechanic.
@@ -242,7 +242,7 @@ Most of the time, there's only two or four possible quotes used at a specific mo
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Nael Deus DarnusStrategy">Strategy</a></h2>
+<h2><a id="NaelDeusDarnusStrategy">Strategy</a></h2>
 
 <em>Note about this phase: players will have to juggle with their <span class="speDebuff">Icebitten</span> and <span class="speDebuff">Firescorched</span> debuffs.  
 There's multiple way to do it but this guide will cover the <strong>Fireball</strong> IN/OUT/IN/IN way. It is the easiest one since players won't have to care about their current debuffs since they will cancel each other on their own. Reducing RNG in this phase a bit more.</em>
@@ -299,10 +299,10 @@ Finally, *Nael* will force another tank swap with **Ravensbeak** followed by **B
 
 </div>
 
-<h1><a id="Bahamut Prime">Bahamut Prime</a></h1>
+<h1><a id="BahamutPrime">Bahamut Prime</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Bahamut PrimeAbilities Breakdown">Abilities Breakdown</a></h2>
+<h2><a id="BahamutPrimeAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 + **<ins>Seventh Umbral Era</ins>:**
 Raid-wide AoE dealing <span class="magic">magical damage</span> and pushing back everyone
@@ -351,7 +351,7 @@ Raid-wide AoE dealing massive <span class="magic">magical damage</span>.
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Bahamut PrimeTrios">Trios</a></h2>
+<h2><a id="BahamutPrimeTrios">Trios</a></h2>
 
 Through this phase, *Bahamut Prime* will often cast a **Trio** where both *Nael* and *Twintania* will join *Bahamut Prime* for a series for mechanics. Most of the time, the boss won't be targetable during a **Trio**.
 
@@ -407,7 +407,7 @@ ___
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Bahamut PrimeStrategy">Strategy</a></h2>
+<h2><a id="BahamutPrimeStrategy">Strategy</a></h2>
 
 Once *Nael* is defeated, group all together at mid-distance between the edge and the centre for the incoming **Seventh Umbral Era**.  
 As soon as the group get pushed, use the Tank LB. If LB3 is available, it will require few healing to survive the four **Calamitous Flames**. Otherwise, use LB2 and quickly heal between each hit.
@@ -416,7 +416,7 @@ As soon as the group get pushed, use the Tank LB. If LB3 is available, it will r
 
 Quickly turn the boss away from the group before he casts **Flare Breath** followed by **Flatten**.
 
-<a id="SQuickmarch Trio"></a>Then **Bahamut Prime** will call his friend for **Quickmarch Trio**. Once they leave the arena, quickly identify where they flew to. This location will be considered as North for this **Trio**.  
+<a id="SQuickmarchTrio"></a>Then **Bahamut Prime** will call his friend for **Quickmarch Trio**. Once they leave the arena, quickly identify where they flew to. This location will be considered as North for this **Trio**.  
 The whole gang will dive in a straight line, you have the group split in two groups, to the East and West, next to the edges. When the gang is diving (check the focus target/enmity list for the cast), take a few steps toward the centre to bait the **Twisters** on the edge.   
 Stay spread and wait for the **Megaflare** puddles and AoEs to happen.  
 *Bahamut Prime* will come back and everyone will get into position, relative to *Bahamut Prime*. The three DPS with a **Megaflare** marker will stack behind, the DPS with **Earthshaker** will be in front, the two Healers move to the left and right side with their **Earthshaker** and the Tanks will grab the **Tempest Wing** tether and position themselves between the boss and their Healer. If the tether is on the **Megaflare** stack, wait for the stack explosion before picking it up:
@@ -427,7 +427,7 @@ Stay spread and wait for the **Megaflare** puddles and AoEs to happen.
 
 *Bahamut Prime* will continue with **Flare Breath** and a **Flatten**. You can use the cooldown(s) from **Tempest Wing** running for these tankbusters.
 
-<a id="SBlackfire Trio"></a>The gang is back again for **Blackfire Trio**.  When it starts, the group has to face *Nael* and when the first **Liquid Hell** appears, start to move toward *Nael* (don't use sprint except if you're late compare to the rest of the group). Between the third and fourth **Liquid Hell**, *Nael* will use **Thermionic Beam** on the group but keep moving toward her. After **Thermionic Beam**, try to get everyone healed up quickly as the group will split in two, while facing *Nael*, Tanks and Healers to the left and DPS to the right.  
+<a id="SBlackfireTrio"></a>The gang is back again for **Blackfire Trio**.  When it starts, the group has to face *Nael* and when the first **Liquid Hell** appears, start to move toward *Nael* (don't use sprint except if you're late compare to the rest of the group). Between the third and fourth **Liquid Hell**, *Nael* will use **Thermionic Beam** on the group but keep moving toward her. After **Thermionic Beam**, try to get everyone healed up quickly as the group will split in two, while facing *Nael*, Tanks and Healers to the left and DPS to the right.  
 One Tank, one Healer and two DPS will get a **Megaflare** marker, they will stack behind the fire puddle, opposite of *Nael*. 4 **Megaflare** towers will spawn on each side but don't step inside yet. Wait for the first **Hypernova** to be fired to move in the tower. If the stack is targeted by a **Hypernova**, move away from *Nael* to stay stack.  
 Don't forget to dodge the last **Hypernova** before regrouping mid for **Gigaflare**:
 
@@ -437,14 +437,14 @@ Don't forget to dodge the last **Hypernova** before regrouping mid for **Gigafla
 
 *Bahamut Prime* will use **Flare Breath** three time in a row.
 
-<a id="SFellruin Trio"></a>Back with the gang and **Fellruin Trio**. The boss will appear above the **Neurolink**, move toward *Nael* that will tell her quote from the fifth set. Either spread, then move under her for **Raven's Dive** => **Lunar Dynamo** (_From on high I **descend**, the **moon** and **stars** to bring!_) or move under then spread for **Lunar Dynamo** => **Raven's Dive** (_From hallowed **moon** I **descend**, a rain of **stars** to bring!_).  
+<a id="SFellruinTrio"></a>Back with the gang and **Fellruin Trio**. The boss will appear above the **Neurolink**, move toward *Nael* that will tell her quote from the fifth set. Either spread, then move under her for **Raven's Dive** => **Lunar Dynamo** (_From on high I **descend**, the **moon** and **stars** to bring!_) or move under then spread for **Lunar Dynamo** => **Raven's Dive** (_From hallowed **moon** I **descend**, a rain of **stars** to bring!_).  
 Once it's done, the group will move inside the **Neurolink** under *Nael*. Each Tanks will grab the **Tempest Wing** tethers and move inside *Bahamut Prime* and *Twintania*'s **Neurolinks**.  
 When **Aetheric Profusion** and **Tempest Wings** are done, everyone has to spread for the last part of the quote, **Meteor Stream**.  
 After being hit, move in front of *Bahamut Prime* to get healed and mitigate the incoming **Gigaflare**.
 
 Tank's meal, *Bahamut Prime* will use **Flare Breath** then **Flatten** and another **Flare Breath** after.
 
-<a id="SHeavensfall Trio"></a>Once again I'm asking you to welcome the gang with **Heavensfall Trio**. Regroup mid to bait the dive.  
+<a id="SHeavensfallTrio"></a>Once again I'm asking you to welcome the gang with **Heavensfall Trio**. Regroup mid to bait the dive.  
 If *Nael* isn't in the middle, once the markers appear, split into left and right group relative to *Bahamut Prime* and *Twintania* to avoid their dives. When *Twintania* dives, take a step in to bait the *Twister* along the edge. Then wait and spread a bit for **Megaflare**:
 
 {% assign slideCounter = slideCounter | plus: 1 %}
@@ -467,7 +467,7 @@ Don't hesitate to sacrifice the **Fireball** player if the group is low to survi
 
 Triple **Flare Breath** from *Bahamut Prime*, *wink* *wink*.
 
-<a id="STenstrike Trio"></a>Guess who's back? THE GANG. With **Tenstrike Trio**. *Twintania* will appear middle and three random players will get a **Generate** marker. Also *Nael* will use **Meteor Stream** on every player, one by one on the DPS then the Healers then the Tanks, so stay spread until **Generate** is over.  
+<a id="STenstrikeTrio"></a>Guess who's back? THE GANG. With **Tenstrike Trio**. *Twintania* will appear middle and three random players will get a **Generate** marker. Also *Nael* will use **Meteor Stream** on every player, one by one on the DPS then the Healers then the Tanks, so stay spread until **Generate** is over.  
 The three player with the marker will stand inside a **Neurolink** and soak their **Hatch**. Once it's done, a second set of **Hatches** will target the same players. These players have to move out toward the edge and three other players have to intercept the **Hatches** while inside a **Neurolink**. <u>The <strong>Hatch</strong> is badly coded, so if you have the marker, don't wriggle and move away in a straight line or the <strong>Hatch</strong> may go TokyoDrift™ for no reason.</u>
 
 Then four players will get a **Earthshaker** marker. Shortly after, the other four players will also receive a **Earthshaker** marker.  
@@ -481,7 +481,7 @@ Once the set is done, the players who got hit will move North while the newly ma
 
 Then *Bahamut Prime* will use **Flatten** and **Flare Breath**. At this point, *Bahamut Prime* needs to be under 60%, otherwise he will gain a <span class="buff">Damage Up</span> buff that will cause a wipe afterward.
 
-<a id="SGrand Octet"></a>The gang is back one last time for **Grand Octet**.  
+<a id="SGrandOctet"></a>The gang is back one last time for **Grand Octet**.  
 Once everyone is here, identify where *Bahamut Prime* is. If he's at a cardinal, the group will move counter-clockwise. Otherwise, if he's at an intercardinal, the group will rotate clockwise.  
 Once the first dive markers appear, move to the opposite side of *Bahamut Prime*. Then, as soon as *Nael* dives, the group can start moving in the planned direction. Use sprint if you're lagging behind the group.  
 When the *Bahamut Prime* marker appears (the red one), continue a bit then move to the middle of the arena in a circular motion.  
@@ -513,7 +513,7 @@ You can also use the Tank LB3 to "salvage" the **Megaflare** stack only. Use the
 <h1><a id="Teraflare">Teraflare</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="TeraflareAbilities Breakdown">Abilities Breakdown</a></h2>
+<h2><a id="TeraflareAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 *Nael* and *Twintania* must be killed at the same time. When one die, the other will start casting her enrage.  
 In the meantime *Bahamut Prime* will fill his <u>Aethertrail Attunement</u> gauge.
@@ -569,10 +569,10 @@ You can use the caster LB to finish/damage them both at the same.
 
 </div>
 
-<h1><a id="Golden Bahamut">Golden Bahamut</a></h1>
+<h1><a id="GoldenBahamut">Golden Bahamut</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Golden BahamutAbilities Breakdown">Abilities Breakdown</a></h2>
+<h2><a id="GoldenBahamutAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 + **<ins>Morn Afah</ins>:**
 AoE on a random player dealing very high <span class="magic">magical damage</span> that must be shared with the whole group. Requires proper mitigation.  
@@ -592,7 +592,7 @@ Three waves of 2 AoE dealing lethal <span class="magic">magical damage</span>. T
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Golden BahamutStrategy">Strategy</a></h2>
+<h2><a id="GoldenBahamutStrategy">Strategy</a></h2>
 
 The DPS check is this phase is pretty lennient as long as you mitigate and dodge every ability properly. Hence don't worry about your uptime but about staying live. Ah, ah ah!
 

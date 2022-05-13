@@ -16,10 +16,10 @@ Loot:*
 
 ___
 
-<h1><a id="Abilities Breakdown">Abilities Breakdown</a></h1>
+<h1><a id="AbilitiesBreakdown">Abilities Breakdown</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABGeneral Abilities">General Abilities</a></h2>
+<h2><a id="ABGeneralAbilities">General Abilities</a></h2>
 
 + **<ins>Scorch Exaltation</ins>:**
 Raid-wide AoE dealing <span class="magic">magical damage</span>.
@@ -145,7 +145,7 @@ Raid-wide AoE dealing very high <span class="magic">magical damage</span> that s
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABAdds Phase">Adds Phase</a></h2>
+<h2><a id="ABAddsPhase">Adds Phase</a></h2>
 
 + **<ins>Blazing Rain</ins>:**
 Periodic raid-wide AoE dealing small <span class="magic">magical damage</span> during the add phase.  
@@ -164,7 +164,7 @@ ___
 <h1><a id="Strategy">Strategy</a></h1>
 
 <div class="guideSection" markdown="1">
-<a id="SPhase 1"></a>
+<a id="SPhase1"></a>
 
 *Phoinix* will start the fight with **Scorched Exaltation**.
 
@@ -207,7 +207,7 @@ He will then become targetable and cast **Dead Rebirth**, mitigate appropriately
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SPhase 2"></a>
+<a id="SPhase2"></a>
 
 This phase will start with **Heat of Condemnation**, stack and grab the tethers as usual.
 
@@ -243,7 +243,7 @@ Quickly regroup and heal for the incomming **Scorched Exaltation**.
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SPhase 3"></a>
+<a id="SPhase3"></a>
 
 The arena will go back to normal and *Phoinix* will cast **Death's Toll** into **Fledgling Flight**. The *Sparkfledged* will appear on top of 4 players, these players have to place them on the edge of the inner square, facing the middle of the arena, on cardinals. Once placed, to remove their stacks, players must be hit by **Ashen Eye**. The players with 1 stack will move behind a *Sparkfiledged* on a cardinal, players with 2 stacks will move at an intercardinal and the players with 4 stacks will stay middle:
 <img class="soloImg" src="{{ page.imagePath | append: "deathToll.jpg" }}">

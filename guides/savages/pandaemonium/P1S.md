@@ -16,10 +16,10 @@ Loot:*
 
 ___
 
-<h1><a id="Abilities Breakdown">Abilities Breakdown</a></h1>
+<h1><a id="AbilitiesBreakdown">Abilities Breakdown</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABGeneral Abilities">General Abilities</a></h2>
+<h2><a id="ABGeneralAbilities">General Abilities</a></h2>
 
 + **<ins>Heavy Hand</ins>:**
 Tank buster on the main target dealing <span class="phys">physical damage</span>.
@@ -108,7 +108,7 @@ ___
 <h1><a id="Strategy">Strategy</a></h1>
 
 <div class="guideSection" markdown="1">
-<a id="SPhase 1"></a>
+<a id="SPhase1"></a>
 
 *Erichtonios* will start the fight with **Heavy Hand**.
 
@@ -133,7 +133,7 @@ Before using **Shining Cells** and swaping the arena.
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SPhase 2"></a>
+<a id="SPhase2"></a>
 
 Happy to show you his new shinny room, *Erichtonios* will cast **Aetherflail**. Move to the correct side, in or out, on the correct tile.  
 
@@ -159,7 +159,7 @@ And he will show you his shinny room a second time with **Shining cells**.
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SPhase 3"></a>
+<a id="SPhase3"></a>
 
 *Erichtonios* will perform two sequences one after the other but in a random order:
 + A player will recieve **Shackles of Time** while *Erichtonios* performs a random **Pitiless Flail of Grace** or **Pitiless Flail of Purgation**.  

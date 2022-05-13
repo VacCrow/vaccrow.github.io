@@ -14,10 +14,10 @@ Loot:*
 + *Token: Book of Eternity (8 tokens for Edenmorn Chest or Weapon)*
 
 ___
-<h1><a id="Abilities Breakdown">Abilities Breakdown</a></h1>
+<h1><a id="AbilitiesBreakdown">Abilities Breakdown</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABGeneral Abilities">General Abilities:</a></h2>
+<h2><a id="ABGeneralAbilities">General Abilities:</a></h2>
 
 + **<ins>Hell's Judgement</ins>:**
 Everyone's HP is set to 1.
@@ -50,7 +50,7 @@ Enrage.
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABSpell-in-Waiting Abilities">Spell-in-Waiting Abilities:</a></h2>
+<h2><a id="ABSpell-in-WaitingAbilities">Spell-in-Waiting Abilities:</a></h2>
 
 During the fight, *Oracle of Darkness* will receive the <span class="buff">Spell-in-Waiting</span> buff and cast delayed spells as Voidwalker in E2S. She will also apply some of these delayed spells during Basic, Intermediate, Advance and Terminal Relativity instantly.  
 When she casts/applies a delayed spell, the player(s) will receive debuff(s) within this list lasting X seconds telling them when the mechanic will resolve.
@@ -117,7 +117,7 @@ When the <span class="speDebuff">Return</span> debuff resolves, the player is st
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABBasic Relativity">Basic Relativity:</a></h2>
+<h2><a id="ABBasicRelativity">Basic Relativity:</a></h2>
 
 + **<ins>Basic Relativity</ins>:** raid-wide dealing huge <span class="magic">magical damage</span> scaling on the number of player dead and will apply the following debuffs:
 	+ **Spell-in-Waiting Dark Blizzard III** on 2 DPS, lasting 15 or 30 seconds.
@@ -149,7 +149,7 @@ Here is a comprehensive timeline:
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABSingular Apocalypse">Singular Apocalypse:</a></h2>
+<h2><a id="ABSingularApocalypse">Singular Apocalypse:</a></h2>
 
 After the cast, the floor of the arena will roughly change to this (the red line is white ingame):
 <img class="soloImg" src="{{ page.imagePath | append: "E12SApocalypseArena.jpg" }}">
@@ -183,7 +183,7 @@ ___
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABIntermediate Relativity">Intermediate Relativity:</a></h2>
+<h2><a id="ABIntermediateRelativity">Intermediate Relativity:</a></h2>
 
 + **<ins>Intermediate Relativity</ins>:** raid-wide dealing <span class="magic">magical damage</span> scaling on the number of player dead and will apply the following debuffs:
 	+ **Spell-in-Waiting Return IV** on everyone, lasting 12 seconds. 
@@ -205,7 +205,7 @@ Here is a comprehensive timeline:
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABDual Apocalypse">Dual Apocalypse:</a></h2>
+<h2><a id="ABDualApocalypse">Dual Apocalypse:</a></h2>
 
 This time, two orbs of light will appear in the middle and move to opposite sides before rotating around the area in the same direction. They will move 5 times before the explosions happen.  
 Futhermore in this phase, *Oracle of Darkness* will use **Cataclysm** toward a random cardinal point, not tied to the orbs of light locations/movements like in Singular Apocalypse.
@@ -213,7 +213,7 @@ Futhermore in this phase, *Oracle of Darkness* will use **Cataclysm** toward a r
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABAdvanced Relativity">Advanced Relativity:</a></h2>
+<h2><a id="ABAdvancedRelativity">Advanced Relativity:</a></h2>
 
 + **<ins>Advanced Relativity</ins>:** raid-wide dealing <span class="magic">magical damage</span> scaling on the number of player dead and will apply the following debuffs for everyone:
 	+ **Spell-in-Waiting Return IV**, lasting 12 seconds. 
@@ -241,7 +241,7 @@ Here is a comprehensive timeline:
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABTriple Apocalypse">Triple Apocalypse:</a></h2>
+<h2><a id="ABTripleApocalypse">Triple Apocalypse:</a></h2>
 
 Three orbs of lights will spawn. One middle and two on the outside. The middle one will move toward the outside and rotate in the opposite direction compared to the two other ones. This example can be mirrored left/right and since the middle orb can move anywhere, it can also be rotated:
 <img class="soloImg" src="{{ page.imagePath | append: "tripleApo0.jpg" }}">
@@ -251,7 +251,7 @@ During the first explosions, *Oracle of Darkness* will use **Darkest Dance**. On
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABTerminal Relativity">Terminal Relativity:</a></h2>
+<h2><a id="ABTerminalRelativity">Terminal Relativity:</a></h2>
 
 + **<ins>Advanced Relativity</ins>:** raid-wide dealing <span class="magic">magical damage</span> scaling on the number of player dead and applying 3 **Spell-in-Waiting Quietus** to every players with various durations.  
 While the **SiW Quietus** are resolving the boss will cast 3 **Shockwave Pulsar** over 30 seconds. Each cast of **Shockwave Pulsar** will give a <span class="buff">Damage Up</span> buff to *Oracle Of Darkness*.
@@ -277,7 +277,7 @@ Another **Shockwave Pulsar** will be casted.
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SBasic Relativity"></a>
+<a id="SBasicRelativity"></a>
 
 *Oracle Of Darkness* will cast **Basic Relativity**.
 
@@ -321,7 +321,7 @@ Once everything is over, *Oracle Of Darkness* will cast another **Shockwave Puls
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SSingular Apocalypse"></a>
+<a id="SSingularApocalypse"></a>
 
 *Oracle Of Darkness* will cast **Singular Apocalypse** dealing no damage.
 
@@ -357,7 +357,7 @@ Melees have to remember to dodge the 10th explosion where the boss previously wa
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SIntermediate Relativity"></a>
+<a id="SIntermediateRelativity"></a>
 
 *Oracle Of Darkness* will cast Intermediate Relativity. Think to mitigate the damage accordingly.
 
@@ -390,7 +390,7 @@ Annnnnnnnnnnnnd **Shockwave Pulsar**, yay.
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SDual Apocalypse"></a>
+<a id="SDualApocalypse"></a>
 
 *Oracle Of Darkness* will cast **Dual Apocalypse** dealing no damage.
 
@@ -428,7 +428,7 @@ When you end a major mechanic, who do you call? **Shockwave Pulsar** :^).
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SAdvanced Relativity"></a>
+<a id="SAdvancedRelativity"></a>
 
 *Oracle Of Darkness* will cast **Advanced Relativity**. Remember to mitigate accordingly.
 During Advanced Relativity, you can already regroup North and South based on your North/South group.
@@ -464,7 +464,7 @@ Everyone caught in the **Aero III** will be knocked away to opposite side of the
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="STriple Apocalypse"></a>
+<a id="STripleApocalypse"></a>
 
 *<u>Let's consider for this example that the middle orb of light will move to the North then rotate clockwise.</u>*
 
@@ -489,7 +489,7 @@ Then everyone will stack behind *Oracle of Darkness* in order to get knocked to 
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="STerminal Relativity"></a>
+<a id="STerminalRelativity"></a>
 
 
 *Oracle Of Darkness* will cast **Terminal Relativity**. Remember to mitigate accordingly.

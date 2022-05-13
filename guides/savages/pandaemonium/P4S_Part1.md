@@ -13,10 +13,10 @@ Loot: None since it's a door boss*
 
 ___
 
-<h1><a id="Abilities Breakdown">Abilities Breakdown</a></h1>
+<h1><a id="AbilitiesBreakdown">Abilities Breakdown</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABGeneral Abilities">General Abilities</a></h2>
+<h2><a id="ABGeneralAbilities">General Abilities</a></h2>
 
 + **<ins>Decollation</ins>:**
 Raid-wide AoE dealing <span class="magic">magical damage</span>.
@@ -116,7 +116,7 @@ ___
 <h1><a id="Strategy">Strategy</a></h1>
 
 <div class="guideSection" markdown="1">
-<a id="SPhase 1"></a>
+<a id="SPhase1"></a>
 
 *Hesporos* starts with **Decollation**.
 
@@ -170,7 +170,7 @@ Quickly take out the orbs before he start casting **Periaktoi** then stand into 
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SPhase 2"></a>
+<a id="SPhase2"></a>
 Grab the boss North before he cast the next **Bloodrake** on everyone. He will be followed by **Belone Coils** and **Inversive Chlamys**. Have everyone stack behind the boss, players of the fobidden role(s) will grab the tether and spread along the North edge while the other will soak the towers.
 Example with towers fobidden for DPS:
 <img class="soloImg" src="{{ page.imagePath | append: "coil.jpg" }}">

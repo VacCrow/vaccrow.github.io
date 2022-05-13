@@ -18,10 +18,10 @@ Loot:*
 ___
 <h1>P1 & Limit Cut editing in progress</h1>
 
-<h1><a id="Living Liquid">Living Liquid</a></h1>
+<h1><a id="LivingLiquid">Living Liquid</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Living LiquidAbilities Breakdown">Abilities Breakdown</a></h2>
+<h2><a id="LivingLiquidAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 After the first **Cascade** *Living Liquid* will spawn *Liquid Hand* and give it half of his current HP. When *Living Liquid* is defeated, *Liquid Hand* disappears.
 
@@ -102,13 +102,13 @@ ___
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Living LiquidStrategy">Strategy</a></h2>
+<h2><a id="LivingLiquidStrategy">Strategy</a></h2>
 
 Just YOLO.
 
 </div>
 
-<h1><a id="Limit Cut">Limit Cut</a></h1>
+<h1><a id="LimitCut">Limit Cut</a></h1>
 
 <div class="guideSection" markdown="1">
 <h2>Abilities Breakdown</h2>
@@ -152,10 +152,10 @@ Rinse and repeat
 
 </div>
 
-<h1><a id="Brute Justice & Cruise Chaser">Brute Justice & Cruise Chaser</a></h1>
+<h1><a id="BruteJustice&CruiseChaser">Brute Justice & Cruise Chaser</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Brute Justice & Cruise ChaserAbilities Breakdown">Abilities Breakdown</a></h2>
+<h2><a id="BruteJustice&CruiseChaserAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 *Brute Justice* and *Cruise Chaser* must be killed at the same time. When one die, the other will start casting his enrage.
 
@@ -291,7 +291,7 @@ ___
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Brute Justice & Cruise ChaserStrategy">Strategy</a></h2>
+<h2><a id="BruteJustice&CruiseChaserStrategy">Strategy</a></h2>
 
 After **Limit Cut**, regroup mid and heal for the incoming **J-Kick** followed by **Whirlwind**.
 
@@ -376,10 +376,10 @@ Then **Whirlwind** will be casted twice followed by the enrages **Eternal Darkne
 
 </div>
 
-<h1><a id="Alexander Prime">Alexander Prime</a></h1>
+<h1><a id="AlexanderPrime">Alexander Prime</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Alexander PrimeAbilities Breakdown">Abilities Breakdown</a></h2>
+<h2><a id="AlexanderPrimeAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 + **<ins>Temporal Stasis</ins>:**
 *Alexander* Prime will inflict the following debuffs when the cast time starts:
@@ -468,9 +468,9 @@ ___
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Alexander PrimeStrategy">Strategy</a></h2>
+<h2><a id="AlexanderPrimeStrategy">Strategy</a></h2>
 
-<a id="STemporal Stasis"></a>*Alexander Prime* will appear to the North of the arena while *Brute Justice* and *Cruise Chaser* will randomly appear to the East and West of the center. When **Temporal Stasis** cast starts, identify which debuff your have and move to the according position:
+<a id="STemporalStasis"></a>*Alexander Prime* will appear to the North of the arena while *Brute Justice* and *Cruise Chaser* will randomly appear to the East and West of the center. When **Temporal Stasis** cast starts, identify which debuff your have and move to the according position:
 	+ House Arrest: the Tank/Healer positions himself North of *Cruise Chaser* while the DPS will be on its South. Both of them has to stand close of *Cruise Chaser* to avoid any mistarget.
 	+ Restraining Order: the Tank/Healer will move to the open side of *Cruise Chaser* (midway between the edge and *Cruise Chaser*) while the DPS is near the edge on *Brute Justice* side.
 	+ Aggravated Assault: both players are near the edge on *Brute Justice* side. They can stack with the Restraining Order DPS to be sure to not get hit by any attack.
@@ -483,7 +483,7 @@ When **Temporal Stasis** cast is over, Aggravated Assault, House Arrest and Rest
 However for the first **Chastening Spear**, the delay between **Chastening Heat** and **Divine Spear** is shorter than for the second **Chastening Spear** (one auto-attack instead of two). Meaning that PLD and DRK can use Hallowed Ground and Living Dead to survive all 4 hits.
 
 
-<a id="SInception Formation"></a>*Alexander Prime* will cast **Inception Formation** then randomly teleport to the North or South edge, *Shanoa* will spawn on the opposite side of *Alexander Prime*. *Brute Justice* will always spawn to the West and *Cruise Chaser* to the East. Wherever *Alexander Prime* spawn will be considered as True North for this mechanic. Meaning that *Brute Justice* and *Cruise Chaser* position can be flipped.
+<a id="SInceptionFormation"></a>*Alexander Prime* will cast **Inception Formation** then randomly teleport to the North or South edge, *Shanoa* will spawn on the opposite side of *Alexander Prime*. *Brute Justice* will always spawn to the West and *Cruise Chaser* to the East. Wherever *Alexander Prime* spawn will be considered as True North for this mechanic. Meaning that *Brute Justice* and *Cruise Chaser* position can be flipped.
 
 Four randoms players get the **Judgement Crystal** marker. The marked players will take positions to the opposite side of *Alexander Prime*. Have to player next the edge, and the other two players can use them as landmark to place their AoE.  
 Here is the **Judgment Crystals** positions for both cases if *Alexander Prime* spawn on the other side:
@@ -527,7 +527,7 @@ Meanwhile, choose one Tank to always go on the East edge and bait **Super Jump**
 Another **Chastening Spear** combo (**Chastening Heat** + **Divine Spear**). Use the Tank invulnerability after the first auto-attack following **Chastening Heat**.
 
 
-<a id="SWormhole Formation"></a>*Alexander Prime* will cast **Wormhole Formation** before disappearing. *Alexander Prime* will teleport South while *Brute Justice* and *Cruise Chaser* will spawn randomly on North East and North West.  
+<a id="SWormholeFormation"></a>*Alexander Prime* will cast **Wormhole Formation** before disappearing. *Alexander Prime* will teleport South while *Brute Justice* and *Cruise Chaser* will spawn randomly on North East and North West.  
 <ins>Let’s consider that *Brute Justice* spawned NW and *Cruise Chaser* spawned NE for the following diagrams.</ins>
 
 *Cruise Chaser* will cast **Limit Cut**, assigning a number to everyone and *Brute Justice* will cast **Link Up**, summoning two *Steam Chakrams* to the cardinals next to him. The whole group will move under *Brute Justice* to bait them and spread along the edge to easily identify your number. Once the *Steam Chakrams* have their target and start casting, everyone will move to their position according to their number.
@@ -592,10 +592,10 @@ LB3 and shields are needed to survive **Divine Judgement** when *Alexander Prime
 
 </div>
 
-<h1><a id="Perfect Alexander">Perfect Alexander</a></h1>
+<h1><a id="PerfectAlexander">Perfect Alexander</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Perfect AlexanderAbilities Breakdown">Abilities Breakdown</a></h2>
+<h2><a id="PerfectAlexanderAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 
 + **<ins>Final Word</ins>:**
@@ -692,7 +692,7 @@ The prisons will spawn in a clockwise manner, starting on the North East.
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="Perfect AlexanderStrategy">Strategy</a></h2>
+<h2><a id="PerfectAlexanderStrategy">Strategy</a></h2>
 
 Since you may enter this phase with your resources being full (mana + gauge), your opener may vary.
 
@@ -710,7 +710,7 @@ When the forced march from is over, **Ordained Motion/Stillness** cast time will
 Next, *Perfect Alexander* will cast **Optical Sight** twice, either spread then stack or the opposite.
 If it's stack, the players who had a dark debuff will stack on the South side of *Perfect Alexander* while the players who had a light debuff will stack on its North side.
 
-<a id="SFate Calibration ⍺"></a>Perfect Alexander will start casting **Fate Calibration**. Players should follow their clone and need to pay attention if they receive Defamation or Aggravated Assault. Shared Sentence is automatically resolved. Remember the color of the two swords for **Ordained Motion/Stillness** and the clone how didn't cast **Sacrement**.
+<a id="SFateCalibration⍺"></a>Perfect Alexander will start casting **Fate Calibration**. Players should follow their clone and need to pay attention if they receive Defamation or Aggravated Assault. Shared Sentence is automatically resolved. Remember the color of the two swords for **Ordained Motion/Stillness** and the clone how didn't cast **Sacrement**.
 
 When it comes to position to solve the mechanic, the player with Defamation will head to the North safe spot under the *Perfect Alexander* clone that didn’t fire.  
 Meanwhile the rest of the group will move to the South safe spot. Players with Aggravated Assault will stack on the right while the rest will stack on the left:
@@ -726,7 +726,7 @@ The three **Sacraments**, the debuffs and the second **Ordained Motion/Stillness
 *Perfect Alexander* will then cast **Ordained Capital Punishment** that needs to be share between both tanks, followed by **Ordained Punishment** requiring a swap during the cast.
 Paladin and Dark Knight can use they invulnerability on all four hits, while Warrior and Gunbreaker can only invulnerability on the last three hits.
 
-<a id="SFate Calibration ꞵ"></a>Perfect Alexander will cast **Fate Calibration** again. Players should follow their clone and need to pay attention if they’re a dark/light beacon/follower. If you’re a dark follower, check if you received Restraining Order or not. The other debuffs are automatically resolved.  
+<a id="SFateCalibrationꞵ"></a>Perfect Alexander will cast **Fate Calibration** again. Players should follow their clone and need to pay attention if they’re a dark/light beacon/follower. If you’re a dark follower, check if you received Restraining Order or not. The other debuffs are automatically resolved.  
 Remember if the **Optical Sight** is a stack or spread and which clone cast **Radiant Sacrament**.
 
 Once you know your debuff, take the following position:

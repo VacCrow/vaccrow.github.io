@@ -16,10 +16,10 @@ Loot:*
 
 ___
 
-<h1><a id="Abilities Breakdown">Abilities Breakdown</a></h1>
+<h1><a id="AbilitiesBreakdown">Abilities Breakdown</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABGeneral Abilities">General Abilities</a></h2>
+<h2><a id="ABGeneralAbilities">General Abilities</a></h2>
 
 + **<ins>Murky Depths</ins>:**
 Raid-wide AoE dealing <span class="magic">magical damage</span>.
@@ -102,7 +102,7 @@ ___
 <h1><a id="Strategy">Strategy</a></h1>
 
 <div class="guideSection" markdown="1">
-<a id="SPhase 1"></a>
+<a id="SPhase1"></a>
 
 *Hippokampos* starts will **Murky Depths**. Soon followed by **Doubled Impact** where your main Tank can use his invulnerabilty to save cooldowns.
 
@@ -134,7 +134,7 @@ Swap tank for the incoming **Doubled Impact** and use the other Tank invulnarabi
 
 </div>
 <div class="guideSection" markdown="1">
-<a id="SPhase 2"></a>
+<a id="SPhase2"></a>
 
 *Hippokampos* will immediatly use **Shockwave**, take care to not get pushed into the flooded platform.
 
@@ -164,7 +164,7 @@ Swap Tank and use his invulnerability for **Doubled Impact** (if available, else
 Heal and migitigate for the incoming **Murky Depths** and **Sewage Deluge**.
 </div>
 <div class="guideSection" markdown="1">
-<a id="SPhase 3"></a>
+<a id="SPhase3"></a>
 
 *Hippokampos* will open with a tight mechanic, **Channeling Overflow** with **Coherence**. The players with a short duration <span class="speDebuff">Mark of the Tides</span> will take the same position has before. The tank with a long duration debuff will grab the tether and move next to the flooded platform while the other will stack on the corner of the opposite platform.  
 Once the first set of <span class="speDebuff">Mark of the Tides</span> resolves, quickly heal these players and have everyone stack with a Tank forefront for the line share.  

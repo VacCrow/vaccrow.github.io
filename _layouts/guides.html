@@ -12,14 +12,14 @@ layout: default
 		{% if site.data.guidesSummary[filename][0].name == "Abilities Breakdown" %}
 			{% for item in site.data.guidesSummary[filename] %}
 				<ul>
-					<li><a href="#{{ item.name }}">{{ item.name }}</a></li>
+					<li><a href="#{{ item.name | replace: " ", "" }}">{{ item.name }}</a></li>
 					<ul>
 						{% for entry in item.section %}
 							{% if item.name == "Abilities Breakdown" %}
-								<li><a href="#AB{{entry.name}}">{{ entry.name }}</a></li>
+								<li><a href="#AB{{ entry.name | replace: " ", "" }}">{{ entry.name }}</a></li>
 							{% endif %}
 							{% if item.name == "Strategy" %}
-								<li><a href="#S{{entry.name}}">{{ entry.name }}</a></li>
+								<li><a href="#S{{ entry.name  | replace: " ", ""}}">{{ entry.name }}</a></li>
 							{% endif %}
 						{% endfor %}
 					</ul>
@@ -29,17 +29,17 @@ layout: default
 		{% else site.data.guidesSummary[filename][O].name != "Abilities Breakdown" %}
 			{% for item in site.data.guidesSummary[filename] %}
 				<ul>
-					<li><a href="#{{ item.name }}">{{ item.name }}</a></li>
+					<li><a href="#{{ item.name | replace: " ", "" }}">{{ item.name }}</a></li>
 					<ul>
 						{% for entry in item.section %}
-							<li><a href="#{{ item.name }}{{ entry.name }}">{{ entry.name }}</a></li>
+							<li><a href="#{{ item.name | replace: " ", "" }}{{ entry.name | replace: " ", "" }}">{{ entry.name }}</a></li>
 							<ul>
 							{% for subentry in entry.phases %}
 								{% if entry.name == "Abilities Breakdown" %}
-									<li><a href="#AB{{subentry.phase}}">{{ subentry.phase }}</a></li>
+									<li><a href="#AB{{ subentry.phase | replace: " ", "" }}">{{ subentry.phase }}</a></li>
 								{% endif %}
 								{% if entry.name == "Strategy" %}
-									<li><a href="#S{{subentry.phase}}">{{ subentry.phase }}</a></li>
+									<li><a href="#S{{ subentry.phase | replace: " ", "" }}">{{ subentry.phase }}</a></li>
 								{% endif %}
 							{% endfor %}
 							</ul>

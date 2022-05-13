@@ -15,10 +15,10 @@ Loot:*
 
 ___
 
-<h1><a id="Abilities Breakdown">Abilities Breakdown</a></h1>
+<h1><a id="AbilitiesBreakdown">Abilities Breakdown</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABGeneral Abilities">General Abilities</a></h2>
+<h2><a id="ABGeneralAbilities">General Abilities</a></h2>
 
 + **<ins>Ground-razing Particle Beam</ins>:**
 Raid-wide AoE dealing <span class="magic">magical damage</span>.
@@ -51,7 +51,7 @@ ___
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABObscure Wood Abilities">Obscure Wood Abilities</a></h2>
+<h2><a id="ABObscureWoodAbilities">Obscure Wood Abilities</a></h2>
 
 + **<ins>Flood of Obscurity</ins>:**
 Knock back every player away from *Cloud of Darkness*. An *Evil Seed* will drop under every player, dealing small <span class="magic">magical damage</span> and applying a <span class="debuff">Magic Vulnerability Up</span> debuff for 1 second.  
@@ -91,7 +91,7 @@ Eight towers will spawn on the inter-cardinal axis. Will resolve after 10 second
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="ABEmpty Plane Abilities">Empty Plane Abilities</a></h2>
+<h2><a id="ABEmptyPlaneAbilities">Empty Plane Abilities</a></h2>
 
 + **<ins>Flood of Emptiness</ins>:**
 The central tile under the boss and all the tiles of the outer ring, minus the ones on the cardinals will be removed.  
@@ -123,7 +123,7 @@ ___
 <h1><a id="Strategy">Strategy</a></h1>
 
 <div class="guideSection" markdown="1">
-<a id="SPhase 1"></a>
+<a id="SPhase1"></a>
 
 *Cloud of Darkness* begins the fight with **Ground-razing Particle Beam** followed by **The Art of Darkness** with two orbs or no orb followed by a second **The Art of Darkness** using the pattern she didn’t use before.
 Next cast is **Devouring Dark**, you may use your Tank invulnerability.
@@ -171,7 +171,7 @@ Finally **Empty Floor** is casted, switching to the tile layout and going into t
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SPhase 2"></a>
+<a id="SPhase2"></a>
 
 *For this phase, players starting in the inner circle tiles will be referred as “melees” while the one starting outside will be referred as “ranged”.*
 
@@ -215,7 +215,7 @@ Then **The Third Art of Darkness** will be casted:
 </div>
 
 <div class="guideSection" markdown="1">
-<a id="SPhase 3"></a>
+<a id="SPhase3"></a>
 
 First cast will be **Flood of Obscurity**. Handle the knockback and place the Evil Seeds the same way as in phase 1.
 
