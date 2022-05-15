@@ -115,7 +115,8 @@ ___
 ___
 
 + **<ins>Spear of the Fury</ins>:**
-*Ser Zephirin* will cast it from outside the arena. *Haufrechant* will move in to intercept the attack. While he's alive, the group will receive raid-wide unaspected damage</span>.
+*Ser Zephirin* will cast it from outside the arena. *Haufrechant* will move in to intercept the attack. He will receive a <span class="speDebuff">HP Recovery Down</span> debuff that reduces incoming healing by 100%.  
+While he's alive, *Haurchefant* and the group will get hit by **Shockwave** every second, dealing unaspected raid-wide damage.
 
 ___
 
@@ -562,8 +563,19 @@ Group up around the *Right Eye* without touching each other. The Healers and Ran
 Every time a set of **Mirage Dive** is done, the next pairs will swap their debuff and position with the two players hit. The order is the following one:
 	Healers -> Ranged DPS -> Flex (the two players who got hit first, they should have 3s left on their <span class="debuff">Piercing Resistance Down</span> debuff).
 
-If the *Right Eye* isn't dead yet, quickly kill him before the next raidwide, **Steep in Rage**, or it will heal up. Then finish off the *Left Eye*, be aware of **Steep in Rage** damage.
+If the *Left Eye* and *Right Eye* aren't dead yet, quickly kill them before the next raidwide, **Steep in Rage**, or it will heal up the *Right Eye* (or bring it back to life).  
+There's only a few seconds left before the Duty Gauge is filled up to kill any remaining *Eye*.
+</div>
 
-There's only a few seconds left before the Duty Gauge is filled up.
+<h1><a id="HaurchefantRewind">Haurchefant Rewind</a></h1>
 
+<div class="guideSection" markdown="1">
+You'll be teleported back in time to **Plannar Imprisonment** from Phase 1. Except this time, the Tank LB3 is ready to save *Haurchefant*. If *Haurchefant* still dies, the fight will transition into the second Phase (with *Thordan* having 25% more HP?/Damage?).
+
+___
+
+Once you're back to Phase 1, *Sir Charibert* will start to cast **Pure Heart**. Use the same strategy as previously to deal with with mechanic.  
+When *Haurchefant* appears and in position between you and *Sir Zephirin* (or at the end of **Spear of the Fury** cast), use the Tank LB3 to protect him and reduce the <span class="speDebuff">HP Recovery Down</span> debuff potency from 100% to 20%. Constantly heal *Haurchefant* so he ends up above 60/70% when **Pure Heart** cast is over. Since he stays alive, the Healers also have to heal the group from the multiples **Shockwave**.
+
+Once **Pure Heart** is over and if *Haurfechant* is still alive, the *Spear of the Fury* will become targetable and cast **Pierce**, killing *Haurfechant* is the cast is completed. Quickly get rid of it to continue the fight in an alternative timeline.
 </div>
