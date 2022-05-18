@@ -18,10 +18,10 @@ Loot:*
 ___
 <h1>P1 & Limit Cut editing in progress</h1>
 
-<h1><a id="LivingLiquid">Living Liquid</a></h1>
+<h1><a id="Phase1-LivingLiquid">Living Liquid</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="LivingLiquidAbilitiesBreakdown">Abilities Breakdown</a></h2>
+<h2><a id="Phase1-LivingLiquidAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 After the first **Cascade** *Living Liquid* will spawn *Liquid Hand* and give it half of his current HP. When *Living Liquid* is defeated, *Liquid Hand* disappears.
 
@@ -102,13 +102,13 @@ ___
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="LivingLiquidStrategy">Strategy</a></h2>
+<h2><a id="Phase1-LivingLiquidStrategy">Strategy</a></h2>
 
 Just YOLO.
 
 </div>
 
-<h1><a id="LimitCut">Limit Cut</a></h1>
+<h1><a id="Intermission-LimitCut">Limit Cut</a></h1>
 
 <div class="guideSection" markdown="1">
 <h2>Abilities Breakdown</h2>
@@ -152,10 +152,10 @@ Rinse and repeat
 
 </div>
 
-<h1><a id="BruteJustice&CruiseChaser">Brute Justice & Cruise Chaser</a></h1>
+<h1><a id="Phase2-BruteJustice&CruiseChaser">Brute Justice & Cruise Chaser</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="BruteJustice&CruiseChaserAbilitiesBreakdown">Abilities Breakdown</a></h2>
+<h2><a id="Phase2-BruteJustice&CruiseChaserAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 *Brute Justice* and *Cruise Chaser* must be killed at the same time. When one die, the other will start casting his enrage.
 
@@ -291,7 +291,7 @@ ___
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="BruteJustice&CruiseChaserStrategy">Strategy</a></h2>
+<h2><a id="Phase2-BruteJustice&CruiseChaserStrategy">Strategy</a></h2>
 
 After **Limit Cut**, regroup mid and heal for the incoming **J-Kick** followed by **Whirlwind**.
 
@@ -376,10 +376,10 @@ Then **Whirlwind** will be casted twice followed by the enrages **Eternal Darkne
 
 </div>
 
-<h1><a id="AlexanderPrime">Alexander Prime</a></h1>
+<h1><a id="Phase3-AlexanderPrime">Alexander Prime</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="AlexanderPrimeAbilitiesBreakdown">Abilities Breakdown</a></h2>
+<h2><a id="Phase3-AlexanderPrimeAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 + **<ins>Temporal Stasis</ins>:**
 *Alexander* Prime will inflict the following debuffs when the cast time starts:
@@ -468,7 +468,7 @@ ___
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="AlexanderPrimeStrategy">Strategy</a></h2>
+<h2><a id="Phase3-AlexanderPrimeStrategy">Strategy</a></h2>
 
 <a id="STemporalStasis"></a>*Alexander Prime* will appear to the North of the arena while *Brute Justice* and *Cruise Chaser* will randomly appear to the East and West of the center. When **Temporal Stasis** cast starts, identify which debuff your have and move to the according position:
 	+ House Arrest: the Tank/Healer positions himself North of *Cruise Chaser* while the DPS will be on its South. Both of them has to stand close of *Cruise Chaser* to avoid any mistarget.
@@ -592,10 +592,10 @@ LB3 and shields are needed to survive **Divine Judgement** when *Alexander Prime
 
 </div>
 
-<h1><a id="PerfectAlexander">Perfect Alexander</a></h1>
+<h1><a id="Phase4-PerfectAlexander">Perfect Alexander</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="PerfectAlexanderAbilitiesBreakdown">Abilities Breakdown</a></h2>
+<h2><a id="Phase4-PerfectAlexanderAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 
 + **<ins>Final Word</ins>:**
@@ -692,7 +692,7 @@ The prisons will spawn in a clockwise manner, starting on the North East.
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="PerfectAlexanderStrategy">Strategy</a></h2>
+<h2><a id="Phase4-PerfectAlexanderStrategy">Strategy</a></h2>
 
 Since you may enter this phase with your resources being full (mana + gauge), your opener may vary.
 

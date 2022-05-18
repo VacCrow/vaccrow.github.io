@@ -13,16 +13,16 @@
 
 #-----------ULTIMATES FIGHTS-----------
 UCOB:
-  - name: Twintania
+  - name: Phase 1 - Twintania
     section:
       - name: Abilities Breakdown
       - name: Strategy
-  - name: Nael Deus Darnus
+  - name: Phase 2 - Nael Deus Darnus
     section:
       - name: Abilities Breakdown
       - name: Quotes
       - name: Strategy
-  - name: Bahamut Prime
+  - name: Phase 3 - Bahamut Prime
     section:
       - name: Abilities Breakdown
       - name: Trios
@@ -34,30 +34,30 @@ UCOB:
           - phase: Heavensfall Trio
           - phase: Tenstrike Trio
           - phase: Grand Octet
-  - name: Teraflare
+  - name: Adds Phase - Teraflare
     section:
       - name: Abilities Breakdown
       - name: Strategy
-  - name: Golden Bahamut
+  - name: Phase 4 - Golden Bahamut
     section:
       - name: Abilities Breakdown
       - name: Strategy
         
 
 UWU:
-  - name: Garuda
+  - name: Phase 1 - Garuda
     section:
       - name: Abilities Breakdown
       - name: Strategy
-  - name: Ifrit
+  - name: Phase 2 - Ifrit
     section:
       - name: Abilities Breakdown
       - name: Strategy
-  - name: Titan
+  - name: Phase 3 - Titan
     section:
       - name: Abilities Breakdown
       - name: Strategy
-  - name: Ultima
+  - name: Phase 4 - Ultima
     section:
       - name: Abilities Breakdown
       - name: Strategy
@@ -67,16 +67,16 @@ UWU:
           - phase: Suppression
 
 TEA:
-  - name: Living Liquid
+  - name: Phase 1 - Living Liquid
     section:
       - name: Abilities Breakdown
       - name: Strategy
-  - name: Limit Cut
-  - name: Brute Justice & Cruise Chaser
+  - name: Intermission - Limit Cut
+  - name: Phase 2 - Brute Justice & Cruise Chaser
     section:
       - name: Abilities Breakdown
       - name: Strategy
-  - name: Alexander Prime
+  - name: Phase 3 - Alexander Prime
     section:
       - name: Abilities Breakdown
       - name: Strategy
@@ -84,7 +84,7 @@ TEA:
           - phase: Temporal Stasis
           - phase: Inception Formation
           - phase: Wormhole Formation
-  - name: Perfect Alexander
+  - name: Phase 4 - Perfect Alexander
     section:
       - name: Abilities Breakdown
       - name: Strategy

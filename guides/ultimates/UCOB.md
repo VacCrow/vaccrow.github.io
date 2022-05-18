@@ -16,10 +16,10 @@ Loot:*
 *Notes: Only one pot can be used on the last phase so it can be used during the raid buff window for maximum efficency. Adjust to your group.*
 
 ___
-<h1><a id="Twintania">Twintania</a></h1>
+<h1><a id="Phase1-Twintania">Twintania</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="TwintaniaAbilitiesBreakdown">Abilities Breakdown</a></h2>
+<h2><a id="Phase1-TwintaniaAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 When *Twintania* health reaches specifics thresholds, respectively at 75%, 45% and 0%, she will drop a **Neurolink** under her hitbox. Standing inside a **Neurolink** will give you the <span class="speDebuff">Neurolink</span> debuff, slowing you down, reducing your healing and greatly reducing your damage done.
 
@@ -64,7 +64,7 @@ Enrage. Happens after the second **Fireball** or **Death Sentence** when the sec
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="TwintaniaStrategy">Strategy</a></h2>
+<h2><a id="Phase1-TwintaniaStrategy">Strategy</a></h2>
 
 The three **Neurolinks** need to be dropped in a triangle formation, at the same distance from the centre of the arena like this:
 <img class="soloImg" src="{{ page.imagePath | append: "neurolinks.jpg" }}">
@@ -117,10 +117,10 @@ The last **Death Sentence** and the enrage, **Aetheric Profusion**, right after.
 
 </div>
 
-<h1><a id="NaelDeusDarnus">Nael Deus Darnus</a></h1>
+<h1><a id="Phase2-NaelDeusDarnus">Nael Deus Darnus</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="NaelDeusDarnusAbilitiesBreakdown">Abilities Breakdown</a></h2>
+<h2><a id="Phase2-NaelDeusDarnusAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 + **<ins>Heavensfall</ins>:**
 A giant allagan monolith will fall down, performing a raidwide AoE dealing <span class="magic">magical damage</span> scaling down the further you are from the centre and knock backing everyone. The centre of the arena is also becoming a death zone as long as the monolith is here.
@@ -212,7 +212,7 @@ Enrage during P2.
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="NaelDeusDarnusQuotes">Quotes</a></h2>
+<h2><a id="Phase2-NaelDeusDarnusQuotes">Quotes</a></h2>
 
 Through the second and the fourth phases, *Nael* will use quotes to tell which abilities she will use next instead of casting or showing telegraphs.
 In order to easily identify which mechanics are hidden behind each quote, just find the keywords. If you see **fire, scorch or blazing** on the first part of a quote, it means that **Thermonic Beam** is the first mechanic.
@@ -247,7 +247,7 @@ Most of the time, there's only two or four possible quotes used at a specific mo
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="NaelDeusDarnusStrategy">Strategy</a></h2>
+<h2><a id="Phase2-NaelDeusDarnusStrategy">Strategy</a></h2>
 
 <em>Note about this phase: players will have to juggle with their <span class="speDebuff">Icebitten</span> and <span class="speDebuff">Firescorched</span> debuffs.  
 There's multiple way to do it but this guide will cover the <strong>Fireball</strong> IN/OUT/IN/IN way. It is the easiest one since players won't have to care about their current debuffs since they will cancel each other on their own. Reducing RNG in this phase a bit more.</em>
@@ -304,10 +304,10 @@ Finally, *Nael* will force another tank swap with **Ravensbeak** followed by **B
 
 </div>
 
-<h1><a id="BahamutPrime">Bahamut Prime</a></h1>
+<h1><a id="Phase3-BahamutPrime">Bahamut Prime</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="BahamutPrimeAbilitiesBreakdown">Abilities Breakdown</a></h2>
+<h2><a id="Phase3-BahamutPrimeAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 + **<ins>Seventh Umbral Era</ins>:**
 Raid-wide AoE dealing <span class="magic">magical damage</span> and pushing back everyone
@@ -361,7 +361,7 @@ Raid-wide AoE dealing massive <span class="magic">magical damage</span>.
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="BahamutPrimeTrios">Trios</a></h2>
+<h2><a id="Phase3-BahamutPrimeTrios">Trios</a></h2>
 
 Through this phase, *Bahamut Prime* will often cast a **Trio** where both *Nael* and *Twintania* will join *Bahamut Prime* for a series for mechanics. Most of the time, the boss won't be targetable during a **Trio**.
 
@@ -417,7 +417,7 @@ ___
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="BahamutPrimeStrategy">Strategy</a></h2>
+<h2><a id="Phase3-BahamutPrimeStrategy">Strategy</a></h2>
 
 Once *Nael* is defeated, group all together at mid-distance between the edge and the centre for the incoming **Seventh Umbral Era**.  
 As soon as the group get pushed, use the Tank LB. If LB3 is available, it will require few healing to survive the four **Calamitous Flames**. Otherwise, use LB2 and quickly heal between each hit.
@@ -520,10 +520,10 @@ You can also use the Tank LB3 to "salvage" the **Megaflare** stack only. Use the
 
 </div>
 
-<h1><a id="Teraflare">Teraflare</a></h1>
+<h1><a id="AddsPhase-Teraflare">Teraflare</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="TeraflareAbilitiesBreakdown">Abilities Breakdown</a></h2>
+<h2><a id="AddsPhase-TeraflareAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 *Nael* and *Twintania* must be killed at the same time. When one die, the other will start casting her enrage.  
 In the meantime *Bahamut Prime* will fill his <u>Aethertrail Attunement</u> gauge.
@@ -549,7 +549,7 @@ This resurrection doesn't put a <span class="debuff">Weakness</span> debuff on p
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="TeraflareStrategy">Strategy</a></h2>
+<h2><a id="AddsPhase-TeraflareStrategy">Strategy</a></h2>
 
 *Nael* and *Twintania* will spawn to the North of the arena. If you're annoyed with *Bahamut Prime* being shinnier than your phone screen while you're in your bed, you can move the bosses. As long as they are tanked between two **Neurolinks**.  
 Since they both use *Bahamut Prime* enmity table, the second Tank has to provoke one of them when the phase starts.
@@ -579,10 +579,10 @@ You can use the caster LB to finish/damage them both at the same.
 
 </div>
 
-<h1><a id="GoldenBahamut">Golden Bahamut</a></h1>
+<h1><a id="Phase4-GoldenBahamut">Golden Bahamut</a></h1>
 
 <div class="guideSection" markdown="1">
-<h2><a id="GoldenBahamutAbilitiesBreakdown">Abilities Breakdown</a></h2>
+<h2><a id="Phase4-GoldenBahamutAbilitiesBreakdown">Abilities Breakdown</a></h2>
 
 + **<ins>Morn Afah</ins>:**
 AoE on a random player dealing very high <span class="magic">magical damage</span> that must be shared with the whole group. Requires proper mitigation.  
@@ -602,7 +602,7 @@ Three waves of 2 AoE dealing lethal <span class="magic">magical damage</span>. T
 </div>
 
 <div class="guideSection" markdown="1">
-<h2><a id="GoldenBahamutStrategy">Strategy</a></h2>
+<h2><a id="Phase4-GoldenBahamutStrategy">Strategy</a></h2>
 
 The DPS check is this phase is pretty lennient as long as you mitigate and dodge every ability properly. Hence don't worry about your uptime but about staying live. Ah, ah ah!
 

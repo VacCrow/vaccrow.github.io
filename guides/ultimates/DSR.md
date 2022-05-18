@@ -563,7 +563,7 @@ ___
 Once you're back to Phase 1, *Sir Charibert* will start to cast **Pure Heart**. Use the same strategy as previously to deal with with mechanic.  
 When *Haurchefant* appears and in position between you and *Sir Zephirin* (or at the end of **Spear of the Fury** cast), use the Tank LB3 to protect him and reduce the <span class="speDebuff">HP Recovery Down</span> debuff potency from 100% to 20%. Constantly heal *Haurchefant* so he ends up above 60/70% when **Pure Heart** cast is over. Since he stays alive, the Healers also have to heal the group from the multiples **Shockwave**.
 
-Once **Pure Heart** is over and if *Haurfechant* is still alive, the *Spear of the Fury* will become targetable and cast **Pierce**, killing *Haurfechant* is the cast is completed. Quickly get rid of it to continue the fight in an alternative timeline.
+Once **Pure Heart** is over and if *Haurfechant* is still alive, the *Spear of the Fury* will become targetable and cast **Pierce**, killing *Haurfechant* if the cast is completed. Quickly get rid of it to continue the fight in an alternative timeline.
 </div>
 
 <h1><a id="Phase4-KingThordanRefrain">Phase 4 - King Thordan Refrain</a></h1>
