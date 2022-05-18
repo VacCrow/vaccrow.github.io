@@ -29,24 +29,29 @@ ___
 
 ___
 
-+ **<ins>Twister</ins>:** At the end of the cast, small tornados will be placed under 4 random players. If someone steps on it, it will kill that player and knock back any close player into the wall, thus killing them.
++ **<ins>Twister</ins>:**
+At the end of the cast, small tornados will be placed under 4 random players. If someone steps on it, it will kill that player and knock back any close player into the wall, thus killing them.
 
 ___
 
-+ **<ins>Fireball</ins>:** A random DPS or Healers will be marked with a red marker. After a few second, *Twintania* will hurl a fireball at that player, dealing <span class="magic">magical damage</span> that can be shared. At least 6 players are needed in the stack.
++ **<ins>Fireball</ins>:**
+A random DPS or Healers will be marked with a red marker. After a few second, *Twintania* will hurl a fireball at that player, dealing <span class="magic">magical damage</span> that can be shared. At least 6 players are needed in the stack.
 
 ___
 
-+ **<ins>Death Sentence</ins>:** Tank buster on the main target dealing **slashing** <span class="phys">physical damage</span> and applying a <span class="debuff">Slashing Resistance Down II</span> debuff for 34 seconds. Requires a tank swap since *Twintania* auto-attacks are slashing type.
++ **<ins>Death Sentence</ins>:**
+Tank buster on the main target dealing **slashing** <span class="phys">physical damage</span> and applying a <span class="debuff">Slashing Resistance Down II</span> debuff for 34 seconds. Requires a tank swap since *Twintania* auto-attacks are slashing type.
 
 ___
 
-+ **<ins>Liquid Hell</ins>:** *Twintania* will target a random player that is beyond a specific range. She will attack 5 times and each attack will leave a fire puddle lasting 15 seconds. Standing inside a puddle will kill any player. In order for the 5 hits to be aimed at the right player, make sure that only that player is away from *Twintania*.  
++ **<ins>Liquid Hell</ins>:**
+*Twintania* will target a random player that is beyond a specific range. She will attack 5 times, dealing small <span class="magic">magical damage</span> and each attack will leave a fire puddle lasting 15 seconds. Standing inside a puddle will kill any player. In order for the 5 hits to be aimed at the right player, make sure that only that player is away from *Twintania*.  
 Once the second **Neurolink** is dropped, the **Liquid Hell** may also target a second player randomly for all 5 hits except the main Tank.
 
 ___
 
-+ **<ins>Generate</ins>:** A random DPS will be marked with a purple marker (with three orbs linked together and rotating) and a **Hatch** (a purple aetherical sphere) will appear under *Twintania*. This **Hatch** will slowly move toward the marked player.  
++ **<ins>Generate</ins>:**
+A random DPS will be marked with a purple marker (with three orbs linked together and rotating) and a **Hatch** (a purple aetherical sphere) will appear under *Twintania*. This **Hatch** will slowly move toward the marked player.  
 If the player isn't standing or didn't have the <span class="speDebuff">Neurolink</span> debuff, it will deal (lethal) <span class="magic">magical damage</span> and apply a <span class="debuff">Damage Down</span> debuff on the whole group.  
 If the player is standing **AND** have the <span class="speDebuff">Neurolink</span> debuff, it will deal <span class="magic">magical damage</span> and apply a <span class="speDebuff">Mana Hypersensitivity</span> debuff lasting 15 seconds that make any **Hatch** dealing lethal <span class="magic">magical damage</span>. If another player is caught in the **Hatch** explosion, it will kill him.  
 Once the second **Neurolink** is dropped, **Generate** will also target a second DPS and create another **Hatch**. These **Hatch** need to be soaked in two different **Neurolink**.
@@ -146,7 +151,7 @@ ___
 
 + **<ins>Bahamut's Favor</ins>:**
 *Nael* will gain a <span class="buff">Damage Up</span> buff and 5 dragons will spawn outside the arena on cardinals or intercardinals (see **Divebomb** for more precisions about their positions):
-	+ *Thunder Dragon*: Apply a <span class="speDebuff">Thunderstruck</span> debuff on two random players lasting 5 seconds. When it resolves, **Chain Lightning** will be cast on their owner, dealing AoE <span class="magic">magical damage</span> and applying a Paralysis debuff lasting around 1 minutes to anyone else caught in the AoE.
+	+ *Thunder Dragon*: Apply a <span class="speDebuff">Thunderstruck</span> debuff on two random players lasting 5 seconds. When it resolves, **Chain Lightning** will be cast on their owner, dealing AoE <span class="magic">magical damage</span> and applying a <span class="debuff">Paralysis</span> debuff lasting around 1 minutes to anyone else caught in the AoE.
 	+ *Dark Dragon*: Apply a <span class="speDebuff">Doom</span> debuff to two random players lasting 5 and 10 seconds the first time. The second and third time, it will apply a <span class="speDebuff">Doom</span> debuff to 3 other players lasting 5, 10 and 15 seconds. In the end, everyone will have had one <span class="speDebuff">Doom</span> debuff.
 	+ *Light Dragon*: Cast **Wing of Salvation**, placing light puddle under random player. After 3 seconds, it will explode killing anyone inside and will leave a small cleanse puddle on the ground, used to remove the <span class="speDebuff">Doom</span> debuff.
 	+ *Ice Dragon*: Will periodically cast **Iceball** on everyone, one by one, applying the <span class="speDebuff">Icebitten</span> debuff. If a player got two stacks of <span class="speDebuff">Icebitten</span>, he will die. If a player had a <span class="speDebuff">Firescorched</span> debuff, <span class="speDebuff">Icebitten</span> will cleanse it.
@@ -324,6 +329,11 @@ Tankbuster dealing massive <span class="phys">physical damage</span>.
 
 ___
 
++ **<ins>Twisting Dive</ins>:**
+**Divebomb** from *Twintania*. The dive direction is locked when the marker appears. When she starts her dive animation, 4 random players will get a **Twister**.
+
+___
+
 + **<ins>Earth Shaker</ins>:**
 Place a Earth Shaker marker on 3 or 4 players. After a few seconds, Bahamut will perform a 90° cleave toward the marked players dealing <span class="phys">physical damage</span> and applying an <span class="debuff">Earth Resistance Down II</span> debuff. A puddle will appear where the player was. Standing inside the puddle will apply a Sludge debuff, a DoT, deadly if you have the debuff.
 
@@ -402,7 +412,7 @@ ___
 	+ The 5 dragons will dive in a clockwise manner if *Bahamut Prime* is located at an intercardinal. The first dragon to dive is the first clockwise of *Bahamut Prime*. They will dive in a counter-clockwise manner if *Bahamut Prime* is located at a cardinal. The first dragon to dive is the first counter-clockwise of *Bahamut Prime*.
 	+ *Nael*, *Twintania*, *Bahamut Prime*'s dive direction is locked when the marker **appears**. The dragons dive direction is locked when the marker **disappears**.
 	+ Every player will bait one dive (if everyone is alive tho).
-	+ *Twintania* will dive happens with a 4 players **Megaflare** stack and 4 towers.
+	+ *Twintania* will dive and it happens with a 4 players **Megaflare** stack and 4 towers.
 
 </div>
 
@@ -489,7 +499,7 @@ While all of this happen, watch if you got a dive marker on you. Because the las
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 
-{% include slideshow.html imgLink="octet1card.jpg;octet2card.jpg;octet3card.jpg;octet4card.jpg;octet1inter.jpg;octet2inter.jpg;octet3inter.jpg;octet4inter.jpg" imgDesc="<em>Bahamut</em> is at a cardinal. Wait middle;Move when the dive markers appear;Wait for <em>Nael</em>'s dive;Rotate in a counter-clockwise manner. Move back mid when <em>Bahamut</em> dive marker appears;<em>Bahamut</em> is at an intercardinal. Wait middle;Move when the dive markers appear;Wait for <em>Nael</em>'s dive;Rotate in a clockwise manner. Move back mid when <em>Bahamut</em> dive marker appears" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="octet1card.jpg;octet2card.jpg;octet3card.jpg;octet4card.jpg;octet1inter.jpg;octet2inter.jpg;octet3inter.jpg;octet4inter.jpg" imgDesc="<em>Bahamut</em> is at a cardinal. Wait middle;Move when the dive markers appear;Wait for <em>Nael</em> 's dive;Rotate in a counter-clockwise manner. Move back mid when <em>Bahamut</em> dive marker appears;<em>Bahamut</em> is at an intercardinal. Wait middle;Move when the dive markers appear;Wait for <em>Nael</em>'s dive;Rotate in a clockwise manner. Move back mid when <em>Bahamut</em> dive marker appears" slideNumber=slideCounter %}
 
 If *Nael* is in front of *Bahamut Prime*, you have to move to an adjacent spot, next to *Nael*, since she is the first to dive.  
 Once the dive markers appear, if you have to rotate clockwise (because *Bahamut Prime* is at an intercardinal), go to the first clockwise spot after *Nael*. If you have to rotate counter-clockwise, move to the first counter-clockwise spot after *Nael*:

@@ -93,22 +93,20 @@ TEA:
           - phase: Fate Calibration ꞵ
 
 DSR:
-  - name: The Vault Knights
+  - name: Phase 1 - The Vault Knights
     section:
       - name: Abilities Breakdown
       - name: Strategy
         phases:
         - phase: Planar Imprisonment
-  - name: Thordan
+  - name: Phase 2 - King Thordan
     section:
       - name: Abilities Breakdown
-      - name: Strength Of The Ward
-      - name: Sanctity Of The Ward
       - name: Strategy
         phases:
         - phase: Strength Of The Ward
         - phase: Sanctity Of The Ward
-  - name: Nidhogg
+  - name: Phase 3 - Nidhogg
     section:
       - name: Abilities Breakdown
       - name: Eyes Abilities
@@ -116,7 +114,14 @@ DSR:
         phases:
           - phase: Nidhogg
           - phase: Left & Right Eyes
-  - name: Haurchefant Rewind
+  - name: Intermission - Haurchefant Rewind
+  - name: Phase 4 - King Thordan Refrain
+    section:
+      - name: Abilities Breakdown
+      - name: Strategy
+        phases:
+          - phase: Wrath Of The Heavens
+          - phase: Death Of The Heavens
 
 
 #------------SAVAGE FIGHTS-----------
