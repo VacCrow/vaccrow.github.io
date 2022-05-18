@@ -494,13 +494,11 @@ Raid-wide AoE from both *Left Eye* and *Right Eye* dealing high <span class="mag
 <div class="guideSection" markdown="1">
 <h2><a id="NidhoggStrategy">Strategy</a></h2>
 
-For **Dive from Grace**, players will receive a set of debuffs and for the whole mechanic, they will use the following positions:
+<a id="SNidhogg">A quick overview before diving in. During **Dive from Grace**, players will receive a set of debuffs and for the whole mechanic, they will use the following positions:
 + <span class="speDebuff">First in Line</span> and <span class="speDebuff">Third in Line</span>: they take position on West, South and East of *Nidhogg* hitbox. ***With <span class="speDebuff">Elusive Jump Target</span> on East facing away from the boss and <span class="speDebuff">Spineshatter Dive Target</span> on West looking at the boss.***
-+ <span class="speDebuff">Second in Line</span>: they take position on North East and North West, slightly outside of *Nidhogg* hitbox.
-
-<span class="speDebuff">Elusive Jump Target</span> and <span class="speDebuff">Spineshatter Dive Target</span> must aim their tower at the opposite side. In this example, the sumonner will toward the East to put his tower at *Nidhogg* West side:
++ <span class="speDebuff">Second in Line</span>: they take position on North East and North West, slightly outside of *Nidhogg* hitbox. If they have <span class="speDebuff">Elusive Jump Target</span> and <span class="speDebuff">Spineshatter Dive Target</span>, they must place their tower under each other.  
+In this example, the Sumonner will look toward the East to put his tower at *Nidhogg* West side, and the Ninja will look toward the West to put his tower under the Scholar:
 <img class="soloImg" src="{{ page.imagePath | append: "inLine.jpg" }}">
-
 Furthemore, due to <span class="debuff">Fire Resistance Down II</span> timers, the **Darkdragon Dive** towers must be soaked by specific player based of your debuff:
 + 1st towers: by <span class="speDebuff">Third in Line</span> players.
 + 2nd towers: by <span class="speDebuff">First in Line</span> East and West players.
@@ -508,14 +506,14 @@ Furthemore, due to <span class="debuff">Fire Resistance Down II</span> timers, t
 
 ___
 
-<a id="SNidhogg">Once *Thordan* is dealt with, heal everyone and use mitigation for when *Nidhogg* dives into the arena with **Final Chorus**.
+Once *King Thordan* is dealt with, heal everyone and use mitigation for when *Nidhogg* slams into the arena with **Final Chorus**.
 
 When *Nidhogg* is casting **Dive from Grace** the players will receive their numbers. <span class="speDebuff">First in Line</span> will pre-spread on East, South and West while <span class="speDebuff">Second in Line</span> will show their position on North East and North West.  
 Then, once the cast is over and Dive debuff are set:
 + <span class="speDebuff">First in Line</span> players can readjust to follow the rule of "<span class="speDebuff">Elusive Jump Target</span> on East and <span class="speDebuff">Spineshatter Dive Target</span> on West".
 + <span class="speDebuff">Third in Line</span> players can call a cardinal if they all have <span class="speDebuff">High Jump Target</span>, otherwise use the rule of "<span class="speDebuff">Elusive Jump Target</span> on East and <span class="speDebuff">Spineshatter Dive Target</span> on West".
 
-Have <span class="speDebuff">First in Line</span> players ready for the dives,  and the rest of the group stacked in front *Nidhogg* for **Eye of the Tyrant** during **Gnash and Lash/Lash and Gnash** cast, remember the in/out or out/in sequence.  
+Have <span class="speDebuff">First in Line</span> players ready for the dives, and the rest of the group stacked in front *Nidhogg* for **Eye of the Tyrant** during **Gnash and Lash/Lash and Gnash** cast, remember the in/out or out/in sequence.  
 Once the share and dives happend, quickly move in or out for **Gnash** or **Lash**.  
 In the meantime the <span class="speDebuff">Third in Line</span> player have to get in position to soak the tower, remember to run around the boss hitbox if you must dodge **Gnashing Wheel** to reach South. Move out or in for **Lash** or **Gnash** when soaking the towers. Then move out to bait **Geirskogul**.
 
@@ -536,7 +534,8 @@ Example with **Gnash and Lash**:
 
 *Nidhogg* will resume his auto-attacks so clear away from the main Tank. He will then cast **Drachenlance** on a random target, dodge it sideways.
 
-Next is the final **Darkdragon Dive** towers, regroups in pairs at each intercardinal. If a tower only need one player, the Tank/Healer will adjust to satisfy another tower condition. The DPS will then bait the three **Geirskogul** toward the outside while the Tanks will grab the two **Soul Tether**. Have one Tank in front of *Nidhogg* and the second under him while the group stay away from them.
+Next is the final **Darkdragon Dive** towers, regroups in pairs at each intercardinal. If a tower only need one player, the Tank/Healer will adjust to satisfy another tower condition. The DPS will then bait the three **Geirskogul** toward the outside while the Tanks will grab the two **Soul Tether**. Have one Tank in front of *Nidhogg* and the second under him while the group stay away from them.  
+*A Warrior can use Holmgang here, since it will be back just in time for the next tank buster in the next Phase*
 
 *Nidhogg* will cast a final **Drachenlance** before his enrage, **Revenge of the Horde**.
 
@@ -544,7 +543,7 @@ ___
 
 <a id="SLeft&RightEyes">Stack up on *Alphinaud* to receive <span class="speDebuff">Soul of Devotion</span> and <span class="speDebuff">Soul of Friendship</span>.
 
-Each Tank must grab the *Eyes* enmity since they will auto-attack though this part. <u>Since the *Left Eye* will lose most of its health from damages taken by the players, everyone has to focus as much as possible the *Right Eye*.</u>  
+Each Tank must grab the *Eyes* enmity since they will auto-attack. <u>Since the <em>Left Eye</em> will lose most of its health from damages taken by the players, everyone has to focus as much as possible the <em>Right Eye</em>.</u>  
 And get some mitigation ready for the incoming **Resentment**.
 
 Next, **Hatebound** will assign a debuff to everyone, be spread before the cast is over to avoid unnecessary swap:
@@ -556,12 +555,11 @@ Any player with the wrong debuff has to stack mid, under *Estinien*. Thus they w
 Then, Tanks and Healers will move toward the *Left Eye* while the DPS will move toward the *Right Eye*.  
 Once the orbs are here, Healers and Ranged DPS have to wait for the yellow orbs to grow twice before soaking them in pairs. Then the Tanks and Healers will swap their debuffs and Melee and Ranged DPS will do the same. Finally, the Tanks and Melee DPS will wait for the second growth to happen, before taking the blue orbs:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="flare1.jpg;flare2.jpg" imgDesc="" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="flare1.jpg;flare2.jpg" imgDesc="Ranged take their orbs;Ranged and Melees swap debuffs then Melees take their orbs" slideNumber=slideCounter %}
 
-
-Group up around the *Right Eye* without touching each other. The Healers and Ranged DPS will first move inside the *Right Eye* while the Tanks and Melee DPS will spread around it afterward.  
-Every time a set of **Mirage Dive** is done, the next pairs will swap their debuff and position with the two players hit. The order is the following one:
-	Healers -> Ranged DPS -> Flex (the two players who got hit first, they should have 3s left on their <span class="debuff">Piercing Resistance Down</span> debuff).
+Group up around the *Right Eye* without switching your debuffs. The Healers and Ranged DPS will first move inside the *Right Eye* while the Tanks and Melee DPS will spread around it afterward.  
+Every time a set of **Mirage Dive** is done, the next pairs will swap their debuff and position with the two players hit. The order is the following one:  
+	Healers -> Ranged DPS -> Flex (the two players who got hit first, they should have 3s left on their <span class="debuff">Piercing Resistance Down</span> debuff when the third **Mirage Dive** happend).
 
 If the *Left Eye* and *Right Eye* aren't dead yet, quickly kill them before the next raidwide, **Steep in Rage**, or it will heal up the *Right Eye* (or bring it back to life).  
 There's only a few seconds left before the Duty Gauge is filled up to kill any remaining *Eye*.
@@ -570,7 +568,7 @@ There's only a few seconds left before the Duty Gauge is filled up to kill any r
 <h1><a id="HaurchefantRewind">Haurchefant Rewind</a></h1>
 
 <div class="guideSection" markdown="1">
-You'll be teleported back in time to **Plannar Imprisonment** from Phase 1. Except this time, the Tank LB3 is ready to save *Haurchefant*. If *Haurchefant* still dies, the fight will transition into the second Phase (with *Thordan* having 25% more HP?/Damage?).
+You'll be teleported back in time to **Plannar Imprisonment** from Phase 1. Except this time, the Tank LB3 is ready to save *Haurchefant*. If *Haurchefant* still dies, the fight will loop back into Phase 2.
 
 ___
 
