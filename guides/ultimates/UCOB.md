@@ -29,24 +29,29 @@ ___
 
 ___
 
-+ **<ins>Twister</ins>:** At the end of the cast, small tornados will be placed under 4 random players. If someone steps on it, it will kill that player and knock back any close player into the wall, thus killing them.
++ **<ins>Twister</ins>:**
+At the end of the cast, small tornados will be placed under 4 random players. If someone steps on it, it will kill that player and knock back any close player into the wall, thus killing them.
 
 ___
 
-+ **<ins>Fireball</ins>:** A random DPS or Healers will be marked with a red marker. After a few second, *Twintania* will hurl a fireball at that player, dealing <span class="magic">magical damage</span> that can be shared. At least 6 players are needed in the stack.
++ **<ins>Fireball</ins>:**
+A random DPS or Healers will be marked with a red marker. After a few second, *Twintania* will hurl a fireball at that player, dealing <span class="magic">magical damage</span> that can be shared. At least 6 players are needed in the stack.
 
 ___
 
-+ **<ins>Death Sentence</ins>:** Tank buster on the main target dealing **slashing** <span class="phys">physical damage</span> and applying a <span class="debuff">Slashing Resistance Down II</span> debuff for 34 seconds. Requires a tank swap since *Twintania* auto-attacks are slashing type.
++ **<ins>Death Sentence</ins>:**
+Tank buster on the main target dealing **slashing** <span class="phys">physical damage</span> and applying a <span class="debuff">Slashing Resistance Down II</span> debuff for 34 seconds. Requires a tank swap since *Twintania* auto-attacks are slashing type.
 
 ___
 
-+ **<ins>Liquid Hell</ins>:** *Twintania* will target a random player that is beyond a specific range. She will attack 5 times and each attack will leave a fire puddle lasting 15 seconds. Standing inside a puddle will kill any player. In order for the 5 hits to be aimed at the right player, make sure that only that player is away from *Twintania*.  
++ **<ins>Liquid Hell</ins>:**
+*Twintania* will target a random player that is beyond a specific range. She will attack 5 times, dealing small <span class="magic">magical damage</span> and each attack will leave a fire puddle lasting 15 seconds. Standing inside a puddle will kill any player. In order for the 5 hits to be aimed at the right player, make sure that only that player is away from *Twintania*.  
 Once the second **Neurolink** is dropped, the **Liquid Hell** may also target a second player randomly for all 5 hits except the main Tank.
 
 ___
 
-+ **<ins>Generate</ins>:** A random DPS will be marked with a purple marker (with three orbs linked together and rotating) and a **Hatch** (a purple aetherical sphere) will appear under *Twintania*. This **Hatch** will slowly move toward the marked player.  
++ **<ins>Generate</ins>:**
+A random DPS will be marked with a purple marker (with three orbs linked together and rotating) and a **Hatch** (a purple aetherical sphere) will appear under *Twintania*. This **Hatch** will slowly move towards the marked player.  
 If the player isn't standing or didn't have the <span class="speDebuff">Neurolink</span> debuff, it will deal (lethal) <span class="magic">magical damage</span> and apply a <span class="debuff">Damage Down</span> debuff on the whole group.  
 If the player is standing **AND** have the <span class="speDebuff">Neurolink</span> debuff, it will deal <span class="magic">magical damage</span> and apply a <span class="speDebuff">Mana Hypersensitivity</span> debuff lasting 15 seconds that make any **Hatch** dealing lethal <span class="magic">magical damage</span>. If another player is caught in the **Hatch** explosion, it will kill him.  
 Once the second **Neurolink** is dropped, **Generate** will also target a second DPS and create another **Hatch**. These **Hatch** need to be soaked in two different **Neurolink**.
@@ -146,7 +151,7 @@ ___
 
 + **<ins>Bahamut's Favor</ins>:**
 *Nael* will gain a <span class="buff">Damage Up</span> buff and 5 dragons will spawn outside the arena on cardinals or intercardinals (see **Divebomb** for more precisions about their positions):
-	+ *Thunder Dragon*: Apply a <span class="speDebuff">Thunderstruck</span> debuff on two random players lasting 5 seconds. When it resolves, **Chain Lightning** will be cast on their owner, dealing AoE <span class="magic">magical damage</span> and applying a Paralysis debuff lasting around 1 minutes to anyone else caught in the AoE.
+	+ *Thunder Dragon*: Apply a <span class="speDebuff">Thunderstruck</span> debuff on two random players lasting 5 seconds. When it resolves, **Chain Lightning** will be cast on their owner, dealing AoE <span class="magic">magical damage</span> and applying a <span class="debuff">Paralysis</span> debuff lasting around 1 minutes to anyone else caught in the AoE.
 	+ *Dark Dragon*: Apply a <span class="speDebuff">Doom</span> debuff to two random players lasting 5 and 10 seconds the first time. The second and third time, it will apply a <span class="speDebuff">Doom</span> debuff to 3 other players lasting 5, 10 and 15 seconds. In the end, everyone will have had one <span class="speDebuff">Doom</span> debuff.
 	+ *Light Dragon*: Cast **Wing of Salvation**, placing light puddle under random player. After 3 seconds, it will explode killing anyone inside and will leave a small cleanse puddle on the ground, used to remove the <span class="speDebuff">Doom</span> debuff.
 	+ *Ice Dragon*: Will periodically cast **Iceball** on everyone, one by one, applying the <span class="speDebuff">Icebitten</span> debuff. If a player got two stacks of <span class="speDebuff">Icebitten</span>, he will die. If a player had a <span class="speDebuff">Firescorched</span> debuff, <span class="speDebuff">Icebitten</span> will cleanse it.
@@ -247,7 +252,7 @@ Most of the time, there's only two or four possible quotes used at a specific mo
 <em>Note about this phase: players will have to juggle with their <span class="speDebuff">Icebitten</span> and <span class="speDebuff">Firescorched</span> debuffs.  
 There's multiple way to do it but this guide will cover the <strong>Fireball</strong> IN/OUT/IN/IN way. It is the easiest one since players won't have to care about their current debuffs since they will cancel each other on their own. Reducing RNG in this phase a bit more.</em>
 
-Once *Twintania* disappear, everyone should regroup next the South **Neurolink** toward the centre of the arena.
+Once *Twintania* disappear, everyone should regroup next the South **Neurolink** towards the centre of the arena.
 
 **Heavensfall** will push back everyone near the wall, quickly heal the group and spread around the allagan monolith. Stand into the safe spot from **Thermionic Burst** slices, then move to an adjacent slice once the first set explode.  
 At the same time, *Nael* will attack with **Meteor Stream**, remember to stay spread to not overlap them.
@@ -263,7 +268,7 @@ The players with <span class="speDebuff">Thunderstruck</span> will move to *Nael
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 
-{% include slideshow.html imgLink="quote1-1.jpg;quote1-2.jpg;quote1-3.jpg" imgDesc="The group stack in front for <strong>Lunar Dynamo</strong> witrh the Thunderstruck player behind <em>Nael</em>;If <strong>Iron Chariot</strong>, move away from the boss (or stack for <strong>Thermionic Beam</strong>);Regroup in front of the boss for the <strong>Fireball</strong>" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="quote1-1.jpg;quote1-2.jpg;quote1-3.jpg" imgDesc="The group stack in front for <strong>Lunar Dynamo</strong> with the Thunderstruck player behind <em>Nael</em>;If <strong>Iron Chariot</strong>, move away from the boss (or stack for <strong>Thermionic Beam</strong>);Regroup in front of the boss for the <strong>Fireball</strong>" slideNumber=slideCounter %}
 
 Also, **Wing of Salvation** puddles will start to appear, one before **Fireball** and one after. If you have to avoid them, rotate around *Nael*.  
 When the first **Wing of Salvation** puddle explode, the player with the 5s <span class="speDebuff">Doom</span> debuff grab the cleanse puddle, and the 10s <span class="speDebuff">Doom</span> debuff will do the same when the second cleanse puddle is available.
@@ -324,8 +329,13 @@ Tankbuster dealing massive <span class="phys">physical damage</span>.
 
 ___
 
++ **<ins>Twisting Dive</ins>:**
+**Divebomb** from *Twintania*. The dive direction is locked when the marker appears. When she starts her dive animation, 4 random players will get a **Twister**.
+
+___
+
 + **<ins>Earth Shaker</ins>:**
-Place a Earth Shaker marker on 3 or 4 players. After a few seconds, Bahamut will perform a 90° cleave toward the marked players dealing <span class="phys">physical damage</span> and applying an <span class="debuff">Earth Resistance Down II</span> debuff. A puddle will appear where the player was. Standing inside the puddle will apply a Sludge debuff, a DoT, deadly if you have the debuff.
+Place a Earth Shaker marker on 3 or 4 players. After a few seconds, Bahamut will perform a 90° cleave towards the marked players dealing <span class="phys">physical damage</span> and applying an <span class="debuff">Earth Resistance Down II</span> debuff. A puddle will appear where the player was. Standing inside the puddle will apply a Sludge debuff, a DoT, deadly if you have the debuff.
 
 ___
 
@@ -381,7 +391,7 @@ ___
 
 + **<ins>Heavensfall Trio</ins>:**
 	+ *Nael*, *Twintania* and *Bahamut Prime* will appear on the edge together.
-	+ *Twintania* and *Bahamut Prime* will dive at the same time toward two random players.
+	+ *Twintania* and *Bahamut Prime* will dive at the same time towards two random players.
 	+ **Twisters** appear during the dive.
 	+ Four **Megaflare** puddles and 8 towers (along the edge) appear
 	+ **Heavensfall** middle, KB + rotating slices.
@@ -402,7 +412,7 @@ ___
 	+ The 5 dragons will dive in a clockwise manner if *Bahamut Prime* is located at an intercardinal. The first dragon to dive is the first clockwise of *Bahamut Prime*. They will dive in a counter-clockwise manner if *Bahamut Prime* is located at a cardinal. The first dragon to dive is the first counter-clockwise of *Bahamut Prime*.
 	+ *Nael*, *Twintania*, *Bahamut Prime*'s dive direction is locked when the marker **appears**. The dragons dive direction is locked when the marker **disappears**.
 	+ Every player will bait one dive (if everyone is alive tho).
-	+ *Twintania* will dive happens with a 4 players **Megaflare** stack and 4 towers.
+	+ *Twintania* will dive and it happens with a 4 players **Megaflare** stack and 4 towers.
 
 </div>
 
@@ -417,7 +427,7 @@ As soon as the group get pushed, use the Tank LB. If LB3 is available, it will r
 Quickly turn the boss away from the group before he casts **Flare Breath** followed by **Flatten**.
 
 <a id="SQuickmarchTrio"></a>Then **Bahamut Prime** will call his friend for **Quickmarch Trio**. Once they leave the arena, quickly identify where they flew to. This location will be considered as North for this **Trio**.  
-The whole gang will dive in a straight line, you have the group split in two groups, to the East and West, next to the edges. When the gang is diving (check the focus target/enmity list for the cast), take a few steps toward the centre to bait the **Twisters** on the edge.   
+The whole gang will dive in a straight line, you have the group split in two groups, to the East and West, next to the edges. When the gang is diving (check the focus target/enmity list for the cast), take a few steps towards the centre to bait the **Twisters** on the edge.   
 Stay spread and wait for the **Megaflare** puddles and AoEs to happen.  
 *Bahamut Prime* will come back and everyone will get into position, relative to *Bahamut Prime*. The three DPS with a **Megaflare** marker will stack behind, the DPS with **Earthshaker** will be in front, the two Healers move to the left and right side with their **Earthshaker** and the Tanks will grab the **Tempest Wing** tether and position themselves between the boss and their Healer. If the tether is on the **Megaflare** stack, wait for the stack explosion before picking it up:
 
@@ -427,17 +437,17 @@ Stay spread and wait for the **Megaflare** puddles and AoEs to happen.
 
 *Bahamut Prime* will continue with **Flare Breath** and a **Flatten**. You can use the cooldown(s) from **Tempest Wing** running for these tankbusters.
 
-<a id="SBlackfireTrio"></a>The gang is back again for **Blackfire Trio**.  When it starts, the group has to face *Nael* and when the first **Liquid Hell** appears, start to move toward *Nael* (don't use sprint except if you're late compare to the rest of the group). Between the third and fourth **Liquid Hell**, *Nael* will use **Thermionic Beam** on the group but keep moving toward her. After **Thermionic Beam**, try to get everyone healed up quickly as the group will split in two, while facing *Nael*, Tanks and Healers to the left and DPS to the right.  
+<a id="SBlackfireTrio"></a>The gang is back again for **Blackfire Trio**.  When it starts, the group has to face *Nael* and when the first **Liquid Hell** appears, start to move towards *Nael* (don't use sprint except if you're late compare to the rest of the group). Between the third and fourth **Liquid Hell**, *Nael* will use **Thermionic Beam** on the group but keep moving towards her. After **Thermionic Beam**, try to get everyone healed up quickly as the group will split in two, while facing *Nael*, Tanks and Healers to the left and DPS to the right.  
 One Tank, one Healer and two DPS will get a **Megaflare** marker, they will stack behind the fire puddle, opposite of *Nael*. 4 **Megaflare** towers will spawn on each side but don't step inside yet. Wait for the first **Hypernova** to be fired to move in the tower. If the stack is targeted by a **Hypernova**, move away from *Nael* to stay stack.  
 Don't forget to dodge the last **Hypernova** before regrouping mid for **Gigaflare**:
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 
-{% include slideshow.html imgLink="blackfire1.jpg;blackfire2.jpg;blackfire3.jpg;blackfire4.jpg;blackfire5.jpg;blackfire6.jpg" imgDesc="Find <em>Nael</em>;Move toward her, stay stacked;Continue moving. Throw quick heals. Tanks, Healers split to the left, DPS to the right;<strong>Megaflare</strong> towers and markers appear;Stack away from <em>Nael</em>, towers wait for the first <strong>Hypernova</strong>;Move inside the towers" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="blackfire1.jpg;blackfire2.jpg;blackfire3.jpg;blackfire4.jpg;blackfire5.jpg;blackfire6.jpg" imgDesc="Find <em>Nael</em>;Move towards her, stay stacked;Continue moving. Throw quick heals. Tanks, Healers split to the left, DPS to the right;<strong>Megaflare</strong> towers and markers appear;Stack away from <em>Nael</em>, towers wait for the first <strong>Hypernova</strong>;Move inside the towers" slideNumber=slideCounter %}
 
 *Bahamut Prime* will use **Flare Breath** three time in a row.
 
-<a id="SFellruinTrio"></a>Back with the gang and **Fellruin Trio**. The boss will appear above the **Neurolink**, move toward *Nael* that will tell her quote from the fifth set. Either spread, then move under her for **Raven's Dive** => **Lunar Dynamo** (_From on high I **descend**, the **moon** and **stars** to bring!_) or move under then spread for **Lunar Dynamo** => **Raven's Dive** (_From hallowed **moon** I **descend**, a rain of **stars** to bring!_).  
+<a id="SFellruinTrio"></a>Back with the gang and **Fellruin Trio**. The boss will appear above the **Neurolink**, move towards *Nael* that will tell her quote from the fifth set. Either spread, then move under her for **Raven's Dive** => **Lunar Dynamo** (_From on high I **descend**, the **moon** and **stars** to bring!_) or move under then spread for **Lunar Dynamo** => **Raven's Dive** (_From hallowed **moon** I **descend**, a rain of **stars** to bring!_).  
 Once it's done, the group will move inside the **Neurolink** under *Nael*. Each Tanks will grab the **Tempest Wing** tethers and move inside *Bahamut Prime* and *Twintania*'s **Neurolinks**.  
 When **Aetheric Profusion** and **Tempest Wings** are done, everyone has to spread for the last part of the quote, **Meteor Stream**.  
 After being hit, move in front of *Bahamut Prime* to get healed and mitigate the incoming **Gigaflare**.
@@ -468,7 +478,7 @@ Don't hesitate to sacrifice the **Fireball** player if the group is low to survi
 Triple **Flare Breath** from *Bahamut Prime*, *wink* *wink*.
 
 <a id="STenstrikeTrio"></a>Guess who's back? THE GANG. With **Tenstrike Trio**. *Twintania* will appear middle and three random players will get a **Generate** marker. Also *Nael* will use **Meteor Stream** on every player, one by one on the DPS then the Healers then the Tanks, so stay spread until **Generate** is over.  
-The three player with the marker will stand inside a **Neurolink** and soak their **Hatch**. Once it's done, a second set of **Hatches** will target the same players. These players have to move out toward the edge and three other players have to intercept the **Hatches** while inside a **Neurolink**. <u>The <strong>Hatch</strong> is badly coded, so if you have the marker, don't wriggle and move away in a straight line or the <strong>Hatch</strong> may go TokyoDrift™ for no reason.</u>
+The three player with the marker will stand inside a **Neurolink** and soak their **Hatch**. Once it's done, a second set of **Hatches** will target the same players. These players have to move out towards the edge and three other players have to intercept the **Hatches** while inside a **Neurolink**. <u>The <strong>Hatch</strong> is badly coded, so if you have the marker, don't wriggle and move away in a straight line or the <strong>Hatch</strong> may go TokyoDrift™ for no reason.</u>
 
 Then four players will get a **Earthshaker** marker. Shortly after, the other four players will also receive a **Earthshaker** marker.  
 The first **Earthshakers** will spread to the South side of the arena and not far from the edge. The other will be safe North and will get their marker soon. While dodging the first set, these players can already preposition around a marker to show where they're going.  
@@ -489,7 +499,7 @@ While all of this happen, watch if you got a dive marker on you. Because the las
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 
-{% include slideshow.html imgLink="octet1card.jpg;octet2card.jpg;octet3card.jpg;octet4card.jpg;octet1inter.jpg;octet2inter.jpg;octet3inter.jpg;octet4inter.jpg" imgDesc="<em>Bahamut</em> is at a cardinal. Wait middle;Move when the dive markers appear;Wait for <em>Nael</em>'s dive;Rotate in a counter-clockwise manner. Move back mid when <em>Bahamut</em> dive marker appears;<em>Bahamut</em> is at an intercardinal. Wait middle;Move when the dive markers appear;Wait for <em>Nael</em>'s dive;Rotate in a clockwise manner. Move back mid when <em>Bahamut</em> dive marker appears" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="octet1card.jpg;octet2card.jpg;octet3card.jpg;octet4card.jpg;octet1inter.jpg;octet2inter.jpg;octet3inter.jpg;octet4inter.jpg" imgDesc="<em>Bahamut</em> is at a cardinal. Wait middle;Move when the dive markers appear;Wait for <em>Nael</em> 's dive;Rotate in a counter-clockwise manner. Move back mid when <em>Bahamut</em> dive marker appears;<em>Bahamut</em> is at an intercardinal. Wait middle;Move when the dive markers appear;Wait for <em>Nael</em>'s dive;Rotate in a clockwise manner. Move back mid when <em>Bahamut</em> dive marker appears" slideNumber=slideCounter %}
 
 If *Nael* is in front of *Bahamut Prime*, you have to move to an adjacent spot, next to *Nael*, since she is the first to dive.  
 Once the dive markers appear, if you have to rotate clockwise (because *Bahamut Prime* is at an intercardinal), go to the first clockwise spot after *Nael*. If you have to rotate counter-clockwise, move to the first counter-clockwise spot after *Nael*:

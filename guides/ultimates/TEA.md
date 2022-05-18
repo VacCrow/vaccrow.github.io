@@ -180,20 +180,20 @@ ___
 + **<ins>Link-Up</ins>:**
 Applies Compressed Lightning debuff on a DPS, and Compressed Water on a Healer. Also summons two *Steam Chakram*:
 
-	+ Compressed Water:  
+	+ <span class="speDebuff">Compressed Water</span>:  
    Debuff that lasts 30 seconds. When it resolves, explodes in AoE dealing <span class="magic">magical damage</span> shared between the players caught.  
    Compressed Water debuff is then passed onto one of the player that shared the damage. The player who had the debuff when it exploded will receive a Water Resistance Down II afterward, meaning he cannot take part in the Compressed Water.  
    A *Tornado* will spawn at the explosion location. If you stand inside you’ll be killed or it will wipe the group if left alone for too long. The *Tornado* can be transformed into an ice block with **Ice Missile** or removed with **Flamethrower**.  
    Compressed Water and *Tornadoes* are removed by a successful **Gavel**.
 
-	+ Compressed Lightning:  
+	+ <span class="speDebuff">Compressed Lightning</span>:  
    Debuff that lasts 30 seconds. When it resolves, explode in AoE dealing <span class="magic">magical damage</span>. Must be shared with one and only one player. If more than one player is caught, the group will wipe.  
    Compressed Lightning debuff is then passed to the player that shared the damage. The player who had the debuff when it exploded will receive a Lightning Resistance Down II meaning he cannot take part in the Compressed Lighting.  
    Compressed Lightning is removed by a successful Gavel
 
-	+ Steam Chakram:  
-   2 **Steam Chakrams** will spawn outside of the arena. Each chakram will cast **Eye of the Chakram**, aiming at a random player position and will fire across the arena through that position dealing lethal damage to anyone on its path.  
-   *Tip: the **Steam Chakrams** will appear in the enemy list along with their Eye of the Chakram cast bar*
+	+ *Steam Chakram*:  
+   2 *Steam Chakrams* will spawn outside of the arena. Each chakram will cast **Eye of the Chakram**, aiming at a random player position and will fire across the arena through that position dealing lethal damage to anyone on its path.  
+   *Tip: the *Steam Chakrams* will appear in the enemy list along with their **Eye of the Chakram** cast bar*
 
 ___
 
@@ -203,12 +203,12 @@ Non telegraphed AoEs baited under every players dealing lethal damage. They will
 ___
 
 + **<ins>Photon</ins>:**
-Set HP to 1 for the whole team. Only Tanks are affected on the second cast.
+Set HP to 1 for the whole team. Only Tanks are affected by the second cast.
 
 ___
 
 + **<ins>Spin Crusher</ins>:**
-Frontal cleave by Cruise Chaser. Has a cast time and can be avoided by going to its sides.
+Frontal cleave by *Cruise Chaser*. Has a cast time and can be avoided by going to its sides.
 
 ___
 
@@ -238,8 +238,8 @@ Two random DPS are marked by a white AoE circle with orbs on top of them. The nu
 ___
 
 + **<ins>Verdict</ins>:**
-Applies a Final Judgement: Penalty III debuff on every player that requires player to have three debuffs with "Final" in their name.  
-Also applies a Final Judgment: Decree Nisi α, β, γ or δ debuff. This debuff determines which type of Nisi debuff you must have for **Gavel**.  
+Applies a <span class="speDebuff">Final Judgement: Penalty III</span> debuff on every player that requires player to have three debuffs with "Final" in their name.  
+Also applies a <span class="speDebuff">Final Judgment: Decree Nisi α, β, γ or δ</span> debuff. This debuff determines which type of Nisi debuff you must have for **Gavel**.  
 These debuffs will be removed by a successful Gavel.
 
 ___
@@ -255,13 +255,13 @@ Tank buster cleave aimed at the closest person of **Brute Justice** dealing <spa
 ___
 
 + **<ins>Propeller Wind</ins>:**
-Raid-wide AoE from *Cruise Chaser* that inflicts a Confuse debuff. If the Line of Sight with *Cruse Chaser* is broken with an ice block, the debuff won't be applied.
+Raid-wide AoE from *Cruise Chaser* that inflicts a <span class="debuff">Confuse</span> debuff. If the Line of Sight with *Cruse Chaser* is broken, the debuff won't be applied.
 
 ___
 
 + **<ins>Gavel</ins>:**
-*Brute Justice* will resolve all Final Judgement debuffs and check if the requirements are met or it will cause a wipe.  
-Also remove the ice block, the remaining tornado, Decree Nisi debuffs, Compressed Water and Compressed Lightning.
+*Brute Justice* will resolve all <span class="speDebuff">Final Judgement: Penalty III</span> debuffs and check if the requirements are met or it will cause a wipe.  
+Also remove the ice block, the remaining tornado, <span class="speDebuff">Decree Nisi</span> debuffs, Compressed Water and Compressed Lightning.
 
 ___
 
