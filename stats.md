@@ -1,7 +1,7 @@
 ---
+layout: none
 title: Ultimate Stats
 ---
-<!DOCTYPE html>
 <html>
 	<head>
 		<meta http-equiv="refresh" content="0; url='https://docs.google.com/spreadsheets/d/1yizTEb4l-rtRiD3S1s4oOrt0UbBnB30WZsrBO72_Xzw/edit?usp=sharing'" />
