@@ -118,6 +118,15 @@
 	border-radius: 2px;
 }
 
+.guideSection > blockquote {
+	background-color: $bg-base;
+	border-radius: 6px;
+}
+
+.guideSection > blockquote > p {
+	padding: 6px;
+}
+
 .guideSection .phys{
 	color: $ft-physical;
 }
@@ -139,6 +148,10 @@
 }
 
 .icon{
+	margin: 0px;
+}
+
+.iconImg{
 	width: 18px;
 	height: 24px;
 }
