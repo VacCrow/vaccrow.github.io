@@ -118,32 +118,36 @@
 	border-radius: 2px;
 }
 
-.guideSection blockquote {
+.guideGrid blockquote {
 	background-color: $bg-base;
 	border-radius: 6px;
 }
 
-.guideSection blockquote > p {
+.guideGrid blockquote > p {
 	padding: 6px;
 }
 
-.guideSection .phys{
+.guideGrid blockquote > ul {
+	padding-right: 6px;
+}
+
+.guideGrid .phys{
 	color: $ft-physical;
 }
 
-.guideSection .magic{
+.guideGrid .magic{
 	color: $ft-magical;
 }
 
-.guideSection .buff{
+.guideGrid .buff{
 	color: $ft-buff;
 }
 
-.guideSection .debuff{
+.guideGrid .debuff{
 	color: $ft-debuff
 }
 
-.guideSection .speDebuff{
+.guideGrid .speDebuff{
 	color: $ft-spedebuff;
 }
 

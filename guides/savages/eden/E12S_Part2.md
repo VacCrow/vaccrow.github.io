@@ -21,33 +21,33 @@ ___
 <div class='guideSection' markdown='1'>
 <h2><a id='ABGeneralAbilities'>General Abilities:</a></h2>
 
-+ **<ins>Hell's Judgement</ins>:**
++ **<u>Hell's Judgement</u>:**
 Everyone's HP is set to 1.
 
 ___
 
-+ **<ins>Shockwave Pulsar</ins>:**
++ **<u>Shockwave Pulsar</u>:**
 Raid-wide AoE dealing <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Darkest Dance</ins>:**
++ **<u>Darkest Dance</u>:**
 *Oracle of Darkness* will jump to the furthest person and perform a cleave, dealing massive <span class='phys'>physical damage</span> and applying a <span class='debuff'>Physical Vulnerability Up</span> debuff lasting 4 seconds.
 After 1 second, *Oracle Of Darkness* will knockback everyone away from her dealing <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Speed</ins>:**
++ **<u>Speed</u>:**
 *Oracle of Darkness* will be tethered to four houglasses. A yellow tether will speed them up and a blue tether will slow them down.
 
 ___
 
-+ **<ins>Somber Dance</ins>:**
++ **<u>Somber Dance</u>:**
 *Oracle of Darkness* will jump toward the further player, dealing massive <span class='phys'>physical damage</span> and applying a <span class='debuff'>Physical Vulnerability Up</span> debuff lasting 4 seconds. She will then jump to the closest player except the first one she hit, dealing massive <span class='phys'>physical damage</span>.
 
 ___
 
-+ **<ins>Memory's End</ins>:**
++ **<u>Memory's End</u>:**
 Enrage.
 
 </div>
@@ -62,59 +62,59 @@ Furthermore, players may receive a <span class='speDebuff'>Twice-come Ruin</span
 
 ___
 
-+ **<ins>Spell-in-Waiting Dark Eruption</ins> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingDarkEruption }}'> :**
++ **<u>Spell-in-Waiting Dark Eruption</u> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingDarkEruption }}'> :**
 AoE on a player dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span>.
 
 ___
 
-+ **<ins>Spell-in-Waiting Dark Water III</ins> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingDarkWaterIII }}'>:**
++ **<u>Spell-in-Waiting Dark Water III</u> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingDarkWaterIII }}'>:**
 Share marker dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span>.
 
 ___
 
-+ **<ins>Spell-in-Waiting Dark Fire III</ins> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingDarkFireIII }}'>:**
++ **<u>Spell-in-Waiting Dark Fire III</u> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingDarkFireIII }}'>:**
 AoE marker dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Magic Vulnerability Up</span> and a <span class='speDebuff'>Twice-come Ruin</span> to anyone hit.
 
 ___
 
-+ **<ins>Spell-in-Waiting Dark Blizzard III</ins> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingDarkBlizzardIII }}'>:**
++ **<u>Spell-in-Waiting Dark Blizzard III</u> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingDarkBlizzardIII }}'>:**
 Donut-shaped AoE dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> and a <span class='speDebuff'>Twice-come Ruin</span> to anyone hit.
 
 ___
 
-+ **<ins>Spell-in-Waiting Shadoweye</ins> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingShadoweye }}'>:**
++ **<u>Spell-in-Waiting Shadoweye</u> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingShadoweye }}'>:**
 Look-away gaze applying a <span class='speDebuff'>Twice-come Ruin</span> if someone looked at it.
 
 ___
 
-+ **<ins>Spell-in-Waiting Return</ins> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingReturn }}'>:**
++ **<u>Spell-in-Waiting Return</u> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingReturn }}'>:**
 When this debuff resolves, a **Return** puddle is dropped on the ground and a <span class='speDebuff'>Return</span> <img class='iconImg' src='{{ site.data.iconList.E12S.Return }}'> debuff is applied, lasting 8 seconds. When the <span class='speDebuff'>Return</span> debuff resolves, the player is stunned and teleported to the **Return** puddle.
 
 ___
 
-+ **<ins>Spell-in-Waiting Dark Aero III</ins> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingDarkAeroIII }}'>:**
++ **<u>Spell-in-Waiting Dark Aero III</u> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingDarkAeroIII }}'>:**
 AoE on a player dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span>. Any player caught other than the target is pushed back.
 
 ___
 
-+ **<ins>Spell-in-Waiting Flare</ins> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingFlare }}'>:**
++ **<u>Spell-in-Waiting Flare</u> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingFlare }}'>:**
 Flare dealing <span class='magic'>magical damage</span> with reduced damage the furthest a player is from the source.
 
 ___
 
-+ **<ins>Spell-in-Waiting Unholy Darkness</ins> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingUnholyDarkness }}'>:**
++ **<u>Spell-in-Waiting Unholy Darkness</u> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingUnholyDarkness }}'>:**
 Stack marker dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span>.
 
 ___
 
-+ **<ins>Spell-in-Waiting Return IV</ins> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingReturnIV }}'>:**
++ **<u>Spell-in-Waiting Return IV</u> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingReturnIV }}'>:**
 When this debuff resolves, a **Return IV** puddle is dropped on the ground and a <span class='speDebuff'>Return IV</span> <img class='iconImg' src='{{ site.data.iconList.E12S.ReturnIV }}'> debuff is applied, lasting 5 seconds.  
 When it resolves, a **Return** puddle is dropped on the ground and a <span class='speDebuff'>Return</span> debuff is applied, lasting 7 seconds.
 When the <span class='speDebuff'>Return</span> debuff resolves, the player is stunned and teleported to their **Return** puddle, then to their **Return IV** puddle after 4 seconds.
 
 ___
 
-+ **<ins>Spell-in-Waiting Quietus</ins> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingQuietus }}'>:**
++ **<u>Spell-in-Waiting Quietus</u> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingQuietus }}'>:**
 Raidwide AoE dealing <span class='magic'>magical damage</span> when it resolves.
 
 </div>
@@ -122,7 +122,7 @@ Raidwide AoE dealing <span class='magic'>magical damage</span> when it resolves.
 <div class='guideSection' markdown='1'>
 <h2><a id='ABBasicRelativity'>Basic Relativity:</a></h2>
 
-+ **<ins>Basic Relativity</ins>:** raid-wide dealing huge <span class='magic'>magical damage</span> scaling on the number of player dead and will apply the following debuffs:
++ **<u>Basic Relativity</u>:** raid-wide dealing huge <span class='magic'>magical damage</span> scaling on the number of player dead and will apply the following debuffs:
   + **Spell-in-Waiting Dark Blizzard III** on 2 DPS, lasting 15 or 30 seconds.
   + **Spell-in-Waiting Dark Fire III** on the other 2 DPS, lasting 30 or 15 seconds. If **SiW Blizzard III** last 15 seconds, **SiW Fire III** will last 30 seconds.
   + **Spell-in-Waiting Shadoweye** on both Tanks or both Healers, lasting 22 seconds.
@@ -131,7 +131,7 @@ Raidwide AoE dealing <span class='magic'>magical damage</span> when it resolves.
 
 ___
 
-+ **<ins>Sorrow's Hourglasses</ins>:** 7 hourglasses (that look like traffic lights) will spawn on seven random cardinal points:
++ **<u>Sorrow's Hourglasses</u>:** 7 hourglasses (that look like traffic lights) will spawn on seven random cardinal points:
   + One of them will be yellow and named **Anger's Hourglass**.  
 When **Anger's Hourglass** is filled, it will use **Empty Rage**, a pointblank AoE dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Damage Down</span> and a <span class='speDebuff'>Twice-come Ruin</span>.  
 After 5 second, it will use**Empty Hate**, a raid-wide linear knockback dealing <span class='magic'>magical damage</span> and major <span class='magic'>magical damage</span> to the two closest players from **Anger's Hourglass**.
@@ -141,7 +141,7 @@ When a **Joy's Hourglass** is filled it will fire a laser, Dark Current dealing 
 
 ___
 
-+ **<ins>Speed</ins>:**
++ **<u>Speed</u>:**
 *Oracle of Darkness* will tether herself to 4 **Joy's Hourglasses** with 2 tethers being blue and the 2 other being yellow. A yellow tether speed up how fast a hourglass fill while a blue tether will slow down its fill speed.
 
 ___
@@ -159,28 +159,28 @@ After the cast, the floor of the arena will roughly change to this (the red line
 
 ___
 
-+ **<ins>Apocalypse</ins>:**
++ **<u>Apocalypse</u>:**
 An orb of light will appear in the ground in the middle of the arena. It will shine for a brief moment before moving to one of the newly appeared circles along the edge. Again, it will shine for a bit and will start to rotate along the hard line (in red on the diagram). Each time it comes across a circle, it will stop to shine before resuming its course. Once the orb has done the full circle, it will shine one last time and disappear.  
 Afterward, big AoEs dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> will occur at every stop the orb of light has made. It starts with an initial explosion in the middle followed by 9 explosions in a row along the red line.
 
 ___
 
-+ **<ins>Cataclysm</ins>:**
++ **<u>Cataclysm</u>:**
 *Oracle of Darkness* turns toward the first circle met by the orb of light and starts casting. At the end of the cast, she will jump to that circle and perform a big aoe, dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Damage Down</span>. The opposite side behind the red line is safe.
 
 ___
 
-+ **<ins>Black Halo</ins>:**
++ **<u>Black Halo</u>:**
 *Oracle of Darkness* will cleave the main target (with a hammer /shrug) dealing <span class='phys'>physical damage</span> that must be shared by the tanks. An invulnerability can also be used.
 
 ___
 
-+ **<ins>Shell Crusher</ins>:**
++ **<u>Shell Crusher</u>:**
 *Oracle of Darkness* jumps on a random player dealing <span class='magic'>magical damage</span> in AoE that must be shared.
 
 ___
 
-+ **<ins>Spirit Taker</ins>:**
++ **<u>Spirit Taker</u>:**
 *Oracle of Darkness* jumps on a random player dealing <span class='phys'>physical damage</span> in AoE. Any player caught in the AoE except the target will be pushed back, most likely out of the arena.
 
 </div>
@@ -188,7 +188,7 @@ ___
 <div class='guideSection' markdown='1'>
 <h2><a id='ABIntermediateRelativity'>Intermediate Relativity:</a></h2>
 
-+ **<ins>Intermediate Relativity</ins>:** raid-wide dealing <span class='magic'>magical damage</span> scaling on the number of player dead and will apply the following debuffs:
++ **<u>Intermediate Relativity</u>:** raid-wide dealing <span class='magic'>magical damage</span> scaling on the number of player dead and will apply the following debuffs:
   + **Spell-in-Waiting Return IV** on everyone, lasting 12 seconds.
 
   The next debuffs can be separated into 3 groups where each player will recieve one debuff from each group. Each group's debuff will randomly last 23, 27 or 31 seconds:
@@ -218,7 +218,7 @@ Futhermore in this phase, *Oracle of Darkness* will use **Cataclysm** toward a r
 <div class='guideSection' markdown='1'>
 <h2><a id='ABAdvancedRelativity'>Advanced Relativity:</a></h2>
 
-+ **<ins>Advanced Relativity</ins>:** raid-wide dealing <span class='magic'>magical damage</span> scaling on the number of player dead and will apply the following debuffs for everyone:
++ **<u>Advanced Relativity</u>:** raid-wide dealing <span class='magic'>magical damage</span> scaling on the number of player dead and will apply the following debuffs for everyone:
   + **Spell-in-Waiting Return IV**, lasting 12 seconds.
 
   For all Tanks/Healers (or all DPS):
@@ -233,7 +233,7 @@ For a description of each Spell-in-Waiting ability, refer to the **<a href="#ABS
 
 ___
 
-+ **<ins>Anger's Hourglasses</ins>:** 6 hourglasses will spawn, spreaded around the middle of the arena.  
++ **<u>Anger's Hourglasses</u>:** 6 hourglasses will spawn, spreaded around the middle of the arena.  
 When an **Anger's Hourglass** is filled, it will use **Maelstrom**, a pointblank AoE dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Damage Down</span>.
 
 ___
@@ -256,7 +256,7 @@ During the first explosions, *Oracle of Darkness* will use **Darkest Dance**. On
 <div class='guideSection' markdown='1'>
 <h2><a id='ABTerminalRelativity'>Terminal Relativity:</a></h2>
 
-+ **<ins>Advanced Relativity</ins>:** raid-wide dealing <span class='magic'>magical damage</span> scaling on the number of player dead and applying 3 **Spell-in-Waiting Quietus** to every players with various durations.  
++ **<u>Advanced Relativity</u>:** raid-wide dealing <span class='magic'>magical damage</span> scaling on the number of player dead and applying 3 **Spell-in-Waiting Quietus** to every players with various durations.  
 While the **SiW Quietus** are resolving the boss will cast 3 **Shockwave Pulsar** over 30 seconds. Each cast of **Shockwave Pulsar** will give a <span class='buff'>Damage Up</span> buff to *Oracle Of Darkness*.
 
 </div>

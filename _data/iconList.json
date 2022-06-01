@@ -1,8 +1,8 @@
 {
   "DSR": {
-    "Discomposed": "https://assets.rpglogs.com/img/ff/abilities/015000-015449.png",
     "PlanarImprisonment": "https://assets.rpglogs.com/img/ff/abilities/015000-015447.png",
     "Skyblind": "https://assets.rpglogs.com/img/ff/abilities/015000-015446.png",
+    "Discomposed": "https://assets.rpglogs.com/img/ff/abilities/015000-015449.png",
     "FirstInLine": "https://assets.rpglogs.com/img/ff/abilities/015000-015401.png",
     "SecondInLine": "https://assets.rpglogs.com/img/ff/abilities/015000-015402.png",
     "ThirdInLine": "https://assets.rpglogs.com/img/ff/abilities/015000-015403.png",
@@ -19,12 +19,14 @@
     "DeepFreeze": "https://assets.rpglogs.com/img/ff/abilities/015000-015637.png",
     "Boiling": "https://assets.rpglogs.com/img/ff/abilities/015000-015459.png",
     "Pyretic": "https://assets.rpglogs.com/img/ff/abilities/015000-015647.png",
+    "SolemnVow": "https://assets.rpglogs.com/img/ff/abilities/015000-015456.png",
     "MortalVow": "https://assets.rpglogs.com/img/ff/abilities/015000-015457.png",
     "MortalAtonement": "https://assets.rpglogs.com/img/ff/abilities/015000-015458.png",
+    "Suppuration": "https://assets.rpglogs.com/img/ff/abilities/015000-015979.png",
+    "EntangledFlames": "https://assets.rpglogs.com/img/ff/abilities/015000-015453.png",
+    "SpreadingFlames": "https://assets.rpglogs.com/img/ff/abilities/015000-015452.png",
     "DarkResistanceDown": "https://assets.rpglogs.com/img/ff/abilities/017000-017910.png",
-    "LightResistanceDown": "https://assets.rpglogs.com/img/ff/abilities/017000-017890.png",
-    "EntangledPyre": "https://assets.rpglogs.com/img/ff/abilities/015000-015453.png",
-    "SpreadingFlame": "https://assets.rpglogs.com/img/ff/abilities/015000-015452.png"
+    "LightResistanceDown": "https://assets.rpglogs.com/img/ff/abilities/017000-017890.png"
   },
 
   "TEA": {

@@ -28,46 +28,46 @@ Then he will cast **Wreath Of Thorns**, tethering himself to the *Thorns* in seq
 
 ___
 
-+ **<ins>Hemitheos's Fire IV</ins>**:
++ **<u>Hemitheos's Fire IV</u>**:
 Large AoE dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.
 
 ___
 
-+ **<ins>Hemitheos's Fire III</ins>**:
++ **<u>Hemitheos's Fire III</u>**:
 Tether between two players with a Fire icon on top of them, also applies a <span class='speDebuff'>Thornpricked</span> debuff.  
 Turns dark when too far from each other, indicating it will break in 2 seconds. When broken, it explodes in a shared AoE dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span>.  
 If the tether isn't broken when <span class='speDebuff'>Thornpricked</span> resolves, it will kill the tethered players and trigger the shared AoE.
 
 ___
 
-+ **<ins>Hemitheos's Thunder III</ins>**:
++ **<u>Hemitheos's Thunder III</u>**:
 Tower dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> and a <span class='debuff'>Lightning Resistance Down II</span> debuffs when soaked.  
 If a tower isn't soaked it will explode, dealing raidwide <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.
 
 ___
 
-+ **<ins>Hemitheos's Dark IV</ins>:**
++ **<u>Hemitheos's Dark IV</u>:**
 Tether between two players or one player and a *Thorn* with a Dark icon on top of a player, also applies a <span class='speDebuff'>Thornpricked</span> debuff.  
 Turns dark when too far from each other, indicating it will break in 2 seconds. When broken, it explode dealing dealing raid-wide <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span>.
 If the tether isn't broken when <span class='speDebuff'>Thornpricked</span> resolves, it will kill the tethered player(s) (and activate the *Thorn* if tethered to one).
 
 ___
 
-+ **<ins>Hemitheos's Aero III</ins>**:
++ **<u>Hemitheos's Aero III</u>**:
 Tether between two players or one player and a *Thorn* with a Wind icon on top of players, also applies a <span class='speDebuff'>Thornpricked</span> debuff.  
 Turns dark when too far from each other, indicating it will break in 2 seconds. When broken, it explodes dealing lethal damage to the tethered players and placing an AoE on the ground dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span>.  
 If the tether isn't broken when <span class='speDebuff'>Thornpricked</span> resolves, it will remove the tether from the player(s) (and activate the *Thorn* if tethered to one).
 
 ___
 
-+ **<ins>Hemitheos's Water III</ins>**:
++ **<u>Hemitheos's Water III</u>**:
 Tether between one player and a *Thorn* with a Water icon on top of the player, also applies a <span class='speDebuff'>Thornpricked</span> debuff.  
 Turns dark when too far from each other, indicating it will break in 2 seconds. When broken, it explodes in a medium sized AoE dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'> Magic Vulnerability Up</span>.  
 If the tether isn't broken when <span class='speDebuff'>Thornpricked</span> resolves, it will kill the tethered player, trigger the AoE (and activate the *Thorn* if tethered to one).
 
 ___
 
-+ **<ins>Hemitheos's Water IV</ins>**:
++ **<u>Hemitheos's Water IV</u>**:
 Knockback from the middle of the arena.
 
 </div>
@@ -75,12 +75,12 @@ Knockback from the middle of the arena.
 <div class='guideSection' markdown='1'>
 <h2><a id='ABGeneralAbilities'>General Abilities</a></h2>
 
-+ **<ins>Searing Stream</ins>:**
++ **<u>Searing Stream</u>:**
 Raid-wide AoE dealing <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Akanthai: Act 1</ins>:**
++ **<u>Akanthai: Act 1</u>:**
 **Akanthai** composed of two **Fire IV** North and South, two **Fire IV** East and West and eight **Thunder III** at intercardinals, close and far from the boss.  
 The resolve order is:
   + **Fire IV** North/South or East/West.
@@ -89,24 +89,24 @@ The resolve order is:
 
 ___
 
-+ **<ins>Nearsight/Farsight</ins>:**
++ **<u>Nearsight/Farsight</u>:**
 Tank buster on two players, dealing <span class='magic'>magical damage</span>:
   + **Nearsight** targets the nearest players.
   + **Farsight** targets the furthest players.
 
 ___
 
-+ **<ins>Demigod Double</ins>:**
++ **<u>Demigod Double</u>:**
 Shared tank buster dealing <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Dark Design</ins>**:
++ **<u>Dark Design</u>**:
 Baited AoE under every players, dealing very high <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Akanthai: Act 2</ins>:**
++ **<u>Akanthai: Act 2</u>:**
 **Akanthai** composed of two **Fire IV** North and South, two **Fire IV** East and West and four **Thunder III** on cardinals along the edge.  
 The resolve order is:
   + **Fire IV** North/South and **Thunder III** towers East/West OR **Fire IV** East/West and **Thunder III** towers North/South.
@@ -120,13 +120,13 @@ The resolve order is:
 
 ___
 
-+ **<ins>Ultimate Impulse</ins>:**
++ **<u>Ultimate Impulse</u>:**
 Raid-wide AoE dealing high <span class='magic'>magical damage</span>.  
 The last cast, lasting 10 seconds, is the enrage.
 
 ___
 
-+ **<ins>Akanthai: Act 3</ins>:**
++ **<u>Akanthai: Act 3</u>:**
 **Akanthai** composed of a **Water IV** and eight **Thunder III** along the edge of the arena.  
 The resolve order is:
   + **Kothornos Kick**.
@@ -137,25 +137,25 @@ The resolve order is:
 
 ___
 
-+ **<ins>Kothornos Kick</ins>:**
++ **<u>Kothornos Kick</u>:**
 Dash on the main target dealing AoE <span class='phys'>physical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span>.  
 Immediatly followed up by 3 **Kothornos Quakes**.
 
 ___
 
-+ **<ins>Kothornos Quake</ins>:**
++ **<u>Kothornos Quake</u>:**
 Cone AoE aimed at the closest player dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span>.
 
 ___
 
-+ **<ins>Heart Stake</ins>:**
++ **<u>Heart Stake</u>:**
 Tank buster on the two players with the highest emnity dealing <span class='magic'>magical damage</span> and applying a <span class='speDebuff'>Bleed</span> debuff that last 15 seconds.  
 The target for the first hit is set when the cast starts and aim at the top enmity player. The target for the second hit is set when the cast is done and aim at the second player in the enmity list.  
 Thus, swaping Tanks during the cast will result in both hits on the same player.
 
 ___
 
-+ **<ins>Akanthai: Act 4</ins>:**
++ **<u>Akanthai: Act 4</u>:**
 **Akanthai** composed of four **Fire IV** on cardinal or intercardinal and four **Thunder III** on intercardinal or cardinal, the ones that aren't occupied by a **Fire IV**.  
 Every player will also recieve one of the following:
   + **Dark IV** on four players and tethered to a random **Fire IV** *Thorn*.
@@ -164,7 +164,7 @@ Every player will also recieve one of the following:
 
 ___
 
-+ **<ins>Akanthai: Finale</ins>:**
++ **<u>Akanthai: Finale</u>:**
 **Akanthai** composed of eigth **Thunder III** spread around the boss in melee range and two additional *Thorns* will spawn on a random intercardinal, opposite of each other.  
 Every player will also recieve a **Aero III** with every DPS tethered to one *Thorn* and the tanks/Healers to the other, <span class='speDebuff'>Thornpricked</span> lasts 12 seconds.
 The resolve order is:
@@ -174,18 +174,18 @@ The resolve order is:
 
 ___
 
-+ **<ins>Fleeting Impulse</ins>:**
++ **<u>Fleeting Impulse</u>:**
 *Hesperos* will sequentially launch a small AoE on every player dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff that last 20 seconds.
 
 ___
 
-+ **<ins>Akanthai: Curtain Call</ins>:**
++ **<u>Akanthai: Curtain Call</u>:**
 **Akanthai** composed of eigth **Thunder III** spread around the arena along the edge.  
 Every player will also recieve a **Dark IV** tethered to a random **Thunder III** *Thorn*. Each pair, made of a random Tank/Healer and a DPS, will recieve a <span class='speDebuff'>Thornpricked</span> with the same duration among: 12, 22, 32 and 42 seconds.
 
 ___
 
-+ **<ins>Hell's Sting</ins>:**
++ **<u>Hell's Sting</u>:**
 *Hesperos* will show a set of 8 cones AoE that fill half the arena. When the cast is over, he will attack the marked areas, and 2 seconds after, he will attack the areas that were previously empty. Each set deals <span class='phys'>magical damage</span> and apply a <span class='debuff'>Damage Down</span> debuff.
 
 </div>

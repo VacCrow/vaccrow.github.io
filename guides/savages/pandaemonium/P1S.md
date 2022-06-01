@@ -22,24 +22,24 @@ ___
 <div class='guideSection' markdown='1'>
 <h2><a id='ABGeneralAbilities'>General Abilities</a></h2>
 
-+ **<ins>Heavy Hand</ins>:**
++ **<u>Heavy Hand</u>:**
 Tank buster on the main target dealing <span class='phys'>physical damage</span>.
 
 ___
 
-+ **<ins>Aetherial Shackles</ins>:**
++ **<u>Aetherial Shackles</u>:**
 A random player player will be marked by a <span class='speDebuff'>Shackles of Companionship</span> debuff and another player will be marked by a <span class='speDebuff'> Shackles of Loneliness</span> debuff:  
   + <span class='speDebuff'>Shackles of Companionship</span> <img class='iconImg' src='{{ site.data.iconList.P1S.ShacklesOfCompanionship }}'> : when it resolves, the debuff will transform into <span class='speDebuff'>Inescapable Companionship</span> <img class='iconImg' src='{{ site.data.iconList.P1S.InescapableCompanionship }}'>, lasting 5 seconds. During these 5 seconds, the three closest players will get surrounded by a blue chain. When <span class='speDebuff'>Inescapable Companionship</span> resolves, the 4 concerned player will recieve <span class='magic'>magical damage</span> and a <span class='debuff'>Magic Vulnerability Up</span> debuff.  
   + <span class='speDebuff'> Shackles of Loneliness</span> <img class='iconImg' src='{{ site.data.iconList.P1S.ShacklesOfLoneliness }}'> : when it resolves, the debuff will transform into <span class='speDebuff'>Inescapable Loneliness</span> <img class='iconImg' src='{{ site.data.iconList.P1S.InescapableLoneliness }}'>, lasting 5 seconds. During these 5 seconds, the three furthest players will get surrounded by a red chain. When <span class='speDebuff'>Inescapable Loneliness</span> resolves, the 4 concerned player will recieve <span class='magic'>magical damage</span> and a <span class='debuff'>Magic Vulnerability Up</span> debuff.
 
 ___
 
-+ **<ins>Warder's Wrath</ins>:**
++ **<u>Warder's Wrath</u>:**
 Raid-wide AoE dealing <span class='phys'>physical damage</span>.
 
 ___
 
-+ **<ins>Gaoler's Flail</ins>:**
++ **<u>Gaoler's Flail</u>:**
 *Erichthonios* will throw two weapons in succession on the ground, determining the incoming attacks. Getting hit deals <span class='phys'>physical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.
   + Anchor: left or right cleave at 270°. The flank opposite of the anchor is safe.  
   + Morningstar: pointblank AoE. Max melee range is safe.  
@@ -47,7 +47,7 @@ ___
 
 ___
 
-+ **<ins>Pitiless Flail of Grace/Purgation</ins>:**
++ **<u>Pitiless Flail of Grace/Purgation</u>:**
 *Erichthonios* will turn and perform a tank buster line AoE on the main target, knocking him back (cannot be immuned) and dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff.  
 Afterward the current main target will either get hit by:
   + **True Holy**, a share marker dealing <span class='magic'>magical damage</span> if the attack is **Pitiless Flail of Grace**
@@ -55,7 +55,7 @@ Afterward the current main target will either get hit by:
 
 ___
 
-+ **<ins>Intemperence</ins>:**
++ **<u>Intemperence</u>:**
 *Erichthonios* will divide the arena in 9 quadrants and each quadrant, but the middle one, will have 3 Spell Crystals stacked. The boss will give one of these two debuffs to everyone: <span class='speDebuff'>Cold Spell</span> <img class='iconImg' src='{{ site.data.iconList.P1S.ColdSpell }}'> or <span class='speDebuff'>Hot Spell</span> <img class='iconImg' src='{{ site.data.iconList.P1S.HotSpell }}'>.  
 When a crystal explodes, (it shakes a bit before), the Red Crystal will apply <span class='speDebuff'>Hot Spell</span>, the Blue one <span class='speDebuff'>Cold Spell</span> and the Purple <span class='speDebuff'>Disastrous Spell</span>:
 
@@ -68,43 +68,43 @@ When a crystal explodes, (it shakes a bit before), the Red Crystal will apply <s
 
 ___
 
-+ **<ins>Intemperate Torment</ins>:**
++ **<u>Intemperate Torment</u>:**
 *Erichtonios* commands the Spell Crystals to explode. From top to bottom is his hand is up, or bottom to top if his hand is down.
 
 ___
 
-+ **<ins>Shining Cells</ins>:**
++ **<u>Shining Cells</u>:**
 Raid-wide AoE dealing <span class='magic'>magical damage</span> that will slightly shrink the arena to form a circle. The arena will be divided into Fire and Holy sections.
 
 ___
 
-+ **<ins>Aetherchain</ins>:**
++ **<u>Aetherchain</u>:**
 During the cast, Fire or Holy orbs will rotate around *Erichthonios*. The sections of the same element will soon explode, dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.
 
 ___
 
-+ **<ins>Aetherflail</ins>:**
++ **<u>Aetherflail</u>:**
 Combination of **Aetherchain** and **Gaoler's Fail** happening consecutively. One weapon will be an anchor and the other a morningstar/chakram.
 
 ___
 
-+ **<ins>Shackles of Time</ins>:**
++ **<u>Shackles of Time</u>:**
 A random player will recieve a <span class='speDebuff'>Shackles of Time</span> <img class='iconImg' src='{{ site.data.iconList.P1S.ShacklesOfTime }}'> debuff. When it resolves, the sections where the player is standing will explode, dealing <span class='magic'>magical damage</span> and applying a huge <span class='debuff'>Sustained Damage</span> DoT.  
 This player is immuned to the explosion.
 
 ___
 
-+ **<ins>Slam Shut</ins>:**
++ **<u>Slam Shut</u>:**
 Raid-wide AoE dealing <span class='magic'>magical damage</span> and will revert the arena to its original state.
 
 ___
 
-+ **<ins>Fourfold Shackles</ins>:**
++ **<u>Fourfold Shackles</u>:**
 4 random players  will be marked by a <span class='speDebuff'>Shackles of Companionship</span> debuff and the other 4 player will be marked by a <span class='speDebuff'>Shackles of Loneliness</span> debuff. Each debuffs of each type have a different duration and will last 3, 8, 13 and 18 seconds.
 
 ___
 
-+ **<ins>Lethe</ins>:**
++ **<u>Lethe</u>:**
 Enrage.
 
 </div>

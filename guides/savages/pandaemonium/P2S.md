@@ -22,79 +22,79 @@ ___
 <div class='guideSection' markdown='1'>
 <h2><a id='ABGeneralAbilities'>General Abilities</a></h2>
 
-+ **<ins>Murky Depths</ins>:**
++ **<u>Murky Depths</u>:**
 Raid-wide AoE dealing <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Doubled Impact</ins>:**
++ **<u>Doubled Impact</u>:**
 Shared tank buster on the main target dealing <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Sewage Deluge</ins>:**
++ **<u>Sewage Deluge</u>:**
 *Hippokampos* will perform a aaid-wide AoE dealing major <span class='magic'>magical damage</span> and flood the arena leaving only the drains and platforms dry. One random plaform will be flooded and kill any player who walks on it. Standing into the water elsewhere will give a <span class='debuff'>Dropsy</span> debuff, dealing <span class='magic'>magical damage</span> overtime.
 
 ___
 
-+ **<ins>Spoken/Winged Cataract</ins>:**
++ **<u>Spoken/Winged Cataract</u>:**
 *Hippokampos* head and body will split and face different cardinal direction. The body will perform a line AoE through the arena. While the head will perform a 180° frontal cleave if he casts **Spoken Cataract** or a 180° backward cleave if casts **Winged Cataract**.  
 Both attacks deal <span class='magic'>magical damage</span> and apply a <span class='debuff'>vunl / Damage Down</span> debuff.
 
 ___
 
-+ **<ins>Coherence</ins>:**
++ **<u>Coherence</u>:**
 *Hippokampos* will tether a random player that can be grabed. When the cast is over, the head will attack the tethered player and dealing proxymity based raid-wide <span class='magic'>magical damage</span>.  
 Then the head will do a share line AoE on a random player, except the player who got the tether, dealing <span class='magic'>magical damage</span>. The first player hit will recieve extra damage requiering a Tank.
 
 ___
 
-+ **<ins>Ominous Bubbling</ins>:**
++ **<u>Ominous Bubbling</u>:**
 Both Healers will recieve a stack after a short delay, dealing water <span class='magic'>magical damage</span> and applying a <span class='debuff'>Water Resistance Down II</span> debuff.
 
 ___
 
-+ **<ins>Shockwave</ins>:**
++ **<u>Shockwave</u>:**
 *Hippokampos* will turn toward a random platform and jump there. The impact will knockback everyone away from the centre of the platform and deal <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Predatory Avarice</ins>:**
++ **<u>Predatory Avarice</u>:**
 *Hyppokampos* applies a <span class='speDebuff'>Mark of the Tides</span> debuff on a random Tank and DPS and a <span class='speDebuff'>Mark of the Depths</span> debuff on a random Healer, both debuffs lasting 23 seconds:
   + <span class='speDebuff'>Mark of the Depths</span> <img class='iconImg' src='{{ site.data.iconList.P2S.MarkOfTheDepths }}'> : cast **Hard Water**, a shared AoE dealing <span class='magic'>magical damage</span>.
   + <span class='speDebuff'>Mark of the Tides</span> <img class='iconImg' src='{{ site.data.iconList.P2S.MarkOfTheTides }}'> : cast **Deadly Current**, an AoE around the player that knockback everyone else hit into the wall.
 
 ___
 
-+ **<ins>Channeling Flow</ins>:**
++ **<u>Channeling Flow</u>:**
 Every player will recieve a <span class='speDebuff'>Left/Right/Fore/Rear Mark of the Tides</span> <img class='iconImg' src='{{ site.data.iconList.P2S.MarksOfTheTides }}'> debuff lasting 13. Every player will have an arrow next to him pointing in a cardinal direction, based on the name of the debuff. One Tank, one Healer and two DPS will always have different direction.  
 When it resolves, the player will be stunned. Then he will be pushed all the way to wall except if he collides with another player going on the opposite direction, dealing water <span class='magic'>magical damage</span> and applying a <span class='debuff'>Water Resistance Down II</span> debuff. However, if the distance beetween them is too small before they collide, it will deal lethal damage.
 
 ___
 
-+ **<ins>Channeling Overflow</ins>:**
++ **<u>Channeling Overflow</u>:**
 Every player will recieve <span class='speDebuff'>Left/Right/Fore/Rear Mark of the Tides</span> debuff. One Tank, one Healer and two DPS will have different direction and a 13 seconds long debuff while the debuff for the other 4 will last 28 seconds.
 
 ___
 
-+ **<ins>Tainted Flood</ins>:**
++ **<u>Tainted Flood</u>:**
 AoE on a random Tank, Healer and 2 DPS, dealing water <span class='magic'>magical damage</span> and applying a <span class='debuff'>Water Resistance Down II</span> debuff.  
 Will be on every player if the arena isn't flooded.
 
 ___
 
-+ **<ins>Kampeos Harma</ins>:**
++ **<u>Kampeos Harma</u>:**
 Every player will be marked with purple triangles or blue squares, number from 1 to 4 each.  
 When the cast is over, *Hipokampos*' head will jump on players with purple triangles following the numbers order, dealing AoE <span class='phys'>physical damage</span> and applying <span class='debuff'>Physical Vulnerabilty Up</span>. Meanwhile its body will dash to the blue square players in order, dealing <span class='phys'>physical damage</span> in a line AoE and and applying <span class='debuff'>Physical Vulnerabilty Up</span>.
 
 ___
 
-+ **<ins>Dissociation</ins>:**
++ **<u>Dissociation</u>:**
 *Hippokampos* will detach its head. The head wil appear along the (North?) edge and will dive half the arena, dealing <span class='phys'>physical damage</span> and do some other shit I don't know man.
 
 ___
 
-+ **<ins>Sewage Eruption</ins>:**
++ **<u>Sewage Eruption</u>:**
 Chasing AoE on 4 players, 3 AoEs in a row. Deals <span class='magic'>magical damage</span>.
 
 </div>

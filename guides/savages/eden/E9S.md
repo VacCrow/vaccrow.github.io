@@ -22,12 +22,12 @@ ___
 <div class='guideSection' markdown='1'>
 <h2><a id='ABGeneralAbilities'>General Abilities</a></h2>
 
-+ **<ins>Ground-razing Particle Beam</ins>:**
++ **<u>Ground-razing Particle Beam</u>:**
 Raid-wide AoE dealing <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>The (Second/Third) Art of Darkness</ins>:**
++ **<u>The (Second/Third) Art of Darkness</u>:**
 *Cloud of Darkness* will cast an ability dealing <span class='magic'>magical damage</span> based of the number of orbs she uses:
   + 1 orb on her left or right side: *Cloud of Darkness* will cleave the side of the arena where the orb is.
   + 2 orbs on her sides: *Cloud of Darkness* will cast a share AoE on every Tanks/Healers or DPS dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff for 1 second.
@@ -37,18 +37,18 @@ ___
 
 ___
 
-+ **<ins>Devouring Dark</ins>:**
++ **<u>Devouring Dark</u>:**
 Two-hit magical tank buster. The first hit will deal small <span class='magic'>magical damage</span> and apply a <span class='debuff'>Magic Vulnerability Up</span> debuff for 4 seconds in a small AoE. The second hit will be a line AoE dealing massive damage.
 Swap tank during the cast or use any invulnerability.
 
 ___
 
-+ **<ins>Obscure Wood</ins>:**
++ **<u>Obscure Wood</u>:**
 Raid-wide AoE dealing <span class='magic'>magical damage</span>. Will change the arena to the wood layout with trees placed on the cardinal outside the arena.
 
 ___
 
-+ **<ins>Summon</ins>:**
++ **<u>Summon</u>:**
 *Cloud of Darkness* will summon two clones on the edge of the arena on a random cardinal/intercardinal. They will replicate her next spell: **The Art of Darkness** with one orb, leaving 1/8th of the arena safe.
 
 </div>
@@ -56,19 +56,19 @@ ___
 <div class='guideSection' markdown='1'>
 <h2><a id='ABObscureWoodAbilities'>Obscure Wood Abilities</a></h2>
 
-+ **<ins>Flood of Obscurity</ins>:**
++ **<u>Flood of Obscurity</u>:**
 Knock back every player away from *Cloud of Darkness*. An *Evil Seed* will drop under every player, dealing small <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff for 1 second.  
 After a few seconds, every player will be tethered with <span class='speDebuff'>Thorny Vines</span> <img class='iconImg' src='{{ site.data.iconList.E9S.ThornyVines }}'> to the closest *Evil Seed*. Every DPS will also be tethered to a random Tank/Healer with <span class='speDebuff'>Thorny Vines</span>.
 Once <span class='speDebuff'>Thorny Vines</span> appears, it will break with enough distance. If two players are close to each other when <span class='speDebuff'>Thorny Vines</span> spawned, it will easily break meanwhile if they are far from each other at start, they'll have to run further away. If it isn’t broken fast enough, the players will gain a <span class='debuff'>Damage Down</span> debuff.
 
 ___
 
-+ **<ins>Rejuvenating Balm</ins>:**
++ **<u>Rejuvenating Balm</u>:**
 *Cloud of Darkness* will tether to two trees at opposite cardinals. After 10 seconds the trees will explode in a huge AoE around them dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff.
 
 ___
 
-+ **<ins>Wide-angle Unlimited Phaser</ins>:**
++ **<u>Wide-angle Unlimited Phaser</u>:**
 *Cloud of Darkness* will be tethered to a tree and will jump to it at the end of the cast bar. She will then perform three mechanics in a quick succession, all of them dealing <span class='magic'>magical damage</span>:
   + A wide cleave toward the center of the arena, leaving her sides safe. Apply a <span class='debuff'>Damage Down</span> debuff.
   + A cones AoE toward Tanks and Healers  applying a <span class='debuff'>Magic Vulnerability Up</span> debuff for 1 second. Healers must share their cone with two DPS while the Tanks takes their alone with mitigation.
@@ -76,7 +76,7 @@ ___
 
 ___
 
-+ **<ins>Anti-air Unlimited Phaser</ins>:**
++ **<u>Anti-air Unlimited Phaser</u>:**
 *Cloud of Darkness* will be tethered to a tree and will get dragged to it at the end of the cast bar. She will then perform three mechanics in a quick succession dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff:
   + A point-blank AoE on *Cloud of Darkness*. Apply a <span class='debuff'>Damage Down</span> debuff.
   + A small AoE on Healers and a big AoE on Tanks dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff for 1 second. Healers must share their AoE with two DPS while the Tanks takes their alone and far from the others with mitigation.
@@ -84,12 +84,12 @@ ___
 
 ___
 
-+ **<ins>Empty Plane</ins>:**
++ **<u>Empty Plane</u>:**
 Raid-wide AoE dealing <span class='magic'>magical damage</span>. Will change the arena to the tile layout.
 
 ___
 
-+ **<ins>Particle Concentration</ins>:**
++ **<u>Particle Concentration</u>:**
 Eight towers will spawn on the inter-cardinal axis. Will resolve after 10 seconds. Deals raid-wide <span class='magic'>magical damage</span> and applies a <span class='debuff'>Damage Down</span> debuff for each tower not soaked.
 
 </div>
@@ -97,7 +97,7 @@ Eight towers will spawn on the inter-cardinal axis. Will resolve after 10 second
 <div class='guideSection' markdown='1'>
 <h2><a id='ABEmptyPlaneAbilities'>Empty Plane Abilities</a></h2>
 
-+ **<ins>Flood of Emptiness</ins>:**
++ **<u>Flood of Emptiness</u>:**
 The central tile under the boss and all the tiles of the outer ring, minus the ones on the cardinals will be removed.  
 All the tiles left will gain the following properties:
   + If a player stays on the same tile for 15 seconds, it will disappear. The tile color will change from yellow to purple, after 10 seconds, as a warning.
@@ -109,18 +109,18 @@ All the tiles left will gain the following properties:
 
 ___
 
-+ **<ins>Hypercharged Condensation</ins>:**
++ **<u>Hypercharged Condensation</u>:**
 Four clouds will appear on the cardinal edges that will move toward *Cloud of Darkness*. Each cloud reaching *Cloud of Darkness* will give her a <span class='buff'>Damage Up</span> buff.  
 They can be slowed if a player stand between the cloud and *Cloud of Darkness*. If there's no one between them and a player is behind the cloud, it will accelerate.
 
 ___
 
-+ **<ins>Full-Perimeter Particles Beam</ins>:**
++ **<u>Full-Perimeter Particles Beam</u>:**
 Donut shaped AoE around *Cloud of Darkness* with the only safe spot being close to her. Deals lethal <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Deluge of Darkness</ins>:**
++ **<u>Deluge of Darkness</u>:**
 Raid-wide AoE dealing <span class='magic'>magical damage</span>. Will change the arena to the normal layout.
 
 </div>
@@ -197,7 +197,7 @@ During the casting time of 10 seconds, everyone will have to position themself i
 + The melee in the danger zone will move to the North inner tile.
 + The ranged in the danger zone will then move to the South inner tile.
 
-<ins>Players in the North-South axis must stand on the safe side of their tile since **Art of Darkness** will cut their tile in half.</ins>
+<u>Players in the North-South axis must stand on the safe side of their tile since **Art of Darkness** will cut their tile in half.</u>
 
 Once the cleave happens, everyone will go back to their starting position.
 Then, have everyone move one tile, so the whole party is standing on the inner tiles.

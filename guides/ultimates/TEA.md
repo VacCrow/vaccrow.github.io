@@ -28,12 +28,12 @@ After the first **Cascade** *Living Liquid* will summon *Liquid Hand* and give i
 
 ___
 
-+ **<ins>Fluid Swing / Swipe</ins>:**
++ **<u>Fluid Swing / Swipe</u>:**
 Non telegraphed and instant cleave tank buster from *Living Liquid* and *Liquid Hand* dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Water Resistance Down II</span> debuff lasting 4 seconds.
 
 ___
 
-+ **<ins>Cascade</ins>:**
++ **<u>Cascade</u>:**
 Raid-wide AoE dealing <span class='magic'>magical damage</span>.  
 *Tornadoes* will spawn on three different cardinals. These *Tornadoes* will use **Protean Waves** multiple times through the phase.
 
@@ -41,7 +41,7 @@ Raid-wide AoE dealing <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Hand of Parting / Prayer</ins>:**
++ **<u>Hand of Parting / Prayer</u>:**
 *Liquid Hand* will glow and change its shape:
   + Into a closed fist/fist-bump, if he's close to *Living Liquid*. After a few seconds, it will insta-cast **Hand of Prayer**. *Liquid Hand* needs to be pulled far enough from *Living Liquid* before the cast happen. It will deal small raid-wide <span class='magic'>magical damage</span> if the condition is respected, otherwise the group will wipe.
 
@@ -49,13 +49,13 @@ ___
 
 ___
 
-+ **<ins>Hand Of Pain</ins>:**
++ **<u>Hand Of Pain</u>:**
 *Liquid Hand* will check the difference of HP with *Living Liquid*. If it's above 5%, it will wipe the group otherwise it will inflict small <span class='magic'>magical damage</span>.
 **Hand of Pain** goes through any Tank invulnerability (L.O.L.).
 
 ___
 
-+ **<ins>Protean Waves</ins>:**
++ **<u>Protean Waves</u>:**
 A thin cone AoE targeting the closest player dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Water Resistance Down II</span> debuff lasting 4 seconds. **Protean Waves** can be cast from *Living Liquid* or *Tornadoes*, simultaneously or not:
   + Each *Tornado* will cast two **Protean Waves** in a row, the first one has a telegraph and can be dodged and the second is instant.
 
@@ -65,36 +65,36 @@ A thin cone AoE targeting the closest player dealing <span class='magic'>magical
 
 ___
 
-+ **<ins>Embolus</ins>:**
++ **<u>Embolus</u>:**
 Orbs spawning from two random *Tornadoes* after they cast **Protean Wave**. When they spawn, one orb will aim at the position where *Living Liquid* is and the other at *Liquid Hand* position.  
 After a sew seconds, the orbs will start to move in a straight line toward the position they acquiered. If an orb touches either a player or one of the bosses, it will wipe the group.
 
 ___
 
-+ **<ins>Jagd Dolls</ins>:**
++ **<u>Jagd Dolls</u>:**
 Four **Jagd Dolls** will spawn around the arena, they will tether to the first player who hit them. If a doll die, it will wipe the party.  
 Every 10 seconds, each doll will use **Exhaust**, a small point-blank AoE dealing <span class='magic'>magical damage</span> and applying a stack of <span class='speDebuff'>Luminous Aetheroplasm</span> <img class='iconImg' src='{{ site.data.iconList.TEA.LuminousAetheroplasm }}'>. If a player gets to two stacks, it will wipe the party.  
 *Living Liquid* will consume any doll touching him and perform **Reducible Complexity**, a raid-wide AoE dealing <span class='magic'>magical damage</span>. If the **Jagd doll** is above 20% HP, **Reducible Complexity** will deal lethal damage.
 
 ___
 
-+ **<ins>Sluice</ins>:**
++ **<u>Sluice</u>:**
 Telegraphed AoE targeting the 4 furthest players. Happen during the second set of **Protean Waves**.
 
 ___
 
-+ **<ins>Splash</ins>:**
++ **<u>Splash</u>:**
 6 consecutive raid-wide AoE dealing <span class='magic'>magical damage</span>. Always followed by **Cascade**.
 
 ___
 
-+ **<ins>Drainage</ins>:**
++ **<u>Drainage</u>:**
 Two tethers emanating from two *Tornadoes*. After 5 seconds, they explode as an AoE tank buster around their bearer, dealing <span class='magic'>magical damage</span>.  
 *Tip: when the tethers appear, the Tornadoes scan for targets from the South to the North of the arena (cardinals based on the tornadoes and North being the cardianl without tornado) and will give the tethers to the two first players found. That way, if both tanks are the Southest players, they will automatically get the tethers.*
 
 ___
 
-+ **<ins>Throttle</ins>:**
++ **<u>Throttle</u>:**
 6 random players will recieve a <span class='speDebuff'>Throttle</span> <img class='iconImg' src='{{ site.data.iconList.TEA.Throttle }}'> debuff lasting 10 seconds. Can be removed with Esuna or The Warden's Paean.
 
 </div>
@@ -115,25 +115,25 @@ Just YOLO.
 
 ___
 
-+ **<ins>Optical Sight</ins>:**
++ **<u>Optical Sight</u>:**
 AoEs that strike at cardinal and intercardinal positions on opposite sides of the arena dealing lethal damage.  
 Strikes the arena four times in a row while rotating clockwise (ie. one set will strike N->NE->E->SE and the other S->SW->W->NW), a fifth AoE will hit the center of the arena. It will repeat one more time, the second set of **Optical Sights** will resume their rotation from where the first set stopped.
 
 ___
 
-+ **<ins>Limit Cut</ins>:**
++ **<u>Limit Cut</u>:**
 Every players are marked with dots, numbered from 1 to 8, indicating the order in which Cruise Chase will strike. Odd numbered players are marked with blue dots while even numbered players are marked with red dots.  
 Cruise Chaser will teleport behind the next odd numbered player and use **Alpha Sword**. Then he will use **Super Blasty Charge** toward the next even numbered player.  
 Cruise Chaser will repeat this for every pair of numbers.
 
 ___
 
-+ **<ins>Alpha Sword</ins>:**
++ **<u>Alpha Sword</u>:**
 Cone AoE aimed at a player that does a small knockback, dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Physical Vulnerability Up</span> debuff. Knockback immunity can be used.
 
 ___
 
-+ **<ins>Super Blasty Charge</ins>:**
++ **<u>Super Blasty Charge</u>:**
 Dash aimed at a player, dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Physical Vulnerability Up</span> debuff. Does a massive Knockback if the player doesn’t look at Cruise Chaser. Knockback immunity can be used.
 
 </div>
@@ -159,23 +159,23 @@ Rinse and repeat
 
 ___
 
-+ **<ins>J-Kick</ins>:**
++ **<u>J-Kick</u>:**
 Raid-wide from **Brute Justice** at the beginning of the phase dealing high <span class='magic'>magical damage</span>. Then **Brute Justice** will spawn on the West of the arena while **Cruise Chaser** will spawn on the East side.
 
 ___
 
-+ **<ins>Whirlwind</ins>:**
++ **<u>Whirlwind</u>:**
 Raid-wide AoE from **Cruise Chaser** dealing <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Judgement Nisi</ins>:**
++ **<u>Judgement Nisi</u>:**
 Applies <span class='speDebuff'>Final Decree Nisi</span> debuffs to either the Tanks/Healers or the DPS. Each player receives a different debuff: <img class='iconImg' src='{{ site.data.iconList.TEA.FinalDecreeNisiA }}'> (Alpha & Blue), <img class='iconImg' src='{{ site.data.iconList.TEA.FinalDecreeNisiB }}'> (Beta & Red), <img class='iconImg' src='{{ site.data.iconList.TEA.FinalDecreeNisiG }}'> (Gamma & Purple) or <img class='iconImg' src='{{ site.data.iconList.TEA.FinalDecreeNisiD }}'> (Delta & Green). Nisi debuffs deal small damage over time and last 35 seconds.  
 If one player touches another player with no Nisi, the debuff spreads to that player with its full duration. If two players with different Nisi debuffs touch each other, they die. The <span class='speDebuff'>Nisi</span> debuff must be kept “alive” by passing it to others in order to resolve **Gavel** later.
 
 ___
 
-+ **<ins>Link-Up</ins>:**
++ **<u>Link-Up</u>:**
 Applies two debuffs, <span class='speDebuff'>Compressed Lightning</span> on a DPS and <span class='speDebuff'>Compressed Water</span> on a Healer. Also summons two *Steam Chakram*:
 
   + <span class='speDebuff'>Compressed Lightning</span> <img class='iconImg' src='{{ site.data.iconList.TEA.CompressedLightning }}'>: lasting 30 seconds.  
@@ -192,95 +192,95 @@ Applies two debuffs, <span class='speDebuff'>Compressed Lightning</span> on a DP
 
 ___
 
-+ **<ins>Optical Sight</ins>:**
++ **<u>Optical Sight</u>:**
 Non telegraphed AoEs baited under every players dealing lethal damage. They will explode a 5 second after the cast is complete.
 
 ___
 
-+ **<ins>Photon</ins>:**
++ **<u>Photon</u>:**
 Set players HP to 1. Only the Tanks are affected by the second cast.
 
 ___
 
-+ **<ins>Spin Crusher</ins>:**
++ **<u>Spin Crusher</u>:**
 Frontal cleave by *Cruise Chaser* dealing lethal damage. Has a cast time and can be avoided by going to its sides.
 
 ___
 
-+ **<ins>Missile Command</ins>:**
++ **<u>Missile Command</u>:**
 **Brute Justice** will aquiere different targets for **Ice Missile**, **Earth Missiles**, **Enumeration**, and **Hidden Mine**.
 
 ___
 
-+ **<ins>Earth missiles</ins>:**
++ **<u>Earth missiles</u>:**
 Puddle AoEs on the 2 furthest players from **Brute Justice**. The puddle will stay for a short amount of time. Standing inside will give <span class='debuff'>Sludge</span>, a high damaging DoT.
 
 ___
 
-+ **<ins>Hidden Mine</ins>:**
++ **<u>Hidden Mine</u>:**
 Mines on the ground that appear 2 seconds after **Earth Missiles** and targeting the same players. If a mine is left alone, it explodes and wipes the group. When a mine is popped, it deals high <span class='magic'>magical damage</span>in AoE.
 
 ___
 
-+ **<ins>Ice Missile</ins>:**
++ **<u>Ice Missile</u>:**
 An AoE on a random Tank dealing small <span class='magic'>magical damage</span> when it resolves. Leaves an ice puddle growing in size after a few seconds. The puddle can froze any *Tornado* it touches.
 
 ___
 
-+ **<ins>Enumeration</ins>:**
++ **<u>Enumeration</u>:**
 Two random DPS are marked by a white AoE circle with orbs on top of them. The number of orbs shows the exact number of players that has to stand inside or the group will wipe. In fight the number of orb is always 3.
 
 ___
 
-+ **<ins>Verdict</ins>:**
++ **<u>Verdict</u>:**
 Applies a <span class='speDebuff'>Final Judgement: Penalty III</span> <img class='iconImg' src='{{ site.data.iconList.TEA.FinalJudgmentPenaltyIII }}'> debuff on every players that requires to have three debuffs with "Final" in their name.  
 Also applies a <span class='speDebuff'>Final Judgment: Decree Nisi α <img class='iconImg' src='{{ site.data.iconList.TEA.FinalJudgmentDecreeNisiA }}'>, β <img class='iconImg' src='{{ site.data.iconList.TEA.FinalJudgmentDecreeNisiB }}'>, γ <img class='iconImg' src='{{ site.data.iconList.TEA.FinalJudgmentDecreeNisiG }}'> or δ <img class='iconImg' src='{{ site.data.iconList.TEA.FinalJudgmentDecreeNisiD }}'></span> debuff. This debuff determines which type of <span class='speDebuff'>Final Decree Nisi</span> debuff you must have for **Gavel**.  
 These debuffs are removed by a successful **Gavel**.
 
 ___
 
-+ **<ins>Limit Cut</ins>:**
++ **<u>Limit Cut</u>:**
 *Cruise Chaser* becomes invulnerable and generates a **Plasma Shield** that can only be damaged from the front. The shield has around 120k HP and lasts 6 seconds. If the shield isn’t destroyed in time, *Cruise Chaser* will gain a Damage Up buff and will wipe the group at the next **Whirlwind**.
 
 ___
 
-+ **<ins>Flamethrower</ins>:**
++ **<u>Flamethrower</u>:**
 **Brute Justice** will aim at the closest player for a wide cleave dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Fire Resistance Down II</span> debuff lasting 6 seconds.
 
 ___
 
-+ **<ins>Propeller Wind</ins>:**
++ **<u>Propeller Wind</u>:**
 Raid-wide AoE from *Cruise Chaser* that inflicts a <span class='speDebuff'>Confuse</span> <img class='iconImg' src='{{ site.data.iconList.TEA.Confused }}'> debuff. If the Line of Sight with *Cruse Chaser* is broken when the cast if off, the debuff won't be applied.
 
 ___
 
-+ **<ins>Gavel</ins>:**
++ **<u>Gavel</u>:**
 *Brute Justice* will resolve all <span class='speDebuff'>Final Judgement: Penalty III</span> debuffs and check if the requirements are met or it will cause a wipe.  
 Also remove the ice block, the remaining tornado, <span class='speDebuff'>Decree Nisi</span> debuffs, <span class='speDebuff'>Compressed Water</span> and <span class='speDebuff'>Compressed Lightning</span>.
 
 ___
 
-+ **<ins>Double Rocket Punch</ins>:**
++ **<u>Double Rocket Punch</u>:**
 AoE Tank buster on *Brute Justice* main target dealing <span class='phys'>physical damage</span> that needs to be shared between the Tanks.
 
 ___
 
-+ **<ins>Super Jump</ins>:**
++ **<u>Super Jump</u>:**
 Brute Justice jumps on the furthest player dealing <span class='phys'>physical damage</span>.
 
 ___
 
-+ **<ins>Apocalyptic Ray</ins>:**
++ **<u>Apocalyptic Ray</u>:**
 Instant cone AoE targeting the furthest player dealing lethal damage. Its range is equivalent to half the arena diameter.
 
 ___
 
-+ **<ins>Eternal Darkness</ins>:**
++ **<u>Eternal Darkness</u>:**
 *Cruise Chaser* enrage.
 
 ___
 
-+ **<ins>Final Sentence</ins>:**
++ **<u>Final Sentence</u>:**
 *Brute Justice* enrage.
 
 </div>
@@ -377,7 +377,7 @@ Then **Whirlwind** will be casted twice followed by the enrages **Eternal Darkne
 <div class='guideSection' markdown='1'>
 <h2><a id='Phase3-AlexanderPrimeAbilitiesBreakdown'>Abilities Breakdown</a></h2>
 
-+ **<ins>Temporal Stasis</ins>:**
++ **<u>Temporal Stasis</u>:**
 *Alexander* Prime will apply the following debuffs when the cast time starts:
   + <span class='speDebuff'>House Arrest</span> <img class='iconImg' src='{{ site.data.iconList.TEA.HouseArrest }}'>: on one Tank/Healer and one DPS will be tethered. These players must be close to each other when the effect resolves.
   + <span class='speDebuff'>Restraining Order</span> <img class='iconImg' src='{{ site.data.iconList.TEA.RestrainingOrder }}'>: on one Tank/Healer and one DPS will be tethered. These players must be far from each other when the effect resolves.
@@ -388,25 +388,25 @@ Then **Whirlwind** will be casted twice followed by the enrages **Eternal Darkne
 
 ___
 
-+ **<ins>Chastening Heat</ins>:**
++ **<u>Chastening Heat</u>:**
 Tank buster on the main target dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Down</span> debuff for 4 seconds.
 
 ___
 
-+ **<ins>Divine Spear</ins>:**
++ **<u>Divine Spear</u>:**
 Cleave on the main target dealing <span class='magic'>magical damage</span>. Always follows **Chastening Heat**.
 
 ___
 
-+ **<ins>Inception Formation</ins>:**
++ **<u>Inception Formation</u>:**
 
-  + **<ins>Aetheroplasm</ins>:**
+  + **<u>Aetheroplasm</u>:**
   Four plasma orbs will be tethered to four random players. They will slowly move toward their player and explode, dealing <span class='magic'>magical damage</span>, on contact with any player. Their size will decrease over time as well as their damage (named **Tetrashatter**).  
   After exploding, they will leave a puddle on the ground, inflicting <span class='debuff'>Heavy</span> to anyone inside. If two puddles overlap, it will wipe the group.
 
     ___
 
-  + **<ins>Judgement Crystal</ins>:**
+  + **<u>Judgement Crystal</u>:**
   Four random players (not linked to an **Aetheroplasm**) are targeted by AoE markers that will drop a *Judgment Crystal*. The area around a *Judgment Crystals* inflicts a <span class='debuff'>Bleed</span> debuff. If a *Judgment Crystal* explodes, it will deal based-proximity <span class='magic'>magical damage</span>.  
   The *Judgment Crystal* will explode if:
     + two *Judgement Crystals* AoE overlap.
@@ -415,14 +415,14 @@ ___
 
     ___
 
-  + **<ins>True Heart</ins>:**
+  + **<u>True Heart</u>:**
   Add spawned by *Shanoa* that will move toward *Alexander Prime*, if it reaches *Alexander Prime*, he will wipe the group.  
   This is the hidden mechanic of the fight. When it touches *Judgment Crystal*, it will blow it up and gain a stack of <span class='buff'>Vulnerability Down</span> buff. At four stacks, *True Heart* will transform and gain the <span class='buff'>Enigma Codex</span> buff.  
   Once *Alexander Prime* has finished to cast **Inception**, the transformed *True Heart* will move to the place where *Alexander Prime* will teleport. At the same time, it will also grant the <span class='buff'>Enigma Codex</span> buff to every one, necessary to solve the **Fate Calibrations** in the last phase.
 
     ___
 
-  + **<ins>Inception</ins>:**
+  + **<u>Inception</u>:**
   *Alexander Prime* will teleport at random location on the edge and cast **Sacrament** while inflicting the following debuffs at the beginning of the cast:
     + <span class='speDebuff'>Restraining Order</span> <img class='iconImg' src='{{ site.data.iconList.TEA.RestrainingOrder }}'>: on one Tank and one DPS.
     + <span class='speDebuff'>Aggravated Assault</span> <img class='iconImg' src='{{ site.data.iconList.TEA.AggravatedAssault }}'>: on two DPS.
@@ -430,43 +430,43 @@ ___
 
 ___
 
-+ **<ins>Sacrament</ins>:**
++ **<u>Sacrament</u>:**
 Line AoE from Alexander Prime form his 4 cardinals dealing lethal damage.
 
 ___
 
-+ **<ins>Link-Up</ins>:**
++ **<u>Link-Up</u>:**
 Only summon two **Steam Chakrams**.
 
 ___
 
-+ **<ins>Void Of Repentance</ins>:**
++ **<u>Void Of Repentance</u>:**
 *Alexander Prime* will summon two **Void of Repentance** puddles on the eastern and western side (opposite of each other) of the arena. Each puddle will explode at regualr intervals and must be soaked by one player, reducing its size. It will disappear after the third soak.  
 Soaking a **Void of Repentance** puddle deals <span class='magic'>magical damage</span> and applies a <span class='debuff'>Magic Vulnerability Up</span> and a <span class='debuff'>Vulnerability Up</span> debuffs. If nobody is present when it explodes, it will wipe the raid.
 
 ___
 
-+ **<ins>Incinerating Heat</ins>:**
++ **<u>Incinerating Heat</u>:**
 Stack marker on a random player inflicting heavy <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Mega Holy</ins>:**
++ **<u>Mega Holy</u>:**
 Raid-wide AoE dealing <span class='magic'>magical damage</span>. Required shields/mitigation.
 
 ___
 
-+ **<ins>J Storm</ins>:**
++ **<u>J Storm</u>:**
 Raid-wide AoE dealing high <span class='magic'>magical damage</span> when *Brute Justice* appears during the enrage.
 
 ___
 
-+ **<ins>J Wave</ins>:**
++ **<u>J Wave</u>:**
 *Bruce Justice* soft enrage, raid-wide AoE dealing <span class='magic'>magical damage</span> and giving him a <span class='buff'>Damage Up</span> buff each cast. He will wipe the group if he reaches 14 stacks.
 
 ___
 
-+ **<ins>Divine Judgement</ins>:**
++ **<u>Divine Judgement</u>:**
 *Alexander Prime* enrage. Extremely long cast time (more than 1 min) and can be used to farm some gauge/ressources before the cast is over.
 
 </div>
@@ -592,7 +592,7 @@ LB3 and shields are needed to survive **Divine Judgement** when *Alexander Prime
 <div class='guideSection' markdown='1'>
 <h2><a id='Phase4-PerfectAlexanderAbilitiesBreakdown'>Abilities Breakdown</a></h2>
 
-+ **<ins>Final Word</ins>:**
++ **<u>Final Word</u>:**
 Perfect Alexander will apply the following debuffs where every player will only have one debuff:
 
   + <span class='speDebuff'>Final Word: Contact Regulation</span> <img class='iconImg' src='{{ site.data.iconList.TEA.FinalWordContactRegulation }}'>: on one player. Called “light beacon” in this guide.
@@ -604,31 +604,31 @@ Perfect Alexander will apply the following debuffs where every player will only 
 
 ___
 
-+ **<ins>Ordained Motion</ins>:**
++ **<u>Ordained Motion</u>:**
 Every player must be moving at the end of the cast or they will die. Denoted by a light sword.
 
 ___
 
-+ **<ins>Ordained Stillness</ins>:**
++ **<u>Ordained Stillness</u>:**
 Every player must be standing still and not attacking the boss at the end of the cast or they will die. ~~Pets must be on "Steady"~~ Denoted by a dark sword.
 
 ___
 
-+ **<ins>Optical Sight</ins>:**
++ **<u>Optical Sight</u>:**
 One of these two mechanics will be casted:
-  + **<ins>Collective Reprobation</ins>:** Stack marker on two players. One player from the light group and one player from the dark group will be selected. Denoted by the two orbs to *Perfect Alexander* sides.
-  + **<ins>Individual Reprobation</ins>:** AoE markers on every player. Denoted by the multiples orbs next to *Perfect Alexander*.
+  + **<u>Collective Reprobation</u>:** Stack marker on two players. One player from the light group and one player from the dark group will be selected. Denoted by the two orbs to *Perfect Alexander* sides.
+  + **<u>Individual Reprobation</u>:** AoE markers on every player. Denoted by the multiples orbs next to *Perfect Alexander*.
 
 ___
 
-+ **<ins>Fate Projection</ins>:**
++ **<u>Fate Projection</u>:**
 **Fate Projections** always precede **Fate Calibrations**.  
 During the cast, *Perfect Alexander* will prepare every mechanic you will receive during the **Fate Calibrations**. However these mechanics will be unknown for each player and they will resolve immediately during **Fate Calibration**.
 In order to know which mechanics will happen, <span class='buff'>Enigma Codex</span> will come into play. During **Fate Projection**, <span class='buff'>Enigma Codex</span> will create a clone for every player. Each player will have an arrow (compass like) pointing towards their clone. Every mechanic that the player’s clone suffers during **Fate Projection** will happen to that player during the incoming **Fate Calibration**.
 
 ___
 
-+ **<ins>Fate Calibration ⍺</ins>:**
++ **<u>Fate Calibration ⍺</u>:**
   + First mechanic: **Ordained Motion** or **Ordained Stillness** for everyone depending on the sword colour.
 
   + Second mechanic:
@@ -643,17 +643,17 @@ ___
 
 ___
 
-+ **<ins>Ordained Capital Punishment</ins>:**
++ **<u>Ordained Capital Punishment</u>:**
 A three-hit tank buster on the main target dealing <span class='magic'>magical damage</span> that can be shared with the other tank. Always followed by **Ordained Punishment**.
 
 ___
 
-+ **<ins>Ordained Punishment</ins>:**
++ **<u>Ordained Punishment</u>:**
 Tank buster on the main target dealing high <span class='magic'>magical damage</span> and applying a <span class='debuff'>Physical Vulnerability Up</span> debuff for 30 seconds. Since *Perfect Alexander* auto-attack deals <span class='phys'>physical damage</span>, a swap is required.
 
 ___
 
-+ **<ins>Fate Calibration ꞵ</ins>:**
++ **<u>Fate Calibration ꞵ</u>:**
   + First mechanic, **Final Words**:
     + Light debuffs on four players:
       + <span class='speDebuff'>Final Word: Contact Regulation</span>: on one player. Denoted by this player’s clone not moving and staying close to the edge of the arena.
@@ -670,17 +670,17 @@ ___
 
 ___
 
-+ **<ins>Almighty Judgment</ins>:**
++ **<u>Almighty Judgment</u>:**
 *Perfect Alexander* will show three sets of AoE, dealing no damage. They will be repeated, in the same order, during the cast of **Irresistible Grace** and will inflict lethal damage if hit. These AoEs need to be avoided as a group.
 
 ___
 
-+ **<ins>Irresistible Grace</ins>:**
++ **<u>Irresistible Grace</u>:**
 A stack marker on a random player dealing huge <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Temporal Interference</ins>:**
++ **<u>Temporal Interference</u>:**
 *Perfect Alexander* soft enrage. *Perfect Alexander* will summon 7 Temporal Prisons located on the 7 circles around the center of the arena. For each prison, a player must be locked inside until the boss is defeated. The group will wipe soon after the seventh prison.
 The prisons will spawn in a clockwise manner, starting on the North East.
 

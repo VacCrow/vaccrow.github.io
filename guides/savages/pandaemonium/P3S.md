@@ -22,103 +22,103 @@ ___
 <div class='guideSection' markdown='1'>
 <h2><a id='ABGeneralAbilities'>General Abilities</a></h2>
 
-+ **<ins>Scorch Exaltation</ins>:**
++ **<u>Scorch Exaltation</u>:**
 Raid-wide AoE dealing <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Heat of Condemnation</ins>:**
++ **<u>Heat of Condemnation</u>:**
 AoE tank busters on the two tethered player, dealing fire <span class='magic'>magical damage</span> and applying a <span class='debuff'>Fire Resistance Down II</span> debuff lasting 5 seconds. The tether can be grabbed.
 
 ___
 
-+ **<ins>Experimental Fireplume</ins>:**
++ **<u>Experimental Fireplume</u>:**
 After the cast, *Phoinix* will perform an ability dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff, based of the number of orbs it uses:  
   + One orb: big circular AoE aimed on a random player when the cast is over.  
   + Eight orbs: **Optical Sight** AoE style, striking at cardinal and intercardinal positions on opposite sides of the arena. Strike 4 times in row while rotating, the fifth one is the middle of the arena.
 
 ___
 
-+ **<ins>Left/Right Cindering</ins>:**
++ **<u>Left/Right Cindering</u>:**
 Left or right side cleave at 180°, dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.
 
 ___
 
-+ **<ins>Darkened Fire</ins>:**
++ **<u>Darkened Fire</u>:**
 Four *Darkened Fire* adds will spawn on top of either DPS or Tanks/Healers.  
 If two adds are too close, they explode dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff. After 22 seconds, the adds will exploded dealing very high <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.  
 Each adds have a <span class='buff'>Darkened Fire</span> buff with 4 stacks. As long as an add has one stack of <span class='buff'>Darkened Fire</span>, it has an <span class='buff'>Invincibility</span> buff and doesn't take damage. A stack is remove when hit by **Brightened Fire**.
 
 ___
 
-+ **<ins>Brightened Fire</ins>:**
++ **<u>Brightened Fire</u>:**
 Every players will be marked by a number from 1 to 8. Afterward, *Phoenix* will shoot a fire orb at the players following the numbers order, dealing fire <span class='magic'>magical damage</span> and applying a <span class='debuff'>Fire Resistance Down II</span> debuff lasting 4 seconds.
 
 ___
 
-+ **<ins>Devouring Brand</ins>:**
++ **<u>Devouring Brand</u>:**
 4 brands of fire will expand from the cardinal edges toward the centre of the arena. When all brands reach the centre, they will explode in a wider manner and separate the arena in four. Deals <span class='magic'>magical damage</span> and apply a <span class='debuff'>Damage Down</span> debuff.
 
 ___
 
-+ **<ins>Searing Breeze</ins>:**
++ **<u>Searing Breeze</u>:**
 AoE under every players, 3 seconds after the cast is done. Deal <span class='magic'>magical damage</span> and apply a <span class='debuff'>Damage Down</span> debuff.
 
 ___
 
-+ **<ins>Trail of Condemnation</ins>:**
++ **<u>Trail of Condemnation</u>:**
 *Phoinix* will leave and reappear on the edge of the arena at a cardinal, diving in a straight line. Will perform different attacks based on his beaks that are ready to fire:
   + Middle head: *Phoinix* will dive in a straight line in front of him leaving the sides safe, deals <span class='magic'>magical damage</span> and applies a <span class='debuff'>Damage Down</span> debuff if hit. Then he will immadiatly use **Flare of Condemnation** on every player.
   + Side heads: *Phoinix* will dive in a straight line leaving the path in front of him safe, deals <span class='magic'>magical damage</span> and applies a <span class='debuff'>Damage Down</span> debuff if hit. Then he will immadiatly use **Flare of Condemnation** on either the DPS or Tanks/Healers.
 
 ___
 
-+ **<ins>Flare of Condemnation</ins>:**
++ **<u>Flare of Condemnation</u>:**
 AoE dealing fire <span class='magic'>magical damage</span> and applying a <span class='debuff'>Fire Resistance Down II</span> debuff lasting 4 seconds
 
 ___
 
-+ **<ins>Fledgling Flight</ins>:**
++ **<u>Fledgling Flight</u>:**
 *Sunbirds* will move on top of Tanks/Healers or DPS with an arrow pointing in a cardinal direction. After a few second they will drop on a ground and cast**Ashen Eye**, a frontal cone in the arrow direction, dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.  
 If they are dropped to close to each other, they will explode dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.
 
 ___
 
-+ **<ins>Experimental Ashplume</ins>:**
++ **<u>Experimental Ashplume</u>:**
 After the cast, *Phoinix* will perform an ability dealing fire <span class='magic'>magical damage</span> and applying a <span class='debuff'>Fire Resistance Down II</span> debuff, based of the number of orbs it uses:  
   + One orb: share AoE on a random Tank and Healer, dealing fire <span class='magic'>magical damage</span>.  
   + Eight black orbs: AoE on every player, dealing fire <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Experimental Gloryplume</ins>:**
++ **<u>Experimental Gloryplume</u>:**
 *Phoenix* will perform **Experimental Fireplume** and **Experimental Gloryplume** in this order in succession. Both attack can use a different number of orbs.
 
 ___
 
-+ **<ins>Fountain of Fire</ins>:**
++ **<u>Fountain of Fire</u>:**
 Two sets of four Fountains will spawn on North/South or East/West. Each subsequent Fountains will appear in a clockwise manner on the next cardinal/intercardinal. Must be soaked by a player (or it will explode?).  
 When soaked, it deals massive fire <span class='magic'>magical damage</span> and applies a <span class='debuff'>Trickle of Fire</span> debuff, boosting Healing spells.
 
 ___
 
-+ **<ins>Sun's Pinion</ins>:**
++ **<u>Sun's Pinion</u>:**
 The two closest players from *Phoinix* will recieve an AoE, when it resolves a *Sunshadow* will spawn and get tethered to that player. It's a proximity tether and after 6 seconds, it will dash toward that player.  
 Both attacks deal fire <span class='magic'>magical damage</span> and apply a <span class='debuff'>Fire Resistance Down II</span> debuff lasting 4 seconds.
 
 ___
 
-+ **<ins>Firestorms of Asphodelos</ins>:**
++ **<u>Firestorms of Asphodelos</u>:**
 Raid-wide AoE dealing <span class='magic'>magical damage</span>. The periodic raid-wide AoE from **Blazing Rain** will be back. And 3 *Fire Tornadoes* will spawn North, South East and South West.
 
 ___
 
-+ **<ins>Flames of Asphodelos</ins>:**
++ **<u>Flames of Asphodelos</u>:**
 *Phoinix* will fire three set of two cones AoE in sequence that will cover the whole arena. Deals <span class='magic'>magical damage</span> and applies a <span class='debuff'>Damage Down</span> debuff if hit.
 
 ___
 
-+ **<ins>Storms of Asphodelos</ins>:**
++ **<u>Storms of Asphodelos</u>:**
 Combination of:
   + 2 **Heat of Condemnation** tethers.
   + 3 **Winds of Asphodelos** from the boss.
@@ -127,19 +127,19 @@ Combination of:
 
 ___
 
-+ **<ins>Darkblaze Twister</ins>:**
++ **<u>Darkblaze Twister</u>:**
 *Phoinix* will tether himself to each Tornadoes. One is black the other two are red. After a few seconds, the black tether tornado wil perform an AoE knockback and then the other two will do a donut will a small safe zone, next to the Tornadoes.
 
 ___
 
-+ **<ins>Death's Toll</ins>:**
++ **<u>Death's Toll</u>:**
 Each player will recieve a <span class='speDebuff'>Death's Toll</span> <img class='iconImg' src='{{ site.data.iconList.P3S.DeathsToll }}'> debuff lasting 25 seconds with either 1, 2 or 4 stacks. Four players with 1 stacks, two others with 2 stacks and the two last ones with 4 stacks.  
 When it resolves, if the player still has one stack he will die. A stack is removed when the player is hit by lethal damage.  
 When all stacks are removed, the player will be inflicted by a <span class='debuff'>HP Recovery Down</span> debuff, lasting 15 seconds.
 
 ___
 
-+ **<ins>Life’s Agonies</ins>:**
++ **<u>Life’s Agonies</u>:**
 Raid-wide AoE dealing very high <span class='magic'>magical damage</span> that scales on missing HPs.
 
 </div>
@@ -147,7 +147,7 @@ Raid-wide AoE dealing very high <span class='magic'>magical damage</span> that s
 <div class='guideSection' markdown='1'>
 <h2><a id='ABAddsPhase'>Adds Phase</a></h2>
 
-+ **<ins>Blazing Rain</ins>:**
++ **<u>Blazing Rain</u>:**
 Periodic raid-wide AoE dealing small <span class='magic'>magical damage</span> during the add phase.  
 Small *Sunbirds* will spawn on cardinal. After 30 seconds, they will cast **Great Whirlwind** dealing high raid-wide <span class='magic'>magical damage</span>.  
 Once dead, they will reborn into bigger *Sunbirds*. After 45 seconds, they will cast **Great Whirlwind** dealing high raid-wide <span class='magic'>magical damage</span>. Once they are reborn, they will cast **Fireglide Sweep**. They will tether themself to a random Tank/Healer and that player will be tethered to a random DPS (roles here can be randomly swaped). After 10 seconds, they will to the first player they're tethered with and soon after, to the seconds. **Fireglide Sweep** is a line AoE dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Blunt Resistance Down</span> to anyone of its path.
@@ -155,7 +155,7 @@ When all adds are dead, any *Sunbirds* close to another one will raise and fuse 
 
 ___
 
-+ **<ins>Dead Rebirth</ins>:**
++ **<u>Dead Rebirth</u>:**
 *Phoinix* ultimate dealing high <span class='magic'>magical damage</span> or wiping the group if the gauge reaches 100.  
 From now on, the dead *Sunbirds* will transform into *Sparkfledged* and will join *Phoinix* in orbit around him, are untargetable, and will attack the second player in the enmity list.
 

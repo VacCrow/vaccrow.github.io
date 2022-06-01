@@ -18,47 +18,47 @@ ___
 <div class='guideSection' markdown='1'>
 <h2><a id='ABGeneralAbilities'>General Abilities</a></h2>
 
-+ **<ins>Decollation</ins>:**
++ **<u>Decollation</u>:**
 Raid-wide AoE dealing <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Bloodrake</ins>:**
++ **<u>Bloodrake</u>:**
 *Hesperos* will tether to three tiles of the stage and/or four players, either Tanks/Healers or DPS, or every players dealing high <span class='magic'>magical damage</span> to tethered players and sucking thier aether.  
 The boss will recieve the <span class='buff'>Aethersucker</span> <img class='iconImg' src='{{ site.data.iconList.P4S.Aethersucker }}'> buff, containing the aether of the role(s) he absorbed. The next casted mechanic will consume the buff and deal lethal damage to the absorbed role(s).
 
 ___
 
-+ **<ins>Aetheric Chlamys</ins>:**
++ **<u>Aetheric Chlamys</u>:**
 *Hesperos* will convert his <span class='buff'>Aethersucker</span> buff into a <span class='buff'>Casting Chlamys</span> <img class='iconImg' src='{{ site.data.iconList.P4S.CastingChlamys }}'> buff, also transfering the absorbed roles. This new buff will be consumed when he uses **Inversive Chlamys**.
 
 ___
 
-+ **<ins>Director’s Belone</ins>:**
++ **<u>Director’s Belone</u>:**
 *Heperos* will consume his <span class='buff'>Aethersucker</span> buff and apply the <span class='speDebuff'>Role Call</span> <img class='iconImg' src='{{ site.data.iconList.P4S.RoleCall }}'> debuff on a Tank, a Healer and two DPS at random, lasting 15 seconds. The role(s) sucked by the <span class='buff'>Aethersucker</span> buff will die when <span class='speDebuff'>Role Call</span> resolves.  
 If a player with <span class='speDebuff'>Role Call</span> touches another player without it, it will transfer the debuff to the second player. The first player will receive the <span class='speDebuff'>Miscast</span> <img class='iconImg' src='{{ site.data.iconList.P4S.Miscast }}'> debuff, making imposible to recieve <span class='speDebuff'>Role Call</span> again.
 
 ___
 
-+ **<ins>Inversive Chlamys</ins>:**
++ **<u>Inversive Chlamys</u>:**
 Four tethers on random players, dealing AoE <span class='phys'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff. Consumes <span class='buff'>Casting Chlamys</span> buff and deals lethal damage to the player of the absorbed role(s).
 
 ___
 
-+ **<ins>Elegent Eviseration</ins>:**
++ **<u>Elegent Eviseration</u>:**
 Two hit AoE tankbuster on the main target. The first hit deals <span class='phys'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff. The second hit only deals <span class='phys'>magical damage</span>.  
 Swap tank during the cast or use any invulnerability.
 
 ___
 
-+ **<ins>Setting the Scene</ins>:**
++ **<u>Setting the Scene</u>:**
 *Hesperos* will cover 4 quadrants of the arena with his cloak, modifying the quadrant and the effect of the next **Pinax**.  
 When a quadrant resolves, it will explode, dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.  
 If a player stands in the hole of a quadrant, it will give a DoT debuff based on the quadrant element among <span class='debuff'>Pollen</span>, <span class='debuff'>Dropsy</span>, <span class='debuff'>Burns</span> or <span class='debuff'>Electrocution</span>.
 
 ___
 
-+ **<ins>Pinax</ins>:**
++ **<u>Pinax</u>:**
 *Hesperos* will activate the quadrants from **Settings the Scene**. Each quadrant's well will erupt, one at a time, before activating. All of Pinax attacks deal <span class='magic'>magical damage</span>:  
   + **Levinstrike Mekhane** (Thunder): proximity raid-wide AoE from the centre of the arena.  
   + **Well Mekhane** (Water): raid-wide knockback from the centre of the arena.  
@@ -73,14 +73,14 @@ ___
 
 ___
 
-+ **<ins>Northernly/Easternly/Southernly/Westernly Shift</ins>:**
++ **<u>Northernly/Easternly/Southernly/Westernly Shift</u>:**
 *Hesperos* will teleport to a cardinal, based on the name of the cast, and will perform an attack based on the weapon that glows:  
   + Sword: a 90° cone toward the centre of the arena dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.  
   + Cape: knock back from *Hesperos* position.
 
 ___
 
-+ **<ins>Vengeful Belone</ins>:**
++ **<u>Vengeful Belone</u>:**
 Every players will recieve an <span class='speDebuff'>Acting Role</span> debuff:
   + Tanks and Healers will recieve <span class='speDebuff'>Acting DPS</span> <img class='iconImg' src='{{ site.data.iconList.P4S.ActingDPS }}'>.
   + Two DPS will recieve <span class='speDebuff'>Acting Healer</span> <img class='iconImg' src='{{ site.data.iconList.P4S.ActingHealer }}'>.
@@ -91,24 +91,24 @@ Every players will recieve an <span class='speDebuff'>Acting Role</span> debuff:
 
 ___
 
-+ **<ins>Elemental Belone</ins>:**
++ **<u>Elemental Belone</u>:**
 *Hesperos*' <span class='buff'>Aethersucker</span> buff will be consumed and every players recieve <span class='speDebuff'>Elemental Resistance Down</span> <img class='iconImg' src='{{ site.data.iconList.P4S.ElementalResistanceDown }}'>. Player will take lethal damage from the three elements contained into the <span class='buff'>Aethersucker</span> debuff.
 
 ___
 
-+ **<ins>Belone Burst</ins>:**
++ **<u>Belone Burst</u>:**
 *Hesperos* will consume his <span class='buff'>Aethersucker</span> and 8 orbs will spawn on cardinals/intercardinals. They will tether to the closest player and will be marked with that player role. If a player pops an orb with the same role as his, he will die.  
 When an orb is popped, it deals high <span class='magic'>magical damage</span> that need to be soaked by two players and applies a <span class='speDebuff'>Thrice-come Ruin</span> <img class='iconImg' src='{{ site.data.iconList.P4S.ThriceComeRuin }}'> stack to anyone hit, transforming into a <span class='speDebuff'>Doom</span> debuff at 3 stacks.  
 Orbs has to be pop by players with an <span class='speDebuff'>Acting Role</span> debuff that corespond to the orb's role mark.
 
 ___
 
-+ **<ins>Periaktoi</ins>:**
++ **<u>Periaktoi</u>:**
 All tiles will explode and deal <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<ins>Belone Coils</ins>:**
++ **<u>Belone Coils</u>:**
 Four towers will appear, spread around the middle of the arena. Each tower will contain a role that is forbidden. At least one player, not of a forbidden role, has to stand inside the towers.  
 The cast of **Belone Coils** will modify *Heperos*' <span class='buff'>Aethersucker</span> debuff. The towers' forbidden role(s) will be removed from <span class='buff'>Aethersucker</span> when it will be used on **Aetheric Chlamys** or **Director’s Belone**.
 
