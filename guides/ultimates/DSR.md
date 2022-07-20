@@ -481,15 +481,15 @@ ___
 
 + **<u>Flare Nova & Flare Star</u>:**
 6 orbs will spawn and grow in size overtime, detonating once they're big enough and wiping the group.  
-Each orb deals sharable <span class='magic'>magical damage</span> and applying a <span class='debuff'>Fire Resistance Down II</span> debuff for 12 seconds. The damage will scale with the orb size.
+Each orb deals sharable <span class='magic'>magical damage</span> and applying a <span class='debuff'>Fire Resistance Down II</span> debuff for 12 seconds. The damage scales with the orb size.
 
   + **Flare Nova**:
-  2 medium sized yellow orbs that spawn East and West. Since they're already big, they need to popped by 2 players each.
+  2 medium sized yellow orbs that spawn East and West. Since they're already big, they need to popped by 2 players each. Grow twice before exploding.
 
     ___
 
   + **Flare Star**:
-  4 small sized blue orbs that spawn North and South of each *Eye*. Since they are small enough they only need to popped by 1 player.
+  4 small sized blue orbs that spawn North and South of each *Eye*. Since they are small enough they only need to popped by 1 player. Grow four times before exploding.
 
 ___
 
@@ -566,7 +566,7 @@ Next, **Hatebound** will assign a debuff to everyone, be spread before the cast 
 Any player with the wrong debuff has to stack mid, under *Estinien*. Thus they will automatically swap their debuffs to the correct one.
 
 Then, Tanks and Healers will move towards the *Left Eye* while the DPS will move towards the *Right Eye*.  
-Once the orbs are here, Healers and Ranged DPS have to wait for the yellow orbs to grow twice before soaking them in pairs. Then the Tanks and Healers will swap their debuffs and Melee and Ranged DPS will do the same. Finally, the Tanks and Melee DPS will wait for the second growth to happen, before taking the blue orbs:
+Once the orbs are here, Healers and Ranged DPS have to wait for the yellow orbs to grow once before soaking them in pairs. Then the Tanks and Healers will swap their debuffs and Melee and Ranged DPS will do the same. Finally, the Tanks and Melee DPS will wait for the second growth to happen, before taking the blue orbs:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="flare1.jpg;flare2.jpg" imgDesc="Ranged take their orbs;Ranged and Melees swap debuffs then Melees take their orbs" slideNumber=slideCounter %}
 
@@ -999,7 +999,7 @@ Raid-wide AoE dealing <span class='magic'>magical damage</span> and applying a <
 ___
 
 + **<u>Alternative End</u>:**
-Raid-wide AoE dealing massive <span class='magic'>magical damage</span> (110k to 120k unnimitigated).
+Raid-wide AoE dealing massive <span class='magic'>magical damage</span> (110k to 120k unmitigated).
 
 ___
 
