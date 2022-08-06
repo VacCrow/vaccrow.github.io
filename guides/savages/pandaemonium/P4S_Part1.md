@@ -159,14 +159,14 @@ The tiles will come back with **Setting the Scene**, then he will use **Vengeful
 *Hesperos* will use **Bloodrake** as a raid-wide and will follow up with **Belone Bursts**.  
 Before **Belone Bursts** cast is over, take the following positions in pairs:
 
-+ Tanks on North and North West cardinal.
-+ Healers on North East and East cardinal.
-+ DPS with <span class='speDebuff'>Acting Tank</span> on South East and South, opposite of Tanks.
-+ DPS with <span class='speDebuff'>Acting Healer</span> fanned out from South West and West, opposite of Healers.
++ One Tank on North and one Healer on North East.
++ The other Tank South and the other Healer on South West.
++ A Melee and Ranged DPS on East and South East.
++ The other Melee and Ranged DPS on West and North West.
 
-When the orbs appear, each pairs will run to the opposite side and pop the 2 orbs, the intercardinal one first then the cardinal one. Remember to mitigate and wait between the two orbs to recieve some healing:
+When the orbs appear, each pair will run to the next clockwise cardinal and pop the orb there. Next, move to the next intercardinal and pop the remaining orb. Remember to mitigate before or wait between the two orbs to recieve some healing:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="burst1.jpg;burst2.jpg;burst3.jpg;burst4.jpg;burst5.jpg" imgDesc="Spread around the boss based on your debuff;Orbs spawn;Move to the opposite intercardinal side with your pair;Soak the first orb;Wait a bit for heals and soak the second orb" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="burst1.jpg;burst2.jpg;burst3.jpg;burst4.jpg;burst5.jpg" imgDesc="Spread around the boss;Orbs spawn;Move to the next clockwise cardinal with your pair;Soak the first orb;Wait a bit for heals and soak the second orb" slideNumber=slideCounter %}
 
 Quickly take out the orbs before he start casting **Periaktoi** then stand into the tile that wasn't tethered previously.
 </div>

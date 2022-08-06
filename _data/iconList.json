@@ -59,13 +59,14 @@
   },
 
   "UWU": {
+    "AetheriallyCharged": "https://assets.rpglogs.com/img/ff/abilities/019000-019241.png",
+    "Woken": "https://assets.rpglogs.com/img/ff/abilities/015000-015863.png",
     "ThermalLow": "https://assets.rpglogs.com/img/ff/abilities/017000-017241.png",
     "ThermalHigh": "https://assets.rpglogs.com/img/ff/abilities/015000-015030.png",
     "BeyondLimits": "https://assets.rpglogs.com/img/ff/abilities/015000-015864.png",
-    "InfernalFetters": "https://assets.rpglogs.com/img/ff/abilities/017000-017201.png",
     "SearingWind": "https://assets.rpglogs.com/img/ff/abilities/015000-015560.png",
+    "InfernalFetters": "https://assets.rpglogs.com/img/ff/abilities/017000-017201.png",
     "AccursedFlame": "https://assets.rpglogs.com/img/ff/abilities/015000-015866.png",
-    "Fetters": "https://assets.rpglogs.com/img/ff/abilities/015000-015534.png",
     "ViscousAetheroplasm": "https://assets.rpglogs.com/img/ff/abilities/015000-015867.png"
   },
 

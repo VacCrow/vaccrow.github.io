@@ -132,7 +132,7 @@ ___
 ___
 
 + **<u>Pure of Heart</u>:**
-When the cast is over, *Ser Charibert* will deal raid-wide <span class='magic'>magical damage</span> based on his remaining HP, under 25% is considered safe.
+When the cast is over, *Ser Charibert* will deal raid-wide <span class='magic'>magical damage</span> based on his remaining HP (unchanged when he's under 30%).
 
 </div>
 
@@ -252,7 +252,7 @@ Raid-wide AoE dealing <span class='magic'>magical damage</span>.
 ___
 
 + **<u>Heavenly Heel</u>:**
-tank buster on the main target dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Slashing Resistance Down</span> debuff.
+Tank buster on the main target dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Slashing Resistance Down</span> debuff.
 
 ___
 
@@ -308,7 +308,7 @@ Enrage.
 > You can restart the fight to reset your cooldowns since this phase acts as a checkpoint.
 
 Pull *King Thordan* and have the group stacked behind the boss to bait the incoming **Ascalon's Mercy Concealed**. When the cast bar is over, dodge to his sides.  
-Right after, *King Thordan* will perform **Ascalon’s Might** three times in a row, use your Tank invulnerability to go through.  
+Right after, *King Thordan* will perform **Ascalon’s Might** three times in a row, mitigate this or use a Tank invulnerability to go through.  
 Next *King Thordan* will summon his Knights and cast **Strength of the Ward**. You can swap Tanks during the cast for later.
 
 <a id='SStrengthOfTheWard'></a>As soon as *King Thordan* leaves, everyone has to spread around the arena and wait for the Dragoon Knights to arrive. If a player has a Dragoon Knight behind him, that player will move towards the middle of the arena telling that his position is unsafe. The player on the opposite side will also move to the middle since it's not safe. The players who moved will regroup at the safe spots with their respective light party in order to dodge **Spiral Thrusts**.  
@@ -327,7 +327,7 @@ Example with *King Thordan* North:
 {% include slideshow.html imgLink="strength4.jpg;strength5.jpg;strength6.jpg" imgDesc="<strong>Skyward Leap</strong> players spread away from <em>King Thordan</em>, unmarked players under him and Tanks to their sides with tethers crossed;Everything resolves;Everyone moves into the closest tower" slideNumber=slideCounter %}
 
 When *King Thordan* jumps back mid, regroup and heal everyone for the incoming **Ancient Quaga**.  
-Followed by **Heavenly Heel** into three **Ascalon’s Might**, use the Tank invulnerability.  
+Followed by **Heavenly Heel** into three **Ascalon’s Might**, initiate a Tank swap during **Heavenly Heel** and mitigate or use a Tank invulnerability.  
 Next *King Thordan* will once again summon his Knights and cast **Sanctity of the Ward**.
 
 <a id='SSanctityOfTheWard'></a>Two Paladin Knights will appear mid, facing opposite direction and a Dark Knight (*Ser Zephirin*) will appear along the edge. Quickly identify *Ser Janlenoux* (Silver armour with a white plume), if he's on the West side, everyone will rotate counter-clockwise to dodge, if he's East then it's clockwise. (You can also check the closest Paladin after you're groupped, you'll move towards the intercardinal that this Paladin isn't facing to)  
@@ -547,7 +547,7 @@ Example with **Gnash and Lash**:
 *Nidhogg* will resume his auto-attacks so clear away from the main Tank. He will then cast **Drachenlance** on a random target, dodge it sideways.
 
 Next is the final **Darkdragon Dive** towers, regroups in pairs at each intercardinal. If a tower only need one player, the Tank/Healer will adjust to satisfy another tower condition. The DPS will then bait the three **Geirskogul** towards the outside while the Tanks will grab the two **Soul Tether**. Have one Tank in front of *Nidhogg* and the second under him while the group stay away from them.  
-*A Warrior can use Holmgang here, since it will be back just in time for the next tank buster in the next Phase*
+Tanks must use all their mitigation tools and may need additional help from the Healers. One or both Tanks invulnerabilities can also be used here.
 
 *Nidhogg* will cast a final **Drachenlance** before his enrage, **Revenge of the Horde**.
 
@@ -581,6 +581,7 @@ There's only a few seconds left before the Duty Gauge is filled up to kill any r
 <h1><a id='Intermission-HaurchefantRewind'>Intermission - Haurchefant Rewind</a></h1>
 
 <div class='guideSection' markdown='1'>
+
 > You jump into the Delorean and get teleported back in time to **Plannar Imprisonment** from Phase 1. Except this time, the Tank LB3 is ready to save *Haurchefant*. If *Haurchefant* still dies, the fight will loop back into Phase 2.
 
 Once you're back to Phase 1, *Sir Charibert* will start to cast **Pure Heart**. Use the same strategy as previously to deal with with mechanic.  
@@ -611,7 +612,7 @@ ___
 + **<u>Wrath of the Heavens</u>:**
 
   + **<u>Chain Lighting</u>:**
-  Two random players get a <span class='speDebuff'>Thunderstruck</span> <img class='iconImg' src='{{ site.data.iconList.DSR.Thunderstruck }}'> debuff on lasting 15 seconds. When it resolves, **Chain Lightning** will be cast on their owner, dealing low AoE <span class='magic'>magical damage</span>. It will deal high <span class='magic'>magical damage</span>, apply a <span class='debuff'>Paralysis</span> debuff lasting 45 second and a <span class='debuff'>Damage Down</span> debuff to anyone else caught in the AoE.
+  Two random players get a <span class='speDebuff'>Thunderstruck</span> <img class='iconImg' src='{{ site.data.iconList.DSR.Thunderstruck }}'> debuff on lasting 15 seconds. When it resolves, **Chain Lightning**, a small AoE, will be cast on their owner. It will deal high <span class='magic'>magical damage</span>, apply a <span class='debuff'>Paralysis</span> debuff lasting 45 second and a <span class='debuff'>Damage Down</span> debuff to anyone else caught in the AoE.
 
     ___
 
@@ -638,7 +639,7 @@ ___
     ___
 
   + **<u>Altar Flare</u>:**
-  4 ground AoE appearing sequentially at a random player’s feet. Will explode after 2.5 seconds dealing lethal damage.
+  4 ground AoE appearing sequentially under a random player’s feet. Will explode after 2.5 seconds dealing lethal damage.
 
     ___
 
@@ -649,7 +650,7 @@ ___
 
 + **<u>Death of the Heavens</u>:**
 
-  + **<u>Doomstorm</u>:**
+  + **<u>Deathstorm</u>:**
   4 random players will receive a <span class='speDebuff'>Doom</span> debuff lasting 26 seconds, killing the player when it wears off.  
   This debuff cannot target all Tanks/Healers or all DPS at the same time.
 
@@ -708,7 +709,7 @@ In the mean time, the party will move under him since he'll be casting **Empty D
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="wrath4.jpg;wrath5.jpg;wrath6.jpg;wrath7.jpg" imgDesc="Place <em>Sir Grinnaux</em> North;Dive marker goes opposite of him, everyone spread around <em>King Thordan</em>;The players with <strong>Altar Flare</strong> and <strong>Liquid Heaven</strong> bait them away from <em>Sir Grinnaux</em>, the rest moves under him;<strong>Thunderstruck</strong> players spread North while the group stack South" slideNumber=slideCounter %}
 
-*King Thordan* is now targetable and will cast **Ancient Quaga**, remember that his damages are buffed so mitigate accordingly. Followed by **Heavenly Heel** into triple **Ascalon's Might**, swap Tanks to cover the busters (only Warrior can Holmgang this series of buster due to the low cooldown).  
+*King Thordan* is now targetable and will cast **Ancient Quaga**, remember that his damages are buffed so mitigate accordingly. Followed by **Heavenly Heel** into triple **Ascalon's Might**, swap Tanks to cover the busters or have a Tank invuln through.  
 He will summon his Knights once again and cast **Death of the Heavens**.
 
 <a id='SDeathOfTheHeavens'></a>*Sir Gerrique* will appear at a random cardinal and his position will be considered as North for the rest of the mechanic.  
@@ -744,9 +745,9 @@ After a few seconds, **Faith Unmoving** will happen along with **The Dragon's Ga
 
 After the explosion, 8 *Meteor Circles* will spawn, quickly get rid of them to avoid a wipe. It can be useful to keep multi-hit albilities for this part.
 
-It's time for *King Thordan* to come back with his **Ancient Quaga** into **Heavenly Heel** into triple **Ascalon's Might** combo. As previously, mitigate the raid-wide and swap Tanks for the tank busters since you need to keep Tank invulnerabilities for later.  
+It's time for *King Thordan* to come back with his **Ancient Quaga** into **Heavenly Heel** into triple **Ascalon's Might** combo. As previously, mitigate the raid-wide and swap Tanks for the tank busters or use a Tank invulnerability.  
 He will then cast his enrage **Aetheric Burst**. The cast will be cancelled if he drops below 3% HP. Stop any kind of damage to spare him and go into Phase 5.  
-> If he's killed, the fight will loop to Phase 3 but this time, since *Haurchefant* has been saved, he won't give the <span class='buff'>Soul of Friendship</span> buff to be able to deal damage to the *Right Eye*.
+> If he's killed, the fight will loop to Phase 3 but this time, since *Haurchefant* has been saved, he won't give the <span class='buff'>Soul of Friendship</span> buff allowing you to deal damage to the *Right Eye*.
 
 </div>
 
@@ -972,7 +973,7 @@ Example with only *Hraesvelgr* 's mouth glowing:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="wyrmbreath2-1.jpg;wyrmbreath2-2.jpg" imgDesc="Tanks check the dragons' mouths, Ice tethers South and Fire tethers North.;Tanks spread and avoid the breath" slideNumber=slideCounter %}
 
-After everything resolve, both wryms will leave and reappear North or South for **Cauterize**. Players with <span class='speDebuff'>Boiling</span> will move on *Hraesvelgr* side while the players with <span class='speDebuff'>Freezing</span> will move on *Nidhogg* side. The Tanks will move in front of the group and their respective bosses and use their invulnerability.
+After everything resolve, both wryms will leave and reappear North or South for **Cauterize**. Players with <span class='speDebuff'>Boiling</span> will move on *Hraesvelgr* side while the players with <span class='speDebuff'>Freezing</span> will move on *Nidhogg* side. The Tanks will move in front of the group and their respective bosses and use their invulnerability. They can also use the rest of their mitigation tools and keep their invulnarabilities for the last phase.  
 Right before **Cauterize** happens, the debuffs will swap into <span class='speDebuff'>Pyretic</span> and <span class='speDebuff'>Deep Freeze</span> and will be removed if the players are on the correct side. If you end up with <span class='speDebuff'>Pyretic</span>, remember to not perform any action to avoid unnecessary damage.
 <img class='soloImg' src='{{ page.imagePath | append: 'cauterize.jpg' }}'>
 
@@ -1068,12 +1069,12 @@ Example with **Fire's Edge**:
 Then *Dragon-king Thordan* will use his triple auto-attacks, **Trinity**. Be sure that Tanks hold the first 2 spots in the enmity list with a margin between them. Everyone will move out of the boss hitbox except the player who has to take the third auto-attack. Once a player has been hit he'll move out and the second player will replace him. Melee DPS will always take the 2 auto-attacks after **Exaflare's Edge**.  
 Once the two auto-attacks are done, the Tanks will swap.
 
-Next is **Akh Morn’s Edge**, hitting 5 times. Check *Dragon-king Thordan* for **Fire's Edge** or **Ice's Edge** and move into your tower. Tanks in the tower behind the boss for 2 players. The rest of light parties into 3 players towers.  
-Remember to stand in or outside the boss hitbox before the first hit, then you can move a bit middle to catch the heals.
+Next is **Akh Morn’s Edge**, hitting 5 times. Check *Dragon-king Thordan* for **Fire's Edge** or **Ice's Edge** and move into your tower. Tanks in the tower behind the boss for 2 players. The rest of light parties into 3 players towers. Remember to stand in or outside the boss hitbox before the first hit, then you can move a bit middle to catch the heals.  
+> An alternative way to do it is to have one Tank in a tower with his invulnerabilty, the second Tank in another tower with all his mitigation on and the rest of the group in the last tower.
 
 **Trinity** is making a come back, this time the third auto-attacks will be taken by the Ranged DPS.
 
-Now is **Gigaflare’s Edge**, move to the opposite side from where the first AoE appeared. Stand either in or out for **Fire's Edge** or **Ice's Edge**. Once it starts, either run clockwise or counter-clockwise while being at max melee range to dodge the two next **Gigaflares**.
+Now is **Gigaflare’s Edge**, move to the opposite side from where the first AoE appeared. Stand either in or out for **Fire's Edge** or **Ice's Edge**. Then,  either run clockwise or counter-clockwise while being at max melee range to reduce the **Gigaflares** damage.
 
 Once again, **Trinity** is back taken care of by the Healers.
 

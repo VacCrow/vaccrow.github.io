@@ -139,6 +139,7 @@ ___
 
 + **<u>Kothornos Kick</u>:**
 Dash on the main target dealing AoE <span class='phys'>physical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span>.  
+Anyone else caught in the path of *Hesperos* will get knocked away.  
 Immediatly followed up by 3 **Kothornos Quakes**.
 
 ___
