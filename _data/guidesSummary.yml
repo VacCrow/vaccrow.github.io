@@ -41,6 +41,7 @@ UCOB:
         
 
 UWU:
+  - name: Aetherically Charged & Woken
   - name: Phase 1 - Garuda
     section:
       - name: Abilities Breakdown
@@ -53,6 +54,7 @@ UWU:
     section:
       - name: Abilities Breakdown
       - name: Strategy
+  - name: Lahabrea
   - name: Phase 4 - Ultima
     section:
       - name: Abilities Breakdown

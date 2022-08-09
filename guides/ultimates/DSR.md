@@ -713,25 +713,29 @@ In the mean time, the party will move under him since he'll be casting **Empty D
 He will summon his Knights once again and cast **Death of the Heavens**.
 
 <a id='SDeathOfTheHeavens'></a>*Sir Gerrique* will appear at a random cardinal and his position will be considered as North for the rest of the mechanic.  
-Split in two groups of 4, Tanks/Healers to the left and DPS to the right, then 4 random players will get a <span class='speDebuff'>Doom</span> debuff. Based on the number of <span class='speDebuff'>Doom</span> on each side, the groups has to be reform with this rules:
+Split in two groups of 4, Tanks/Healers to the left and DPS to the right and form a North/South line . Then 4 random players will get a <span class='speDebuff'>Doom</span> debuff. Based on the number of <span class='speDebuff'>Doom</span> on each side, take the following positions:
 
 + 2/2 (aka 2 <span class='speDebuff'>Doom</span> on each sides):
-  + A <span class='speDebuff'>Doom</span> DPS swap with a non-doom Tank/Healer to end up with a 3/1 pattern.
+  + The Northmost <span class='speDebuff'>Doom</span> move to the North intercardinal spot while the Southmost <span class='speDebuff'>Doom</span> move to the East/West cardinal on the stone ring.
+  + The Northmost without debuff move to the East/West spot along the edge while the Southmost without debuff move to the South intercardinal spot.
 + 3/1 (aka 3 <span class='speDebuff'>Doom</span> on one side and 1 <span class='speDebuff'>Doom</span> on the other side):
   + Side with 3 <span class='speDebuff'>Doom</span>: The player without the debuff stands at the cardinal along the edge.  
     The 3 players with <span class='speDebuff'>Doom</span> stand at the North and South intercardinal along the edge and the cardinal on the stone ring.
   + Side with 1 <span class='speDebuff'>Doom</span>: The 3 players without the debuff stand at the cardinal and North and South intercardinal along the edge.  
     The player with <span class='speDebuff'>Doom</span> stands at the cardinal on the stone ring.
 
+Example of a 2/2 pattern:
+<img class='soloImg' src='{{ page.imagePath | append: 'doom22.jpg'}}'>
 Example of a 3/1 pattern:
-<img class='soloImg' src='{{ page.imagePath | append: 'doom.jpg'}}'>
+<img class='soloImg' src='{{ page.imagePath | append: 'doom31.jpg'}}'>
+
 > Be mindful, the players at intercardinals must stand on the tiles surrounded in red in order to dodge **Spear of the Fury** and **Twisting Dive**.
 
 *Darkscale* will cast **Cauterize**, diving in the North/South axis. *Ser Zephirin* and *Vedrfolnir* will respectively cast **Spear of the Fury** and **Twisting Dive**. Their will attack diagonally, NE->SW and NW->SE, but slightly tilted towards the East and West. (*Check diagram n°4 below to see the positions and line AoEs.*)  
 When all the **Thunderstorm** resolve and **Twisting Dive** animation starts, everyone has to move to bait the **Twisters**. At the same time, *Vidofnir* will place a **Wings of Salvation** puddle under all the non-doom players, on top of their **Twisters**.  
 Dodge the **Heavy Impact** from *Sir Gerrique* while moving towards the centre of the arena:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="death1.jpg;death2.jpg;death3.jpg;death4.jpg;death5.jpg;death6.jpg" imgDesc="Place <em>Sir Gerrique</em> North and split in two groups;Adjust from a 2/2 to a 3/1 pattern;Move to your positions while <strong>Heavy Impact</strong> starts;THE TING GOES SKRAAA;Immediatly move for <strong>Twisters</strong> while dodging <strong>Heavy Impact</strong> donut;Say hello to <em>Sir Grinnaux</em>" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="death1.jpg;death2.jpg;death3.jpg;death4.jpg;death5.jpg" imgDesc="Place <em>Sir Gerrique</em> North and split in two groups;Move to your positions while <strong>Heavy Impact</strong> starts;THE TING GOES SKRAAA;Immediatly move for <strong>Twisters</strong> while dodging <strong>Heavy Impact</strong> donut;Say hello to <em>Sir Grinnaux</em>" slideNumber=slideCounter %}
 
 Everyone will regroup around *Sir Grinnaux* for **Holy Chain**:
 
@@ -741,7 +745,7 @@ Everyone will regroup around *Sir Grinnaux* for **Holy Chain**:
 In the meantime, find both *King Thordan* and the *Dragon Eye* locations and look away from both once you're set with your marker.  
 After a few seconds, **Faith Unmoving** will happen along with **The Dragon's Gaze** and **The Dragon's Glory**. Every <span class='speDebuff'>Doom</span> players should be knock back next to a **Wings of Salvation** cleanse puddle to remove their debuff. Stay spread after the knockback until **Heavensflame** AoEs happen:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="death7.jpg;death8.jpg;death9.jpg;death10.jpg;death11.jpg" imgDesc="Intercardinals <strong>Doom</strong> players cross through <em>Sir Grinnaux</em> and East/West <strong>Doom</strong> players stay a bit away to bait the Circle markers;Markers appear, <strong>Doom</strong> players are anchored;<strong>Non-Doom</strong> players adjust with the Cross North and South;Move close to <em>Sir Grinnaux</em> and look away from <em>King Thordan</em> and the <em>Dragon Eye</em>;Get knocked away and grab the cleanse puddles" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="death6.jpg;death7.jpg;death8.jpg;death9.jpg;death10.jpg" imgDesc="Intercardinals <strong>Doom</strong> players cross through <em>Sir Grinnaux</em> and East/West <strong>Doom</strong> players stay a bit away to bait the Circle markers;Markers appear, <strong>Doom</strong> players are anchored;<strong>Non-Doom</strong> players adjust and both Crosses are North and South;Move close to <em>Sir Grinnaux</em> and look away from <em>King Thordan</em> and the <em>Dragon Eye</em>;Get knocked away and grab the cleanse puddles" slideNumber=slideCounter %}
 
 After the explosion, 8 *Meteor Circles* will spawn, quickly get rid of them to avoid a wipe. It can be useful to keep multi-hit albilities for this part.
 
