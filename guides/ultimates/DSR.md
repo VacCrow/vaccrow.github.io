@@ -792,7 +792,7 @@ ___
 Set of attacks from *Hraesvelgr*:
 
   + **<u>Ice Breath</u>**:
-  3 non-Tank player will get tethered to *Hraesvelgr*. The tether can be strech to switch the colour from purple to blue, dealing lethal damage if the tether is purple.  
+  3 non-Tank player will get tethered to *Hraesvelgr*. The tether can be strech to switch the colour from purple to blue, dealing higher damage if the tether is purple.  
   At the end of the cast, *Hraesvelgr* will attack these players with a cone dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Ice Resistance Down II</span>, <span class='debuff'>Physical Vulnerability Up</span> and a <span class='speDebuff'>Freezing</span> debuff.  
 
     <span class='speDebuff'>Freezing</span> <img class='iconImg' src='{{ site.data.iconList.DSR.Freezing }}'> lasts 11 seconds. When it resolves, it becomes <span class='speDebuff'>Deep Freeze</span> <img class='iconImg' src='{{ site.data.iconList.DSR.DeepFreeze }}'> preventing any movements for 30 seconds. <span class='speDebuff'>Freezing</span> can be cleansed if the player receive <span class='speDebuff'>Boiling</span> from *Nidhogg*.
@@ -813,7 +813,7 @@ ___
 Set of attacks from *Nidhogg*:
 
   + **<u>Fire Breath</u>**:
-  3 non-Tank player will get tethered to *Nidhogg*. The tether can be strech to switch the colour from purple to red, dealing lethal damage if the tether is purple.  
+  3 non-Tank player will get tethered to *Nidhogg*. The tether can be strech to switch the colour from purple to red, dealing higher damage if the tether is purple.  
   At the end of the cast, *Nidhogg* will attack these players with a cone dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Fire Resistance Down II</span>, <span class='debuff'>Physical Vulnerability Up</span> and a <span class='speDebuff'>Boiling</span> debuff.  
 
     <span class='speDebuff'>Boiling</span> <img class='iconImg' src='{{ site.data.iconList.DSR.Boiling }}'> lasts 11 seconds. When it resolves, it becomes <span class='speDebuff'>Pyretic</span> <img class='iconImg' src='{{ site.data.iconList.DSR.Pyretic }}'> dealing high damage when any action is performed for 30 seconds. <span class='speDebuff'>Boiling</span> can be cleansed if the player receive <span class='speDebuff'>Freezing</span> from *Hraesvelgr*.
@@ -917,7 +917,7 @@ Example with only *Nidhogg* 's mouth glowing:
 {% include slideshow.html imgLink="wyrmbreath1-1.jpg;wyrmbreath1-2.jpg" imgDesc="Tanks check the dragons' mouths, DPS/Healers South and form an Ice/Fire pair;Tanks spread and avoid the breath" slideNumber=slideCounter %}
 
 Right after, the DPS have to spread to avoid clipping other people when one of them receives <span class='speDebuff'>Mortal Vow</span>. The order to pass the debuff is the following:  
-  Melee 1 > Tank 1 > Melee 2 > Tank 2 > Phys Ranged (if the DPS in 3rd or 5th got the debuff first, they swap their position with the DPS in 1st)
+  DPS > Nidhogg Tank > Hraesvelgr Tank > Melee DPS 1 (or 2) > Phys Ranged DPS (if the Melee DPS 1 got the debuff first, Melee DPS 2 will replace him for the third pass)
 
 Next is **Akh Afah**, split into light party and keep the bosses HP difference within 3%. It deals high damage so mitigate propery.
 
@@ -934,7 +934,7 @@ Identify and move into the safe quadrant, then check *Hraesvelgr* head for **Hal
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="halloFrontDown.jpg;halloFrontUp.jpg;halloRearDown.jpg;halloRearUp.jpg" imgDesc="<strong>Cauterize</strong> on front row with <em>Hraesvelgr</em> head down;<strong>Cauterize</strong> on front row with <em>Hraesvelgr</em> head up;<strong>Cauterize</strong> on back row with <em>Hraesvelgr</em> head down;<strong>Cauterize</strong> on back row with <em>Hraesvelgr</em> head up" slideNumber=slideCounter %}
 
-Quickly make some space so the DPS with <span class='speDebuff'>Mortal Vow</span> can pass it to *Nidhogg* 's Tank.
+Quickly make some space middle so the DPS with <span class='speDebuff'>Mortal Vow</span> can pass it to *Nidhogg* 's Tank there.
 
 Now, *Nidhogg* will cast **Wroth Flames** and *Hraesvelgr* will leave the arena for **Cauterize**. At the same time, 4 players will receive <span class='speDebuff'>Spreading Flames</span> and 2 other will get <span class='speDebuff'>Spreading Flames</span>. Futhermore, 3 sets of orbs will spawn with the first one middle and the two other on opposite intercardinal.  
 First, find *Hraesvelgr* and where he'll dive through. If he dives mid or away from *Nidhogg* side, you can move all grouped together, next to him, to the intercardinal corner opposite of the second set of orbs, either diagonally or vertically. Otherwise, move away from *Nidhogg* but still to the intercardinal corner opposite of the second set.  
@@ -957,7 +957,7 @@ Then the <span class='speDebuff'>Spreading Flames</span> players will spread on 
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="hotTail.jpg;hotWing.jpg" imgDesc="Spread on the side;Spread middle" slideNumber=slideCounter %}
 
-It's time for the second <span class='speDebuff'>Mortal Vow</span> pass where *Nidhogg* 's Tank gives it to the 2nd Melee DPS.
+It's time for the second <span class='speDebuff'>Mortal Vow</span> pass where *Nidhogg* 's Tank gives it to *Hraesvelgr* 's Tank.
 
 A new **Akh Afah** will be casted, do the same as previously. This is the last **Akh Afah** of the fight so there is no need to worry about their HP difference afterward.
 
@@ -968,16 +968,24 @@ Then *Hraesvelgr* will cast **Hallowed Wings** and *Nidhogg* will cast **Hot Tai
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="halloWingDown.jpg;halloWingUp.jpg;halloTailDown.jpg;halloTailUp.jpg" imgDesc="<strong>Hot Wing</strong> with <em>Hraesvelgr</em> head down;<strong>Hot Wing</strong> with <em>Hraesvelgr</em> head up;<strong>Hot Tail</strong> with <em>Hraesvelgr</em> head down;<strong>Hot Tail</strong> with <em>Hraesvelgr</em> head up" slideNumber=slideCounter %}
 
-Once again, quickly clear a spot so the DPS with <span class='speDebuff'>Mortal Vow</span> can pass it to *Hraesvelgr* 's Tank.
+Once again, quickly clear a spot so the *Hraesvelgr* 's Tank can pass <span class='speDebuff'>Mortal Vow</span> to the Melee DPS. Always pass it to the same Melee DPS except if he got the debuff first, then pass it to the second Melee DPS.
 
-The second set of **Dread Wyrmsbreath** and **Great Wyrmsbreath** will happen. This time the Healers and DPS need to keep their debuffs on, so they will take their **Ice/Fire Breath** alone. Players tethered to *Hraesvelgr* will spead betwen the South and South West while the players tethered to *Nidhogg* will spread between the North and North East. Try to let the Melees move strech their tether to the opposite boss so they can keep uptime.  
-The Tanks will either stack mid if both dragon mouths are glowing or they'll move right of their respective bosses to avoid the **Dark/Holy Breath**, **Ice/Fire Breaths** and take **Staggering Breath** alone.
+The second set of **Dread Wyrmsbreath** and **Great Wyrmsbreath** will happen. The Tanks will either stack mid if both dragon mouths are glowing or they'll move to their respective bosses to avoid the **Dark/Holy Breath**, **Ice/Fire Breaths** and take **Staggering Breath** alone.  
+This time the Healers and DPS need to keep their debuffs on, so they will take their **Ice/Fire Breath** alone at fixed position. Based on your position and the tether you get, it may stay purple but will only deal slightly more damage. Check the next diagrams to see the positions:
 
 Example with only *Hraesvelgr* 's mouth glowing:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="wyrmbreath2-1.jpg;wyrmbreath2-2.jpg" imgDesc="Tanks check the dragons' mouths, Ice tethers South and Fire tethers North.;Tanks spread and avoid the breath" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="wyrmbreath2-1.jpg;wyrmbreath2-2.jpg" imgDesc="Tanks check the dragons' mouths, everyone moves their fixed positions;Tanks spread and avoid the breath" slideNumber=slideCounter %}
 
-After everything resolve, both wryms will leave and reappear North or South for **Cauterize**. Players with <span class='speDebuff'>Boiling</span> will move on *Hraesvelgr* side while the players with <span class='speDebuff'>Freezing</span> will move on *Nidhogg* side. The Tanks will move in front of the group and their respective bosses and use their invulnerability. They can also use the rest of their mitigation tools and keep their invulnarabilities for the last phase.  
+Here is more information about the positions if you're on:
+
++ Green: North and South along the **Swirling Blizzard**.
++ Purple: In the corner formed by **Swirling Blizzard** and the line of stones shown in orange.
++ White: Use the bleached stones shown by the white arrows as a cue.
++ Yellow: In the corner formed by **Swirling Blizzard** and the boss inner-hitbox.
+<img class='soloImg' src='{{ page.imagePath | append: 'wyrmbreath2pos.jpg' }}'>
+
+After everything resolve, both wryms will leave and reappear North for **Cauterize**. Players with <span class='speDebuff'>Boiling</span> will move on *Hraesvelgr* side while the players with <span class='speDebuff'>Freezing</span> will move on *Nidhogg* side. The Tanks will move in front of the group and their respective bosses and use their invulnerability. They can also use the rest of their mitigation tools (that can carry over from the previous tankbuster) and keep their invulnarabilities for the last phase.  
 Right before **Cauterize** happens, the debuffs will swap into <span class='speDebuff'>Pyretic</span> and <span class='speDebuff'>Deep Freeze</span> and will be removed if the players are on the correct side. If you end up with <span class='speDebuff'>Pyretic</span>, remember to not perform any action to avoid unnecessary damage.
 <img class='soloImg' src='{{ page.imagePath | append: 'cauterize.jpg' }}'>
 
