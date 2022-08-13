@@ -938,18 +938,17 @@ Quickly make some space middle so the DPS with <span class='speDebuff'>Mortal Vo
 
 Now, *Nidhogg* will cast **Wroth Flames** and *Hraesvelgr* will leave the arena for **Cauterize**. At the same time, 4 players will receive <span class='speDebuff'>Spreading Flames</span> and 2 other will get <span class='speDebuff'>Spreading Flames</span>. Futhermore, 3 sets of orbs will spawn with the first one middle and the two other on opposite intercardinal.  
 First, find *Hraesvelgr* and where he'll dive through. If he dives mid or away from *Nidhogg* side, you can move all grouped together, next to him, to the intercardinal corner opposite of the second set of orbs, either diagonally or vertically. Otherwise, move away from *Nidhogg* but still to the intercardinal corner opposite of the second set.  
-Then **Cauterize** and the first hit of **Akh Morn** will happen, start to move toward the North or South cardinal to leave the puddle on the corner (ie. move towards South if you're South West/South East).  
-The first **Fire Blast** happens along with the second hit of **Akh Morn**. Then start to move towards the middle of the arena.  
-Continue to drop the puddles next to the previous ones. Right after the fourth **Akh Morn** is done, the second **Fire Blast** will resolve.  
+Then **Cauterize** and the first hit of **Akh Morn** will happen, start to move toward the middle on the arena while running along *Nidhogg* 's hitbox.  
+The first **Fire Blast** happens along with the second hit of **Akh Morn**. Continue to drop the puddles next to the previous one's edge. Right after the fourth **Akh Morn** is done, the second **Fire Blast** will resolve.  
 Move middle to avoid the third and final **Fire Blast**.
 
 Example with *Hraesvelgr* diving middle:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="wroth1.jpg;wroth2.jpg;wroth3.jpg;wroth4.jpg;wroth5.jpg" imgDesc="Move to the corner vertically opposite of the second set;<strong>Cauterize</strong> and <strong>Akh Morn</strong> first hit happen;Move to the South for the second <strong>Akh Morn</strong> along with the first <strong>Fire Blast</strong>;Move towards the middle during the third and fourth <strong>Akh Morn</strong>;Move middle to avoid the last <strong>Fire Blast</strong>" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="wroth1.jpg;wroth2.jpg;wroth3.jpg;wroth4.jpg;wroth5.jpg" imgDesc="Move to the corner vertically opposite of the second set;<strong>Cauterize</strong> and <strong>Akh Morn</strong> first hit happen;Start to move for the second <strong>Akh Morn</strong> along with the first <strong>Fire Blast</strong>;Keep running along the hitbox during the third and fourth <strong>Akh Morn</strong>;Move middle to avoid the last <strong>Fire Blast</strong>" slideNumber=slideCounter %}
 
 Example with *Hraesvelgr* diving on *Nidhogg* 's side:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="wrothBis1.jpg;wrothBis2.jpg;wrothBis3.jpg;wrothBis4.jpg;wrothBis5.jpg" imgDesc="Move to the corner diagonally opposite of the second set;<strong>Cauterize</strong> and <strong>Akh Morn</strong> first hit happen;Move to the South for the second <strong>Akh Morn</strong> along with the first <strong>Fire Blast</strong>;Move towards the middle during the third and fourth <strong>Akh Morn</strong>;Move middle to avoid the last <strong>Fire Blast</strong>" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="wrothBis1.jpg;wrothBis2.jpg;wrothBis3.jpg;wrothBis4.jpg;wrothBis5.jpg" imgDesc="Move to the corner diagonally opposite of the second set;<strong>Cauterize</strong> and <strong>Akh Morn</strong> first hit happen;Start to move for the second <strong>Akh Morn</strong> along with the first <strong>Fire Blast</strong>;Keep running along the hitbox during the third and fourth <strong>Akh Morn</strong>;Move middle to avoid the last <strong>Fire Blast</strong>" slideNumber=slideCounter %}
 
 While you're moving middle to dodge the last **Fire Blast**, check *Nidhogg* to see if he's casting **Hot Tail** or **Hot Wing**. For the former, don't stop and keep running in the same direction.  
 Then the <span class='speDebuff'>Spreading Flames</span> players will spread on *Nidhogg* side while the <span class='speDebuff'>Entangled Flames</span> players will spread on *Hraesvelgr* side. Each player without a debuff will stack with a <span class='speDebuff'>Entangled Flames</span> player:
