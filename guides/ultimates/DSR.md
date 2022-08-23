@@ -724,12 +724,12 @@ Split in two groups of 4, Tanks/Healers to the left and DPS to the right and for
   + Side with 1 <span class='speDebuff'>Doom</span>: The 3 players without the debuff stand at the cardinal and North and South intercardinal along the edge.  
     The player with <span class='speDebuff'>Doom</span> stands at the cardinal on the stone ring.
 
-Example of a 2/2 pattern:
-<img class='soloImg' src='{{ page.imagePath | append: 'doom22.jpg'}}'>
-Example of a 3/1 pattern:
-<img class='soloImg' src='{{ page.imagePath | append: 'doom31.jpg'}}'>
+Pattern examples:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="doom22.jpg;doom31.jpg" imgDesc="2/2 pattern;3/1 pattern" slideNumber=slideCounter %}
 
-> Be mindful, the players at intercardinals must stand on the tiles surrounded in red in order to dodge **Spear of the Fury** and **Twisting Dive**.
+Be mindful, the players at intercardinals must stand on the tiles surrounded in red in order to dodge **Spear of the Fury** and **Twisting Dive**:
+<img class='soloImg' src='{{ page.imagePath | append: 'doom.jpg'}}'>
 
 *Darkscale* will cast **Cauterize**, diving in the North/South axis. *Ser Zephirin* and *Vedrfolnir* will respectively cast **Spear of the Fury** and **Twisting Dive**. Their will attack diagonally, NE->SW and NW->SE, but slightly tilted towards the East and West. (*Check diagram n°4 below to see the positions and line AoEs.*)  
 When all the **Thunderstorm** resolve and **Twisting Dive** animation starts, everyone has to move to bait the **Twisters**. At the same time, *Vidofnir* will place a **Wings of Salvation** puddle under all the non-doom players, on top of their **Twisters**.  
