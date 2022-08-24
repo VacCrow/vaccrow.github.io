@@ -2,7 +2,7 @@
 layout: guides
 title: Dragonsong's Reprise | DSR
 imagePath: /assets/img/guides/ultimates/DSR/
-slideNumber: 24
+slideNumber: 25
 ---
 
 *Patch: 6.11  
@@ -726,9 +726,9 @@ Split in two groups of 4, Tanks/Healers to the left and DPS to the right and for
 
 Pattern examples:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="doom22.jpg;doom31.jpg" imgDesc="2/2 pattern;3/1 pattern" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="doom31.jpg;doom22.jpg" imgDesc="3/1 pattern;2/2 pattern" slideNumber=slideCounter %}
 
-Be mindful, the players at intercardinals must stand on the tiles surrounded in red in order to dodge **Spear of the Fury** and **Twisting Dive**:
+Be mindful, the players at intercardinals must stand on the tiles surrounded in red in order to dodge **Spear of the Fury** and **Twisting Dive**. Here with the same 3/1 pattern shown above:
 <img class='soloImg' src='{{ page.imagePath | append: 'doom.jpg'}}'>
 
 *Darkscale* will cast **Cauterize**, diving in the North/South axis. *Ser Zephirin* and *Vedrfolnir* will respectively cast **Spear of the Fury** and **Twisting Dive**. Their will attack diagonally, NE->SW and NW->SE, but slightly tilted towards the East and West. (*Check diagram n°4 below to see the positions and line AoEs.*)  
