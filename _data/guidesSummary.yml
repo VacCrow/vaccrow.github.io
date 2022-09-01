@@ -187,6 +187,45 @@ P4S_Part2:
       - name: Akanthai Finale
       - name: Akanthai Curtain Call
 
+P5S:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: Phase 1
+      - name: Phase 2
+
+P6S:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: Phase 1
+      - name: Phase 2
+      - name: Phase 3
+
+P7S:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: Phase 1
+      - name: Phase 2
+      - name: Phase 3
+
+P8S:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: Phase 1
+      - name: Phase 2
+      - name: Phase 3
+
 #------------EDEN-----------
 E9S:
   - name: Abilities Breakdown
