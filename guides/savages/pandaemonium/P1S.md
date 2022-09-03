@@ -100,7 +100,7 @@ Raid-wide AoE dealing <span class='magic'>magical damage</span> and will revert 
 ___
 
 + **<u>Fourfold Shackles</u>:**
-4 random players  will be marked by a <span class='speDebuff'>Shackles of Companionship</span> debuff and the other 4 player will be marked by a <span class='speDebuff'>Shackles of Loneliness</span> debuff. Each debuffs of each type have a different duration and will last 3, 8, 13 and 18 seconds.
+4 random players  will be marked by a <span class='speDebuff'>Shackles of Companionship</span> debuff and the other 4 player will be marked by a <span class='speDebuff'>Shackles of Loneliness</span> debuff. Each debuffs of each type have a different duration and will last 3, 8, 13 or 18 seconds.
 
 ___
 

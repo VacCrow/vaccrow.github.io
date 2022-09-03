@@ -7,8 +7,8 @@ slideNumber: 1
 
 *Patch: 6.2  
 Minimum ilvl: i600  
-DPS Requirement: xk  
-Enrage timer: xx:00  
+DPS Requirement: 49,2k  
+Enrage timer: 10:05  
 Loot:*
 
 + *Chest n°1: Abyssos Earring/Necklace/Bracelet/Ring coffer*
@@ -42,7 +42,7 @@ ___
   + *Topaz Stone*: explodes in a small AoE after 5 seconds dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.
   + *Poison Stone*: transforms into a poison puddle that grow overtime, inflicting <span class='debuff'>Toxicosys</span>.
 
-If a *Topaz Stone* is hit by a **Venom Pool**, it will transform into a *Poison Stone*.
+  If a *Topaz Stone* is hit by a **Venom Pool**, it will transform into a *Poison Stone*.
 
 ___
 
@@ -75,8 +75,8 @@ ___
 + **<u>Venom Squall/Surge</u>:**
 *Proto-Carbuncle* will perform three mechanics in a row, all of them dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff.  
 **Venom Squall** consists of **Venom Rain** followed by **Venom Drops** into **Venom Pool**, **Venom Surge** is the opposite:
-  + **Venom Rain**: AoE on every player.
-  + **Venom Drops**: baited AoE under everyone.
+  + **Venom Rain**: an AoE on every player.
+  + **Venom Drops**: a baited AoE under everyone.
   + **Venom Pool**: a share on both Healers.
 
 ___
@@ -174,10 +174,10 @@ A new set of **Caustic Pools** will spawn when the **Venom Pools** happen. Resol
 
 Then he will cast **Claw to Tail** or **Tail to Claw** followed by the **Venomous Mass**/**Toxic Crunch** combo.
 
-Next *Proto-Carbuncle* will do a **Sonic Howl** into **Ruby Glow**. i don't know about this one yet.  
-REEEEEEEEEEEEEEEEEEEEE
+Next *Proto-Carbuncle* will do a **Sonic Howl** into **Ruby Glow** dividing the arena in 4. Two quadrants wil be filled with 3 *Topaz Stones* and the other two with 2 *Topaz Stones*, futhermore both Healers will get marked for **Venom Pool**.  
+Have a group pick a quadrant with 2 *Topaz Stones* to transform them into *Poison Stones*. Stay in your quadrant and dodge the pools until the remaining *Topaz Stones* explode. Then move behind the boss and use yor knockback immunity for **Double Rush**.
 
-Here is another **Venomous Mass** into **Toxic Crunch** with a Tank swap.
+After is another **Venomous Mass** into **Toxic Crunch** forcing a Tank swap.
 
 Next is **Sonic Howl** followed by either **Venom Squall** or **Venom Surge**.
 

@@ -79,6 +79,16 @@
     "PhoenixsBlessing": "https://assets.rpglogs.com/img/ff/abilities/015000-015819.png"
   },
 
+  "P6S": {
+    "Consumption": "https://assets.rpglogs.com/img/ff/abilities/019000-019617.png",
+    "AetherialExchange": "https://assets.rpglogs.com/img/ff/abilities/015000-015479.png",
+    "Chelomorph": "https://assets.rpglogs.com/img/ff/abilities/015000-015474.png",
+    "Glossomorph": "https://assets.rpglogs.com/img/ff/abilities/015000-015473.png",
+    "Aetheronecrosis": "https://assets.rpglogs.com/img/ff/abilities/015000-015770.png",
+    "ChelicResistanceDown": "https://assets.rpglogs.com/img/ff/abilities/015000-015478.png",
+    "GlossalResistanceDown": "https://assets.rpglogs.com/img/ff/abilities/015000-015477.png"
+  },
+
   "P4S": {
     "Aethersucker": "https://assets.rpglogs.com/img/ff/abilities/015000-015429.png",
     "CastingChlamys": "https://assets.rpglogs.com/img/ff/abilities/015000-015430.png",

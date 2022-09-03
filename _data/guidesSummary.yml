@@ -204,7 +204,6 @@ P6S:
     section:
       - name: Phase 1
       - name: Phase 2
-      - name: Phase 3
 
 P7S:
   - name: Abilities Breakdown
