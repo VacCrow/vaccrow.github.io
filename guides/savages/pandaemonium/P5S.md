@@ -7,7 +7,7 @@ slideNumber: 1
 
 *Patch: 6.2  
 Minimum ilvl: i600  
-DPS Requirement: 49,2k  
+DPS Requirement: 49,3k  
 Enrage timer: 10:05  
 Loot:*
 
