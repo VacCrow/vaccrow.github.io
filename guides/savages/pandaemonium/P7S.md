@@ -149,9 +149,10 @@ The next **Forbidden Fruit** will spawn 4 Birds that will be tethered to four pl
 <div class='guideSection' markdown='1'>
 <a id='SPhase2'></a>
 
-Another **Forbidden Fruit** this time with 1 Bull and 2 Birds, the Bull's platform will be considered as South for the rst of the mechanic. **Inviolate Purgation** will place layers of debuffs on players. The North West platform will be used for every <span class='speDebuff'>Holy Purgation</span> and all the group of players that must share will move along the edge behind the Bird. Meanwhile the group of <span class='speDebuff'>Purgatory Winds</span> will move to the North East platform and spread behind the Bird. Check the diagram below to see the proper positions.  
-Once the first set of debuffs are done, regroup mid for heal and the next group for <span class='speDebuff'>Holy Purgation</span> will move back to the exact same spot, on the North West platform while the <span class='speDebuff'>Purgatory Winds</span> wil move to the South platform and spread in the same manner as previously, in order to dodge every AoEs left by the previous debuffs.  
-Once it's done, go back middle and mitigate for the heavy raid-wide **Light of Life**. From now on, all the remaining <span class='speDebuff'>Holy Purgation</span> will happen at the same spot, on North West, while the remaining <span class='speDebuff'>Purgatory Winds</span> will alternate between the North East and South platform.
+It's time for another **Forbidden Fruit** this time with 1 Bull and 2 Birds and **Inviolate Purgation** will place layers of debuffs on players. Everyone will move to the North West platform (if the Bull is there then move to the North East platform).  
+The <span class='speDebuff'>Holy Purgation</span> group will position themself on the North West of the platform while the <span class='speDebuff'>Purgatory Winds</span> players will spread on the North, Middle, South, and South West of the platform. These position allow for full uptime and an easier time to heal everyone.  
+Once the debuffs are done, move to the opposite front platform and repeat with mirrored positions. Repeat this for each ste of debuffs.  
+Have a small stop between the second and third set in order to mitigate the heavy raid-wide **Light of Life**:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="purga1.jpg;purga2.jpg;purga3.jpg;purga4.jpg" imgDesc="With the Bull South, <em>Holy Purgation</em> move North West and <em>Purgatory Winds</em> North East;<em>Purgatory Winds II</em> move South;<em>Purgatory Winds III</em> move North East;<em>Purgatory Winds IV</em> move South" slideNumber=slideCounter %}
 
