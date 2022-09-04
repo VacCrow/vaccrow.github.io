@@ -22,7 +22,7 @@ ___
 <div class='guideSection' markdown='1'>
 <h2><a id='ABAkanthaiAbilities'>Akanthai Abilities</a></h2>
 
-Thought the fight, *Hesperos* will use several **Akanthai: X**. Each **Akanthai** will use a variety of abilities described bellow.  
+Thought the fight, *Hesperos* will use several **Akanthai: X**. Each **Akanthai** will use a variety of abilities described below.  
 During each **Akanthai** cast, *Hesperos* will show every mecanics that will happen. When the cast is over, every mechanics will be replaced by *Thorns* and some times, a <span class='speDebuff'>Thornpricked</span> <img class='iconImg' src='{{ site.data.iconList.P4S.Thornpricked }}'> debuff will be given to player in order to interact with the *Thorns*.
 Then he will cast **Wreath Of Thorns**, tethering himself to the *Thorns* in sequence showing the order of the **Akanthai** mechanics.
 

@@ -109,7 +109,7 @@ ___
 Afterward is **Sewage Deluge**, remember to mitigate since it deals massive damage. When the arena is flooded, try to stay on the plaform opposite of the flooded one so you can reach any part of the arena quickly.
 
 *Hippokampos* will then use **Spoken Cataract** or **Winged Cataract** at random. Move to its body side then behind its head for **Spoken Cataract** or in front of its head for **Winged Cataract**.  
-Exemple bellow with the head facing North the body facing South:
+Exemple below with the head facing North the body facing South:
 
 {% assign slideCounter = 0 %}
 {% include slideshow.html imgLink="spoken.jpg;winged.jpg" imgDesc="<strong>Spoken Catarct</strong>, body AoE in orange and head AoE in red;<strong>Winged Catarct</strong>, body AoE in orange and head AoE in red" slideNumber=slideCounter %}

@@ -173,7 +173,7 @@ The group should stack behind the boss for **Heat of Condemnation** so it is eas
 Then the group have to move middle during the cast of **Experimental Fireplume**. If *Phoinix* use one orb, it will be baited in the middle so move away from the boss. Otherwise, if he uses 8 orbs, follow the AoEs and move away from the middle to avoid the last one.  
 He will use **Left/Right Cinderwing** right after so remember to move accordingly.
 
-*Phoinix* will then cast **Darkened Fire**. Form Tank/Healer and DPS pairs in the inner square at intercardinal position, standing in the small yellow squares is fine (check the diagram bellow). Once the *Darkened Fire* spawned, spread a bit to see the number assigned by **Brightened Fire** and move to the corresponding position in order to remove every stacks from the adds (players at then same position can stack with each other):
+*Phoinix* will then cast **Darkened Fire**. Form Tank/Healer and DPS pairs in the inner square at intercardinal position, standing in the small yellow squares is fine (check the diagram below). Once the *Darkened Fire* spawned, spread a bit to see the number assigned by **Brightened Fire** and move to the corresponding position in order to remove every stacks from the adds (players at then same position can stack with each other):
 <img class='soloImg' src='{{ page.imagePath | append: 'darkenedFire.jpg' }}'>
 
 Right after the group has to stack behind the boss to help the Tanks get their **Heat of Condemnation** tether. This is followed by an another **Scorched Exaltation**

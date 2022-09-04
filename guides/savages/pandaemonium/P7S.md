@@ -112,16 +112,16 @@ ___
 
 The fight starts with **Spark of Life**, remember to mitigate them to reduce the damage from the <span class='debuff'>Bleed</span>. It is follow by a random **Condensed/Dispersed Aero II**, Tanks must either stack or spread for it. Use any invulnerability at your discretion.
 
-Then *Agdistis* will cast **Blade of Altis** into **Immortal's Obol**. The front left or right of the arena will have 2 set of exflares away from each other, move there and, once the arena layout changed, stay along the North edge to finish to dodge the exaflares.
+Then *Agdistis* will cast **Blade of Altis** into **Immortal's Obol**. The front left or right of the arena will have 2 set of exflares far away from each other, move there and once the arena layout changed, stay along the North edge to dodge the exaflares.
 
-**Forbidden Fruit** will be cast spawning 2 Bird on front platforms and 1 Bull on a random front platform. Both Healers will be targeted by  **Hemitheos's Holy III** shares. Since the boss will also be casting **Bough of Altis** in the back, move on the platform will only 1 Bird, with one group on the North edge and the other on the South edge away from the Birds path:
+**Forbidden Fruit** will be cast, spawning 2 Birds on front platforms and 1 Bull on a random front platform. Both Healers will be targeted by  **Hemitheos's Holy III** shares. Since the boss will also be casting **Bough of Altis** in the back, move on the platform will only 1 Bird, with one group on the North edge and the other on the South edge away from the Birds path. The South group must be careful about **Bough of Altis** that can hit them:
 <img class='soloImg' src='{{ page.imagePath | append: 'fruit1.jpg' }}'>
 
 Next is another random **Condensed/Dispersed Aero II** into **Spark of Life**.
 
-**Inviolate Bonds** will apply debuff on player while the boss will cast **Bough of Altis** on the front platforms. Players with <span class='speDebuff'>Inviolate Winds</span> must spread around the South platform while the other stack in the middle with the <span class='speDebuff'>Holy Bonds</span> share. Then *Agdistis* will finish **Bough of Altis** and cleave two platforms, move into the safe platform and have the <span class='speDebuff'>Inviolate Winds II</span> spread around while the other stack middle with the <span class='speDebuff'>Holy Bonds II</span>:
+The next cast, **Inviolate Bonds** will apply debuffs on player while the boss will cast **Bough of Altis** on the front platforms. Players with <span class='speDebuff'>Inviolate Winds</span> must spread around the South platform while the others stack in the middle with the <span class='speDebuff'>Holy Bonds</span> share. Then *Agdistis* will finish **Bough of Altis** and cleave two platforms, move into the safe platform and have the <span class='speDebuff'>Inviolate Winds II</span> spread around while the others stack middle with the <span class='speDebuff'>Holy Bonds II</span>:
 {% assign slideCounter = 0 %}
-{% include slideshow.html imgLink="bonds1.jpg;bonds2.jpg" imgDesc="On South platform, <em>Inviolate Winds</em> spread around and <em>Holy Bonds</em> stack middle;Repeat on the safe platform with the roles swapped" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="bonds1.jpg;bonds2.jpg" imgDesc="On South platform, <em>Inviolate Winds</em> spread around and <em>Holy Bonds</em> stack middle;Repeat the same thing on the safe platform with the roles swapped" slideNumber=slideCounter %}
 
 *Agdistis* will destroy the front bridge with **Roots of Altis** and cast another **Condensed/Dispersed Aero II**.
 
@@ -129,29 +129,29 @@ Another **Forbidden Fruit** with 3 Birds, one on each platform. Everyone must sp
 Here is an example of different positions:
 <img class='soloImg' src='{{ page.imagePath | append: 'fruit2.jpg' }}'>
 
-Quickly move in light group to the front platforms before *Agdistis* destroys the remaining bridges with **Roots of Altis** and cast **Forbidden Fruit**, spawning 3 Bulls on each platforms. Each Healers will receive a **Hemitheos's Holy III** share and right before it resolves, a new bridge will appear allowing you to move in to dodge the Bulls' AoE.
+Quickly regroup in light party to the left and right front platforms before *Agdistis* destroys the remaining bridges with **Roots of Altis** and cast **Forbidden Fruit**, spawning 3 Bulls on each platforms. Each Healers will receive a **Hemitheos's Holy III** share and right before it resolves, a new bridge will appear allowing you to side step in to dodge the Bulls' AoE and do the share properly.
 
 Then *Agdistis* will **Bough of Altis** at the front before cleaving two platforms, move to the safe one. Soon after a random wil be casted **Condensed/Dispersed Aero II**.
 
-Next is another **Forbidden Fruit** with 2 Minotaurs with tethers on two platforms, 1 Bull with 4 tethers on the remaining one and 1 Minotaur will spawn in the middle of the bridge. The players tethered to the Bull must move behind him to bait the line AoEs away. The players tether to a Minotaur will move to the platform where the other Minotaur is and stand behind. The two players without anything will move close to the central Minotaur bait the cleaves between the two Minotaurs plaforms:
+Next is another **Forbidden Fruit** spawning 2 Minotaurs with tethers on two platforms, 1 Bull with 4 tethers on the remaining one and 1 Minotaur will spawn in the middle of the bridge. The players tethered to the Bull must move behind him and spread to aim the line AoEs away from the arena. The players tether to a Minotaur will move to the platform where the other Minotaur is and stand behind. The two players without anything have to move close to the central Minotaur in order to bait the cleaves between the two Minotaurs plaforms and give more space to the Bull people:
 <img class='soloImg' src='{{ page.imagePath | append: 'fruit3.jpg' }}'>
 
 Then *Agdistis* will cast **Blade of Altis** along with **Multicast** and **Hemitheos's Holy III**. The arena will return to its original state. Group in light parties and stand near the middle, ready to get knocked away to the left and right, between the exaflares, with your group in order to share the damage. Don't forget to move where the exaflares started to dodge them.
 
-Next is another random **Condensed/Dispersed Aero II**.
+Next is another random **Condensed/Dispersed Aero II**. Enjoy. :^)
 
 The next **Forbidden Fruit** will spawn 4 Birds that will be tethered to four players, these players must use their knockback immunity and move to the opposite side of the arena. In the meantime, the other players have to move in the towers created by **Shadow of Altis** and soak them.
 
-*Agdistis* wil cast another **Spark of Life** before casting **Immortal's Obol** reverting the arena to three platforms.
+*Agdistis* wil cast another **Spark of Life** before casting **Immortal's Obol** reverting the arena to the three platforms layout.
 
 </div>
 
 <div class='guideSection' markdown='1'>
 <a id='SPhase2'></a>
 
-Another **Forbidden Fruit** this time with 1 Bull and 2 Birds, the Bull's platform will be considered as South for this mechanic. **Inviolate Purgation** will place four layers of debuffs on players. The North West platform will be used for every <span class='speDebuff'>Holy Purgation</span> and all the group of players that must share will move along the edge behind the Bird. Meanwhile the group of <span class='speDebuff'>Purgatory Winds</span> will move to the North East platform and spread behind the Bird.  
-Once the first set of debuffs are done, regroup mid for heal and the next group for <span class='speDebuff'>Holy Purgation</span> will move back to the exact same spot, on the North West platform while the <span class='speDebuff'>Purgatory Winds</span> wil move to the South platform and spread in the same manner as previously, in order to dodge every AoEs.
-Once it's done, go back middle and get ready for **Light of Life**. From now on, the <span class='speDebuff'>Holy Purgation</span> will move to the same spot while the <span class='speDebuff'>Purgatory Winds</span> will alternate between the North East and South platform.
+Another **Forbidden Fruit** this time with 1 Bull and 2 Birds, the Bull's platform will be considered as South for the rst of the mechanic. **Inviolate Purgation** will place layers of debuffs on players. The North West platform will be used for every <span class='speDebuff'>Holy Purgation</span> and all the group of players that must share will move along the edge behind the Bird. Meanwhile the group of <span class='speDebuff'>Purgatory Winds</span> will move to the North East platform and spread behind the Bird. Check the diagram below to see the proper positions.  
+Once the first set of debuffs are done, regroup mid for heal and the next group for <span class='speDebuff'>Holy Purgation</span> will move back to the exact same spot, on the North West platform while the <span class='speDebuff'>Purgatory Winds</span> wil move to the South platform and spread in the same manner as previously, in order to dodge every AoEs left by the previous debuffs.  
+Once it's done, go back middle and mitigate for the heavy raid-wide **Light of Life**. From now on, all the remaining <span class='speDebuff'>Holy Purgation</span> will happen at the same spot, on North West, while the remaining <span class='speDebuff'>Purgatory Winds</span> will alternate between the North East and South platform.
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="purga1.jpg;purga2.jpg;purga3.jpg;purga4.jpg" imgDesc="With the Bull South, <em>Holy Purgation</em> move North West and <em>Purgatory Winds</em> North East;<em>Purgatory Winds II</em> move South;<em>Purgatory Winds III</em> move North East;<em>Purgatory Winds IV</em> move South" slideNumber=slideCounter %}
 

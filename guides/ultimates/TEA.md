@@ -743,7 +743,7 @@ Once **Optical Sight** is done, run/sprint to the clone that will use **Radiant 
 
 Once again, *Perfect Alexander* will cast **Ordained Capital Punishment** and **Ordained Punishment**. Use a Tank invulnerability or share with Tanks then swap during **Ordained Punishment**.
 
-*Perfect Alexander* will cast **Almighty Judgment**. The three set of AoE will use the patterns bellow:
+*Perfect Alexander* will cast **Almighty Judgment**. The three set of AoE will use the patterns below:
 <img class='soloImg' src='{{ page.imagePath | append: 'almightyJudgment.jpg' }}'>
 The solution here is to find and move into the third set of AoE. Then, move into the first set when it explodes.  
 For example, if the set is: Yellow > Blue > Red. Everyone will stand at C, then move to D once the Yellow AoEs happen.
