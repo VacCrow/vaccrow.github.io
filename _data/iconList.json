@@ -79,6 +79,21 @@
     "PhoenixsBlessing": "https://assets.rpglogs.com/img/ff/abilities/015000-015819.png"
   },
 
+  "P7S": {
+    "InviolateWinds": "https://assets.rpglogs.com/img/ff/abilities/015000-015109.png",
+    "InviolateWindsII": "https://assets.rpglogs.com/img/ff/abilities/015000-015110.png",
+    "HolyBonds": "https://assets.rpglogs.com/img/ff/abilities/015000-015113.png",
+    "HolyBondsII": "https://assets.rpglogs.com/img/ff/abilities/015000-015114.png",
+    "PurgatoryWinds": "https://assets.rpglogs.com/img/ff/abilities/015000-015109.png",
+    "PurgatoryWindsII": "https://assets.rpglogs.com/img/ff/abilities/015000-015110.png",
+    "PurgatoryWindsIII": "https://assets.rpglogs.com/img/ff/abilities/015000-015111.png",
+    "PurgatoryWindsIV": "https://assets.rpglogs.com/img/ff/abilities/015000-015112.png",
+    "HolyPurgation": "https://assets.rpglogs.com/img/ff/abilities/015000-015113.png",
+    "HolyPurgationII": "https://assets.rpglogs.com/img/ff/abilities/015000-015114.png",
+    "HolyPurgationIII": "https://assets.rpglogs.com/img/ff/abilities/015000-015115.png",
+    "HolyPurgationIV": "https://assets.rpglogs.com/img/ff/abilities/015000-015116.png"
+  },
+
   "P6S": {
     "Consumption": "https://assets.rpglogs.com/img/ff/abilities/019000-019617.png",
     "AetherialExchange": "https://assets.rpglogs.com/img/ff/abilities/015000-015479.png",
