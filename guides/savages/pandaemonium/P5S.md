@@ -8,7 +8,8 @@ slideNumber: 1
 *Patch: 6.2  
 Minimum ilvl: i600  
 DPS Requirement: 49,3k  
-Enrage timer: 10:05  
+Enrage timer: 09:58  
+<span class='debuff'>Damage Down</span> potency: 25%  
 Loot:*
 
 + *Chest n°1: Abyssos Earring/Necklace/Bracelet/Ring coffer*

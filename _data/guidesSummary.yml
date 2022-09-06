@@ -214,7 +214,17 @@ P7S:
       - name: Phase 1
       - name: Phase 2
 
-P8S:
+P8S_Part1:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: Phase 1
+      - name: Phase 2
+      - name: Phase 3
+
+P8S_Part2:
   - name: Abilities Breakdown
     section:
       - name: General Abilities

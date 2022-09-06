@@ -2,13 +2,14 @@
 layout: guides
 title: Abyssos - The Seventh Circle (Savage) | P7S
 imagePath: /assets/img/guides/savages/pandaemonium/P7S/
-slideNumber: 2
+slideNumber: 5
 ---
 
 *Patch: 6.2  
 Minimum ilvl: i610  
 DPS Requirement: 58.8k  
-Enrage timer: xx:00  
+Enrage timer: 11:19  
+<span class='debuff'>Damage Down</span> potency: 39%  
 Loot:*
 
 + *Chest n°1: Abyssos Legs coffer + Moonshine Twine (Armor upgrade)*
@@ -103,6 +104,26 @@ ___
 + **<u>Light of Life</u>:**
 Raid-wide AoE dealing high <span class='magic'>magical damage</span>.
 
+___
+
++ **<u>Hemitheos's Glare</u>:**
+Chasing AoE dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span>. One AoE is drop when the cast is over, and two more after a few seconds on your current position.
+
+___
+
++ **<u>Famine's Harvest</u>:**
+Combinaison of 2 Birds and 6 Minotaurs, 4 with tethers and 2 without. The tethers will be on every Tanks/Healers or every DPS.
+
+___
+
++ **<u>Death's Harvest</u>:**
+Combinaison of 2 Birds on two platforms, 1 Bull on a platform and 2 Bulls on two bridges with tethers. One Bull is tethered to every Tanks/Healers and the other one to every DPS.
+
+___
+
++ **<u>War's Harvest</u>:**
+Combinaison of 2 Birds on two platforms, 1 Bull on the remaining platform with tethers and 2 Minotaurs on 2 bridges of the Bull with tethers. The Bull is tethered to every Tanks/Healers or every DPS.
+
 </div>
 ___
 <h1><a id='Strategy'>Strategy</a></h1>
@@ -155,5 +176,30 @@ Once the debuffs are done, move to the opposite front platform and repeat with m
 Have a small stop between the second and third set in order to mitigate the heavy raid-wide **Light of Life**:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="purga1.jpg;purga2.jpg;purga3.jpg;purga4.jpg" imgDesc="With the Bull South, <em>Holy Purgation</em> move North West and <em>Purgatory Winds</em> North East;<em>Purgatory Winds II</em> move South;<em>Purgatory Winds III</em> move North East;<em>Purgatory Winds IV</em> move South" slideNumber=slideCounter %}
+
+Next is another **Forbidden Fruit** with only 2 Birds in the middle of a platform, the group has to immediatly move to the platform without any Birds before the bridges are broken by **Root of Altis**. Then the boss will cast **Hemitheos's Glare**, stand on the edge and once the first AoE is dropped, start to move toward the Bird that isn't facing you. New bridges will appear allowing you to move towards that platform and dodge the AoEs.
+
+It's now time for the grand finale (no it's just three puzzles), starting with **Famine's Harvest**. 2 platforms will have 2 Minotaurs with tether and 1 Bird (slightly outside), the third platform will have 2 Minotaurs without tether.  
+The players tethered to a Minotaur have to move to the opposite platform along the edge, behind the other Minotaurs with tether and they must cross the tethers.  
+The players without tethers must move towards the Minotaurs to bait the cleave towards the outside and create a safe spot when the Birds dash. Check the diagram below for more precision:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="famine1.jpg;famine2.jpg" imgDesc="Tethered players move on the opposite platform, cross the tethers and stand on the edge. Other players bait their Minotaur;Prayge" slideNumber=slideCounter %}
+
+It is immediatly followed by **Death's Harvest**, where only the Bull on a platform matters. <u>Identify this Bull and consider him as South for the following positions.</u>  
+Tanks has to use their invulnerability to survive and will stack together on the bridge next the Bull platform that isn't cleaved by a bird. The rest will form two groups of 3 on the top left and right platform and get into fixed positions:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="death1.jpg;death2.jpg;death2bis.jpg" imgDesc="Put the platform Bull South and move into these fixed positions. Tanks use their invulnerabilities;Tethers (and Tanks) go BAM;Example where tethers are swapped" slideNumber=slideCounter %}
+For Healers and DPS, use the patterns (and the red lines) on the ground to go into the correct position:
+<img class='soloImg' src='{{ page.imagePath | append: 'deathPos.jpg' }}'>
+
+Now is the last one, **War's Harvest**, with 2 Birds on two platforms with tethers, 2 Minotaurs on bridges with tethers and 1 Bull on the remaining platform with tethers. The players tethered to the Bull will spread around him and aim towards the outside. The players tethered to a bird will move to the opposite bridge, and behind the minotaur if there's one. The players tethered to a Minotaur have to move to the edge of the next (counter) clockwise available platform:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="war1.jpg;war2.jpg" imgDesc="Spread around your Bull, move on the bridge away from your Bird, move to the edge of the adjacent platform of your Minotaur;Go random bulshit" slideNumber=slideCounter %}
+
+Heal everyone and mitigate before the next **Spark of Life**.
+
+Next is **Bough of Altis** on the front platforms with **Hemitheos's Holy III** on both Healers.
+
+Finally, *Agdistis* will cast two **Spark of Life** in a row before casting his enrage **Light of Life**.
 
 </div>

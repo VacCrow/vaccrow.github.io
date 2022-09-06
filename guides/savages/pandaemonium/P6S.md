@@ -9,6 +9,7 @@ slideNumber: 3
 Minimum ilvl: i605  
 DPS Requirement: 53,9k  
 Enrage timer: 10:40  
+<span class='debuff'>Damage Down</span> potency: 31%  
 Loot:*
 
 + *Chest n°1: Abyssos Head/Hand/Foot coffer + Ultralight Tomestone (Weapon Token)*
@@ -24,6 +25,8 @@ ___
 
 + **<u>Hemitheos's Dark IV</u>:**
 Raid-wide AoE dealing high <span class='magic'>magical damage</span>.
+
+  The last cast acts as an enrage.
 
 ___
 
@@ -123,6 +126,8 @@ ___
 + **<u>Ptera Ixou</u>:**
 *Hegemone* will cleave the left and right side of the arena, dealing <span class='magic'>magical damage</span>. The left side is cleaved by the wing while the right side is cleaved by the snake.
 
+  The second cast will place a share and a big AoE on a random player on her left and right side. The left side is attacked by the wing while the right side is attacked by the snake.
+
 </div>
 ___
 <h1><a id='Strategy'>Strategy</a></h1>
@@ -172,7 +177,7 @@ Once everyone got hit by **Dual Predation**, swap side to survive the incomming 
 
 A random **Chelic Synergy** or **Synergy** in comming with a **Hemitheos's Dark IV**.
 
-Next is **Aetheric Polyominoid** with 2 "X" shape tiles placed middle and veryone has to deal with **Dark Sphere**. The Tanks can take the inner North tile and the Melee DPS the South inner one and stand on opposite corner to be safe. Each Ranged can move to his own intercardinal where he'll have one or two safe tiles, while being away from the players middle.  
+Next is **Aetheric Polyominoid** with 2 "X" shaped tiles placed middle and veryone has to deal with **Dark Sphere**. The Tanks can take the inner North tile and the Melee DPS the South inner one and stand on opposite corner to be safe. Each Ranged can move to his own intercardinal where he'll have one or two safe tiles, while being away from the players middle.  
 After the AoE resolve, move away from where you were to dodge **Dark Dome**:
 <img class='soloImg' src='{{ page.imagePath | append: 'darkdark.jpg' }}'>
 
@@ -185,6 +190,13 @@ Example of safe spots:
 
 Another random **Chelic Synergy** or **Synergy** with **Hemitheos's Dark IV**.
 
-**Cachexia** oOOoOOOOOOOoooOoo
+*Hegemone* will cast **Cachexia** and give <span class='speDebuff'>Chelic Resistance Down</span> and <span class='speDebuff'>Glossal Resistance Down</span> to players, move to the correct side based on your debuff. Then **Transmission** will apply <span class='speDebuff'>Chelomorph</span> and <span class='speDebuff'>Glossomorph</span> on players.  
+Following up is another **Aetherial Exchange** and **Polyominoid Sigma** with 2 "X" shaped and 2 "+" shaped tiles. The column where the "X" tiles are and its non-adjacent column are safe, the two rows where the tiles are aren't safe at all. On each side, have the share group and the AoE player on their own tile, then either face or turn away from the boss for the <span class='speDebuff'>Chelomorph</span> and <span class='speDebuff'>Glossomorph</span> debuffs:
+<img class='soloImg' src='{{ page.imagePath | append: 'cachexia.jpg' }}'>
 
+Next is another **Aetherial Exchange** with **Polyominoid Sigma** with **Dark Dome** that must baited. This is resolved the same as the previous one.
+
+Then, *Hegemone* will cast a new **Aetheric Polyominoid** with 2 safe inner tiles mixed up with a **Choros Ixou**. Stand into the safe tile and swap to dodge the second part of **Choros Ixou**.
+
+Now is the last random **Chelic Synergy** or **Synergy** along with **Hemitheos's Dark IV**. Finally here's the enrage **Hemitheos's Dark IV**.
 </div>

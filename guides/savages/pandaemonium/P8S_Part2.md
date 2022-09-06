@@ -1,14 +1,15 @@
 ---
 layout: guides
-title: Abyssos - The Eighth Circle (Savage) | P8S
-imagePath: /assets/img/guides/savages/pandaemonium/P8S/
+title: Abyssos - The Eighth Circle (Savage) | P8S (Part 2)
+imagePath: /assets/img/guides/savages/pandaemonium/P8S_Part2/
 slideNumber: 0
 ---
 
 *Patch: 6.2  
 Minimum ilvl: i610  
-DPS Requirement: xk  
-Enrage timer: xx:00  
+DPS Requirement: 65.3k (double damage phase included)  
+Enrage timer: 08:26  
+<span class='debuff'>Damage Down</span> potency: 50%  
 Loot:*
 
 + *Chest n°1: Abyssos Weapon*
