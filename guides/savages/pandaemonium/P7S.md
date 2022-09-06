@@ -188,7 +188,7 @@ The players without tethers must move towards the Minotaurs to bait the cleave t
 It is immediatly followed by **Death's Harvest**, where only the Bull on a platform matters. <u>Identify this Bull and consider him as South for the following positions.</u>  
 Tanks has to use their invulnerability to survive and will stack together on the bridge next the Bull platform that isn't cleaved by a bird. The rest will form two groups of 3 on the top left and right platform and get into fixed positions:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="death1.jpg;death2.jpg;death2bis.jpg" imgDesc="Put the platform Bull South and move into these fixed positions. Tanks use their invulnerabilities;Tethers (and Tanks) go BAM;Example where tethers are swapped" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="death1.jpg;death2.jpg;death2bis.jpg" imgDesc="Put the platform Bull South and move into these fixed positions. Tanks use their invulnerabilities;Tethers (and Tanks) go BAM;Example with the other pattern" slideNumber=slideCounter %}
 For Healers and DPS, use the patterns (and the red lines) on the ground to go into the correct position:
 <img class='soloImg' src='{{ page.imagePath | append: 'deathPos.jpg' }}'>
 
