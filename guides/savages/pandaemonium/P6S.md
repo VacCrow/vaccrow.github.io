@@ -194,9 +194,10 @@ Another random **Chelic Synergy** or **Synergy** with **Hemitheos's Dark IV**.
 Following up is another **Aetherial Exchange** and **Polyominoid Sigma** with 2 "X" shaped and 2 "+" shaped tiles. The column where the "X" tiles are and its non-adjacent column are safe, the two rows where the tiles are aren't safe at all. On each side, have the share group and the AoE player on their own tile, then either face or turn away from the boss for the <span class='speDebuff'>Chelomorph</span> and <span class='speDebuff'>Glossomorph</span> debuffs:
 <img class='soloImg' src='{{ page.imagePath | append: 'cachexia.jpg' }}'>
 
-Next is another **Aetherial Exchange** with **Polyominoid Sigma** with **Dark Dome** that must baited. This is resolved the same as the previous one.
+Next is another **Aetherial Exchange** with **Polyominoid Sigma** with **Dark Dome** that must baited. If the non-corner tile is "X" shape, the safe spot is 2 tile away from it. Otherwise if it's a "+" shape tile, the safe spot is the inner tile diagonal from it.
 
 Then, *Hegemone* will cast a new **Aetheric Polyominoid** with 2 safe inner tiles mixed up with a **Choros Ixou**. Stand into the safe tile and swap to dodge the second part of **Choros Ixou**.
 
 Now is the last random **Chelic Synergy** or **Synergy** along with **Hemitheos's Dark IV**. Finally here's the enrage **Hemitheos's Dark IV**.
+
 </div>
