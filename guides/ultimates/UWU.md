@@ -446,24 +446,19 @@ ___
 ___
 
 + **<u>Landlside</u>:**
-**Landslide** from *Ultima* on his front, North east and North West.
+**Landslide** from *Ultima* on his front, 2' and 10' o'clock.
 
 ___
-
 
 + **<u>Ultimate Annihilation/u>:**
 
-
 ___
 
-
 + **<u>Ultimate Suppression</u>:**
-
 
 ___
 
 + **<u>Aetheric Boom</u>:**
-
 
 ___
 
@@ -471,7 +466,5 @@ ___
 
 <div class='guideSection' markdown='1'>
 <h2><a id='UltimaStrategy'>Strategy</a></h2>
-
-
 
 </div>
