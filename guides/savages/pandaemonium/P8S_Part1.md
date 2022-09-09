@@ -93,10 +93,7 @@ ___
 <div class='guideSection' markdown='1'>
 <a id='SPhase1'></a>
 
-Look at the four tiles in your quadrant of the arena
-2) Never go to the outside corner tile
-3) If an outside tile never gets a line drawn along the arena edge, it is safe
-4) If both your nearby outside tiles get lines along the arena edge, the inside corner tile is safe
+
 
 </div>
 
