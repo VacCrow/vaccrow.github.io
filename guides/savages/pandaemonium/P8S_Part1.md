@@ -28,13 +28,6 @@ Raid-wide AoE dealing <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<u>Sunforge</u>:**
-Line AoE(s) dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff, based on the animal he summons:
-  + **Sun's Pinion** (Phoinix): lines AoEs on each side of *Hephaistos*.
-  + **Scorching Fang** (Gorgon): one line AoE that goes through *Hephaistos* on his front/back.
-
-___
-
 + **<u>Conceptual Tetraflare/Octoflare</u>:**
 AoE on every players dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff.  
 The **Conceptual** cast will happen 25 seconds later and have a different effect based on its name:
@@ -43,9 +36,22 @@ The **Conceptual** cast will happen 25 seconds later and have a different effect
 
 ___
 
++ **<u>Volcanic Torches</u>:**
+Flames will spawn and move to outline tiles. When a tile or a group of tiles is fully surrounded by flames, it will explode dealing lethal damage.
+
+___
+
+
++ **<u>Sunforge</u>:**
+Line AoE(s) dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff, based on the animal he summons:
+  + **Sun's Pinion** (Phoinix): lines AoEs on each side of *Hephaistos*.
+  + **Scorching Fang** (Gorgon): one line AoE that goes through *Hephaistos* on his front/back.
+
+___
+
 + **<u>Flameviper</u>:**
 Tank buster dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Magic Vulnerability Up</span> for 4 seconds and a <span class='debuff'>Bleed</span> debuff for 15 seconds.  
-**Flameviper** is a two hits tank buster forcing a swap after each hit.  while **Dispersed** hit the top 2 enmity. If a player receive a <span class='debuff'>Bleed</span> while he already got a <span class='debuff'>Magic Vulnerability Up</span>, it will deal lethal damage.
+**Flameviper** is a two hits tank buster forcing a swap after each hit. If a player receive a <span class='debuff'>Bleed</span> while he already got a <span class='debuff'>Magic Vulnerability Up</span>, it will deal lethal damage.
 
 ___
 
@@ -93,7 +99,16 @@ ___
 <div class='guideSection' markdown='1'>
 <a id='SPhase1'></a>
 
+The fight starts with **Genesis of Flame** immediately follwed by **Conceptual Tetraflare/Octoflare**.
 
+The boss will then cast **Volcanic Torches**. Move into your assigned quadrant and check the flame lines for your four tiles. The corner tile is always unsafe then:
+
++ If one of the two outter tiles doesn't have a flame line along the edge, this tile is safe.
++ If both outter tiles have a flame line along the edge, the inner tile is safe.
+
+While you're trying to find your safe tile, *Hephaistos* will cast **Sunforge** cleaving either his side or his front/back. Once you're into your safe tile, either spread or stack with your partner for **Conceptual** and dodge **Sunforge**.
+
+Then *Hephaistos* will cast **Flameviper**, each Tank must swap after each hit.
 
 </div>
 
