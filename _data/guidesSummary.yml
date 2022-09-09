@@ -218,6 +218,8 @@ P8S_Part1:
   - name: Abilities Breakdown
     section:
       - name: General Abilities
+      - name: Gorgon Form
+      - name: Hippokampos Form
   - name: Strategy
     section:
       - name: Phase 1

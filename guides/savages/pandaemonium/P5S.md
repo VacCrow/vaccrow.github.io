@@ -54,12 +54,12 @@ When a tower is failed, a *Lively Bait* will spawn and start to cast **Scatterba
 ___
 
 + **<u>Venomous Mass</u>:**
-Tank buster on the main target dealing <span class='magical'>magical damage</span> and applying a <span class='debuff'>Physical Vulnerability Up</span> and a <span class='debuff'>Poison</span> debuffs.
+Tank buster on the main target dealing <span class='magical'>magical damage</span> and applying a <span class='debuff'>Physical Vulnerability Up</span> and a 12 seconds long <span class='debuff'>Poison</span> debuffs.
 
 ___
 
 + **<u>Toxic Crunch</u>:**
-Tank buster on the main target dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Poison</span> debuff. This specific <span class='debuff'>Poison</span> deals physical damage.
+Tank buster on the main target dealing <span class='phys'>physical damage</span> and applying a 12 seconds long <span class='debuff'>Poison</span> debuff. This specific <span class='debuff'>Poison</span> is lethal if the player already got a <span class='debuff'>Physical Vulnerability Up</span>.
 
 ___
 
