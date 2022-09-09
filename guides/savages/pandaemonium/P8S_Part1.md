@@ -41,7 +41,6 @@ Flames will spawn and move to outline tiles. When a tile or a group of tiles is 
 
 ___
 
-
 + **<u>Sunforge</u>:**
 Line AoE(s) dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff, based on the animal he summons:
   + **Sun's Pinion** (Phoinix): lines AoEs on each side of *Hephaistos*.
