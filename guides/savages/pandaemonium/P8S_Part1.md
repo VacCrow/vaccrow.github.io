@@ -61,6 +61,8 @@ ___
 
 </div>
 
+<h1><a id='AbilitiesBreakdown'>Gorgon Form - Abilities Breakdown</a></h1>
+
 <div class='guideSection' markdown='1'>
 <a id='ABGorgon Form'></a>
 
@@ -84,6 +86,8 @@ ___
 Raid-wide AoE dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.
 
 </div>
+
+<h1><a id='AbilitiesBreakdown'>Hippokampos Form - Abilities Breakdown</a></h1>
 
 <div class='guideSection' markdown='1'>
 <a id='ABHippokampos Form'></a>
