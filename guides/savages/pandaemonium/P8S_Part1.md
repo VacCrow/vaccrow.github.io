@@ -97,7 +97,7 @@ ___
 </div>
 
 <div class='guideSection' markdown='1'>
-<a id='ABGorgon Form'>Gorgon Form Abilities</a>
+<h2><a id='ABGorgon Form'>Gorgon Form Abilities</a></h2>
 
 + **<u>Gorgomanteia</u>:**
 *Hephaistos* will apply <span class='speDebuff'>First in Line</span> <img class='iconImg' src='{{ site.data.iconList.P8S.FirstInLine }}'> to every Tanks/Healers or DPS and <span class='speDebuff'>Second in Line </span> <img class='iconImg' src='{{ site.data.iconList.P8S.SecondInLine }}'> to the others. It only represents which set of debuffs shown below will resolve first.
@@ -131,7 +131,7 @@ ___
 </div>
 
 <div class='guideSection' markdown='1'>
-<a id='ABHippo Form'>Hippo Form Abilities</a>
+<h2><a id='ABHippo Form'>Hippo Form Abilities</a></h2>
 
 + **<u>Rearing Rampage</u>:**
 4 hits raid-wide AoE dealing <span class='phys'>physical damage</span>.
