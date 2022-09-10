@@ -219,12 +219,12 @@ P8S_Part1:
     section:
       - name: General Abilities
       - name: Gorgon Form
-      - name: Hippokampos Form
+      - name: Hippo Form
   - name: Strategy
     section:
-      - name: Phase 1
-      - name: Phase 2
-      - name: Phase 3
+      - name: 1stTransformation
+      - name: Fourfold Fires
+      - name: 2ndTransformation
 
 P8S_Part2:
   - name: Abilities Breakdown
