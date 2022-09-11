@@ -187,6 +187,6 @@ Then the players who got hit by the previous **Inversive Chlamys** will grab the
 
 Next is **Setting the Scene** into **Pinax**, same as previously. Four different **Mekhane** with a random **Swift** between the third and forth **Mekhane**.
 
-*Heperos* will cast **Decollation** three time in a row before enraging. His life needs to be brought down under 50% or it will be a wipe.
+*Heperos* will cast **Decollation** three time in a row before enraging. His needs to be brought down under 50% HP or it will be a wipe.
 
 </div>

@@ -222,9 +222,9 @@ P8S_Part1:
       - name: Hippo Form
   - name: Strategy
     section:
-      - name: 1stTransformation
+      - name: 1st Transformations
       - name: Fourfold Fires
-      - name: 2ndTransformation
+      - name: 2nd Transformations
 
 P8S_Part2:
   - name: Abilities Breakdown
