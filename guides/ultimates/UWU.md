@@ -399,17 +399,17 @@ ___
   + **<u>Landslide</u>:**
   *Titan* spawn at a random cardinal edge, facing the opposite side of the arena and cast a <span class='buff'>Woken</span> **Landslide**.
 
-  ___
+    ___
 
   + **<u>Wicked Wheel</u>:**
   *Garuda* spawn near the middle along an intercardinal and cast a regular **Wicked Wheel**.
 
-  ___
+    ___
 
   + **<u>Crimson Cyclone</u>:**
   *Ifrit* spawn at a random intercardinal edge and cast a a <span class='buff'>Woken</span> **Crimson Cyclone**.
 
-  ___
+    ___
 
   + **<u>Ceruleum Vent</u>:**
   *Ultima* spawn at a random intercardinal edge and cast **Ceruleum Vent**, a pointblank AoE dealing lethal damage.
