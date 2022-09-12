@@ -95,9 +95,11 @@ Order to the debuff from **High Concept** to resolve dealing <span class='magic'
   + <span class='speDebuff'>Imperfection: Alpha</span>, <span class='speDebuff'>Imperfection: Beta</span> and <span class='speDebuff'>Imperfection: Gamma</span> explode in a massive AoE and apply the respective <span class='speDebuff'>Perfection: Alpha</span> <img class='iconImg' src='{{ site.data.iconList.P8S.PerfectionAlpha }}'>, <span class='speDebuff'>Perfection: Beta</span> <img class='iconImg' src='{{ site.data.iconList.P8S.PerfectionBeta }}'>, <span class='speDebuff'>Perfection: Gamma</span> <img class='iconImg' src='{{ site.data.iconList.P8S.PerfectionGamma }}'> buff to anyone hit.
 
   When a player receive a <span class='speDebuff'>Perfection: X</span> buff, they are now able to create concept. Three elements will be shown on top of their head with the main element surrounded by a gold ring.  
-  When two players with a different main element are close to each other, they will tether. After 3 seconds they will create a new concept by combining the two same secondary element creating one of the following: <span class='speDebuff'>Winged Conception</span> <img class='iconImg' src='{{ site.data.iconList.P8S.WingedConception }}'>, <span class='speDebuff'>Aquatic Conception</span> <img class='iconImg' src='{{ site.data.iconList.P8S.AquaticConception }}'>, <span class='speDebuff'>Shocking Conception</span> <img class='iconImg' src='{{ site.data.iconList.P8S.ShockingConception }}'>, <span class='speDebuff'>FieryConception</span> <img class='iconImg' src='{{ site.data.iconList.P8S.FieryConception }}'>.  
-  If two players with the same main element create a new one, they will wipe the group.
+  To create a concept, two players must close to each other and will become tethered. After 3 seconds they will create a new concept based on this table:
+  <img class='soloImg' src='{{ page.imagePath | append: 'tabConcept.jpg' }}'>
 
+  <span class='speDebuff'>Fiery Conception</span> <img class='iconImg' src='{{ site.data.iconList.P8S.FieryConception }}'> is also a hefty DoT. The concepts marked with as "X" aren't used but are also a DoT.  
+  If two players with the same concept create a new one, they will wipe the group.  
   When a player receive a new concept, he also get <span class='speDebuff'>Inconceivable</span> <img class='iconImg' src='{{ site.data.iconList.P8S.Inconceivable }}'> preventing any new concept to be created for 3 seconds.
 
 ___
