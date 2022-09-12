@@ -1,6 +1,13 @@
 # Change Log
 
-## [1.4] - 25/42/2022
+## TODO
+  + TEA Limit Cut
+  + UWU
+
+## [1.5] - 12/09/2022
+  + Abyssos Savage Completed
+
+## [1.4] - 25/02/2022
   + DSR implemented
 
 ## [1.31] - 06/02/2022
