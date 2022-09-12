@@ -85,7 +85,7 @@ Raid-wide AoE dealing high <span class='magic'>magical damage</span>.
 
   The first High Concept cast will randomly apply 1 <span class='speDebuff'>Multisplice</span>, 1 <span class='speDebuff'>Supersplice</span> and 2 of each <span class='speDebuff'>Imperfection: Alpha</span>, <span class='speDebuff'>Imperfection: Beta</span> and <span class='speDebuff'>Imperfection: Gamma</span>. Everyone only has one debuff.
 
-  The second High Concept cast will randomly apply 1 <span class='speDebuff'>Solosplice</span>, 1 <span class='speDebuff'>Multisplice</span> and 2 of each <span class='speDebuff'>Imperfection: Alpha</span>, <span class='speDebuff'>Imperfection: Beta</span> and <span class='speDebuff'>Imperfection: Gamma</span>. Everyone only has one debuff.
+  The second High Concept cast will randomly apply 1 <span class='speDebuff'>Solosplice</span>, 1 <span class='speDebuff'>Multisplice</span> and 2 of each <span class='speDebuff'>Imperfection: Alpha</span>, <span class='speDebuff'>Imperfection: Beta</span> and <span class='speDebuff'>Imperfection: Gamma</span>. Two players will be without debuff and two long <span class='speDebuff'>Imperfection: X</span> will get <span class='speDebuff'>Solosplice</span>, 1 <span class='speDebuff'>Multisplice</span>.
 
 ___
 
