@@ -51,7 +51,7 @@ ___
 
 + **<u>Hand Of Pain</u>:**
 *Liquid Hand* will check the difference of HP with *Living Liquid*. If it's above 5%, it will wipe the group otherwise it will inflict small <span class='magic'>magical damage</span>.
-**Hand of Pain** goes through any Tank invulnerability (L.O.L.).
+**Hand of Pain** goes through Tanks invulnerability (L.O.L.).
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 + **<u>Embolus</u>:**
 Orbs spawning from two random *Tornadoes* after they cast **Protean Wave**. When they spawn, one orb will aim at the position where *Living Liquid* is and the other at *Liquid Hand* position.  
-After a sew seconds, the orbs will start to move in a straight line toward the position they acquiered. If an orb touches either a player or one of the bosses, it will wipe the group.
+After a sew seconds, the orbs will start to move in a straight line toward the position they acquired. If an orb touches either a player or one of the bosses, it will wipe the group.
 
 ___
 
@@ -90,12 +90,12 @@ ___
 
 + **<u>Drainage</u>:**
 Two tethers emanating from two *Tornadoes*. After 5 seconds, they explode as an AoE tank buster around their bearer, dealing <span class='magic'>magical damage</span>.  
-*Tip: when the tethers appear, the Tornadoes scan for targets from the South to the North of the arena (cardinals based on the tornadoes and North being the cardianl without tornado) and will give the tethers to the two first players found. That way, if both tanks are the Southest players, they will automatically get the tethers.*
+*Tip: when the tethers appear, the Tornadoes scan for targets from the South to the North of the arena (cardinals based on the tornadoes and North being the cardinal without tornado) and will give the tethers to the two first players found. That way, if both tanks are the Southernmost players, they will automatically get the tethers.*
 
 ___
 
 + **<u>Throttle</u>:**
-6 random players will recieve a <span class='speDebuff'>Throttle</span> <img class='iconImg' src='{{ site.data.iconList.TEA.Throttle }}'> debuff lasting 10 seconds. Can be removed with Esuna or The Warden's Paean.
+6 random players will receive a <span class='speDebuff'>Throttle</span> <img class='iconImg' src='{{ site.data.iconList.TEA.Throttle }}'> debuff lasting 10 seconds. Can be removed with Esuna or The Warden's Paean.
 
 </div>
 
@@ -291,10 +291,10 @@ ___
 After **Limit Cut**, regroup mid and heal for the incoming **J-Kick** followed by **Whirlwind**.
 
 *Brute Justice* will cast **Judgement Nisi**, giving <span class='speDebuff'>Final Decree Nisi</span> debuffs to the DPSs or the Tanks/Healers. From that moment, do not touch anyone except your partner during the specified “Nisi Pass”. There will be 4 “Nisi Pass” during the phase.  
-*Brute Justice* will also cast **Link Up** appying <span class='speDebuff'>Compressed Lightning</span> on a DPS and <span class='speDebuff'>Compressed Water</span> on a Healer.
+*Brute Justice* will also cast **Link Up** applying <span class='speDebuff'>Compressed Lightning</span> on a DPS and <span class='speDebuff'>Compressed Water</span> on a Healer.
 
 Regroup around the middle of the arena, without touching each other, to bait the **Eye of the Chakram** so they go through the middle of the arena. Once the casts start, spread and move to the edge of the arena to dodge them, out of the *Chakrams* path.  
-While dodging the *Chakrams*, *Cruise Chaser* will cast **Optical Sight**, placing an AoE under everyone. When the *Chakrams* dash, **Optical Sight** will snapshot your position. Since the path is clear, move back mid, still without touching each other, to avoid the **Optical Sight** than will explose a 5 seconds later.
+While dodging the *Chakrams*, *Cruise Chaser* will cast **Optical Sight**, placing an AoE under everyone. When the *Chakrams* dash, **Optical Sight** will snapshot your position. Since the path is clear, move back mid, still without touching each other, to avoid the **Optical Sight** that will explode a 5 seconds later.
 
 {% assign slideCounter = 0 %}
 
@@ -302,7 +302,7 @@ While dodging the *Chakrams*, *Cruise Chaser* will cast **Optical Sight**, placi
 
 *Cruise Chaser* will cast **Photon** setting everyone's HP to 1. Don't hesitate to use a shields so the Nisi DoT or the bosses auto-attacks won’t kill anyone.
 
-<u>First Nisi Pass</u>: meet your assigned parner to give him the <span class='speDebuff'>Final Decree Nisi</span> debuff.
+<u>First Nisi Pass</u>: meet your assigned partner to give him the <span class='speDebuff'>Final Decree Nisi</span> debuff.
 
 Once the pass is done, *Cruise Chaser* will cast **Spin Crusher**. Have the *Cruise Chaser* Tank quickly face him outside to not cleave anyone.
 
@@ -316,7 +316,7 @@ In the mean time, the Healer with <span class='speDebuff'>Compressed Water</span
 {% include slideshow.html imgLink="comp1-1.jpg;comp1-2.jpg;Comp1-3.jpg" imgDesc="Get in position;<span class='speDebuff'>Compressed</span> debuffs resolve;Move away from the <em>Tornado</em>" slideNumber=slideCounter %}
 
 Next *Brute Justice* will now cast **Missile Command**. Since *Brute Justice* is on the West side, **Earth Missile** will be baited on the East side by the *Cruise Chaser* Tank and a designated player (here the Scholar).  
-They will first bait the **Earth Missile** along the edge, then move in to drop the **Hidden Mines**. The mines need to be popped quickly by the *Cruise Chaser* Tank once they're "burried" into the ground.  
+They will first bait the **Earth Missile** along the edge, then move in to drop the **Hidden Mines**. The mines need to be popped quickly by the *Cruise Chaser* Tank once they're "buried" into the ground.  
 The Tank targeted by **Ice Missile** needs to place it near the North *Tornado* to transform it into an *Ice Block* for later. The ice puddle will grow in size over time, so there's no need to put it on top of the *Tornado* since it may bite back if you're coming too close. If the *Cruise Chaser* Tank gets **Ice Missile**, bait the **Hidden Mine**, drop the **Ice Missile** then move to take out the mines.  
 Right after **Earth Missile** is **Enumeration**, it is better to use a priority system such as this one:  
 
@@ -327,7 +327,7 @@ Right after **Earth Missile** is **Enumeration**, it is better to use a priority
 
 {% include slideshow.html imgLink="missile1.jpg;missile2.jpg;missile3.jpg;missile4.jpg;missile5.jpg" imgDesc="<strong>Earth Missiles</strong> on the baiters;Move out for <strong>Hidden Mine</strong>;<strong>Ice Missile</strong> placed next to the <em>Tornado</em>, Healers and DPS group up for <strong>Enumeration</strong>;Everything resolves;The tank takes out the mines" slideNumber=slideCounter %}
 
-<u>Second Nisi Pass</u>: same as before, transfert <span class='speDebuff'>Final Decree Nisi</span> to your partner. You can already get into position after you're done with your **Missile Command** mechanic.
+<u>Second Nisi Pass</u>: same as before, transfer <span class='speDebuff'>Final Decree Nisi</span> to your partner. You can already get into position after you're done with your **Missile Command** mechanic.
 
 Then, the Healer who got the 1st <span class='speDebuff'>Compressed Water</span> will share <span class='speDebuff'>Compressed Lightning</span> with *Brute Justice* Tank.  
 The <span class='speDebuff'>Compressed Water</span> player will go South-West-ish and stack with the available players (no Tanks, no <span class='speDebuff'>Compressed Lightning</span>, no <span class='debuff'>Water Resistance Down II</span> player).  
@@ -337,7 +337,7 @@ In the meantime, *Cruise Chaser* Tank needs to turn his boss toward the center o
 
 {% include slideshow.html imgLink="comp2-1.jpg;comp2-2.jpg;Comp2-3.jpg" imgDesc="Get in position;<span class='speDebuff'>Compressed</span> debuffs resolve;Move away from the <em>Tornado</em>" slideNumber=slideCounter %}
 
-*Brute Justice* will now cast **Verdict** telling you which <span class='speDebuff'>Final Decree Nisi</span> debuff you need for **Gavel**. From now on, <span class='speDebuff'>Final Decree Nisi</span> tranfers will be based on <span class='speDebuff'>Final Judgment: Decree Nisi α, β, γ or δ</span>.
+*Brute Justice* will now cast **Verdict** telling you which <span class='speDebuff'>Final Decree Nisi</span> debuff you need for **Gavel**. From now on, <span class='speDebuff'>Final Decree Nisi</span> transfer will be based on <span class='speDebuff'>Final Judgment: Decree Nisi α, β, γ or δ</span>.
 
 *Cruise Chaser* will cast **Limit Cut**, become invulnerable and spawn a *Plasma Shield* in front of him. The shield can only be damaged from the front and needs to be killed in 6 seconds. *Cruise Chaser* Tank and one DPS should have enough damage to bring it down.  
 Meanwhile, *Brute Justice* will cast **Flamethrower**. In order for **Flamethrower** to be casted at the Tank, only the *Brute Justice* Tank should stand inside its hitbox and aim the attack toward the South *Tornado* to remove it.
@@ -384,7 +384,7 @@ Then **Whirlwind** will be casted twice followed by the enrages **Eternal Darkne
   + <span class='speDebuff'>Aggravated Assault</span> <img class='iconImg' src='{{ site.data.iconList.TEA.AggravatedAssault }}'>: on one Tank/Healer and one DPS. Deals damage when the effect resolves and gives a <span class='debuff'>Physical Vulnerability Up</span> and a <span class='debuff'>Magic Vulnerability Up</span> debuffs making any extra damage lethal.
   + One Tank/Healer and one DPS won’t have any debuffs.  
 
-  Once **Temporal Stasis** cast is completed, everyone will recieve <span class='speDebuff'>Temporal Displacement</span> <img class='iconImg' src='{{ site.data.iconList.TEA.TemporalDisplacement }}'> and time will stop along with your buff timers. The debuffs will be resolved while *Brute Justice* will cast **Flamethrower** towards the two closest targets and *Cruise Chaser* will cast **Alpha Sword** towards the three closest targets.
+  Once **Temporal Stasis** cast is completed, everyone will receive <span class='speDebuff'>Temporal Displacement</span> <img class='iconImg' src='{{ site.data.iconList.TEA.TemporalDisplacement }}'> and time will stop along with your buff timers. The debuffs will be resolved while *Brute Justice* will cast **Flamethrower** towards the two closest targets and *Cruise Chaser* will cast **Alpha Sword** towards the three closest targets.
 
 ___
 
@@ -441,7 +441,7 @@ Only summon two **Steam Chakrams**.
 ___
 
 + **<u>Void Of Repentance</u>:**
-*Alexander Prime* will summon two **Void of Repentance** puddles on the eastern and western side (opposite of each other) of the arena. Each puddle will explode at regualr intervals and must be soaked by one player, reducing its size. It will disappear after the third soak.  
+*Alexander Prime* will summon two **Void of Repentance** puddles on the eastern and western side (opposite of each other) of the arena. Each puddle will explode at regular intervals and must be soaked by one player, reducing its size. It will disappear after the third soak.  
 Soaking a **Void of Repentance** puddle deals <span class='magic'>magical damage</span> and applies a <span class='debuff'>Magic Vulnerability Up</span> and a <span class='debuff'>Vulnerability Up</span> debuffs. If nobody is present when it explodes, it will wipe the raid.
 
 ___
@@ -467,7 +467,7 @@ ___
 ___
 
 + **<u>Divine Judgement</u>:**
-*Alexander Prime* enrage. Extremely long cast time (more than 1 min) and can be used to farm some gauge/ressources before the cast is over.
+*Alexander Prime* enrage. Extremely long cast time (more than 1 min) and can be used to farm some gauge/resources before the cast is over.
 
 </div>
 
@@ -496,7 +496,7 @@ The others four players will be tethered to **Aetheroplasm** orbs. Two orbs will
 In the beginning, move to the opposite side where your orb is and start dragging your orb near *Alexander Prime* so it won’t hinder the players with **Judgement Crystal**. Don't forget to avoid other players orbs.
 Two orbs have to be placed under *Brute Justice* and *Cruise Chaser* while the others have to be placed on the intercardinal next of *Alexander Prime*.
 
-After a few seconds, the **Judgement Crystal** will appear and the *True Heart* (looks like that titan-egi child that nobody wants) will spawn next to Shanoa. The four **Judgement Crystal** players have to move under *Alexander Prime*.  
+After a few seconds, the **Judgement Crystal** will appear and the *True Heart* (looks like that titan-egi child that nobody wants) will spawn next to *Shanoa*. The four **Judgement Crystal** players have to move under *Alexander Prime*.  
 In the mean time, **Aetheroplasm** orbs have reached the players and will explode. Once it's done, all these players have to move under *Alexander Prime* too. (Due to their innate resistance Tanks don't have to be right under *Alexander Prime*).
 
 The *True Heart* will move toward *Alexander Prime* and will detonate the **Judgement Crystals** on its way, dealing proximity-based damages. While the **Judgement Crystals** explode, the group, and especially the tanks, will rotate toward *Brute Justice*.
@@ -505,7 +505,7 @@ The *True Heart* will move toward *Alexander Prime* and will detonate the **Judg
 {% include slideshow.html imgLink="inception1.jpg;inception2.jpg;inception3.jpg;inception4.jpg;inception5.jpg;inception6.jpg" imgDesc="Get into position;Drag the orbs toward <em>Alexander Prime</em>;Reposition yourself to bring the orbs at their position;<strong>Judgement Crystal</strong> players move under <em>Alexander Prime</em>;Orbs players rejoin them;The <em>True Heart</em> will detonate the crystals" slideNumber=slideCounter %}
 
 *Brute Justice* will now use **Flamethrower** on the three closest targets in a succession. One Tank will take the first Flamethrower aimed toward the South of the arena. The other Tank will aim the second Flamethrower toward the middle of the arena, while someone from the rest of the group will bait the last one toward the North and can cleave the rest of group without problem.  
-Dealing damage to the *True Heart* has no importance except building gauge or grinding ressources.
+Dealing damage to the *True Heart* has no importance except building gauge or grinding resources.
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="inception7.jpg;inception8.jpg;inception9.jpg" imgDesc="First <strong>Flamethrower</strong>;Second <strong>Flamethrower</strong>;Third <strong>Flamethrower</strong>" slideNumber=slideCounter %}
@@ -524,7 +524,7 @@ Meanwhile, choose one Tank to always go on the East edge and bait **Super Jump**
 {% include slideshow.html imgLink="inception12.jpg;inception13.jpg" imgDesc="The three baiters have to the closest to <em>Cruise Chaser</em>;After the third <strong>Alpha Sword</strong>, move away from the Eastern Tank" slideNumber=slideCounter %}
 
 Another **Chastening Spear** combo (**Chastening Heat** + **Divine Spear**). Use the Tank invulnerability for these.
-> Due to invulnerabilities duration and the fact that there's 9 seconds between **Chastening Heat** and the last **Divine Spear**, it may be preferable to mitigate and survive the initial **Chastening Heat** before using the Tank invulnerability.
+> ~~Due to invulnerability duration and the fact that there's 9 seconds between **Chastening Heat** and the last **Divine Spear**, it may be preferable to mitigate and survive the initial **Chastening Heat** before using the Tank invulnerability.~~ Not true anymore.
 
 <a id='SWormholeFormation'></a>Now *Alexander Prime* will cast **Wormhole Formation** before disappearing. *Alexander Prime* will teleport South while *Brute Justice* and *Cruise Chaser* will spawn randomly on North East and North West.  
 <u>Let’s consider that *Brute Justice* spawned NW and *Cruise Chaser* spawned NE for the following diagrams.</u>
@@ -537,8 +537,8 @@ Another **Chastening Spear** combo (**Chastening Heat** + **Divine Spear**). Use
 During this part, odd numbers (1,3,5,7) will always be on the West side of the arena while the even numbers (2,4,6,8) will be on the East side. Depending of your numbers, the **Alpha Sword** or **Super Blasty Charge** will **ALWAYS** be baited on the red dot located at these inter-cardinals:
 <img class='soloImg' src='{{ page.imagePath | append: 'wormholeNumbers.jpg' }}'>
 
-> Always use your knockback imunity when getting hit by Limit Cut.  
-> Furthemore, odd number must face the edge of the arena to direct Alpha Sword toward the outside
+> Always use your knockback immunity when getting hit by Limit Cut.  
+> Furthermore, odd number must face the edge of the arena to direct Alpha Sword toward the outside
 
 While the *Steam Chakrams* are casting, *Alexander Prime* will spawn two **Void of Repentance** on the East and West side, opposite to each other.  
 Due to the fact that getting hit by **Limit Cut** and soaking a **Void of Repentance** gives Vulnerability Down debuffs, the puddles need to be soaked by these numbers:
@@ -634,12 +634,12 @@ ___
   + Second mechanic:
     + <span class='speDebuff'>Defamation</span>: on one player. Denoted by a huge explosion.
     + <span class='speDebuff'>Shared Sentence</span>: on one player. Denoted by the large cog explosion.
-    + <span class='speDebuff'>Aggravated Assault</span>: on three players. Denoted by the small cog epxlosion.
+    + <span class='speDebuff'>Aggravated Assault</span>: on three players. Denoted by the small cog explosion.
     + Nothing on three players.
 
-  + Third mechanic: **Ordained Motion** or **Ordained Stillness** for everyone depending on the sword colour. Independant of the previous one.
+  + Third mechanic: **Ordained Motion** or **Ordained Stillness** for everyone depending on the sword colour. Independent of the previous one.
 
-  + Fourth mechanic: Four *Perfect Alexander* will appear on the North side. Three of them will cast **Sacrement**, leaving two safe spots, in front of the one who didn't cast and at the opposite side along the edge.
+  + Fourth mechanic: Four *Perfect Alexander* will appear on the North side. Three of them will cast **Sacrament**, leaving two safe spots, in front of the one who didn't cast and at the opposite side along the edge.
 
 ___
 
@@ -705,7 +705,7 @@ When the forced march from is over, **Ordained Motion/Stillness** cast time will
 Next, *Perfect Alexander* will cast **Optical Sight** twice, either spread then stack or the opposite.
 If it's stack, the players who had a dark debuff will stack on the South side of *Perfect Alexander* while the players who had a light debuff will stack on its North side.
 
-<a id='SFateCalibration⍺'></a>*Perfect Alexander* will start casting **Fate Calibration**. Players should follow their clone and need to pay attention if they receive <span class='speDebuff'>Defamation</span> or <span class='speDebuff'>Aggravated Assault</span>. <span class='speDebuff'>Shared Sentence</span> is automatically resolved so no need to pay attention. Remember the color of the two set of swords for **Ordained Motion/Stillness** and the clone how didn't cast **Sacrement**. It is always one of the two clones next to the North cardinal that don't fire.
+<a id='SFateCalibration⍺'></a>*Perfect Alexander* will start casting **Fate Calibration**. Players should follow their clone and need to pay attention if they receive <span class='speDebuff'>Defamation</span> or <span class='speDebuff'>Aggravated Assault</span>. <span class='speDebuff'>Shared Sentence</span> is automatically resolved so no need to pay attention. Remember the color of the two set of swords for **Ordained Motion/Stillness** and the clone how didn't cast **Sacrament**. It is always one of the two clones next to the North cardinal that don't fire.
 
 When it comes to positions to solve the mechanic, the player with <span class='speDebuff'>Defamation</span> will head to the North safe spot under the *Perfect Alexander* clone that didn’t fire.  
 Meanwhile the rest of the group will move to the South safe spot. Players with <span class='speDebuff'>Aggravated Assault</span> will stack on the right while the rest will stack on the left:
@@ -750,11 +750,11 @@ For example, if the set is: Yellow > Blue > Red. Everyone will stand at C, then 
 
 When the last set of **Almighty Judgment** explodes, **Irresistible Grace** cast will be completed, needing at least 20% mitigation + shields. Since this **Irresistible Grace** and the next one are the last raid-wide damage abilities, it can be over mitigated.
 
-Last tank-busters with **Ordained Capital Punishment** and **Ordained Punishment**. Use a Tank invulnerability or share with Tanks then swap during **Ordained Punishment**.
+Last tank busters with **Ordained Capital Punishment** and **Ordained Punishment**. Use a Tank invulnerability or share with Tanks then swap during **Ordained Punishment**.
 
 Another **Almighty Judgment** is cast, resolved in the same way as the previous. This **Irresistible Grace** doesn’t need to be healed since there is no more raid-wide damage afterwards, allowing the healer to focus on dps.  
 Your second potion of the phase and the LB3 can be popped anytime after **Irresistible Grace** for the last reopener.
 
-*Perfect Alexander* will begin his soft enrage with **Temporal Interference**. The order for the prisons should be based on player DPS, with the lowest DPS being imprisonned first.
+*Perfect Alexander* will begin his soft enrage with **Temporal Interference**. The order for the prisons should be based on player DPS, with the lowest DPS being imprisoned first.
 
 </div>

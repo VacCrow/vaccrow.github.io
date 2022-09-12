@@ -52,9 +52,9 @@ Tank buster dealing <span class='magic'>magical damage</span>, applying a <span 
 ___
 
 + **<u>Reforged Reflection</u>:**
-*Hephaistos* will grow a new body part and perform different mechanics based on his transformation. When he transformes, he'll do one of these:
+*Hephaistos* will grow a new body part and perform different mechanics based on his transformation. When he transforms, he'll do one of these:
   + **Snaking Kick** (Gorgon): pointblank AoE the size of his hitbox. Deals lethal damage.
-  + **Footprint** (Hippokampos): long knockback from *Hephaistos*.
+  + **Footprint** (Hippo): long knockback from *Hephaistos*.
 
 ___
 
@@ -81,7 +81,7 @@ Thin line AoE aimed at everyone dealing <span class='magic'>magical damage</span
 ___
 
 + **<u>Fourfold Fires</u>:**
-Four proximity AoEs will appear on each intercardial dealing <span class='magic'>magical damage</span>. Once it resolves, lava puddles will spawn at the impact points.
+Four proximity AoEs will appear on each intercardinal dealing <span class='magic'>magical damage</span>. Once it resolves, lava puddles will spawn at the impact points.
 
 ___
 
@@ -103,7 +103,7 @@ And for each <span class='speDebuff'>in Line</span> group, 2 <span class='speDeb
   The second cast will apply <span class='speDebuff'>Eye of the Gorgon</span> and <span class='speDebuff'>Blood of the Gorgon</span> on everyone with one buff lasting 23 seconds and the other 29 seconds. 4 players of one role will get a short duration on <span class='speDebuff'>Eye of the Gorgon</span> and the other 4 players will get a long duration. And vice-versa for <span class='speDebuff'>Blood of the Gorgon</span>.  
   Futhermore, 2 random players will get <span class='speDebuff'>Crown of the Gorgon</span> <img class='iconImg' src='{{ site.data.iconList.P8S.CrownOfTheGorgon }}'> and 2 random players will get <span class='speDebuff'>Breath of the Gorgon</span> <img class='iconImg' src='{{ site.data.iconList.P8S.BreathOfTheGorgon }}'>. If <span class='speDebuff'>Crown of the Gorgon</span> is on Tanks/Healers, <span class='speDebuff'>Breath of the Gorgon</span> will be on DPS.
 
-  + <span class='speDebuff'>Crown of the Gorgon</span> is an AoE inflicting <span class='speDebuff'>Petrifaction</span> on anyone hit within direct line of sight. A pretrified *Gorgon* can break the line of sight.  
+  + <span class='speDebuff'>Crown of the Gorgon</span> is an AoE inflicting <span class='speDebuff'>Petrifaction</span> on anyone hit within direct line of sight. A petrified *Gorgon* can break the line of sight.  
   + <span class='speDebuff'>Breath of the Gorgon</span> is a share AoE around the owner, dealing lethal damage to anyone with <span class='speDebuff'>Petrifaction</span>.
 
 ___
@@ -196,7 +196,7 @@ Then *Hephaistos* will cast **Flameviper**, each Tank must swap after each hit.
 <a id='S1stTransformations'></a>
 
 If *Hephaistos* switch to *Gorgon* mode, he'll start with **Gorgomanteia** placing debuffs on everyone.  
-Form two lights groups, the first one will deal with the first mechanic they find starting from the North West incardinal and searching counter-clockwise while the second group will start North and search clockwise. If within one group, both the Tank and the Healer get the same debuff, the Tanks will swap groups and if the two DPS get the same debuff, the two Ranged will swap group.
+Form two lights groups, the first one will deal with the first mechanic they find starting from the North West intercardinal and searching counter-clockwise while the second group will start North and search clockwise. If within one group, both the Tank and the Healer get the same debuff, the Tanks will swap groups and if the two DPS get the same debuff, the two Ranged will swap group.
 
 In the meantime, the first set of *Gorgons* will spawn, when they get close to an (inter)cardinal, look away from them to dodge **Petrification**.  
 Then the <span class='speDebuff'>First in Line</span> players will act. In each group the player with <span class='speDebuff'>Eye of the Gorgon</span> must look at the *Gorgon* to petrify it then the <span class='speDebuff'>Blood of the Gorgon</span> player will move next to it to kill it with the debuff.  
@@ -215,7 +215,7 @@ Then the boss will cast **Stomp Dead**, the first pair must move to the North We
 ___
 
 *Hephaistos* will then revert to his original form and cast **Illusory Creation** followed by **Creation on Command**. Each pair has to move to his assigned quadrant.  
-The first **Command** will always be a **Sun's Pinion** (Phoinix) with a **Scorching Fang** (Dragon) leaving two possible safe spots, either the two tiles North/South or East/West. Spread in the safe spot to avoid cliping other players with **Manifold Flames** AoEs, then the 4 players who didn't get hit will move inside the boss hitbox on intercardinals to bait the second part of **Manifold Flames**:
+The first **Command** will always be a **Sun's Pinion** (Phoinix) with a **Scorching Fang** (Dragon) leaving two possible safe spots, either the two tiles North/South or East/West. Spread in the safe spot to avoid clipping other players with **Manifold Flames** AoEs, then the 4 players who didn't get hit will move inside the boss hitbox on intercardinals to bait the second part of **Manifold Flames**:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="command1.jpg;command2.jpg" imgDesc="Move to the safe spot in your quadrant and spread;Players who didn't get <strong>Manifold Flames</strong> move inside the boss intercardinals for <strong>Nest of Flamevipers</strong>" slideNumber=slideCounter %}
 
@@ -223,7 +223,7 @@ Then move in the inner or in the corner tiles to dodge the second **Command** an
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="command3DDNest.jpg;command3DDTetra.jpg;command3PPNest.jpg;command3PPTetra.jpg" imgDesc="Double <em>Dragons</em> with <strong>Nest of Flamevipers</strong>;Double <em>Dragons</em> with <strong>Tetraflares</strong>;Double <em>Phoinix</em> with <strong>Nest of Flamevipers</strong>;Double <em>Phoinix</em> with <strong>Tetraflares</strong>" slideNumber=slideCounter %}
 
-Dodge the **Volcanic Torches** with one safe spot on a corner and mitigite the incoming **General of Flame**. To easily find the safe spot, watch and follow the fire lines when they appear. They will converge on one corner and when they reach it they will move towards another corner, the corner opposite of that one is the safe spot.
+Dodge the **Volcanic Torches** with one safe spot on a corner and mitigate the incoming **General of Flame**. To easily find the safe spot, watch and follow the fire lines when they appear. They will converge on one corner and when they reach it they will move towards another corner, the corner opposite of that one is the safe spot.
 
 Then *Hephaistos* will use **Reforged Reflection** and switch to *Gorgon* or *Hippo*, the one he didn't use before.
 
@@ -243,7 +243,7 @@ The *Dragons* will jump again, move in light parties to dodge them and while the
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="fourfold3.jpg;fourfold4DOcta.jpg;fourfold4PTetra.jpg" imgDesc="Dodge the third <strong>Fourfold Fires</strong>;Example of <em>Phoinix</em> <strong>Sunforge</strong> with <strong>Tetraflare</strong>;Example of <em>Dragon</em> <strong>Sunforge</strong> with <strong>Octaflare</strong>" slideNumber=slideCounter %}
 
-To end this part, *Hephaistos* will cast another **Flameviper** requirering a double swap.
+To end this part, *Hephaistos* will cast another **Flameviper** requiring a double swap.
 
 </div>
 
@@ -254,7 +254,7 @@ Soon after, *Hephaistos* will transform again into the first form he took then h
 
 ___
 
-If *Hephaistos* starts with *Gorgon* mode, he'll do a **Snaking Kick** so move outsite his hitbox then he'll cast **Gorgomanteia** applying debuffs. He'll continue with **Into the Shadows** and 4 *Gorgons* will spawn at the same time. Everyone has to move into their inner tile quadrant since clones of *Hephaistos* will cast **Gorgospit** on the outer tiles.  
+If *Hephaistos* starts with *Gorgon* mode, he'll do a **Snaking Kick** so move outside his hitbox then he'll cast **Gorgomanteia** applying debuffs. He'll continue with **Into the Shadows** and 4 *Gorgons* will spawn at the same time. Everyone has to move into their inner tile quadrant since clones of *Hephaistos* will cast **Gorgospit** on the outer tiles.  
 Stack with your partner on the (inter)cardinal where there's no *Gorgons* and look away from the boss when they pop out from the ground. Then in each group, the player with the short duration <span class='speDebuff'>Eye of the Gorgon</span> will move to the *Gorgon* and petrify it while the other will drop their <span class='speDebuff'>Blood of the Gorgon</span> on the empty space. Once it's done, swap position with your partner and repeat the same thing:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="gorgo1.jpg;gorgo2.jpg;gorgo3.jpg" imgDesc="Look away from the boss;Player with short <span class='speDebuff'>Eye of the Gorgon</span> move to petrify their <em>Gorgon</em> and stay inside;Swap position with your partner" slideNumber=slideCounter %}
@@ -279,7 +279,7 @@ Once the stack is done, either stay away from the **Quadrupedal Crush** or move 
 For the second **Trailblaizer**, get knocked to perform the next **Quadrupedal Crush/Impact** with ease. At that time, **Volcanic Torches** will start to draw a pattern. Once the **Trailblaizer** happens, the lines will change direction and show you the safe row/column.  
 Then either stay away from the boss' **Quadrupedal Crush** and move into the safe area for **Volcanic Torches** or, use the incoming **Quadrupedal Impact** to get knocked into the safe area.
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="blaze4.jpg;blaze5.jpg;blaze6.jpg" imgDesc="Get kncoked to the safe side;Use the knockback to get into the safe area;Avoid the <strong>Volcanic Torches</strong> explosions" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="blaze4.jpg;blaze5.jpg;blaze6.jpg" imgDesc="Get knocked to the safe side;Use the knockback to get into the safe area;Avoid the <strong>Volcanic Torches</strong> explosions" slideNumber=slideCounter %}
 
 ___
 

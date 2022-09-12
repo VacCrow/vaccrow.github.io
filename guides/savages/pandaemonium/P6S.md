@@ -73,14 +73,14 @@ There is 3 possible mechanics, all dealing dark <span class='magic'>magical dama
 ___
 
 + **<u>Choros Ixou</u>:**
-Dual 90° cleaves dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff. *Hegemone* aims at the North/South simultenously then East/West or starts East/West then North/South.
+Dual 90° cleaves dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff. *Hegemone* aims at the North/South simultaneously then East/West or starts East/West then North/South.
 
 ___
 
 + **<u>Synergy</u>:**
 Double tank buster on the main and second target applying a <span class='debuff'>Bleed</span> debuff for 12 seconds.  
 The hit on the main target deals <span class='magical'>magical damage</span> and also applies a <span class='debuff'> Magic Vulnerability Up</span> debuff for 4 seconds. The hit on the second target deals <span class='magical'>physical damage</span>.  
-Force a Tank swap since the boss auto-atacks are magical.
+Force a Tank swap since the boss auto-attacks are magical.
 
 ___
 
@@ -91,7 +91,7 @@ When it resolves everyone will be <span class='speDebuff'>Out of Control</span> 
 ___
 
 + **<u>Polyominoid Sigma</u>:**
-*Hegemone* summons four explosive tiles with a "+" or a "x" shape. **Polyominoid Sigma** is always empowered by <span class='buff'>Aetherial Exchange</span> forcing one or two sets of two tiles to spwap their positions.
+*Hegemone* summons four explosive tiles with a "+" or a "x" shape. **Polyominoid Sigma** is always empowered by <span class='buff'>Aetherial Exchange</span> forcing one or two sets of two tiles to swap their positions.
 
 ___
 
@@ -143,13 +143,13 @@ Next is **Aetheric Polyominoid** with 2 "+" tiles, leaving the 2 inner tiles eas
 <img class='soloImg' src='{{ page.imagePath | append: 'patho.jpg' }}'>
 
 Next, **Aetherial Exchange** is casted followed by **Exchange of Agonies** with 2 swap tethers. After the swap, the 4 **Darkbursts** will either be on every DPS or every Tanks and Healers while the four others get the 3 **Dark Perimeter** and the **Unholy Darkness**. The players with **Darkburst** has to move to their assigned intercardinal far away from the boss while the rest has to stack middle.  
-While everyone is positionning themselves, *Hegemone* will cast **Choros Ixou** so remember to dodge both cleaves at the same time.
+While everyone is positioning themselves, *Hegemone* will cast **Choros Ixou** so remember to dodge both cleaves at the same time.
 {% assign slideCounter = 0 %}
 {% include slideshow.html imgLink="agonies1-1.jpg;agonies1-2.jpg" imgDesc="<strong>Darkburst</strong> outside at intercardinal, the others in. Dodge <strong>Chorus Ixou</strong>;Dodge the second part of <strong>Chorus Ixou</strong>" slideNumber=slideCounter %}
 
 Then, *Hegemone* will cast **Synergy**, either swap Tanks or have the main Tank use his invulnerability so counter the <span class='debuff'> Magic Vulnerability Up</span> debuff. It is followed by another **Hemitheos's Dark IV**.
 
-Quickly after, **Transmission** is casted placing debuffs on players before casting **Choros Ixou**. When they resolve, the players with <span class='speDebuff'>Chelomorph</span> must look towards the boss and the players with <span class='speDebuff'>Glossomorph</span> must look away from the boss. Furthemore they should be in the safe spot of **Choros Ixou** ready to dodge its second part:
+Quickly after, **Transmission** is casted placing debuffs on players before casting **Choros Ixou**. When they resolve, the players with <span class='speDebuff'>Chelomorph</span> must look towards the boss and the players with <span class='speDebuff'>Glossomorph</span> must look away from the boss. Furthermore they should be in the safe spot of **Choros Ixou** ready to dodge its second part:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="transm1.jpg;transm2.jpg" imgDesc="Move next to <strong>Chorus Ixou</strong>, snakes looking out and wings looking in;Dodge the second part of <strong>Chorus Ixou</strong>" slideNumber=slideCounter %}
 
@@ -173,11 +173,11 @@ Then everyone must move to their assigned intercardinal, with melees in and rang
 **Cachexia** will give debuffs to everyone, players with <span class='speDebuff'>Chelic Resistance Down</span> will move to the right side of the boss and players with <span class='speDebuff'>Glossal Resistance Down</span> to her left. Stay outside of the boss' hitbox, at max melee range, and spread to avoid killing other with your <span class='speDebuff'>Aetheronecrosis</span>.  
 Then, on each side everyone has to get hit once by **Dual Predation**. In order to not die from the <span class='debuff'>Physical Vulnerability Up</span> applied by <span class='speDebuff'>Aetheronecrosis</span>, each player need to take a hit based on their <span class='speDebuff'>Aetheronecrosis</span> initial timer.  
 Move inside the hitbox when it's your turn based on this order: <u>20s > 8s > 12s > 16s</u>.  
-Once everyone got hit by **Dual Predation**, swap side to survive the incomming **Ptera Ixou**.
+Once everyone got hit by **Dual Predation**, swap side to survive the incoming **Ptera Ixou**.
 
-A random **Chelic Synergy** or **Synergy** in comming with a **Hemitheos's Dark IV**.
+A random **Chelic Synergy** or **Synergy** in coming with a **Hemitheos's Dark IV**.
 
-Next is **Aetheric Polyominoid** with 2 "X" shaped tiles placed middle and veryone has to deal with **Dark Sphere**. The Tanks can take the inner North tile and the Melee DPS the South inner one and stand on opposite corner to be safe. Each Ranged can move to his own intercardinal where he'll have one or two safe tiles, while being away from the players middle.  
+Next is **Aetheric Polyominoid** with 2 "X" shaped tiles placed middle and everyone has to deal with **Dark Sphere**. The Tanks can take the inner North tile and the Melee DPS the South inner one and stand on opposite corner to be safe. Each Ranged can move to his own intercardinal where he'll have one or two safe tiles, while being away from the players middle.  
 After the AoE resolve, move away from where you were to dodge **Dark Dome**:
 <img class='soloImg' src='{{ page.imagePath | append: 'darkdark.jpg' }}'>
 

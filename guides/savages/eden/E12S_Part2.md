@@ -115,7 +115,7 @@ When the <span class='speDebuff'>Return</span> debuff resolves, the player is st
 ___
 
 + **<u>Spell-in-Waiting Quietus</u> <img class='iconImg' src='{{ site.data.iconList.E12S.SpellInWaitingQuietus }}'>:**
-Raidwide AoE dealing <span class='magic'>magical damage</span> when it resolves.
+Raid-wide AoE dealing <span class='magic'>magical damage</span> when it resolves.
 
 </div>
 
@@ -191,7 +191,7 @@ ___
 + **<u>Intermediate Relativity</u>:** raid-wide dealing <span class='magic'>magical damage</span> scaling on the number of player dead and will apply the following debuffs:
   + **Spell-in-Waiting Return IV** on everyone, lasting 12 seconds.
 
-  The next debuffs can be separated into 3 groups where each player will recieve one debuff from each group. Each group's debuff will randomly last 23, 27 or 31 seconds:
+  The next debuffs can be separated into 3 groups where each player will receive one debuff from each group. Each group's debuff will randomly last 23, 27 or 31 seconds:
   + **Spell-in-Waiting Dark Eruption** on everyone.
 
   + **Spell-in-Waiting Dark Blizzard III** on either all Tanks/Healers or all DPS and **Spell-in-Waiting Dark Aero III** on the other players (that didn't get **SiW Blizzard III**).

@@ -101,7 +101,7 @@ Eight towers will spawn on the inter-cardinal axis. Will resolve after 10 second
 The central tile under the boss and all the tiles of the outer ring, minus the ones on the cardinals will be removed.  
 All the tiles left will gain the following properties:
   + If a player stays on the same tile for 15 seconds, it will disappear. The tile color will change from yellow to purple, after 10 seconds, as a warning.
-  + If two players stay on the same tile, it will immediatly disappear, killing them.
+  + If two players stay on the same tile, it will immediately disappear, killing them.
 
   Also, every player will also receive two  debuffs:
   + <span class='speDebuff'>Cloying Condensation</span> <img class='iconImg' src='{{ site.data.iconList.E9S.CloyingCondensation }}'> preventing players to jump until the tile layout is changed.

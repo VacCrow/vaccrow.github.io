@@ -9,7 +9,7 @@ slideNumber: 25
 Minimum ilvl: i600  
 Maximum ilvl: i605  
 Maxsubstat ilvl: (i725 probably)  
-DPS Requirement: ~1524890k or a bit less if you sacrifce a Lala  
+DPS Requirement: ~1524890k or a bit less if you sacrifice a Lala  
 Loot:*
 
 + *Token: 1 Dragonsong Totem (1 token for an Ultimate Weapon of the Heavens)*
@@ -34,7 +34,7 @@ Raid-wide AoE from *Ser Adelphel* dealing <span class='magic'>magical damage</sp
 ___
 
 + **<u>Empty Dimension / Full Dimension</u>:**
-AoE based on *Ser Grinnaux* postion, dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff:
+AoE based on *Ser Grinnaux* position, dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff:
   + **Empty Dimension** has a donut shape.
   + **Full Dimension** has a pointblank shape.
 
@@ -119,7 +119,7 @@ ___
 ___
 
 + **<u>Spear of the Fury</u>:**
-*Ser Zephirin* will cast it from outside the arena. *Haufrechant* will move in to intercept the attack. He will receive a <span class='speDebuff'>HP Recovery Down</span> debuff that reduces incoming healing by 100%.  
+*Ser Zephirin* will cast it from outside the arena. *Haurchefant* will move in to intercept the attack. He will receive a <span class='speDebuff'>HP Recovery Down</span> debuff that reduces incoming healing by 100%.  
 While he's alive, *Haurchefant* and the group will get hit by **Shockwave** every second, dealing unaspected raid-wide damage.
 
 ___
@@ -143,7 +143,7 @@ Pull both bosses and bring them middle. Focus *Ser Adelphel* during the opener s
 *Ser Adelphel* will use **Holiest of Holy**.
 
 Next, *Ser Grinnaux* will start casting **Empty Dimension** and *Ser Adelphel* will tether to a random player.  
-The group will move South, on *Ser Grinnaux* hitbox, to mitigate and stack together for the incomming **Heavensblaze**. Meanwhile, one Tank will grab the tether, move North of *Ser Grinnaux* and use his invulnerability to cover for **Holy Shield Bash** and **Holy Blade Dance**.  
+The group will move South, on *Ser Grinnaux* hitbox, to mitigate and stack together for the incoming **Heavensblaze**. Meanwhile, one Tank will grab the tether, move North of *Ser Grinnaux* and use his invulnerability to cover for **Holy Shield Bash** and **Holy Blade Dance**.  
 <img class='soloImg' src='{{ page.imagePath | append: 'holyBash.jpg'}}'>
 
 *Ser Adelphel* will leave the arena and *Ser Grinnaux* will jump to the middle to cast **Hyperdimensional Slash**.  
@@ -168,10 +168,10 @@ Stand inside *Ser Grinnaux* hitbox to get knocked away and easily break the chai
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="chain1.jpg;chain2.jpg;chain3.jpg;chain4.jpg;chain5.jpg" imgDesc="Tanks North and Healers South;Tank/Healer Cross stay, Tank Square move one spot clockwise, Healer Triangle move one spot counter-clockwise;DPS fill the gap and Circles adjust;Stand inside <em>Ser Grinnaux</em> hitbox and get knocked back;Wait for <strong>Heavensflame</strong>" slideNumber=slideCounter %}
 
-The physical ranged DPS (or the Tank in charge of *Ser Grinnaux*) must interrupt **Holiest Hallowing** cast that happend right after **Heavensflame**.
+The physical ranged DPS (or the Tank in charge of *Ser Grinnaux*) must interrupt **Holiest Hallowing** cast that happens right after **Heavensflame**.
 
-Bring back the bosses together. Mitigate the incomming **Holiest of Holy** and move in or out for **Empty/Full Dimension**.  
-Immediatly after, the Tank in charge of *Ser Adelphel* must interrupt the **Holiest Hallowing** cast.  
+Bring back the bosses together. Mitigate the incoming **Holiest of Holy** and move in or out for **Empty/Full Dimension**.  
+Immediately after, the Tank in charge of *Ser Adelphel* must interrupt the **Holiest Hallowing** cast.  
 Afterward, *Sir Adelphel* will cast another **Holiest of Holy**.
 
 Finally they will cast their enrages **Brightblade's Steel** and **The Bull's Steel**.
@@ -186,7 +186,7 @@ The pairs order is the following: <u>Healers -> Ranged DPS -> Melee DPS -> Tanks
 {% include slideshow.html imgLink="planar1.jpg;planar2.jpg;planar3.jpg;planar4.jpg;planar5.jpg;planar6.jpg" imgDesc="Healers move in;Healers to the left side and Ranged DPS move in;Ranged DPS to the right side and Melee DPS move in;Melee DPS to the left side and Tanks move in;Tanks can wait here;Tanks mid and prepare for <strong>Pure of Heart</strong>" slideNumber=slideCounter %}
 
 If one person survive, you'll reach the next phase that has a checkpoint.  
-*Note: if Ser Charibert won't be low enough, you can cheese the mechanic by boosting a Tank mitigation so he may survive the damage or timing a ressurection right when Pure of Heart is happening.*
+*Note: if Ser Charibert won't be low enough, you can cheese the mechanic by boosting a Tank mitigation so he may survive the damage or timing a resurrection right when Pure of Heart is happening.*
 </div>
 
 <h1><a id='Phase2-KingThordan'>Phase 2 - King Thordan</a></h1>
@@ -199,7 +199,7 @@ If one person survive, you'll reach the next phase that has a checkpoint.
 ___
 
 + **<u>Ascalon’s Mercy Concealed</u>:**
-Cone from *King Thordan* aimed at every players dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff. The players positions are snapshoted at the end of the cast and the cones are fired 2 seconds later.
+Cone from *King Thordan* aimed at every players dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff. The players positions are snapshot at the end of the cast and the cones are fired 2 seconds later.
 
 ___
 
@@ -227,7 +227,7 @@ ___
     ___
 
   + **<u>Dimensional Collapse</u>:**
-  Groud AoEs that grow over time, dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Damage Down</span> debuff and a <span class='debuff'>Heavy</span> debuff that last 30 seconds. Grow 7 times before exploding.
+  Ground AoEs that grow over time, dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Damage Down</span> debuff and a <span class='debuff'>Heavy</span> debuff that last 30 seconds. Grow 7 times before exploding.
 
     ___
 
@@ -265,7 +265,7 @@ ___
 
   + **<u>Sacred Sever</u>:**
   Two players will receive a one or two swords marker. After a few second *Ser Zephirin* will dash on the player with the one sword then to the two swords marked player. It will repeat this a second time.  
-  Each hit is a share that deals <span class='phys'>physical damage</span> and applies <span class='debuff'>Physical Vulnerability Up</span> debuff. The damage decreases the futher away the marked player is from *Ser Zephirin*.
+  Each hit is a share that deals <span class='phys'>physical damage</span> and applies <span class='debuff'>Physical Vulnerability Up</span> debuff. The damage decreases the further away the marked player is from *Ser Zephirin*.
 
     ___
 
@@ -312,13 +312,13 @@ Right after, *King Thordan* will perform **Ascalon’s Might** three times in a 
 Next *King Thordan* will summon his Knights and cast **Strength of the Ward**. You can swap Tanks during the cast for later.
 
 <a id='SStrengthOfTheWard'></a>As soon as *King Thordan* leaves, everyone has to spread around the arena and wait for the Dragoon Knights to arrive. If a player has a Dragoon Knight behind him, that player will move towards the middle of the arena telling that his position is unsafe. The player on the opposite side will also move to the middle since it's not safe. The players who moved will regroup at the safe spots with their respective light party in order to dodge **Spiral Thrusts**.  
-Then each light party will form a triangle within their safe spot to avoid overlaping **Lightning Storm**. The Healer shall be on the corner near the middle, the DPS on corners along the edge and the Tank along the edge between the DPS:
+Then each light party will form a triangle within their safe spot to avoid overlapping **Lightning Storm**. The Healer shall be on the corner near the middle, the DPS on corners along the edge and the Tank along the edge between the DPS:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="strength1.jpg;strength2.jpg;strength3.jpg" imgDesc="Spread out;Find the safe spots;Regroup with your party" slideNumber=slideCounter %}
 
 Once both attacks are done, each party regroups and dodge together the **Heavy Impact** AoEs. Watch the enemy list for **Ascalon’s Might** cast bar and move out to dodge them. Then, get some healing before the next mechanics.
 
-Then two Paladin Knights will appear along with **Dimensional Collapse** AoEs and **Conviction** towers. *King Thordan* will also move to the cardinal/incardinal opposite of the Paladin Knights (where they're facing at).  
+Then two Paladin Knights will appear along with **Dimensional Collapse** AoEs and **Conviction** towers. *King Thordan* will also move to the cardinal/intercardinal opposite of the Paladin Knights (where they're facing at).  
 Three non-Tank players will receive a **Skyward Leap** marker and each of them has to move to a safe spot away from *King Thordan*, next to the edge. <u>The two players on cardinals adjacent to <em>King Thordan</em> have to move away from him by a few step.</u>  
 The non-Tank players that aren't marked will move right underneath *King Thordan* to receive **The Dragon’s Rage**. The two Tanks has to quickly grab the **Holy Shield Bash** tethers and run towards *King Thordan* safe spot. The Tanks will take the far left/right corner of the safe spot while crossing the tethers to reduce the damage taken and create a bigger safe zone for the non-marked players.  
 Once **Skyward Leap** and **The Dragon’s Rage** are done. The previously marked players will move into the tower in front of them while the players who stacked will split among the 3 closest towers.
@@ -330,8 +330,8 @@ When *King Thordan* jumps back mid, regroup and heal everyone for the incoming *
 Followed by **Heavenly Heel** into three **Ascalon’s Might**, initiate a Tank swap during **Heavenly Heel** and mitigate or use a Tank invulnerability.  
 Next *King Thordan* will once again summon his Knights and cast **Sanctity of the Ward**.
 
-<a id='SSanctityOfTheWard'></a>Two Paladin Knights will appear mid, facing opposite direction and a Dark Knight (*Ser Zephirin*) will appear along the edge. Quickly identify *Ser Janlenoux* (Silver armour with a white plume), if he's on the West side, everyone will rotate counter-clockwise to dodge, if he's East then it's clockwise. (You can also check the closest Paladin after you're groupped, you'll move towards the intercardinal that this Paladin isn't facing to)  
-When *King Thordan* leaves, quickly form two groups of 4 East and West. Then two **Sacred Sever** markers will appear and groups need to be reajusted:
+<a id='SSanctityOfTheWard'></a>Two Paladin Knights will appear mid, facing opposite direction and a Dark Knight (*Ser Zephirin*) will appear along the edge. Quickly identify *Ser Janlenoux* (Silver armour with a white plume), if he's on the West side, everyone will rotate counter-clockwise to dodge, if he's East then it's clockwise. (You can also check the closest Paladin after you're grouped, you'll move towards the intercardinal that this Paladin isn't facing to)  
+When *King Thordan* leaves, quickly form two groups of 4 East and West. Then two **Sacred Sever** markers will appear and groups need to be readjusted:
 
 + Marked player: they change group in order that #1 is away from *Ser Zephirin* while #2 is near him.
 + Non-marked Tanks: if there's no marker in your group, swap group. Otherwise stay.
@@ -349,22 +349,22 @@ Everyone regroups mid for heal then pre-spread in pairs at each cardinal with a 
 <img class='soloImg' src='{{ page.imagePath | append: 'sanctityMeteor.jpg'}}'>
 
 Two players will get the meteor marker. These players need to be on pair opposite of each other: North and South by default, the only exception is if they're already opposite of each other East and West. If a player need to swap his position, he has to swap with a player of the same role, a Tank/Healer with another Tank/Healer for example.  
-Once the groups are set, each pair has to stand between the **Heavens' Stake** AoEs to place **Heimal Storm** without overlapping inner and outter towers.  
+Once the groups are set, each pair has to stand between the **Heavens' Stake** AoEs to place **Heimal Storm** without overlapping inner and outer towers.  
 After **Heimal Storm** happens, it's time to soak **Conviction** towers within your quadrant:
 
-+ If there's one inner and one outter tower, the meteor player role moves out and the other moves in.
-+ If there's two outter towers, the Tank/Healer takes the most clockwise one while the DPS takes the most counter-clockwise one.
++ If there's one inner and one outer tower, the meteor player role moves out and the other moves in.
++ If there's two outer towers, the Tank/Healer takes the most clockwise one while the DPS takes the most counter-clockwise one.
 + Inner players adjust with the available towers *rollSafe*.
 
 Once the first set of towers are soaked, the meteor players start to run clockwise around the arena without sprinting to reach the tower on the opposite side, North and South.  
 <u>Players with the same role as the meteor players will soak the cardinals towers while the others will soak the intercardinal towers.</u>  
-After a few second **Faith Unmoving** will happen, meteor and outter players must use their knockback immunity while the inner players use the knockback to get into their towers:
+After a few second **Faith Unmoving** will happen, meteor and outer players must use their knockback immunity while the inner players use the knockback to get into their towers:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="sanctity7.jpg;sanctity8.jpg;sanctity9.jpg;sanctity10.jpg;sanctity11.jpg" imgDesc="Preform pairs on cardinals;Adjust pairs to have meteor players on North and South then move away to place the <em>Heimal Storm</em>;Move into your assigned tower;Meteor players start to run around clockwise, outter players get into their towers, inner players aligned themself to their towers;Either use the knockback to get into your towers or use your immunity" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="sanctity7.jpg;sanctity8.jpg;sanctity9.jpg;sanctity10.jpg;sanctity11.jpg" imgDesc="Preform pairs on cardinals;Adjust pairs to have meteor players on North and South then move away to place the <em>Heimal Storm</em>;Move into your assigned tower;Meteor players start to run around clockwise, outer players get into their towers, inner players aligned themselves towards their towers;Either use the knockback to get into your towers or use your immunity" slideNumber=slideCounter %}
 
 From this point, you may hold your 2 minutes cooldown for the reopener on the next phase if needed.  
 *King Thordan* will teleport North and cast **Ultimate End**. Heal and use proper mitigation for this raid-wide.  
-Then *King Thordan* will move a bit towards mid and use **Broad Swing**. Stand behind him and move into the first cleave once it happend. He will turn and repeat this a second time.
+Then *King Thordan* will move a bit towards mid and use **Broad Swing**. Stand behind him and move into the first cleave once it happens. He will turn and repeat this a second time.
 
 The enrage, **Aetheric Burst**, is then casted to end this phase.
 </div>
@@ -411,7 +411,7 @@ ___
 Tower that deals small <span class='magic'>magical damage</span>, applies a <span class='debuff'>Fire Resistance Down II</span> and a <span class='debuff'>Physical Vulnerability Up</span> debuff when soaked. Deals very high raid-wide <span class='magic'>magical damage</span> and applies a <span class='debuff'>Damage Down</span> debuff when not soaked.  
 Once the tower is soaked, a clone of *Nidhogg* appears and casts **Geirskogul**.
 
-  After **Dive from Grace**, 4 towers will spawn at intercardinals, requiering 1 to 4 players per tower where the sum equals 8. Afterward, all the clones but one will cast **Geirskogul**, the last one will cast **Soul Tether**.
+  After **Dive from Grace**, 4 towers will spawn at intercardinals, requiring 1 to 4 players per tower where the sum equals 8. Afterward, all the clones but one will cast **Geirskogul**, the last one will cast **Soul Tether**.
 
 ___
 
@@ -475,7 +475,7 @@ ___
   + <span class='speDebuff'>Clawbound</span> <img class='iconImg' src='{{ site.data.iconList.DSR.Clawbound }}'>: these players will be chained to the *Left Eye*, in red. Any damage taken will also damage the *Left Eye*.
   + <span class='speDebuff'>Fangbound</span> <img class='iconImg' src='{{ site.data.iconList.DSR.Fangbound }}'>: these players will be chained to the *Right Eye*, in blue. Any damage taken will heal the *Right Eye*.
 
-  These debuffs can be swaped if two players with different debuffs touch each other. After swapping, both players will receive a <span class='speDebuff'>Bound and Determined</span> <img class='iconImg' src='{{ site.data.iconList.DSR.BoundAndDetermined }}'> debuff for 3 seconds, preventing them to swap again.
+  These debuffs can be swapped if two players with different debuffs touch each other. After swapping, both players will receive a <span class='speDebuff'>Bound and Determined</span> <img class='iconImg' src='{{ site.data.iconList.DSR.BoundAndDetermined }}'> debuff for 3 seconds, preventing them to swap again.
 
 ___
 
@@ -511,10 +511,10 @@ Raid-wide AoE from both *Left Eye* and *Right Eye* dealing high <span class='mag
 >
 > + <span class='speDebuff'>First in Line</span> and <span class='speDebuff'>Third in Line</span>: they take position on West, South and East of *Nidhogg* hitbox. ***With <span class='speDebuff'>Elusive Jump Target</span> on East facing away from the boss and <span class='speDebuff'>Spineshatter Dive Target</span> on West looking at the boss.***
 > + <span class='speDebuff'>Second in Line</span>: they take position on North East and North West, slightly outside of *Nidhogg* hitbox. If they have <span class='speDebuff'>Elusive Jump Target</span> and <span class='speDebuff'>Spineshatter Dive Target</span>, they must place their tower under each other.
->In this example, the Sumonner will look towards the East to put his tower at *Nidhogg* West side, and the Ninja will look towards the West to put his tower under the Scholar:
+>In this example, the Summoner will look towards the East to put his tower at *Nidhogg* West side, and the Ninja will look towards the West to put his tower under the Scholar:
 ><img class='soloImg' src='{{ page.imagePath | append: 'inLine.jpg'}}'>
 >
->Furthemore, due to <span class='debuff'>Fire Resistance Down II</span> timers, the **Darkdragon Dive** towers must be soaked by specific player based of your debuff:
+>Furthermore, due to <span class='debuff'>Fire Resistance Down II</span> timers, the **Darkdragon Dive** towers must be soaked by specific player based of your debuff:
 >
 > + 1st towers: by <span class='speDebuff'>Third in Line</span> players.
 > + 2nd towers: by <span class='speDebuff'>First in Line</span> East and West players.
@@ -526,18 +526,18 @@ When *Nidhogg* is casting **Dive from Grace** the players will receive their num
 Then, once the cast is over and Dive debuff are set, <span class='speDebuff'>First in Line</span> and <span class='speDebuff'>Third in Line</span> players can readjust to follow the rule of "<span class='speDebuff'>Elusive Jump Target</span> on East and <span class='speDebuff'>Spineshatter Dive Target</span> on West".
 
 Have <span class='speDebuff'>First in Line</span> players ready for the dives, and the rest of the group stacked in front *Nidhogg* for **Eye of the Tyrant** during **Gnash and Lash/Lash and Gnash** cast, remember the in/out or out/in sequence.  
-Once the share and dives happend, quickly move in or out for **Gnash** or **Lash**.  
+Once the share and dives happened, quickly move in or out for **Gnash** or **Lash**.  
 In the meantime the <span class='speDebuff'>Third in Line</span> player have to get in position to soak the tower, remember to run around the boss hitbox if you must dodge **Gnashing Wheel** to reach South. Move out or in for **Lash** or **Gnash** when soaking the towers. Then move out to bait **Geirskogul**.
 
 Example with **Lash and Gnash**:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="dfg1.jpg;dfg2.jpg;dfg3.jpg" imgDesc="<strong>First in Line</strong> dives on East, South and West. The rest stacks North;Dodge <strong>Lashing Wheel</strong>;Dodge <strong>Gnashing Wheel</strong> and <strong>Third in Line</strong> soak towers;Move slightly out to bait <strong>Geirskogul</strong>" slideNumber=slideCounter %}
 
-Right after the second **Lash** or **Gnash** happend, the <span class='speDebuff'>Second in Line</span> players must move to their position to get dived at. Right after, the East and West <span class='speDebuff'>First in Line</span> players will move in to soak the towers and bait the incoming **Geirskogul**.
+Right after the second **Lash** or **Gnash** happened, the <span class='speDebuff'>Second in Line</span> players must move to their position to get dived at. Right after, the East and West <span class='speDebuff'>First in Line</span> players will move in to soak the towers and bait the incoming **Geirskogul**.
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="dfg4.jpg;dfg5.jpg;dfg6.jpg" imgDesc="Move slightly out to bait <strong>Geirskogul</strong>. <strong>Second in Line</strong> dives on North East and North West;East and West <strong>First in Line</strong> soak the towers;Bait <strong>Geirskogul</strong>" slideNumber=slideCounter %}
 
-As soon as the first **Geirskogul** are done, the <span class='speDebuff'>Third in Line</span> players must get into position for their dive and the rest of the party stack North for **Eye of the Tyrant**. Quickly get a look at the **Gnash and Lash/Lash and Gnash** cast and as soon as the **Dark Jumps** and **Eye of the Tyrant** happend, move out or in for **Lash** or **Gnash**.  
+As soon as the first **Geirskogul** are done, the <span class='speDebuff'>Third in Line</span> players must get into position for their dive and the rest of the party stack North for **Eye of the Tyrant**. Quickly get a look at the **Gnash and Lash/Lash and Gnash** cast and as soon as the **Dark Jumps** and **Eye of the Tyrant** happened, move out or in for **Lash** or **Gnash**.  
 Then the <span class='speDebuff'>First in Line</span> South player and <span class='speDebuff'>Second in Line</span> players must get into the towers and dodge out or in for the second **Lash** or **Gnash**. Once it's done, move out and bait the **Geirskogul** as usual.
 
 Example with **Gnash and Lash**:
@@ -547,7 +547,7 @@ Example with **Gnash and Lash**:
 *Nidhogg* will resume his auto-attacks so clear away from the main Tank. He will then cast **Drachenlance** on a random target, dodge it sideways.
 
 Next is the final **Darkdragon Dive** towers, regroups in pairs at each intercardinal. If a tower only need one player, the Tank/Healer will adjust to satisfy another tower condition. The DPS will then bait the three **Geirskogul** towards the outside while the Tanks will grab the two **Soul Tether**. Have one Tank in front of *Nidhogg* and the second under him while the group stay away from them.  
-Tanks must use all their mitigation tools and may need additional help from the Healers. One or both Tanks invulnerabilities can also be used here.
+Tanks must use all their mitigation tools and may need additional help from the Healers. One or both Tanks invulnerability can also be used here.
 
 *Nidhogg* will cast a final **Drachenlance** before his enrage, **Revenge of the Horde**.
 
@@ -572,9 +572,9 @@ Once the orbs are here, Healers and Ranged DPS have to wait for the yellow orbs 
 
 Group up around the *Right Eye* without switching your debuffs. The Healers and Ranged DPS will first move inside the *Right Eye* while the Tanks and Melee DPS will spread around it afterward.  
 Every time a set of **Mirage Dive** is done, the next pairs will swap their debuff and position with the two players hit. The order is the following one:  
-<u>Healers -> Ranged DPS -> Flex</u> (the two players who got hit first, they should have 3s left on their <span class='debuff'>Piercing Resistance Down</span> debuff when the third **Mirage Dive** happend).
+<u>Healers -> Ranged DPS -> Flex</u> (the two players who got hit first, they should have 3s left on their <span class='debuff'>Piercing Resistance Down</span> debuff when the third **Mirage Dive** happened).
 
-If the *Left Eye* and *Right Eye* aren't dead yet, quickly kill them before the next raidwide, **Steep in Rage**, or it will heal up the *Right Eye* (or bring it back to life).  
+If the *Left Eye* and *Right Eye* aren't dead yet, quickly kill them before the next raid-wide, **Steep in Rage**, or it will heal up the *Right Eye* (or bring it back to life).  
 There's only a few seconds left before the Duty Gauge is filled up to kill any remaining *Eye*.
 </div>
 
@@ -587,7 +587,7 @@ There's only a few seconds left before the Duty Gauge is filled up to kill any r
 Once you're back to Phase 1, *Sir Charibert* will start to cast **Pure Heart**. Use the same strategy as previously to deal with with mechanic.  
 When *Haurchefant* appears and in position between you and *Sir Zephirin* (or at the end of **Spear of the Fury** cast), use the Tank LB3 to protect him and reduce the <span class='speDebuff'>HP Recovery Down</span> debuff potency from 100% to 20%. Constantly heal *Haurchefant* so he ends up above 60/70% when **Pure Heart** cast is over. Since he stays alive, the Healers also have to heal the group from the multiples **Shockwave**.
 
-Once **Pure Heart** is over and if *Haurfechant* is still alive, the *Spear of the Fury* will become targetable and cast **Pierce**, killing *Haurfechant* if the cast is completed. Quickly get rid of it to continue the fight in an alternative timeline.
+Once **Pure Heart** is over and if *Haurchefant* is still alive, the *Spear of the Fury* will become targetable and cast **Pierce**, killing *Haurchefant* if the cast is completed. Quickly get rid of it to continue the fight in an alternative timeline.
 </div>
 
 <h1><a id='Phase4-KingThordanRefrain'>Phase 4 - King Thordan Refrain</a></h1>
@@ -617,7 +617,7 @@ ___
     ___
 
   + **<u>Spiral Pierce</u>:**
-  2 random players will receive a proximity tether that cannot be transfered from *Ser Ignasse* and *Ser Vellguine* located at *Vedrfolnir* sides.  
+  2 random players will receive a proximity tether that cannot be transferred from *Ser Ignasse* and *Ser Vellguine* located at *Vedrfolnir* sides.  
   The two Knights will perform a line AoE towards these players dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff lasting 12 seconds. The damage are reduced the further away you are from the Knight.
 
     ___
@@ -662,7 +662,7 @@ ___
     ___
 
   + **<u>Cauterize & Twisting Dive</u>:**
-  Larger **Cauterize** from *Darkscale* and thiner **Twisting Dive** from *Vedrfolnir*. Both attacks don't have a dive marker and go through the middle of the arena.
+  Larger **Cauterize** from *Darkscale* and thinner **Twisting Dive** from *Vedrfolnir*. Both attacks don't have a dive marker and go through the middle of the arena.
 
     ___
 
@@ -709,15 +709,15 @@ In the mean time, the party will move under him since he'll be casting **Empty D
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="wrath4.jpg;wrath5.jpg;wrath6.jpg;wrath7.jpg" imgDesc="Place <em>Sir Grinnaux</em> North;Dive marker goes opposite of him, everyone spread around <em>King Thordan</em>;The players with <strong>Altar Flare</strong> and <strong>Liquid Heaven</strong> bait them away from <em>Sir Grinnaux</em>, the rest moves under him;<strong>Thunderstruck</strong> players spread North while the group stack South" slideNumber=slideCounter %}
 
-*King Thordan* is now targetable and will cast **Ancient Quaga**, remember that his damages are buffed so mitigate accordingly. Followed by **Heavenly Heel** into triple **Ascalon's Might**, swap Tanks to cover the busters or have a Tank invuln through.  
+*King Thordan* is now targetable and will cast **Ancient Quaga**, remember that his damages are buffed so mitigate accordingly. Followed by **Heavenly Heel** into triple **Ascalon's Might**, swap Tanks to cover the busters or have a Tank with his invulnerability.  
 He will summon his Knights once again and cast **Death of the Heavens**.
 
 <a id='SDeathOfTheHeavens'></a>*Sir Gerrique* will appear at a random cardinal and his position will be considered as North for the rest of the mechanic.  
 Split in two groups of 4, Tanks/Healers to the left and DPS to the right and form a North/South line . Then 4 random players will get a <span class='speDebuff'>Doom</span> debuff. Based on the number of <span class='speDebuff'>Doom</span> on each side, take the following positions:
 
 + 2/2 (aka 2 <span class='speDebuff'>Doom</span> on each sides):
-  + The Northmost <span class='speDebuff'>Doom</span> move to the North intercardinal spot while the Southmost <span class='speDebuff'>Doom</span> move to the East/West cardinal on the stone ring.
-  + The Northmost without debuff move to the East/West spot along the edge while the Southmost without debuff move to the South intercardinal spot.
+  + The Northernmost <span class='speDebuff'>Doom</span> move to the North intercardinal spot while the Southernmost <span class='speDebuff'>Doom</span> move to the East/West cardinal on the stone ring.
+  + The Northernmost without debuff move to the East/West spot along the edge while the Southernmost without debuff move to the South intercardinal spot.
 + 3/1 (aka 3 <span class='speDebuff'>Doom</span> on one side and 1 <span class='speDebuff'>Doom</span> on the other side):
   + Side with 3 <span class='speDebuff'>Doom</span>: The player without the debuff stands at the cardinal along the edge.  
     The 3 players with <span class='speDebuff'>Doom</span> stand at the North and South intercardinal along the edge and the cardinal on the stone ring.
@@ -735,7 +735,7 @@ Be mindful, the players at intercardinals must stand on the tiles surrounded in 
 When all the **Thunderstorm** resolve and **Twisting Dive** animation starts, everyone has to move to bait the **Twisters**. At the same time, *Vidofnir* will place a **Wings of Salvation** puddle under all the non-doom players, on top of their **Twisters**.  
 Dodge the **Heavy Impact** from *Sir Gerrique* while moving towards the centre of the arena:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="death1.jpg;death2.jpg;death3.jpg;death4.jpg;death5.jpg" imgDesc="Place <em>Sir Gerrique</em> North and split in two groups;Move to your positions while <strong>Heavy Impact</strong> starts;THE TING GOES SKRAAA;Immediatly move for <strong>Twisters</strong> while dodging <strong>Heavy Impact</strong> donut;Say hello to <em>Sir Grinnaux</em>" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="death1.jpg;death2.jpg;death3.jpg;death4.jpg;death5.jpg" imgDesc="Place <em>Sir Gerrique</em> North and split in two groups;Move to your positions while <strong>Heavy Impact</strong> starts;THE TING GOES SKRAAA;Immediately move for <strong>Twisters</strong> while dodging <strong>Heavy Impact</strong> donut;Say hello to <em>Sir Grinnaux</em>" slideNumber=slideCounter %}
 
 Everyone will regroup around *Sir Grinnaux* for **Holy Chain**:
 
@@ -775,16 +775,16 @@ Players have to uphold *Nidhogg* and *Hraesvelgr* vows. If a vow is broken, the 
 
   + **Mortal Vow** <img class='iconImg' src='{{ site.data.iconList.DSR.MortalVow }}'>:
   *“Condemned by Nidhogg’s vow to avenge his brood-sister. Healing potency is decreased. Taking damage overtime, and will inflict anguish on those nearby in turn when this effect expires.”*  
-  A random DPS will receive <span class='magic'>magical damage</span> along with the <span class='speDebuff'>Mortal Vow</span> debuff, a DoT reducing healing potency by 95% and lasting 34 seconds. When the debuff resolves, it deals AoE <span class='magic'>magical damage</span> around the bearer and <span class='speDebuff'>Mortal Vow</span> is transfered to the closest player with its full duration. The vow is broken when <span class='speDebuff'>Mortal Vow</span> isn't transfered to a player.  
+  A random DPS will receive <span class='magic'>magical damage</span> along with the <span class='speDebuff'>Mortal Vow</span> debuff, a DoT reducing healing potency by 95% and lasting 34 seconds. When the debuff resolves, it deals AoE <span class='magic'>magical damage</span> around the bearer and <span class='speDebuff'>Mortal Vow</span> is transferred to the closest player with its full duration. The vow is broken when <span class='speDebuff'>Mortal Vow</span> isn't transferred to a player.  
 
-    The player who transfered <span class='speDebuff'>Mortal Vow</span> will gain the <span class='speDebuff'>Mortal Atonement</span> <img class='iconImg' src='{{ site.data.iconList.DSR.MortalAtonement }}'> debuff lasting 100 seconds, preventing this player to get <span class='speDebuff'>Mortal Vow</span>.  
+    The player who transferred <span class='speDebuff'>Mortal Vow</span> will gain the <span class='speDebuff'>Mortal Atonement</span> <img class='iconImg' src='{{ site.data.iconList.DSR.MortalAtonement }}'> debuff lasting 100 seconds, preventing this player to get <span class='speDebuff'>Mortal Vow</span>.  
 
     If any more players are present when <span class='speDebuff'>Mortal Vow</span> resolves, they'll get the <span class='speDebuff'>Suppuration</span> <img class='iconImg' src='{{ site.data.iconList.DSR.Suppuration }}'> debuff, reducing their HP by 50% and doubling the damage taken.
 
 ___
 
 + **<u>Swirling Blizzard</u>:**
-Donut AoE dealing lethal damage from *Hraesvelgr*. The AoE will mostly cover the coners of the arena forcing the players to be in the middle of it.
+Donut AoE dealing lethal damage from *Hraesvelgr*. The AoE will mostly cover the corners of the arena forcing the players to be in the middle of it.
 
 ___
 
@@ -792,7 +792,7 @@ ___
 Set of attacks from *Hraesvelgr*:
 
   + **<u>Ice Breath</u>**:
-  3 non-Tank player will get tethered to *Hraesvelgr*. The tether can be strech to switch the colour from purple to blue, dealing higher damage if the tether is purple.  
+  3 non-Tank player will get tethered to *Hraesvelgr*. The tether can be stretch to switch the colour from purple to blue, dealing higher damage if the tether is purple.  
   At the end of the cast, *Hraesvelgr* will attack these players with a cone dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Ice Resistance Down II</span>, <span class='debuff'>Physical Vulnerability Up</span> and a <span class='speDebuff'>Freezing</span> debuff.  
 
     <span class='speDebuff'>Freezing</span> <img class='iconImg' src='{{ site.data.iconList.DSR.Freezing }}'> lasts 11 seconds. When it resolves, it becomes <span class='speDebuff'>Deep Freeze</span> <img class='iconImg' src='{{ site.data.iconList.DSR.DeepFreeze }}'> preventing any movements for 30 seconds. <span class='speDebuff'>Freezing</span> can be cleansed if the player receive <span class='speDebuff'>Boiling</span> from *Nidhogg*.
@@ -813,7 +813,7 @@ ___
 Set of attacks from *Nidhogg*:
 
   + **<u>Fire Breath</u>**:
-  3 non-Tank player will get tethered to *Nidhogg*. The tether can be strech to switch the colour from purple to red, dealing higher damage if the tether is purple.  
+  3 non-Tank player will get tethered to *Nidhogg*. The tether can be stretch to switch the colour from purple to red, dealing higher damage if the tether is purple.  
   At the end of the cast, *Nidhogg* will attack these players with a cone dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Fire Resistance Down II</span>, <span class='debuff'>Physical Vulnerability Up</span> and a <span class='speDebuff'>Boiling</span> debuff.  
 
     <span class='speDebuff'>Boiling</span> <img class='iconImg' src='{{ site.data.iconList.DSR.Boiling }}'> lasts 11 seconds. When it resolves, it becomes <span class='speDebuff'>Pyretic</span> <img class='iconImg' src='{{ site.data.iconList.DSR.Pyretic }}'> dealing high damage when any action is performed for 30 seconds. <span class='speDebuff'>Boiling</span> can be cleansed if the player receive <span class='speDebuff'>Freezing</span> from *Hraesvelgr*.
@@ -844,7 +844,7 @@ He will also perform **Hallowed Plume** at the same time.
 ___
 
 + **<u>Hallowed Plume</u>:**
-Wide AoE tank buster from *Hraesvelgr* on 2 players, dealing <span class='magic'>magical damage</span>. The players are choosen based on *Hraesvelgr* 's head position:
+Wide AoE tank buster from *Hraesvelgr* on 2 players, dealing <span class='magic'>magical damage</span>. The players are chosen based on *Hraesvelgr* 's head position:
   + Head down: target the two closest players.
   + Head up: target the two furthest player.
 
@@ -906,7 +906,7 @@ ___
 
 As soon as *Nidhogg* and *Hraesvelgr* arrive, each Tank has to grab a dragon's aggro. In the meantime, Healers and DPS will form a line from the middle towards the South in this order: Melees, Ranged, Healers.
 
-When **Dread Wyrmsbreath** and **Great Wyrmsbreath** casts start, the DPS and Healers will get a tethers and have to form a pair composed of one Ice and one Fire tether in order to cancel their debuffs. They'll have to strech their tethers first then position themself so each pair only get hit once per element. Use the line you made before to have pre-assigned positions.  
+When **Dread Wyrmsbreath** and **Great Wyrmsbreath** casts start, the DPS and Healers will get a tethers and have to form a pair composed of one Ice and one Fire tether in order to cancel their debuffs. They'll have to position themselves so each pair only get hit once per element. Use the line you made before to have pre-assigned positions.  
 Meanwhile, the Tanks has to check the dragons' mouths:
 
 + Both are glowing: the Tanks stack together middle.
@@ -919,7 +919,7 @@ Example with only *Nidhogg* 's mouth glowing:
 Right after, the DPS have to spread to avoid clipping other people when one of them receives <span class='speDebuff'>Mortal Vow</span>. The order to pass the debuff is the following:  
   DPS > Nidhogg Tank > Hraesvelgr Tank > Melee DPS 1 (or 2) > Phys Ranged DPS (if the Melee DPS 1 got the debuff first, Melee DPS 2 will replace him for the third pass)
 
-Next is **Akh Afah**, split into light party and keep the bosses HP difference within 3%. It deals high damage so mitigate propery.
+Next is **Akh Afah**, split into light party and keep the bosses HP difference within 3%. It deals high damage so mitigate properly.
 
 *Hraesvelgr* will then cast **Hallowed Wings** cleaving the North or South side of the arena. *Nidhogg* will leave the arena to appear North/South and cleave the East or West half with **Cauterize**.  
 Identify and move into the safe quadrant, then check *Hraesvelgr* head for **Hallowed Plume**:
@@ -962,7 +962,7 @@ A new **Akh Afah** will be casted, do the same as previously. This is the last *
 
 Then *Hraesvelgr* will cast **Hallowed Wings** and *Nidhogg* will cast **Hot Tail / Hot Wing**. Same as before, watch out for the side *Hraesvelgr* is cleaving then move to the safe side if **Hot Tail** or move in the middle between the bosses if **Hot Wing**. Both Tanks will adjust based on *Hraesvelgr* head position while being as close as possible to their respective dragon.
 
-> Take care about **Hot Tail** since **Hallowed Wings** cleave will cut the safe spot in two. Check the diagrams below for an exmaple.
+> Take care about **Hot Tail** since **Hallowed Wings** cleave will cut the safe spot in two. Check the diagrams below for an example.
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="halloWingDown.jpg;halloWingUp.jpg;halloTailDown.jpg;halloTailUp.jpg" imgDesc="<strong>Hot Wing</strong> with <em>Hraesvelgr</em> head down;<strong>Hot Wing</strong> with <em>Hraesvelgr</em> head up;<strong>Hot Tail</strong> with <em>Hraesvelgr</em> head down;<strong>Hot Tail</strong> with <em>Hraesvelgr</em> head up" slideNumber=slideCounter %}
@@ -984,11 +984,11 @@ Here is more information about the positions if you're on:
 + Yellow: In the corner formed by **Swirling Blizzard** and the boss inner-hitbox.
 <img class='soloImg' src='{{ page.imagePath | append: 'wyrmbreath2pos.jpg' }}'>
 
-After everything resolve, both wryms will leave and reappear North for **Cauterize**. Players with <span class='speDebuff'>Boiling</span> will move on *Hraesvelgr* side while the players with <span class='speDebuff'>Freezing</span> will move on *Nidhogg* side. The Tanks will move in front of the group and their respective bosses and use their invulnerability. They can also use the rest of their mitigation tools (that can carry over from the previous tankbuster) and keep their invulnarabilities for the last phase.  
+After everything resolve, both wryms will leave and reappear North for **Cauterize**. Players with <span class='speDebuff'>Boiling</span> will move on *Hraesvelgr* side while the players with <span class='speDebuff'>Freezing</span> will move on *Nidhogg* side. The Tanks will move in front of the group and their respective bosses and use their invulnerability. They can also use the rest of their mitigation tools (that can carry over from the previous tank buster) and keep their invulnerability for the last phase.  
 Right before **Cauterize** happens, the debuffs will swap into <span class='speDebuff'>Pyretic</span> and <span class='speDebuff'>Deep Freeze</span> and will be removed if the players are on the correct side. If you end up with <span class='speDebuff'>Pyretic</span>, remember to not perform any action to avoid unnecessary damage.
 <img class='soloImg' src='{{ page.imagePath | append: 'cauterize.jpg' }}'>
 
-After **Cauterize**, stack on the cardinal where it happend. *Nidhogg* and *Hraesvelgr* will come back with **Touchdown** and its proximity damage, *Nidhogg* will jump mid while *Hraesvelgr* will jump on the opposite side where **Cauterize** happend.
+After **Cauterize**, stack on the cardinal where it happened. *Nidhogg* and *Hraesvelgr* will come back with **Touchdown** and its proximity damage, *Nidhogg* will jump mid while *Hraesvelgr* will jump on the opposite side where **Cauterize** happened.
 
 Right after **Touchdown**, *Hraesvelgr* 's Tank will give his <span class='speDebuff'>Mortal Vow</span> to the Physical Ranged DPS.
 
@@ -1055,7 +1055,7 @@ ___
 ___
 
 + **<u>Morn Afah’s Edge</u>:**
-*Dragon-king Thordan* soft enrage. 3 towers will appear on his hitbox. Each tower has to be soaked by one player, killing him in the process. Any unsoaked tower will wipe the group.  
+*Dragon-king Thordan* soft enrage. 3 towers will appear on his hitbox. Each tower has to be soaked by one player, killing him in the process. Any non-soaked tower will wipe the group.  
 *Dragon-king Thordan* will repeat this as soon as the previous towers explode, ultimately wiping the group.
 
     "Ultimately".. do you get it? (◞థ౪థ)ᴖ
@@ -1065,10 +1065,10 @@ ___
 <div class='guideSection' markdown='1'>
 <h2><a id='Phase6-Dragon-kingThordanStrategy'>Strategy</a></h2>
 
-During the transistion, *Estinien* will perform a **Resentment** follow by a **Shockwave**. Be sure to heal the <span class='debuff'>Bleeding</span> damage.  
-Then *Dragon-king Thordan* will perform **Alternative End**. Requiering a lot of mitigations.
+During the transition, *Estinien* will perform a **Resentment** follow by a **Shockwave**. Be sure to heal the <span class='debuff'>Bleeding</span> damage.  
+Then *Dragon-king Thordan* will perform **Alternative End**. Requiring a lot of mitigation.
 
-When *Dragon-king Thordan* become targetable, one Tank has to quickly grab the aggro and keep him turned South since he will immediatly cast **Exaflare's Edge**.  
+When *Dragon-king Thordan* become targetable, one Tank has to quickly grab the aggro and keep him turned South since he will immediately cast **Exaflare's Edge**.  
 Move to the sides of the **Exaflare** that is behind him. Check his blades to see if he's using **Fire's Edge** or **Ice's Edge** and move outside or inside his hitbox.  
 After the first explosion, move inside it. Once the second explosion happen, move towards the edge and stop between the two black diamond shapes on the ground to dodge the third **Exaflare** and the next ones.  
 Example with **Fire's Edge**:
@@ -1081,7 +1081,7 @@ Then *Dragon-king Thordan* will use his triple auto-attacks, **Trinity**. Be sur
 Once the two auto-attacks are done, the Tanks will swap.
 
 Next is **Akh Morn’s Edge**, hitting 5 times. Check *Dragon-king Thordan* for **Fire's Edge** or **Ice's Edge** and move into your tower. Tanks in the tower behind the boss for 2 players. The rest of light parties into 3 players towers. Remember to stand in or outside the boss hitbox before the first hit, then you can move a bit middle to catch the heals.  
-> An alternative way to do it is to have one Tank in a tower with his invulnerabilty, the second Tank in another tower with all his mitigation on and the rest of the group in the last tower.
+> An alternative way to do it is to have one Tank in a tower with his invulnerability, the second Tank in another tower with all his mitigation on and the rest of the group in the last tower.
 
 **Trinity** is making a come back, this time the third auto-attacks will be taken by the Ranged DPS.
 

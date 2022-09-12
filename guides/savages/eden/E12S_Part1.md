@@ -28,7 +28,7 @@ ___
 ___
 
 + **<u>Formless judgement</u>:**
-Two tankbusters in a row on both the main target and the second player in the aggro list. Targets for the first attacks are acquired and set when the cast begins, targets for the second attacks are set when the cast is over.
+Two tank busters in a row on both the main target and the second player in the aggro list. Targets for the first attacks are acquired and set when the cast begins, targets for the second attacks are set when the cast is over.
 
   + *Eden's Promise* attacks on the main target will deal **slash** <span class='phys'>physical damage</span> and apply a <span class='debuff'>Slashing Resistance Down</span> debuff.  
   + *Eden's Promise* attacks on the second target will deal **pierce** <span class='phys'>physical damage</span> and apply a <span class='debuff'>Piercing Resistance Down</span> debuff.
@@ -144,7 +144,7 @@ ___
 
 + **<u>Bomb Boulder</u>:**
 9 boulders will appear: 1 in the middle and 8 spread along the outside of the arena . When the boulders are dropped, they deal small <span class='phys'>physical damage</span>.  
-Each player will then recieve one of these three markers:
+Each player will then receive one of these three markers:
   + <span style='color: darkorange'><strong>Force Of The Land</strong> (orange cube)</span>: the boulder will explode dealing <span class='magic'>magical damage</span> that can be shared and applying a <span class='debuff'>Earth Resistance Down II</span> debuff. The player needs to be with, at least, another player who also carries the <span style='color: darkorange'><strong>Force Of The Land</strong></span> marker during the explosion. If the player is alone, it deals lethal damage.
   + <span style='color: gold'><strong>Pulse Of The Land</strong> (yellow pyramid)</span>: the boulder will explode dealing **earth** <span class='magic'>magical damage</span> and applying a <span class='debuff'>Earth Resistance Down II</span> debuff.
   + <span style='color: dodgerblue'><strong>Weight Of The World</strong> (blue pyramid)</span>: the boulder will explode and the boulders next of it will also explode, dealing **earth** <span class='magic'>magical damage</span> and applying a <span class='debuff'>Earth Resistance Down II</span> debuff. The player needs to be the only one caught in its explosion.
@@ -215,7 +215,7 @@ Soon followed by **Rapturous Reach**. Dodge to the left or right then spread or 
 
 Once **Cast** is done, swiftly spread or stack in groups for the second attack of **Junction Shiva/Titan**.
 
-The Tanks have to be first and second in the enmity list for the incomming **Formless judgement**. Swap tanks during the cast.
+The Tanks have to be first and second in the enmity list for the incoming **Formless judgement**. Swap tanks during the cast.
 The main target will use its invulnerability while the second target will use his defensive colldown to survive, assisted by the healers.
 
 **Maleficium** says hi again.
@@ -299,7 +299,7 @@ Once the *Chiseled Sculptures* appear, everyone will get tether to them. You can
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 
-{% include slideshow.html imgLink="chiseled1.jpg;chiseled2.jpg" imgDesc="Stack with your group;Spread to indentify your assigned number and Sculpture" slideNumber=3 %}
+{% include slideshow.html imgLink="chiseled1.jpg;chiseled2.jpg" imgDesc="Stack with your group;Spread to identify your assigned number and Sculpture" slideNumber=3 %}
 
 Start to move toward your assigned *Sculpture*. <u>BUT the main tank has to keep *Eden's Promise* facing the same direction until he casts **Rapturous Reach**.</u>  
 When **Rapturous Reach** is casting and the safe spot is known, the numbers "One" can position themselves to bait **Blade Of Flame** away.  

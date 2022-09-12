@@ -64,7 +64,7 @@ Tank buster on the main target dealing <span class='phys'>physical damage</span>
 ___
 
 + **<u>Double Rush</u>:**
-*Proto-Carbuncle* will face an intercardinal. At the end of the cast, he will and dash to the corner he's facing. Then he will dash back in the opposite direction. Each dash deals <span class='phys'>physical damage</span> on his path, knocks players away perpandicular from his path (can be immuned) and applies a <span class='debuff'>Physical Vulnerability Up</span> debuff.
+*Proto-Carbuncle* will face an intercardinal. At the end of the cast, he will and dash to the corner he's facing. Then he will dash back in the opposite direction. Each dash deals <span class='phys'>physical damage</span> on his path, knocks players away perpendicular from his path (can be immune) and applies a <span class='debuff'>Physical Vulnerability Up</span> debuff.
 
 ___
 
@@ -104,7 +104,7 @@ If a player is hit by **Starving Stampede**, *Proto-Carbuncle* will eat that pla
 ___
 
 + **<u>Searing Ray</u>:**
-180° front cleave dealing <span class='magic'>magical damage</span> and appying a <span class='debuff'>Damage Down</span> debuff.
+180° front cleave dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.
 
 ___
 
@@ -125,11 +125,11 @@ The fight starts with **Sonic Howl**.
 
 Followed by **Ruby Glow**, remember to mitigate these. The arena will be divided in 4, with 2 *Topaz Stones* and 2 *Poison Stones*. Either move into the quadrant without any *Stones* to have a mostly free quadrant or move to the one with the *Poison Stone* very close to the middle, leaving the corner as a safe spot.
 
-Before the poison pools dissapear, *Proto-Carbuncle* will cast **Venomous Mass**. The main Tank has to cross through the boss to take the hit alone and swap Tanks during the cast. The new main Tank will receive **Toxic Crunch**. Take care of the second Tank since the damage from the <span class='debuff'>Poison</span> and the auto-attacks can be nasty.
+Before the poison pools disappear, *Proto-Carbuncle* will cast **Venomous Mass**. The main Tank has to cross through the boss to take the hit alone and swap Tanks during the cast. The new main Tank will receive **Toxic Crunch**. Take care of the second Tank since the damage from the <span class='debuff'>Poison</span> and the auto-attacks can be nasty.
 
-> The whole tankbuster cannot be cheesed with invulnerability because the <span class='debuff'>Physical Vulnerability Up</span> debuff from **Venomous Mass** along with the <span class='debuff'>Poison</span> from **Toxic Crunch** will be lethal to anyone since the <span class='debuff'>Poison</span> duration is longer than any invulnerabilities.
+> The whole tank buster cannot be cheesed with invulnerability because the <span class='debuff'>Physical Vulnerability Up</span> debuff from **Venomous Mass** along with the <span class='debuff'>Poison</span> from **Toxic Crunch** will be lethal to anyone since the <span class='debuff'>Poison</span> duration is longer than any invulnerability.
 
-Then the **Caustic Pools** will appear. Each one of these will be soaked by player of the same role. The Tanks and Melee DPS will soak the inner ones while the Healers and Ranged DPS will soak the outter ones.  
+Then the **Caustic Pools** will appear. Each one of these will be soaked by player of the same role. The Tanks and Melee DPS will soak the inner ones while the Healers and Ranged DPS will soak the outer ones.  
 You can enter inside when there's 2-3 ticks left to avoid unnecessary damage from <span class='debuff'>Toxicosys</span>.
 
 Another **Venomous Mass** and **Toxic Crunch** combo, swap Tanks as previously.
@@ -156,17 +156,17 @@ Once it's over, the boss will cast **Claw to Tail** or **Tail to Claw** telling 
 <div class='guideSection' markdown='1'>
 <a id='SPhase2'></a>
 
-*Proto-Carbuncle* will then jump back middle and prepare for **Starving Stampede**. Watch out for the *Red Jaw* marker and stand on the opposite quandrant of the second jump. When *Proto-Carbuncle* starts to jump, you have to swap to the opposite quadrant every 2 jumps. This works with any **Starving Stampede** pattern.
+*Proto-Carbuncle* will then jump back middle and prepare for **Starving Stampede**. Watch out for the *Red Jaw* marker and stand on the opposite quadrant of the second jump. When *Proto-Carbuncle* starts to jump, you have to swap to the opposite quadrant every 2 jumps. This works with any **Starving Stampede** pattern.
 
 While he's jumping, **Caustic Pools** will spawn on cardinals and had to be soaked right when the jumps are over. Healers will soak the East pool, Melee DPS the South one and Ranged DPS the West one.  
-The North has be be unsoaked in order to spwan a *Lively Bait* and reset the boss gauge. A Tank must stand next to the pool and use his invulnerability to absorb the damage from **Venom**, since the soak is failed (Also you can have a Tank inside and the second right outside the pool to share the damage of **Venom**).
+The North has to not be soaked in order to spawn a *Lively Bait* and reset the boss gauge. A Tank must stand next to the pool and use his invulnerability to absorb the damage from **Venom**, since the soak is failed (Also you can have a Tank inside and the second right outside the pool to share the damage of **Venom**).
 
 Next is another **Sonic Howl** into **Ruby Glow** dividing the arena in 2. 3 *Topaz Stones* will spawn on one side the wall and 2 *Topaz Stones* on the other side.  
 The two Healers will be targeted by the share **Venom Pool** and if the share hits a *Topaz Stone*, it will transform into a *Poison Stone*. Everyone has to move to the side with 2 *Topaz Stones* and each groups have to do their share next to a *Topaz Stone* so this side of the arena becomes safe. The Healers can stand inside the *Topaz Stone* AoE to be sure to hit it. Remember to move away from the poison afterwards.
 
 *Proto-Carbuncle* will perform another set of **Venomous Mass** and **Toxic Crunch**, swap Tanks again.
 
-It's time for the next **Ruby Glow**, dividing the arena in 4. There will be 2 *Topaz Stones* on opposite quadrants and 2 *Poison Stones* on the other quadrants. Move in light groups into the quandrant with the *Poison Stones*.  
+It's time for the next **Ruby Glow**, dividing the arena in 4. There will be 2 *Topaz Stones* on opposite quadrants and 2 *Poison Stones* on the other quadrants. Move in light groups into the quadrant with the *Poison Stones*.  
 The boss will start to cast **Venom Squall** and when the cast is over the *Topaz Stones* will explode creating more space. Have everyone spread out to not overlap the AoEs, Tanks in between the poison pools, Melee DPS at max melee range and Ranged outside. After, regroup at max melee ranged to bait the AoEs, then move in to do the share group with the Healers (The poison pools disappear when the baited AoEs explode and you have 3 seconds to readjust for the shares if needed).
 {% assign slideCounter = 0 %}
 {% include slideshow.html imgLink="ruby1.jpg;ruby2.jpg;ruby3.jpg;ruby4.jpg;ruby5.jpg" imgDesc="Move in group into the safe quadrant and wait for the <em>Topaz Stones</em> explosions;Spread for <strong>Venom Drop</strong>. Tanks in, Melee DPS at max range and Ranged outside;Regroup at max melee range for <strong>Venom Drop</strong>;Move in to dodge the ground AoEs;Share with the Healers" slideNumber=slideCounter %}

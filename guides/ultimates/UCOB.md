@@ -9,12 +9,12 @@ slideNumber: 10
 Minimum ilvl: i340  
 Maximum ilvl: i345  
 Maxsubstat ilvl: i418 (if you use a Bozjan relic weapon, the substats are capped to 280, 200 and 80 for a paladin sword and shield)  
-DPS Requirement: non existant KEKW  
+DPS Requirement: non existent KEKW  
 Loot:*
 
 + *Token: Dreadwyrm Totem (1 token for an Ultimate Dreadwyrm weapon)*
 
-*Notes: Only one pot can be used on the last phase so use it during the raid buff window for maximum efficency. Adjust to your group.*
+*Notes: Only one pot can be used on the last phase so use it during the raid buff window for maximum efficiency. Adjust to your group.*
 
 ___
 <h1><a id='Phase1-Twintania'>Twintania</a></h1>
@@ -103,7 +103,7 @@ If the **Neurolink** isn't dropped yet, she will repeat **Liquid Hell** => **Gen
 
 Once the second **Neurolink** is on the ground, move her to the final location.
 
-Another **Liquid Hell** on the baiter followed by a double **Generate**. Either callout which **Neurolink** you're using or use a priority system.
+Another **Liquid Hell** on the baiter followed by a double **Generate**. Either call which **Neurolink** you're using or use a priority system.
 
 Once the **Hatches** explode, one random DPS will get the **Fireball** marker and a random player (except the main Tank) will get targeted by **Liquid Hell** for all 5 hits.  
 If you're a melee or you've got the **Fireball** marker, try to bait the **Liquid Hell** so you can end up stacking with the rest of the group.
@@ -124,12 +124,12 @@ The last **Death Sentence** and the enrage, **Aetheric Profusion**, right after.
 <h2><a id='Phase2-NaelDeusDarnusAbilitiesBreakdown'>Abilities Breakdown</a></h2>
 
 + **<u>Heavensfall</u>:**
-A giant allagan monolith will fall down, performing a raidwide AoE dealing <span class='magic'>magical damage</span> scaling down the further you are from the centre and knock backing everyone. The centre of the arena is also becoming a death zone as long as the monolith is here.
+A giant allagan monolith will fall down, performing a raid-wide AoE dealing <span class='magic'>magical damage</span> scaling down the further you are from the centre and knock backing everyone. The centre of the arena is also becoming a death zone as long as the monolith is here.
 
 ___
 
 + **<u>Thermionic Bursts</u>:**
-Divides the arena into 16 pie slices. 8 non adjacents slices will glow before exploding then after 4 seconds, the 8 others will also explode. Deals high <span class='magic'>magical damage</span> and apply a <span class='speDebuff'>Paralysis</span> debuff.  
+Divides the arena into 16 pie slices. 8 non adjacent slices will glow before exploding then after 4 seconds, the 8 others will also explode. Deals high <span class='magic'>magical damage</span> and apply a <span class='speDebuff'>Paralysis</span> debuff.  
 
    During *Bahamut Prime* phase, two opposites slices will explodes. Then the explosions will either rotate clockwise or counter-clockwise.
 
@@ -267,7 +267,7 @@ Next, *Nael* will summon the dragons and buff herself with **Bahamut's Favor**. 
 
 Two players will get the <span class='speDebuff'>Thunderstruck</span> debuff while *Nael* <u>first quote</u> is pronounced. It will be **Lunar Dynamo** followed by **Iron Chariot** (*O hallowed **moon**, shine you the **iron** path!*) or **Thermionic Beam** (*O hallowed **moon**, take **fire and scorch** my foes!*)  
 The players with <span class='speDebuff'>Thunderstruck</span> will move to *Nael* side rear while the rest of the group will stack in front of her.  
-<span class='speDebuff'>Thunderstruck</span> and the **Lunar Dynamo** will resolve at the same time, then either stack for **Thermonic Beam** or move out for **Iron Chariot**. Once it's is done, the whole group will stack together for **Fireball**.  
+<span class='speDebuff'>Thunderstruck</span> and the **Lunar Dynamo** will resolve at the same time, then either stack for **Thermionic Beam** or move out for **Iron Chariot**. Once it's is done, the whole group will stack together for **Fireball**.  
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 
@@ -278,7 +278,7 @@ When the first **Wing of Salvation** puddle explode, the player with the 5s <spa
 
 Have a break while *Nael* uses **Bahamut's Claw** on the main Tank.
 
-Another player will get tethered for **Fireball**, that player will move alone behind *Nael* while the rest stack in front of her. When the **Fireball** is done, the players with the newly acquired Thunderstuck will move behind *Nael* so it can resolve in peace.
+Another player will get tethered for **Fireball**, that player will move alone behind *Nael* while the rest stack in front of her. When the **Fireball** is done, the players with the newly acquired <span class='speDebuff'>Thunderstruck</span> will move behind *Nael* so it can resolve in peace.
 
 Quickly stack middle for the <u>second quote</u> since it will be **Thermionic Beam** followed by either **Iron Chariot** (***Blazing** path, lead me to **iron** rule!*) or **Lunar Dynamo** (*Take **fire**, O hallowed **moon**!*). Think about using mitigation for **Thermionic Beam**.  
 When the second part of the quote is performed, a new set of **Wing of Salvation** and <span class='speDebuff'>Doom</span> debuff will happen. The player with 5s on his debuff takes the first cleanse puddle, the one with 10s takes the second and the one with 15s takes the last. To sum up, if you have 3-4 seconds left on your debuff, it's your turn to cleanse.  
@@ -323,12 +323,12 @@ ___
 ___
 
 + **<u>Flare Breath</u>:**
-Mini tankbuster cleave dealing <span class='magic'>magical damage</span>.
+Mini tank buster cleave dealing <span class='magic'>magical damage</span>.
 
 ___
 
 + **<u>Flatten</u>:**
-Tankbuster dealing massive <span class='phys'>physical damage</span>.
+Tank buster dealing massive <span class='phys'>physical damage</span>.
 
 ___
 
@@ -354,7 +354,7 @@ ___
   + **Megaflare** towers will appear. Each tower need to (At least?) one player standing inside and will receive small <span class='magic'>magical damage</span>. Otherwise, the tower will explode dealing raid-wide lethal damage.
   + Four big **Megaflare** puddles will appear on the ground. After a while, they will explode dealing <span class='magic'>magical damage</span>.  
 
-  Due to Square Enix reasons, every mechanic written above won't appear simultaneously on each Megaflare cast (more information about it in the **Trio** sections)
+  Due to Square Enix reasons, every mechanic written above have the same name but won't appear simultaneously on each Megaflare cast (more information about it in the **Trio** sections).
 
 ___
 
@@ -438,7 +438,7 @@ Stay spread and wait for the **Megaflare** puddles and AoEs to happen.
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="quickmarch1.jpg;quickmarch2.jpg;quickmarch3.jpg;quickmarch4.jpg;quickmarch5.jpg;quickmarch6.jpg" imgDesc="Move to the sides;You can move as soon as the dive happen;The <strong>Twisters</strong> are baited; Spread for <strong>Megaflare</strong> AoEs and puddles;<strong>Megaflare</strong> to the back, DPS <strong>Earthshaker</strong> in front and Healers to the side, Tanks between Healers and <em>Bahamut</em> with <strong>Tempest Wing</strong>;<strong>Megaflare</strong>, <strong>Earthshaker</strong> and <strong>Tempest Wing</strong> resolve in this order" slideNumber=slideCounter %}
 
-*Bahamut Prime* will continue with **Flare Breath** and a **Flatten**. You can use the cooldown(s) from **Tempest Wing** running for these tankbusters.
+*Bahamut Prime* will continue with **Flare Breath** and a **Flatten**. You can use the cooldown(s) from **Tempest Wing** running for these tank busters.
 
 <a id='SBlackfireTrio'></a>The gang is back again for **Blackfire Trio**.  When it starts, the group has to face *Nael* and when the first **Liquid Hell** appears, start to move towards *Nael* (don't use sprint except if you're late compare to the rest of the group). Between the third and fourth **Liquid Hell**, *Nael* will use **Thermionic Beam** on the group but keep moving towards her. After **Thermionic Beam**, try to get everyone healed up quickly as the group will split in two, while facing *Nael*, Tanks and Healers to the left and DPS to the right.  
 One Tank, one Healer and two DPS will get a **Megaflare** marker, they will stack behind the fire puddle, opposite of *Nael*. 4 **Megaflare** towers will spawn on each side but don't step inside yet. Wait for the first **Hypernova** to be fired to move in the tower. If the stack is targeted by a **Hypernova**, move away from *Nael* to stay stack.  
@@ -565,7 +565,7 @@ But at the same time, *Twintania* will also cast **Twister**. If you're standing
 When the three mechanics from the quote are over, **Twister** is cast.
 
 Mitigate the incoming **Megaflare** from *Nael*.  
-Then **Ravensbeak** and **Death Sentence** tankbusters will require a Tank swap. Followed by their respective instant tankbusters: **Bahamut's Claw** and **Plumet**.
+Then **Ravensbeak** and **Death Sentence** tank busters will require a Tank swap. Followed by their respective instant tank busters: **Bahamut's Claw** and **Plumet**.
 
 From now on, it will be a repeat. *Twintania* will use **Liquid Hell** followed by a triple **Generate** and **Twister**.
 
@@ -593,7 +593,7 @@ AoE on a random player dealing very high <span class='magic'>magical damage</spa
 ___
 
 + **<u>Akh Morn</u>:**
-AoE tankbuster dealing high <span class='magic'>magical damage</span> that must be shared between the Tanks. It will hit three times + one time per **Akh Morn** previously cast.
+AoE tank buster dealing high <span class='magic'>magical damage</span> that must be shared between the Tanks. It will hit three times + one time per **Akh Morn** previously cast.
 
 ___
 

@@ -68,8 +68,8 @@ ___
 
 + **<u>Trail of Condemnation</u>:**
 *Phoinix* will leave and reappear on the edge of the arena at a cardinal, diving in a straight line. Will perform different attacks based on his beaks that are ready to fire:
-  + Middle head: *Phoinix* will dive in a straight line in front of him leaving the sides safe, deals <span class='magic'>magical damage</span> and applies a <span class='debuff'>Damage Down</span> debuff if hit. Then he will immadiatly use **Flare of Condemnation** on every player.
-  + Side heads: *Phoinix* will dive in a straight line leaving the path in front of him safe, deals <span class='magic'>magical damage</span> and applies a <span class='debuff'>Damage Down</span> debuff if hit. Then he will immadiatly use **Flare of Condemnation** on either the DPS or Tanks/Healers.
+  + Middle head: *Phoinix* will dive in a straight line in front of him leaving the sides safe, deals <span class='magic'>magical damage</span> and applies a <span class='debuff'>Damage Down</span> debuff if hit. Then he will immediately use **Flare of Condemnation** on every player.
+  + Side heads: *Phoinix* will dive in a straight line leaving the path in front of him safe, deals <span class='magic'>magical damage</span> and applies a <span class='debuff'>Damage Down</span> debuff if hit. Then he will immediately use **Flare of Condemnation** on either the DPS or Tanks/Healers.
 
 ___
 
@@ -103,7 +103,7 @@ When soaked, it deals massive fire <span class='magic'>magical damage</span> and
 ___
 
 + **<u>Sun's Pinion</u>:**
-The two closest players from *Phoinix* will recieve an AoE, when it resolves a *Sunshadow* will spawn and get tethered to that player. It's a proximity tether and after 6 seconds, it will dash toward that player.  
+The two closest players from *Phoinix* will receive an AoE, when it resolves a *Sunshadow* will spawn and get tethered to that player. It's a proximity tether and after 6 seconds, it will dash toward that player.  
 Both attacks deal fire <span class='magic'>magical damage</span> and apply a <span class='debuff'>Fire Resistance Down II</span> debuff lasting 4 seconds.
 
 ___
@@ -133,7 +133,7 @@ ___
 ___
 
 + **<u>Death's Toll</u>:**
-Each player will recieve a <span class='speDebuff'>Death's Toll</span> <img class='iconImg' src='{{ site.data.iconList.P3S.DeathsToll }}'> debuff lasting 25 seconds with either 1, 2 or 4 stacks. Four players with 1 stacks, two others with 2 stacks and the two last ones with 4 stacks.  
+Each player will receive a <span class='speDebuff'>Death's Toll</span> <img class='iconImg' src='{{ site.data.iconList.P3S.DeathsToll }}'> debuff lasting 25 seconds with either 1, 2 or 4 stacks. Four players with 1 stacks, two others with 2 stacks and the two last ones with 4 stacks.  
 When it resolves, if the player still has one stack he will die. A stack is removed when the player is hit by lethal damage.  
 When all stacks are removed, the player will be inflicted by a <span class='debuff'>HP Recovery Down</span> debuff, lasting 15 seconds.
 
@@ -150,7 +150,7 @@ Raid-wide AoE dealing very high <span class='magic'>magical damage</span> that s
 + **<u>Blazing Rain</u>:**
 Periodic raid-wide AoE dealing small <span class='magic'>magical damage</span> during the add phase.  
 Small *Sunbirds* will spawn on cardinal. After 30 seconds, they will cast **Great Whirlwind** dealing high raid-wide <span class='magic'>magical damage</span>.  
-Once dead, they will reborn into bigger *Sunbirds*. After 45 seconds, they will cast **Great Whirlwind** dealing high raid-wide <span class='magic'>magical damage</span>. Once they are reborn, they will cast **Fireglide Sweep**. They will tether themself to a random Tank/Healer and that player will be tethered to a random DPS (roles here can be randomly swaped). After 10 seconds, they will to the first player they're tethered with and soon after, to the seconds. **Fireglide Sweep** is a line AoE dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Blunt Resistance Down</span> to anyone of its path.
+Once dead, they will reborn into bigger *Sunbirds*. After 45 seconds, they will cast **Great Whirlwind** dealing high raid-wide <span class='magic'>magical damage</span>. Once they are reborn, they will cast **Fireglide Sweep**. They will tether themselves to a random Tank/Healer and that player will be tethered to a random DPS (roles here can be randomly swapped). After 10 seconds, they will to the first player they're tethered with and soon after, to the seconds. **Fireglide Sweep** is a line AoE dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Blunt Resistance Down</span> to anyone of its path.
 When all adds are dead, any *Sunbirds* close to another one will raise and fuse with *Phoinix* filling the boss' gauge.
 
 ___
@@ -194,7 +194,7 @@ In the middle of **Experimental Fireplume** attack, *Phoinix* will cast **Trail 
 
 *Phoinix* will come back in the middle of the arena untargetable. Then four *Sunbirds* add will spawn. Have one Tank take the North and West one and the other Tank the remaining ones. Adds must be killed along the edge on a different cardinal for each add.
 
-Then *Phoinix* will cast **Flames of Undeath**, ressurecting them into bigger version that will immediatly cast **Fireglide Sweep**. Players tethered to a *Sunbird* must move to the opposite site. And the other players must move to the opposite side of the player they are tethered with. The result should be, one Tank/Healer and one DPS sourrouding each *Sunbird*:
+Then *Phoinix* will cast **Flames of Undeath**, resurrecting them into bigger version that will immediately cast **Fireglide Sweep**. Players tethered to a *Sunbird* must move to the opposite site. And the other players must move to the opposite side of the player they are tethered with. The result should be, one Tank/Healer and one DPS surrounding each *Sunbird*:
 <img class='soloImg' src='{{ page.imagePath | append: 'adds1.jpg' }}'>
 
 Then the *Sunbirds* will dash. Once a player get dashed in, take a side step to get out of the *Sunbird* path for the second dash. Don't forget to damage them as much as possible but don't kill them yet:
@@ -222,24 +222,24 @@ Example with 1 orb for the **Experimental Ashplume** part:
 Regroup to heal everyone and get ready for **Fountain of Fire**. During the cast, let the Tanks being the closest to the boss since the first **Sun's Pinion** bait is immediate:
 <img class='soloImg' src='{{ page.imagePath | append: 'fount1.jpg' }}'>
 
-When the first Fountains appear, the Healers must move into them, on their respective sides, ready to soak them. Healers must heal themself after each soak.  
+When the first Fountains appear, the Healers must move into them, on their respective sides, ready to soak them. Healers must heal themselves after each soak.  
 Meanwhile the rest of the group will split in 3 to bait the **Sun's Pinion** AoEs, Tanks, Melees and Ranged in this order. Everyone should be outside *Phoinix*' hitbox except the baiters who should be inside.  
 When a player gets his **Sun's Pinion**, he will place it in front of the Fountain of their respective healer. The Tanks will place their AoEs in front of the first Fountains, Melees in front of the seconds and Ranged in front of the third. When a player *Sunshadow* appears, he has to wait half a second for the previous *Sunshadows* to dash then move across the arena to stand behind the opposite *Sunshadow* and wait here for his dash:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="fount2.jpg;fount3.jpg;fount4.jpg;fount5.jpg;fount6.jpg;fount7.jpg;fount8.jpg;fount9.jpg" imgDesc="Watch the first fountains to find your positions;Tanks move out and Melees move in;Melees get their <strong>Sun's Pinion</strong>;Melees move back, Ranged move in;Tanks swap positions, Ranged get their <strong>Sun's Pinion</strong>;1st dash happens, Melees swap positions, Ranged move out;2nd dash happens;Ranged swap positions" slideNumber=slideCounter %}
 
-After the last Fountains, regoup mid to heal and shield everyone with the <span class='debuff'>Trickle of Fire</span> debuff for the two incoming **Scorched Exaltation** followed by **Heat of Condemnation**.
+After the last Fountains, regroup mid to heal and shield everyone with the <span class='debuff'>Trickle of Fire</span> debuff for the two incoming **Scorched Exaltation** followed by **Heat of Condemnation**.
 
 *Phoinix* will then cast **Firestorms of Asphodelos**. Heal everyone for **Flames of Asphodelos** into **Experimental Ashplume**, dodge the cones then either spread around the boss or stack in Melees and Ranged groups.
 
 Afterward **Flames of Asphodelos** will be casted again but with **Storms of Asphodelos** this time. Dodge the cones again and have two ranged DPS and a Healer bait the Tornadoes cones toward the outside, the Tanks must grab the tethers and move South outside the hitbox while the remaining Healer and the two Melees move inside the boss' hitbox to bait the cones toward the East, West and North East/West (based on where the other Healer is).  
 If both Tanks have their invulnerability, they can grab the tethers and move South inside the boss' hitbox and use them, one ranged will bait the North Tornado toward the outside and the rest of group stack North-ish at max melee range, on the opposite side of the ranged DPS:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="stormAsphoLegit.jpg;stormAsphoInvul.jpg" imgDesc="'Classic' strategy;Startegy using Tanks' invulnerability" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="stormAsphoLegit.jpg;stormAsphoInvul.jpg" imgDesc="'Classic' strategy;Strategy using Tanks' invulnerability" slideNumber=slideCounter %}
 
 Next is **Darkblaze Twister** into **Experimental Ashplume**, regroup in front of the black tethered Tornado and rotate clockwise around *Phoinix* to bait the 4 **Searing Breeze**. Then move back to the black Tornado, get knockback away and stack into the Tornadoes' AoE in group, Melees on one and Ranged on the other. Then stay stack or spread based on **Experimental Ashplume** pattern.
 
-Quickly regroup and heal for the incomming **Scorched Exaltation**.
+Quickly regroup and heal for the incoming **Scorched Exaltation**.
 </div>
 
 <div class='guideSection' markdown='1'>
@@ -248,6 +248,6 @@ Quickly regroup and heal for the incomming **Scorched Exaltation**.
 The arena will go back to normal and *Phoinix* will cast **Death's Toll** into **Fledgling Flight**. The *Sparkfledged* will appear on top of 4 players, these players have to place them on the edge of the inner square, facing the middle of the arena, on cardinals. Once placed, to remove their stacks, players must be hit by **Ashen Eye**. The players with 1 stack will move behind a *Sparkfiledged* on a cardinal, players with 2 stacks will move at an intercardinal and the players with 4 stacks will stay middle:
 <img class='soloImg' src='{{ page.imagePath | append: 'deathToll.jpg' }}'>
 
-Immediatly move middle once all **Ashen Eye** are done to get healed for **Life’s Agonies**. Use Healer LB if heals aren't fast enough in order to survive.
+Immediately move middle once all **Ashen Eye** are done to get healed for **Life’s Agonies**. Use Healer LB if heals aren't fast enough in order to survive.
 
 </div>

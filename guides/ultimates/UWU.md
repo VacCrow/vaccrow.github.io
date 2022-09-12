@@ -9,7 +9,7 @@ slideNumber: 1
 Minimum ilvl: i370  
 Maximum ilvl: i375  
 Maxsubstat ilvl: i470 (if you use a Bozjan relic weapon, substats are capped to 318, 227 and 91 for a paladin sword and shield)  
-DPS Requirement: non existant KEKW  
+DPS Requirement: non existent KEKW  
 Loot:*
 
 + *Token: Ultima Totem (1 token for an Ultima weapon)*
@@ -21,7 +21,7 @@ ___
 <h1><a id='AethericallyCharged&Woken'>Aetherically Charged & Woken</a></h1>
 
 <div class='guideSection' markdown='1'>
-During the first three phases, each primal can gain an <span class='buff'>Aetherically Charged</span> <img class='iconImg' src='{{ site.data.iconList.UWU.AetheriallyCharged }}'>stack under specific conditions. When a primal reaches 4 stacks, it will gain <span class='buff'>Woken</span> <img class='iconImg' src='{{ site.data.iconList.UWU.Woken }}'>, gaining new abilities or modifying existing ones.  
+During the first three phases, each primal can gain an <span class='buff'>Aetherically Charged</span> <img class='iconImg' src='{{ site.data.iconList.UWU.AethericallyCharged }}'>stack under specific conditions. When a primal reaches 4 stacks, it will gain <span class='buff'>Woken</span> <img class='iconImg' src='{{ site.data.iconList.UWU.Woken }}'>, gaining new abilities or modifying existing ones.  
 When a primal with <span class='buff'>Woken</span> is killed, it will drop a small puddle on the ground. When a player walks over it, he will receive the <span class='buff'>Beyond Limit</span> <img class='iconImg' src='{{ site.data.iconList.UWU.BeyondLimit }}'> buff. After that player uses a LB3, you LB bar will be refilled.  
 This buff is mandatory since the transition phase after killing all 3 primals requires four LB3 used in a row.
 
@@ -41,7 +41,7 @@ Untelegraphed frontal cleave dealing high <span class='magic'>magical damage</sp
 ___
 
 + **<u>Mistral Song</u>:**
-A random Healer will be marked before Garuda fires a Line Aoe toward that player, dealing <span class='magic'>magical damage</span> to anyone hit.  
+A random Healer will be marked before *Garuda* fires a Line Aoe toward that player, dealing <span class='magic'>magical damage</span> to anyone hit.  
 The first player hit will receive high <span class='magic'>magical damage</span> and a *Great Whirlwind* AoE will spawn under that player. The *Great Whirlwind* will pulse 3 times, dealing lethal damage each time.
 
 ___
@@ -72,7 +72,7 @@ ___
 + **<u>Feather Rain</u>:**
 
 *Garuda* will shriek and jump away. At the same time, 5 players will be targeted by small AoEs under them dealing <span class='magic'>magical damage</span> and applying the <span class='speDebuff'>Windburn</span> debuff, a DoT lasting 18s.  
-Player positions are shapshotted when *Garuda* shrieks.
+Player positions are snapshot when *Garuda* shrieks.
 
 ___
 
@@ -122,7 +122,7 @@ Deals lethal damage if the target isn’t afflicted with <span class='speDebuff'
 Pull *Garuda* in the middle of the arena.
 
 The main Tank has to move to the side to avoid the first **Slipstream**.
-At the same time, the HYaler with the **Mistral Song** marker will position himself to the side of *Garuda* and slightly away. The second Tank will move in front of him (still away from *Garuda*) to take frontal hit. If done properly, the *Great Whirlwind* will be dropped far enough from the boss to avoid any movement for the group.
+At the same time, the Healer with the **Mistral Song** marker will position himself to the side of *Garuda* and slightly away. The second Tank will move in front of him (still away from *Garuda*) to take frontal hit. If done properly, the *Great Whirlwind* will be dropped far enough from the boss to avoid any movement for the group.
 
 Afterward, 4 *Satin Plume* and 1 *Spiny Plume* will spawn. The second Tank has to quickly attack the *Spiny Plume* to get the aggro and everyone must stack behind *Garuda* to pack the *Satin /Spiny Plumes* in order to burn them down. Quickly kill the *Satin Plumes* but let the *Spiny Plume* alive until the Tank gets two stacks of <span class='speDebuff'>Thermal Low</span>.  
 Meanwhile Garuda will cast another **Slipstream** followed by **Downburst** right after on the main target.
@@ -147,7 +147,7 @@ When *Garuda* reappears, she will use **Aerial Blast** that must be mitigated.
 She will then summon her clones, *Chirada* and *Suparna*. They will use **Feather Rain** once they spawn and reappear at a random cardinal. Move away to a avoid the AoEs and bring *Garuda* to a clone.
 
 *Garuda* will use **Eye Of The Storm** and **Wicked Wheel** at the same time, *Chirada* and *Suparna* will cast **Mistral Song** on a DPS and a Healer.  
-Every DPS and Healer will stack in the middle while each Tanks move in front of the group to absorb the first hit. The Main Tank can cover the attack from the clone where *Garuda* is while the second Tank over the attazck of the remaining clone.
+Every DPS and Healer will stack in the middle while each Tanks move in front of the group to absorb the first hit. The Main Tank can cover the attack from the clone where *Garuda* is while the second Tank cover the attack of the remaining clone.
 
 Right after, both clones will use **Feather Rain** and the *Great Whirlwind* from **Mistral Song** will appear, only for 1 tick. Move away from the middle to avoid both.
 
@@ -209,7 +209,7 @@ ___
 
 + **<u>Infernal Nails</u>:**
 4 *Infernal Nails* spawn with 86k HP. After 30 seconds, *Ifrit* will jump away and cast **Hellfire**. If at least one *Infernal Nails* remains, **Hellfire** will wipe the group.  
-When a *Infernal Nails* is destroyed, it deals raidwide <span class='magic'>magical damage</span> and applies a <span class='debuff'>Vulnerability Up</span> stack debuff for 1 second.  
+When a *Infernal Nails* is destroyed, it deals raid-wide <span class='magic'>magical damage</span> and applies a <span class='debuff'>Vulnerability Up</span> stack debuff for 1 second.  
 When a *Infernal Nails* is hit by an **Eruption**, it will gain one stack of <span class='buff'>Damage Up</span> and <span class='buff'>Vulnerability Down</span>, up to 2 stacks. When a *Infernal Nails* with 2 stacks is destroyed, *Ifrit* gains one <span class='buff'>Aetherically Charged</span> stack.  
 The order in which the *Infernal Nails* are killed will influence the order of the **Crimson Cyclones** later in the phase.
 
@@ -307,7 +307,7 @@ This phase will be concluded by *Ifrit* ’s enrage, **Hellfire*.
 + **<u>Geocrush</u>:**
 
 *Titan* will jump into the arena Raid-wide AoE dealing proximity <span class='magic'>magical damage</span>.  
-The first time he will jump in the middle of the arena. The two next times, he will jump at the edge he's facing before leaving the arena and destroy the outter ring of the arena.
+The first time he will jump in the middle of the arena. The two next times, he will jump at the edge he's facing before leaving the arena and destroy the outer ring of the arena.
 
 ___
 
@@ -334,7 +334,7 @@ ___
 + **<u>Weight Of The Land</u>:**
 
 4 random players will get a ground AoE under them, exploding after 2.5 seconds and dealing lethal damage.  
-Immadiatly after the first set, the same players will be targeted by a second set.  
+Immediately after the first set, the same players will be targeted by a second set.  
 When <span class='buff'>Woken</span>: A third set will happen after the second one.
 
 ___
@@ -359,7 +359,7 @@ Three random players but *Titan* 's main target will get a Gaol marker. After 5 
 If a *Granite Gaol* is caught inside a **Burst** explosion from a *Bomb Boulder*, the *Gaol* will be destroyed, leaving a puddle and freeing the player inside. It will also cast **Burst** and destroy any other *Granite Gaol* in range.
 
   The puddle gives a lethal DoT to any player who stand inside. When a player is freed from the his *Gaol*, he has a very short immunity to the puddle.  
-  As long as *Titan* is standing inside the puddle, he will gain a stack of <span class='buff'>Aetherially Charged</span> every 3 seconds.
+  As long as *Titan* is standing inside the puddle, he will gain a stack of <span class='buff'>Aetherically Charged</span> every 3 seconds.
 
   The second cast will only target a random Healer and must be freed by destroying the *Granite Gaol*.
 
@@ -387,10 +387,12 @@ ___
 
 <div class='guideSection' markdown='1'>
 
-Once *Titan* is dead, four **Freefire** promixity AoE will appear on the cardinal edges. Stack mid and migitate properly for the <span class='magic'>magical damage</span> impact. Then 6 *Magitek Bits* will spawn aroud the arena. They will cast **Self-Detonate** and wipe the group if at least one *Magitek Bit* can finish its cast. The Magical Ranged DPS with the <span class='buff'>Beyond Limit</span> has to use his LB3 to hit every *Magitek Bits*, the rest of the group may have to finish them.  
-Then *Lahabrea* will appear middle and cast **Blight**, setting everyone HP to 1 and applying a <span class='speDebuff'>Down for the Count</span> debuff lasting 5 second and preventing any actions and a <span class='speDebuff'>Doom</span> debuff lasting 9 seconds that can be removed when the player is full HP. Due to limited time, the Healer with <span class='buff'>Beyond Limit</span> will cast his LB3 to heal everyone and remove the <span class='speDebuff'>Doom</span>.  
-Then *Lahabrea* will become targetable and cast **Dark IV** wiping the group. He will also gain the <span class='buff'>Woken</span> buff, reducing the damage taken. The Melee DPS with <span class='buff'>Beyond Limit</span> has to cast his LB as soon as the LB bar is filled to kill him. The rest of the group can hit the boss to generate ressources since they deal laughable damage.  
-Finally, *Ultima* will appear and immediatly use the Tank LB3 to survive from **Ultima**.
+Once *Titan* is dead, four **Freefire** proximity AoE will appear on the cardinal edges. Stack mid and migitate properly for the <span class='magic'>magical damage</span> impact. Then 6 *Magitek Bits* will spawn around the arena. They will cast **Self-Detonate** and wipe the group if at least one *Magitek Bit* can finish its cast. The Magical Ranged DPS with the <span class='buff'>Beyond Limit</span> has to use his LB3 to hit every *Magitek Bits*, the rest of the group may have to finish them.
+
+Then *Lahabrea* will appear middle and cast **Blight**, setting everyone HP to 1 and applying a <span class='speDebuff'>Down for the Count</span> debuff lasting 5 second and preventing any actions and a <span class='speDebuff'>Doom</span> debuff lasting 9 seconds that can be removed when the player is full HP. Due to limited time, the Healer with <span class='buff'>Beyond Limit</span> will cast his LB3 to heal everyone and remove the <span class='speDebuff'>Doom</span>.
+
+Finally *Lahabrea* will become targetable and cast **Dark IV** wiping the group. He will also gain the <span class='buff'>Woken</span> buff, reducing the damage taken. The Melee DPS with <span class='buff'>Beyond Limit</span> has to cast his LB as soon as the LB bar is filled to kill him. The rest of the group can hit the boss to generate resources since they deal laughable damage.  
+Finally, *Ultima* will appear and immediately use the Tank LB3 to survive from **Ultima**.
 
 </div>
 
@@ -413,7 +415,7 @@ ___
 
 + **<u>Viscous Aetheroplasm</u>:**
 
-AoE attack on the main target that apply the <span class='speDebuff'>Viscous Aetheroplasm</span> <img class='iconImg' src='{{ site.data.iconList.UWU.ViscousAetheroplasm }}'>. When it resolves, it deals high <span class='magic'>magical damage</span> in a small AoE around the brearer that can be shared.
+AoE attack on the main target that apply the <span class='speDebuff'>Viscous Aetheroplasm</span> <img class='iconImg' src='{{ site.data.iconList.UWU.ViscousAetheroplasm }}'>. When it resolves, it deals high <span class='magic'>magical damage</span> in a small AoE around the bearer that can be shared.
 
 ___
 
@@ -445,7 +447,7 @@ ___
 
 ___
 
-+ **<u>Landlside</u>:**
++ **<u>Landslide</u>:**
 **Landslide** from *Ultima* on his front, 2' and 10' o'clock.
 
 ___

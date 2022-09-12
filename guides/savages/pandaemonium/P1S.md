@@ -29,8 +29,8 @@ ___
 
 + **<u>Aetherial Shackles</u>:**
 A random player player will be marked by a <span class='speDebuff'>Shackles of Companionship</span> debuff and another player will be marked by a <span class='speDebuff'> Shackles of Loneliness</span> debuff:  
-  + <span class='speDebuff'>Shackles of Companionship</span> <img class='iconImg' src='{{ site.data.iconList.P1S.ShacklesOfCompanionship }}'> : when it resolves, the debuff will transform into <span class='speDebuff'>Inescapable Companionship</span> <img class='iconImg' src='{{ site.data.iconList.P1S.InescapableCompanionship }}'>, lasting 5 seconds. During these 5 seconds, the three closest players will get surrounded by a blue chain. When <span class='speDebuff'>Inescapable Companionship</span> resolves, the 4 concerned player will recieve <span class='magic'>magical damage</span> and a <span class='debuff'>Magic Vulnerability Up</span> debuff.  
-  + <span class='speDebuff'> Shackles of Loneliness</span> <img class='iconImg' src='{{ site.data.iconList.P1S.ShacklesOfLoneliness }}'> : when it resolves, the debuff will transform into <span class='speDebuff'>Inescapable Loneliness</span> <img class='iconImg' src='{{ site.data.iconList.P1S.InescapableLoneliness }}'>, lasting 5 seconds. During these 5 seconds, the three furthest players will get surrounded by a red chain. When <span class='speDebuff'>Inescapable Loneliness</span> resolves, the 4 concerned player will recieve <span class='magic'>magical damage</span> and a <span class='debuff'>Magic Vulnerability Up</span> debuff.
+  + <span class='speDebuff'>Shackles of Companionship</span> <img class='iconImg' src='{{ site.data.iconList.P1S.ShacklesOfCompanionship }}'> : when it resolves, the debuff will transform into <span class='speDebuff'>Inescapable Companionship</span> <img class='iconImg' src='{{ site.data.iconList.P1S.InescapableCompanionship }}'>, lasting 5 seconds. During these 5 seconds, the three closest players will get surrounded by a blue chain. When <span class='speDebuff'>Inescapable Companionship</span> resolves, the 4 concerned player will receive <span class='magic'>magical damage</span> and a <span class='debuff'>Magic Vulnerability Up</span> debuff.  
+  + <span class='speDebuff'> Shackles of Loneliness</span> <img class='iconImg' src='{{ site.data.iconList.P1S.ShacklesOfLoneliness }}'> : when it resolves, the debuff will transform into <span class='speDebuff'>Inescapable Loneliness</span> <img class='iconImg' src='{{ site.data.iconList.P1S.InescapableLoneliness }}'>, lasting 5 seconds. During these 5 seconds, the three furthest players will get surrounded by a red chain. When <span class='speDebuff'>Inescapable Loneliness</span> resolves, the 4 concerned player will receive <span class='magic'>magical damage</span> and a <span class='debuff'>Magic Vulnerability Up</span> debuff.
 
 ___
 
@@ -48,7 +48,7 @@ ___
 ___
 
 + **<u>Pitiless Flail of Grace/Purgation</u>:**
-*Erichthonios* will turn and perform a tank buster line AoE on the main target, knocking him back (cannot be immuned) and dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff.  
+*Erichthonios* will turn and perform a tank buster line AoE on the main target, knocking him back (cannot be immune) and dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff.  
 Afterward the current main target will either get hit by:
   + **True Holy**, a share marker dealing <span class='magic'>magical damage</span> if the attack is **Pitiless Flail of Grace**
   + **True Flare**, a flare marker dealing <span class='magic'>magical damage</span> if the attack is **Pitiless Flail of Purgation**.
@@ -63,7 +63,7 @@ When a crystal explodes, (it shakes a bit before), the Red Crystal will apply <s
   The damage is decreased if a player has a debuff from the opposite element. If the crystal and the player's debuff elements are identical, a <span class='debuff'>Damage Down</span> debuff will be applied on top of increased damage.
   + The Purple Crystal will cast <span class='speDebuff'>Disastrous Spell</span> that deals lethal damage.
 
-  If a quadrant with a Hot Crystal or Cold Crystal isn't soaked when it explodes, every player will recieve <span class='magic'>magical damage</span> and a <span class='debuff'>Damage Down</span> debuff.
+  If a quadrant with a Hot Crystal or Cold Crystal isn't soaked when it explodes, every player will receive <span class='magic'>magical damage</span> and a <span class='debuff'>Damage Down</span> debuff.
   Each quadrant is separated by black lines. Standing inside them when the crystals explode deals lethal damage.
 
 ___
@@ -89,8 +89,8 @@ Combination of **Aetherchain** and **Gaoler's Fail** happening consecutively. On
 ___
 
 + **<u>Shackles of Time</u>:**
-A random player will recieve a <span class='speDebuff'>Shackles of Time</span> <img class='iconImg' src='{{ site.data.iconList.P1S.ShacklesOfTime }}'> debuff. When it resolves, the sections where the player is standing will explode, dealing <span class='magic'>magical damage</span> and applying a huge <span class='debuff'>Sustained Damage</span> DoT.  
-This player is immuned to the explosion.
+A random player will receive a <span class='speDebuff'>Shackles of Time</span> <img class='iconImg' src='{{ site.data.iconList.P1S.ShacklesOfTime }}'> debuff. When it resolves, the sections where the player is standing will explode, dealing <span class='magic'>magical damage</span> and applying a huge <span class='debuff'>Sustained Damage</span> DoT.  
+This player is immune to the explosion.
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 *Erichtonios* will start the fight with **Heavy Hand**.
 
-Soon after, he will use **Aetherial Shackles** immadiatly followed by **Warder's Wrath**, so don't forget to stay mid for a second to recieve some heals.  
+Soon after, he will use **Aetherial Shackles** immediately followed by **Warder's Wrath**, so don't forget to stay mid for a second to receive some heals.  
 Have everyone spread around the boss, melees in on cardinals and ranged slightly out on intercardinals.  
 If a ranged player have <span class='speDebuff'>Shackles of Companionship</span> (or a melee have <span class='speDebuff'>Shackles of Loneliness</span>), that player swap his position with his partner :
 <img class='soloImg' src='{{ page.imagePath | append: 'aetherialShackles.jpg' }}'>
@@ -132,7 +132,7 @@ After each explosion, very player will swap (or not) their <span class='speDebuf
 > If the North section has a **Hot > Hot > Cold** or a **Cold > Cold > Hot** sequence (regardless of the explosion order), the North Tank has to swap his position with an adjacent DPS for the last explosion. In this case, the involved Tank and DPS have to swap their debuffs on each explosion.
 
 Then *Erichtonios* will perform **Pitiless Flail of Purgation** or **Pitiless Flail of Grace**, the one he didn't do previously.  
-Before using **Shining Cells** and swaping the arena.
+Before using **Shining Cells** and swapping the arena.
 
 </div>
 
@@ -167,10 +167,10 @@ And he will show you his shinny room a second time with **Shining cells**.
 
 *Erichtonios* will perform two sequences one after the other but in a random order:
 
-+ A player will recieve **Shackles of Time** while *Erichtonios* performs a random **Pitiless Flail of Grace** or **Pitiless Flail of Purgation**.  
++ A player will receive **Shackles of Time** while *Erichtonios* performs a random **Pitiless Flail of Grace** or **Pitiless Flail of Purgation**.  
 The flare/share will happen 3 seconds before **Shackles of Time** resolves. Same as before, the player with the buff must always stand on a Fire surface while the rest of the group stays on a Holy surface.  
   Followed by **Warder's Wrath**.
-+ The boss will use **Aetherial Shackles** followed by two **Aetherchain**. Solve **Aetherial Shackles** as before and stand either on a Holy or Fire surface base on **Aetherchain** element. Stand at the limit of a surface to easilly swap  between elements.  
++ The boss will use **Aetherial Shackles** followed by two **Aetherchain**. Solve **Aetherial Shackles** as before and stand either on a Holy or Fire surface base on **Aetherchain** element. Stand at the limit of a surface to easily swap  between elements.  
   Followed by **Warder's Wrath**.
 
 Then *Erichtonios* will cast **Aetherflail** three times in a row followed by **Warder's Wrath** three times in row before casting the enrage **Lethe**.
