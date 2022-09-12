@@ -63,33 +63,28 @@ If a player with <span class='speDebuff'>Thermal Low</span> <img class='iconImg'
 ___
 
 + **<u>Downburst</u>:**
-
 Cleave tank buster on the main target dealing <span class='phys'>physical damage</span>.
 When <span class='buff'>Woken</span>: share on the main target dealing high <span class='magic'>magical damage</span>.
 
 ___
 
 + **<u>Feather Rain</u>:**
-
 *Garuda* will shriek and jump away. At the same time, 5 players will be targeted by small AoEs under them dealing <span class='magic'>magical damage</span> and applying the <span class='speDebuff'>Windburn</span> debuff, a DoT lasting 18s.  
 Player positions are snapshot when *Garuda* shrieks.
 
 ___
 
 + **<u>Mistral Shriek</u>:**
-
 Raid-wide AoE dealing <span class='magic'>magical damage</span>.
 
 ___
 
 + **<u>Friction</u>:**
-
 Small AoE on a random player dealing <span class='magic'>magical damage</span> and applying a <span class='speDebuff'>Thermal Low</span> stack on anyone hit.
 
 ___
 
 + **<u>Aerial Blast</u>:**
-
 Raid-wide AoE dealing high <span class='magic'>magical damage</span>.
 
   The second **Aerial Blast** is the enrage.
@@ -97,20 +92,17 @@ Raid-wide AoE dealing high <span class='magic'>magical damage</span>.
 ___
 
 + **<u>Eye Of The Storm</u>:**
-
 A *Great Whirlwind* with a donut shape will cover the outer part of the arena. The *Great Whirlwind* will pulse 3 times, dealing lethal damage each time.
 
 ___
 
 + **<u>Wicked Wheel</u>:**
-
 Pointblank AoE on *Garuda* dealing lethal damage.
 When <span class='buff'>Woken</span>: **Wicked Wheel** is followed by an instant **Wicked Tornado**, a donut shaped AoE dealing lethal damage.
 
 ___
 
 + **<u>Mesohigh</u>:**
-
 A random player will be tether to a clone of *Garuda*. After 5 seconds, it will perform an AoE on the target, purging any <span class='speDebuff'>Thermal Low</span> stack(s). When purged, **Super Cyclone** will deal raid-wide AoE <span class='magic'>magical damage</span> damage based on the number of <span class='speDebuff'>Thermal Low</span> removed.  
 Deals lethal damage if the target isn’t afflicted with <span class='speDebuff'>Thermal Low</span>.
 
@@ -175,20 +167,17 @@ Next is a **Downburst** that must be shared within the group.
 <h2><a id='IfritAbilitiesBreakdown'>Abilities Breakdown</a></h2>
 
 + **<u>Radiant Plume</u>:**
-
 Ground AoE dealing lethal damage.
 
 ___
 
 + **<u>Crimson Cyclone</u>:**
-
 *Ifrit* or a clone will appear on the edge of the arena and dash in a straight line after 3 seconds, dealing lethal damage.
 When <span class='buff'>Woken</span>: The dash from *Ifrit* will also perform **Crimson Cyclone Cross**, a cross shape AoE rotated by 45° based on his his dash.
 
 ___
 
 + **<u>Hellfire</u>:**
-
 Raid-wide AoE dealing high <span class='magic'>magical damage</span>.
 
   The third **Hellfire** is the enrage.
@@ -196,13 +185,11 @@ Raid-wide AoE dealing high <span class='magic'>magical damage</span>.
 ___
 
 + **<u>Vulcan Burst</u>:**
-
 Raid-wide AoE dealing small <span class='magic'>magical damage</span>. Can be avoided with a knockback immunity or if no damage has been taken with a shield on.
 
 ___
 
 + **<u>Incinerate</u>:**
-
 Cleave tank buster dealing fire <span class='magic'>magical damage</span> and applying a <span class='debuff'>Fire Resistance Down II</span> lasting 5 seconds. Always happens 3 times in a row.
 
 ___
@@ -216,20 +203,17 @@ The order in which the *Infernal Nails* are killed will influence the order of t
 ___
 
 + **<u>Inferno Howl</u>:**
-
 A random Healer will receive the <span class='speDebuff'>Searing Wind</span> <img class='iconImg' src='{{ site.data.iconList.UWU.SearingWind }}'> debuff lasting 18 seconds. Every 6 seconds, the player will emit a wide shockwave dealing <span class='magic'>magical damage</span> and will knockback anyone else caught.
 When <span class='buff'>Woken</span>: The debuff lasts 30 seconds.
 
 ___
 
 + **<u>Infernal Fetters</u>:**
-
 A random DPS and the second person in the aggro list will be tethered together and will receive the <span class='speDebuff'>Infernal Fetters</span> <img class='iconImg' src='{{ site.data.iconList.UWU.InfernalFetters }}'> DoT debuff that stacks the further away they are from each other. Each stack reduces the damage done and increases the DoT potency.
 
 ___
 
 + **<u>Eruption</u>:**
-
 4 ground AoE appearing sequentially under the furthest player’s feet. They explode after 2.5 seconds dealing lethal damage.  
 
   In the last phase, anyone but the Tanks can be targeted.
@@ -237,7 +221,6 @@ ___
 ___
 
 + **<u>Flaming Crush</u>:**
-
 A random DPS will get the flame marker. After a 5 seconds, *Ifrit* will perform a share AoE dealing <span class='magic'>magical damage</span>.
 When <span class='buff'>Woken</span>: Inflict <span class='speDebuff'>Accursed Flame</span> <img class='iconImg' src='{{ site.data.iconList.UWU.AccursedFlame }}'>, a DoT on every player in the stack whose duration is based on the number of players hit, with a minimum of 3 seconds for 6 players hit.
 
@@ -305,14 +288,12 @@ This phase will be concluded by *Ifrit* ’s enrage, **Hellfire*.
 <h2><a id='TitanAbilitiesBreakdown'>Abilities Breakdown</a></h2>
 
 + **<u>Geocrush</u>:**
-
 *Titan* will jump into the arena Raid-wide AoE dealing proximity <span class='magic'>magical damage</span>.  
 The first time he will jump in the middle of the arena. The two next times, he will jump at the edge he's facing before leaving the arena and destroy the outer ring of the arena.
 
 ___
 
 + **<u>Earthen Fury</u>:**
-
 Raid-wide AoE dealing high <span class='magic'>magical damage</span>.
 
   The second **Earthen fury** is the enrage.
@@ -320,19 +301,16 @@ Raid-wide AoE dealing high <span class='magic'>magical damage</span>.
 ___
 
 + **<u>Rock Buster</u>:**
-
 Tank buster dealing <span class='phys'>physical damage</span>.
 
 ___
 
 + **<u>Mountain Buster</u>:**
-
 Cleave tank buster dealing high <span class='phys'>physical damage</span>.
 
 ___
 
 + **<u>Weight Of The Land</u>:**
-
 4 random players will get a ground AoE under them, exploding after 2.5 seconds and dealing lethal damage.  
 Immediately after the first set, the same players will be targeted by a second set.  
 When <span class='buff'>Woken</span>: A third set will happen after the second one.
@@ -340,13 +318,11 @@ When <span class='buff'>Woken</span>: A third set will happen after the second o
 ___
 
 + **<u>Upheaval</u>:**
-
 Long knockback from Titan dealing <span class='magic'>magical damage</span>. The knockback distance is 3/4 of the arena diameter.
 
 ___
 
 + **<u>Bomb Boulder</u>:**
-
 *Bomb Boulders* will drop into the arena. They will cast **Burst** and explode in AoE dealing lethal damage after 5 seconds.  
 The first set will drop 5 *Bomb Boulders* to the opposite side of *Titan* leaving only one safe spot surrounded by the other *Bomb Boulders*. After they explode, a sixth one will drop where the safe spot was.  
 The second set will drop 4 *Bomb Boulders* in the middle of the arena leaving that place unsafe.
@@ -354,7 +330,6 @@ The second set will drop 4 *Bomb Boulders* in the middle of the arena leaving th
 ___
 
 + **<u>Rock Throw</u>:**
-
 Three random players but *Titan* 's main target will get a Gaol marker. After 5 seconds these players will receive the <span class='speDebuff'>Fetters</span> debuff, preventing any movements and imprisoning the player into a *Granite Gaol*. These *Granite Gaol* will cast **Granite Impact** killing the player inside after 5 seconds.  
 If a *Granite Gaol* is caught inside a **Burst** explosion from a *Bomb Boulder*, the *Gaol* will be destroyed, leaving a puddle and freeing the player inside. It will also cast **Burst** and destroy any other *Granite Gaol* in range.
 
@@ -366,14 +341,12 @@ If a *Granite Gaol* is caught inside a **Burst** explosion from a *Bomb Boulder*
 ___
 
 + **<u>Landslide</u>:**
-
 Lines AoEs from *Titan dealing <span class='phys'>physical damage</span> and knocking away anyone hit. These AoEs will be fired in front of him and towards his intercardinals.
 When <span class='buff'>Woken</span>: An additional set will be fired to his 1 and 11 o'clock and his East, South and West cardinals.
 
 ___
 
 + **<u>Tumult</u>:**
-
 8 consecutive raid-wide AoE dealing low <span class='magic'>magical damage</span>. The second cast only hits 6 times.
 
 </div>
@@ -402,25 +375,21 @@ Finally, *Ultima* will appear and immediately use the Tank LB3 to survive from *
 <h2><a id='UltimaAbilitiesBreakdown'>Abilities Breakdown</a></h2>
 
 + **<u>Ultima</u>:**
-
 Raid-wide AoE dealing very high <span class='magic'>magical damage</span>. Require a Tank LB3.
 
 ___
 
 + **<u>Tank Purge</u>:**
-
 Raid-wide AoE dealing high <span class='magic'>magical damage</span>.
 
 ___
 
 + **<u>Viscous Aetheroplasm</u>:**
-
 AoE attack on the main target that apply the <span class='speDebuff'>Viscous Aetheroplasm</span> <img class='iconImg' src='{{ site.data.iconList.UWU.ViscousAetheroplasm }}'>. When it resolves, it deals high <span class='magic'>magical damage</span> in a small AoE around the bearer that can be shared.
 
 ___
 
 + **<u>Homing Lasers</u>:**
-
 Small AoE Tank Buster dealing <span class='magic'>magical damage</span>.
 
 ___
@@ -429,17 +398,17 @@ ___
 
   + **<u>Landslide</u>:**
   *Titan* spawn at a random cardinal edge, facing the opposite side of the arena and cast a <span class='buff'>Woken</span> **Landslide**.
-  
+
   ___
 
   + **<u>Wicked Wheel</u>:**
   *Garuda* spawn near the middle along an intercardinal and cast a regular **Wicked Wheel**.
-  
+
   ___
 
   + **<u>Crimson Cyclone</u>:**
   *Ifrit* spawn at a random intercardinal edge and cast a a <span class='buff'>Woken</span> **Crimson Cyclone**.
-  
+
   ___
 
   + **<u>Ceruleum Vent</u>:**
