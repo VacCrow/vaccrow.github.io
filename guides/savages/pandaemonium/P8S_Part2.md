@@ -23,15 +23,12 @@ ___
 <div class='guideSection' markdown='1'>
 <h2><a id='ABGeneralAbilities'>General Abilities</a></h2>
 
-
-
 </div>
 ___
 <h1><a id='Strategy'>Strategy</a></h1>
 
 <div class='guideSection' markdown='1'>
 <a id='SPhase1'></a>
-
 
 </div>
 
@@ -42,6 +39,5 @@ ___
 
 <div class='guideSection' markdown='1'>
 <a id='SPhase3'></a>
-
 
 </div>
