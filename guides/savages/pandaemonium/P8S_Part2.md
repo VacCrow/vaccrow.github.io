@@ -160,7 +160,22 @@ After **Conceptual Shift** hit, the previous <span class='speDebuff'>Imperfectio
 
 <div class='guideSection' markdown='1'>
 <a id='SLimitlessDesolation'></a>
-fart
+
+Autos x3
+
+**Limitless Desolation**: T/H left (between 1st and 2nd col), DPS right (between 3rd and 4th col), spread. When hit, take the tower on your side. Bait AOE between column first.
+
+**Aioniopyr** Autos x2 **Tyrant's Unholy Darkness** Autos x2.
+
+**Natural Alignment** (with <span class='speDebuff'>Inverse Magicks</span>).  
+Stack/spread with W **End of Days**, stack/spread with E **End of Days**. H/T/Melee/Ranged on a row.  
+Fire/Ice with W **End of Days**, Fire/Ice with E **End of Days**.
+**Ashing Blaze**
+
+**Aioniopyr** Autos x2 **Tyrant's Unholy Darkness** Auto.
+
+**High Concept**
+
 </div>
 
 <div class='guideSection' markdown='1'>
