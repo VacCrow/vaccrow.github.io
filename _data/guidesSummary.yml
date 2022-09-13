@@ -230,11 +230,12 @@ P8S_Part2:
   - name: Abilities Breakdown
     section:
       - name: General Abilities
+      - name: High Concept
   - name: Strategy
     section:
-      - name: Phase 1
-      - name: Phase 2
-      - name: Phase 3
+      - name: Natural Alignment
+      - name: Limitless Desolation
+      - name: High Concept 2
 
 #------------EDEN-----------
 E9S:

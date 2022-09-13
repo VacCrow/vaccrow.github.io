@@ -2,7 +2,7 @@
 layout: guides
 title: Abyssos - The Eighth Circle (Savage) | P8S (Part 2)
 imagePath: /assets/img/guides/savages/pandaemonium/P8S_Part2/
-slideNumber: 0
+slideNumber: 4
 ---
 
 *Patch: 6.2  
@@ -62,10 +62,15 @@ ___
 ___
 
 + **<u>End of Days</u>:**
-4 clones will appear outside the arena with 2 clones on the West side and 2 clones on the East side. Each clone will face a different row and two clones on one side cannot be on adjacent rows.
+4 clones will appear outside the arena with 2 clones on the West side and 2 clones on the East side. Each clone will face a different row and the two first rows cannot have clones on the same side.
 The West clones will fire first then will the East clones. Their attack is a line AoE, as wide as a row, dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span>.
 
 ___
+
++ **<u>Limitless Desolation</u>:**
+*Hephaistos* will attack 4 times in a row, 1 Tank/Healer and 1 DPS per attack dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> and a <span class='debuff'>Fire Resistance Down II</span> for 9 seconds.  
+After each attack, 2 towers will spawn, 1 on the left side and 1 on the right side. These towers resolve after 10 seconds.  
+Furthermore, 8 seconds after being hit, that player will drop an AoE on the ground.
 
 </div>
 
@@ -117,32 +122,48 @@ ___
 <h1><a id='Strategy'>Strategy</a></h1>
 
 <div class='guideSection' markdown='1'>
-<a id='SPhase1'></a>
+<a id='SNaturalAlignment'></a>
 
 When pulling, the Tanks must immediately stack together and away from the group to share the auto-attacks alone. *Hephaistos* will do 3 auto-attacks before casting **Aioniopyr**, always mitigate this one for the <span class='debuff'>Bleed</span>.  
 The boss will do 2 more auto-attacks before casting **Tyrant's Unholy Darkness**. The Tanks must spread to avoid overlapping and the main Tank can use his invulnerability to absorb the 2 next auto-attacks.
 
 Then *Hephaistos* will cast **Natural Alignment** <span class='speDebuff'>Natural Alignment</span> into **Twist Nature** always displaying the stack and spread gauges. The two players with the debuff must move in front of the boss while the rest of the group will stack in the middle.  
-*Hephaistos* will cast **Tyrant's Flare** and once the AoEs are baited, the <span class='speDebuff'>Natural Alignment</span> players move out of it and the rest of the group will either spread around the baited AoEs or stack right of them for the share. Then the boss will cast **Ashing Blaze**, move to the safe safe and either spread or stack to do the second mechanic.  
-Then the 4 clones will spawn but only identify the clones of the first two lines. Since the West clones cast **End of Days** first, move on the row where the East clone is. The <span class='speDebuff'>Natural Alignment</span> players must stand in the middle of the row in order to resolve the Fire or Ice gauge:
+*Hephaistos* will cast **Tyrant's Flare** and once the AoEs are baited, the <span class='speDebuff'>Natural Alignment</span> players move out of it and the rest of the group will either spread around the baited AoEs or stack right of them for the share. Then the boss will cast **Ashing Blaze**, move to the safe safe and either spread or stack to do the second mechanic:
+{% assign slideCounter = 0 %}
+{% include slideshow.html imgLink="nature1-1.jpg;nature1-2.jpg;nature1-3.jpg" imgDesc="Stack middle;Dodge the baited AoEs and spread around them (or stack in front for the share);Dodge <strong>Ashing Blaze</strong> and regroup for the share (or spread for the AoEs)" slideNumber=slideCounter %}
+
+Then the 4 clones will spawn but only identify the clones of the first two rows. Since the West clones cast **End of Days** first, move on the row where the East clone is. The <span class='speDebuff'>Natural Alignment</span> players must stand in the middle of the row in order to resolve the Fire or Ice gauge:
 
 + For Fire, form pairs. For each pair, one player player must be on the outer tile to bait the share and the other must be on the inner tile.
-+ For Ice, form two groups of three players. On each group, one player player must be on the inner tile to bait the share and the two other must be on the outer tile.
++ For Ice, form two groups of three players. On each group, one player player must be on the inner tile to bait the share and the two other must be on the outer tile. Two players must
 
-Once the first share happened, switch row and do the other Fire/Ice mechanic. Then quickly regroup middle and mitigate for **Aioniopyr**.
+Once the first share happened, switch row and do the other Fire/Ice mechanic:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="nature1-4.jpg;nature1-5.jpg" imgDesc="Move into the safe row and for Fire, each pair bait a share;Move into the safe row and for Ice, each group must bait a share" slideNumber=slideCounter %}
 
-*Hephaistos* will do 2 auto-attacks followed by **Tyrant's Unholy Darkness**, an invulnerability can be used to absorb the next auto-attack.
+Then quickly regroup middle and mitigate for **Aioniopyr**. *Hephaistos* will do 2 auto-attacks followed by **Tyrant's Unholy Darkness**, an invulnerability can be used to absorb the next auto-attack.
 
-Now the boss will cast **High Concept**. The players with a short duration on <span class='speDebuff'>Imperfection: Alpha</span>, <span class='speDebuff'>Imperfection: Beta</span> and <span class='speDebuff'>Imperfection: Gamma</span> must move to the North West, North East and South West cardinals respectively. The rest will move to the South East corner, the <span class='speDebuff'>Multisplice</span> with the long <span class='speDebuff'>Imperfection: Gamme</span> stack around South and the <span class='speDebuff'>Supersplice</span> player stack with the long <span class='speDebuff'>Imperfection: Alpha</span> and <span class='speDebuff'>Imperfection: Beta</span> around the East.
+Now the boss will cast **High Concept**. The players with a short duration on <span class='speDebuff'>Imperfection: Alpha</span>, <span class='speDebuff'>Imperfection: Beta</span> and <span class='speDebuff'>Imperfection: Gamma</span> must move to the North West, North East and South West cardinals respectively. The rest will move to the South East quadrant, the <span class='speDebuff'>Supersplice</span> player stack with the long <span class='speDebuff'>Imperfection: Alpha</span> and <span class='speDebuff'>Imperfection: Beta</span> around the East and the <span class='speDebuff'>Multisplice</span> with the long <span class='speDebuff'>Imperfection: Gamma</span> stack around South:
+<img class='soloImg' src='{{ page.imagePath | append: 'hc1-1.jpg' }}'>
 
+Once **Conceptual Shift** happens, the <span class='speDebuff'>Perfection: Alpha</span> and <span class='speDebuff'>Perfection: Beta</span> will regroup between the towers and  combine into <span class='speDebuff'>Winged Conception</span> then they'll step inside the towers. In the meantime, the rest of group will move middle for heals and get ready to stand on the left or right side of the arena for **Ashing Blaze**:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="hc1-2.jpg;hc1-3.jpg;hc1-4.jpg" imgDesc="<strong>Conceptual Shift</strong> happens;Regroup mid. Alpha and Beta create Wind Conception;Dodge <strong>Ashing Blaze</strong> while Wind Conceptions step in the towers" slideNumber=slideCounter %}
+
+Then the long duration <span class='speDebuff'>Imperfection: Alpha</span>, <span class='speDebuff'>Imperfection: Beta</span> and <span class='speDebuff'>Imperfection: Gamma</span> must respectively move to the North West, North East and South West cardinals. The previous <span class='speDebuff'>Multisplice</span> and <span class='speDebuff'>Supersplice</span> move to with the Alpha and Beta player respectively to get hit. Lastly, the players with a concept must stand in the South East quadrant:
+<img class='soloImg' src='{{ page.imagePath | append: 'hc1-5.jpg' }}'>
+
+After **Conceptual Shift** hit, the previous <span class='speDebuff'>Imperfection: Alpha</span> and <span class='speDebuff'>Imperfection: Beta</span> will move between the North towers to combine into <span class='speDebuff'>Winged Conception</span> while the <span class='speDebuff'>Multisplice</span> and <span class='speDebuff'>Supersplice</span> players will do the same between the South towers. The two <span class='speDebuff'>Imperfection: Gamma</span> players must take care to not create a concept. Then move inside the towers and dodge the second  **Ashing Blaze**:
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="hc1-6.jpg;hc1-7.jpg;hc1-8.jpg" imgDesc="<strong>Conceptual Shift</strong> happens;Alpha and Beta create Wind Conception North, previous Multisplice and Supersplice do the same South;Dodge <strong>Ashing Blaze</strong> while Wind Conceptions step in the towers" slideNumber=slideCounter %}
 </div>
 
 <div class='guideSection' markdown='1'>
-<a id='SPhase2'></a>
-
+<a id='SLimitlessDesolation'></a>
+fart
 </div>
 
 <div class='guideSection' markdown='1'>
-<a id='SPhase3'></a>
+<a id='SHighConcept2'></a>
 
 </div>
