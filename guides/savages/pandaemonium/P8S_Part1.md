@@ -241,7 +241,7 @@ Dodge the second explosion from **Cthonis Vents** in light parties, then either 
 
 The *Dragons* will jump again, move in light parties to dodge them and while the third **Cthonis Vents** happens, check *Hephaistos* to know which **Sunforge** he's casting. Then move in or out based on this cast and at the same time, spread or make pairs to resolve the **Conceptual Octaflare/Tetraflare** cast at the beginning:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="fourfold3.jpg;fourfold4DOcta.jpg;fourfold4PTetra.jpg" imgDesc="Dodge the third <strong>Fourfold Fires</strong>;Example of <em>Phoinix</em> <strong>Sunforge</strong> with <strong>Tetraflare</strong>;Example of <em>Dragon</em> <strong>Sunforge</strong> with <strong>Octaflare</strong>" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="fourfold3.jpg;fourfold4DOcta.jpg;fourfold4PTetra.jpg" imgDesc="Dodge the third <strong>Fourfold Fires</strong>;Example of <em>Dragon</em> <strong>Sunforge</strong> with <strong>Octaflare</strong>;Example of <em>Phoinix</em> <strong>Sunforge</strong> with <strong>Tetraflare</strong>" slideNumber=slideCounter %}
 
 To end this part, *Hephaistos* will cast another **Flameviper** requiring a double swap.
 
