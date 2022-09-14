@@ -41,13 +41,14 @@ Two players of the same role will receive <span class='speDebuff'>Natural Alignm
 ___
 
 + **<u>Twist Nature</u>:**
-Two gauges will appear on top of a player with <span class='speDebuff'>Natural Alignment</span>. Each gauge will fill at different speed and its effect will happen once filled, dealing <span class='magic'>magical damage</span> and applying <span class='debuff'>Magic Vulnerability Up</span> debuff:
+Two gauges will appear on top of a player with <span class='speDebuff'>Natural Alignment</span> and later, another two gauges will appear on top of the other player. Each gauge will fill at different speed and its effect will happen once filled, dealing <span class='magic'>magical damage</span> and applying <span class='debuff'>Magic Vulnerability Up</span> debuff:
 
   + Stack/Spread gauge: either put **Forcible Fire III**, a stack on a random player or **Forcible Fire II**, an AoE on every player.
 
   + Fire/Ice gauge: based on <span class='speDebuff'>Natural Alignment</span> player positions, Fire will target the 3 furthest players with **Forcible Trifire**, a two players share AoE and Ice will target the 2 closest player with **Forcible Difreeze**, a three players share AoE.
 
-  Of course the two players with <span class='speDebuff'>Natural Alignment</span> cannot be targeted by **Twist Nature**.
+  Of course the two players with <span class='speDebuff'>Natural Alignment</span> cannot be targeted by **Twist Nature**.  
+  If a player also have the <span class='speDebuff'>Inverse Magicks</span> <img class='iconImg' src='{{ site.data.iconList.P8S.InverseMagicks }}'> debuff, the gauge mechanics will be reversed.
 
 ___
 
@@ -71,6 +72,23 @@ ___
 *Hephaistos* will attack 4 times in a row, 1 Tank/Healer and 1 DPS per attack dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> and a <span class='debuff'>Fire Resistance Down II</span> for 9 seconds.  
 After each attack, 2 towers will spawn, 1 on the left side and 1 on the right side. These towers resolve after 10 seconds.  
 Furthermore, 8 seconds after being hit, that player will drop an AoE on the ground.
+
+___
+
++ **<u>Ego Death</u>:**
+Enrage. If the players have the <span class='buff'>Immortal Conception</span> <img class='iconImg' src='{{ site.data.iconList.P8S.ImmortalConception }}'> buff, they will get resurrected by *Phoenix*.
+
+___
+
++ **<u>Aionagonia</u>:**
+Raid-wide AoE dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Bleed</span> debuff lasting 6 seconds. *Hephaistos* gains a <span class='buff'>Damage Up</span> buff after each cast.
+
+___
+
++ **<u>Dominion</u>:**
+Raid-wide AoE dealing <span class='magic'>magical damage</span>. At the same time, 2Tanks/Healers and 2 DPS will get hit by **Orogenic Deformation** dealing earth <span class='magic'>magical damage</span> and applying a <span class='debuff'> Earth Resistance Down II</span> debuff for 9 seconds.  
+Then, 4 underground towers named **Orogenic Shift** will spawn. They'll move a bit underground before popping out and exploding dealing earth <span class='magic'>magical damage</span> and applying a <span class='debuff'> Earth Resistance Down II</span> debuff for 9 seconds when soaked. Then a second set of 4 towers will spawn and act the same way.  
+If a tower isn't soaked, it deals raid-wide <span class='magic'>magical damage</span> and applies a <span class='debuff'>Damage Down</span> debuff.(?)
 
 </div>
 
@@ -110,7 +128,7 @@ Order to the debuff from **High Concept** to resolve dealing <span class='magic'
 ___
 
 + **<u>Arcane Channel</u>:**
-Multiple tower of a specific element will appear and need to be soaked by a player, being dealt <span class='magic'>magical damage</span> and received a <span class='debuff'>Magic Vulnerability Up</span> debuff. If a player soaks a tower without the correct concept, he will also receive a huge DoT that is lethal.
+Multiple tower of a specific element will appear and need to be soaked by a player, being dealt <span class='magic'>magical damage</span> and receiving a <span class='debuff'>Magic Vulnerability Up</span> debuff. If a player soaks a tower without the correct concept, he will also receive a huge DoT that is lethal.
 
 ___
 
@@ -127,7 +145,7 @@ ___
 When pulling, the Tanks must immediately stack together and away from the group to share the auto-attacks alone. *Hephaistos* will do 3 auto-attacks before casting **Aioniopyr**, always mitigate this one for the <span class='debuff'>Bleed</span>.  
 The boss will do 2 more auto-attacks before casting **Tyrant's Unholy Darkness**. The Tanks must spread to avoid overlapping and the main Tank can use his invulnerability to absorb the 2 next auto-attacks.
 
-Then *Hephaistos* will cast **Natural Alignment** <span class='speDebuff'>Natural Alignment</span> into **Twist Nature** always displaying the stack and spread gauges. The two players with the debuff must move in front of the boss while the rest of the group will stack in the middle.  
+Then *Hephaistos* will cast **Natural Alignment** <span class='speDebuff'>Natural Alignment</span> into **Twist Nature** always displaying the stack/spread gauges. The two players with the debuff must move in front of the boss while the rest of the group will stack in the middle.  
 *Hephaistos* will cast **Tyrant's Flare** and once the AoEs are baited, the <span class='speDebuff'>Natural Alignment</span> players move out of it and the rest of the group will either spread around the baited AoEs or stack right of them for the share. Then the boss will cast **Ashing Blaze**, move to the safe safe and either spread or stack to do the second mechanic:
 {% assign slideCounter = 0 %}
 {% include slideshow.html imgLink="nature1-1.jpg;nature1-2.jpg;nature1-3.jpg" imgDesc="Stack middle;Dodge the baited AoEs and spread around them (or stack in front for the share);Dodge <strong>Ashing Blaze</strong> and regroup for the share (or spread for the AoEs)" slideNumber=slideCounter %}
@@ -143,7 +161,7 @@ Once the first share happened, switch row and do the other Fire/Ice mechanic:
 
 Then quickly regroup middle and mitigate for **Aioniopyr**. *Hephaistos* will do 2 auto-attacks followed by **Tyrant's Unholy Darkness**, an invulnerability can be used to absorb the next auto-attack.
 
-Now the boss will cast **High Concept**. The players with a short duration on <span class='speDebuff'>Imperfection: Alpha</span>, <span class='speDebuff'>Imperfection: Beta</span> and <span class='speDebuff'>Imperfection: Gamma</span> must move to the North West, North East and South West cardinals respectively. The rest will move to the South East quadrant, the <span class='speDebuff'>Supersplice</span> player stack with the long <span class='speDebuff'>Imperfection: Alpha</span> and <span class='speDebuff'>Imperfection: Beta</span> around the East and the <span class='speDebuff'>Multisplice</span> with the long <span class='speDebuff'>Imperfection: Gamma</span> stack around South:
+<a id='SHighConcept1'></a>Now the boss will cast **High Concept**. The players with a short duration on <span class='speDebuff'>Imperfection: Alpha</span>, <span class='speDebuff'>Imperfection: Beta</span> and <span class='speDebuff'>Imperfection: Gamma</span> must move to the North West, North East and South West cardinals respectively. The rest will move to the South East quadrant, the <span class='speDebuff'>Supersplice</span> player stack with the long <span class='speDebuff'>Imperfection: Alpha</span> and <span class='speDebuff'>Imperfection: Beta</span> around the East and the <span class='speDebuff'>Multisplice</span> with the long <span class='speDebuff'>Imperfection: Gamma</span> stack around South:
 <img class='soloImg' src='{{ page.imagePath | append: 'hc1-1.jpg' }}'>
 
 Once **Conceptual Shift** happens, the <span class='speDebuff'>Perfection: Alpha</span> and <span class='speDebuff'>Perfection: Beta</span> will regroup between the towers and  combine into <span class='speDebuff'>Winged Conception</span> then they'll step inside the towers. In the meantime, the rest of group will move middle for heals and get ready to stand on the left or right side of the arena for **Ashing Blaze**:
@@ -161,24 +179,33 @@ After **Conceptual Shift** hit, the previous <span class='speDebuff'>Imperfectio
 <div class='guideSection' markdown='1'>
 <a id='SLimitlessDesolation'></a>
 
-Autos x3
+Once **High Concept** is over, the boss will launch 3 auto-attacks.
 
-**Limitless Desolation**: T/H left (between 1st and 2nd col), DPS right (between 3rd and 4th col), spread. When hit, take the tower on your side. Bait AOE between column first.
+Then he'll cast **Limitless Desolation**. Split the group in two: Tanks/Healers spread on the left side of the arena between 1st and 2nd column, DPS spread of the right side between 3rd and 4th column. Starting position where the PLD and the SMN are hit first:
+<img class='soloImg' src='{{ page.imagePath | append: 'limitless.jpg' }}'>
+When a player is hit, he will take the tower on his side that appear at the same time. Move close to your tower and stay between at a tile intersection in order to bait the AoE away from any tower. Don't hesitate to move along the edge to give more space to others.
 
-**Aioniopyr** Autos x2 **Tyrant's Unholy Darkness** Autos x2.
+Once every towers are soaked, *Hephaistos* will cast a new **Aioniopyr** followed by 2 auto-attacks. Next is another **Tyrant's Unholy Darkness** with 2 auto-attacks afterward.
 
-**Natural Alignment** (with <span class='speDebuff'>Inverse Magicks</span>).  
-Stack/spread with W **End of Days**, stack/spread with E **End of Days**. H/T/Melee/Ranged on a row.  
-Fire/Ice with W **End of Days**, Fire/Ice with E **End of Days**.
-**Ashing Blaze**
+Now *Hephaistos* will cast **Natural Alignment** but this time with one or two <span class='speDebuff'>Inverse Magicks</span> debuffs on <span class='speDebuff'>Natural Alignment</span> players. First it' the stack/spread gauges but this time with **End of Days** from the clones. Stand on the safe row, either the first or the second one, and move to your assigned a tile. If it's spread, have one player on the front of the tile and the other player on the back otherwise stack together.  
+Then it's time for the second gauge Fire/Ice gauge with **End of Days**, resolved the same way as before. Dodge the **Ashing Blaze** when the second gauge is done.  
+Follow this pair assignment, from left to right: <u><span class='speDebuff'>Natural Alignment</span> Tanks/Healers - Tanks/Healers - Melee DPS - Ranged DPS</u> or <u>Tanks - Healers - DPS - <span class='speDebuff'>Natural Alignment</span> DPS</u>. Example with <span class='speDebuff'>Natural Alignment</span> DPS and spread first:
+<img class='soloImg' src='{{ page.imagePath | append: 'nature2.jpg' }}'>
 
-**Aioniopyr** Autos x2 **Tyrant's Unholy Darkness** Auto.
-
-**High Concept**
+Afterward is another **Aioniopyr** with 2 auto-attacks followed by **Tyrant's Unholy Darkness** and a final auto-attack.
 
 </div>
 
 <div class='guideSection' markdown='1'>
 <a id='SHighConcept2'></a>
-massive fart
+
+**High Concept**  
+## super mega ultra maxi fart triple axel into floor tanking  
+**Ego Death**
+
+*Hephaistos* will cast **Aionagonia**, quickly heal and mitigate for the incoming **Dominion**. Before it hits, everyone must on his own tile. On the 1st and 2nd row, players can occupy a column based on their role: <u>Tanks - Healers - Melee DPS - Ranged DPS</u>.  
+The players who got hit by **Orogenic Deformation** will move to the middle while the other 4 will choose a tower and soak it once it's out of the ground. Then the 4 other players will soak the second set of towers.
+
+Next is another **Aionagonia** into **Dominion** resolved the same way as previously. Finally, *Hephaistos* will cast a new **Ego Death**, the real enrage this time.
+
 </div>

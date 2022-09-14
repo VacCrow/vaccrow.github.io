@@ -10,7 +10,7 @@ Minimum ilvl: i610
 DPS Requirement: 61.6k  
 Enrage timer: 07:53  
 <span class='debuff'>Damage Down</span> potency: 38%  
-Loot:None since it's a door boss*
+Loot: None since it's a door boss*
 
 ___
 
@@ -103,7 +103,7 @@ And for each <span class='speDebuff'>in Line</span> group, 2 <span class='speDeb
   The second cast will apply <span class='speDebuff'>Eye of the Gorgon</span> and <span class='speDebuff'>Blood of the Gorgon</span> on everyone with one buff lasting 23 seconds and the other 29 seconds. 4 players of one role will get a short duration on <span class='speDebuff'>Eye of the Gorgon</span> and the other 4 players will get a long duration. And vice-versa for <span class='speDebuff'>Blood of the Gorgon</span>.  
   Futhermore, 2 random players will get <span class='speDebuff'>Crown of the Gorgon</span> <img class='iconImg' src='{{ site.data.iconList.P8S.CrownOfTheGorgon }}'> and 2 random players will get <span class='speDebuff'>Breath of the Gorgon</span> <img class='iconImg' src='{{ site.data.iconList.P8S.BreathOfTheGorgon }}'>. If <span class='speDebuff'>Crown of the Gorgon</span> is on Tanks/Healers, <span class='speDebuff'>Breath of the Gorgon</span> will be on DPS.
 
-  + <span class='speDebuff'>Crown of the Gorgon</span> is an AoE inflicting <span class='speDebuff'>Petrifaction</span> on anyone hit within direct line of sight. A petrified *Gorgon* can break the line of sight.  
+  + <span class='speDebuff'>Crown of the Gorgon</span> is an raid-wide AoE inflicting <span class='speDebuff'>Petrifaction</span> on anyone hit within direct line of sight. A petrified *Gorgon* can break the line of sight.  
   + <span class='speDebuff'>Breath of the Gorgon</span> is a share AoE around the owner, dealing lethal damage to anyone with <span class='speDebuff'>Petrifaction</span>.
 
 ___
@@ -161,14 +161,14 @@ ___
 
 + **<u>Blazing Footfalls</u>:**
 *Hephaistos* performs 4 attacks in a row:
-  1. **Trailblaizer**
+  1. **Trailblaze**
   2. **Quadrupedal Crush** or **Quadrupedal Impact**, opposite of the previous one
-  3. **Trailblaizer**
+  3. **Trailblaze**
   4. **Quadrupedal Crush** or **Quadrupedal Impact**, completely random
 
 ___
 
-+ **<u>Trailblaizer</u>:**
++ **<u>Trailblaze</u>:**
 Line AoE going through the middle of the arena. The center part deals lethal damage and the outer part knocks people away, perpendicular to the AoE. The knockback length is one tile long.
 
 </div>
@@ -270,13 +270,13 @@ ___
 
 If *Hephaistos* starts with *Hippo* mode, use your knockback immunity to dodge **Footprint** then he'll turn towards a random cardinal and cast **Quadrupedal Crush** or **Quadrupedal Impact**. If it's **Impact**, move where he's jumping and get knocked into the opposite side, otherwise move away from his destination.  
 
-Then he'll cast **Conceptual Tetraflare/Diflare** and you need to remember which cast it is. And he will start **Blazing Footfalls** showing the first **Trailblaizer** and the following **Quadrupedal Crush** or **Quadrupedal Impact**. This **Quadrupedal** is always the opposite of the first one.  
+Then he'll cast **Conceptual Tetraflare/Diflare** and you need to remember which cast it is. And he will start **Blazing Footfalls** showing the first **Trailblaze** and the following **Quadrupedal Crush** or **Quadrupedal Impact**. This **Quadrupedal** is always the opposite of the first one.  
 Stand to the left or the right side to get knocked away to safe side for the incoming **Quadrupedal Crush/Impact**. You also have to form light parties or pairs for the **Conceptual Tetraflare/Diflare** that resolves right after the knockback.  
 Once the stack is done, either stay away from the **Quadrupedal Crush** or move under to the boss destination for **Quadrupedal Impact** and get knocked towards the next safe spot:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="blaze1.jpg;blaze2.jpg;blaze3.jpg" imgDesc="Position yourself to dodge the next <strong>Quadrupedal Crush/Impact</strong> and in pairs for <strong>Tetraflare</strong> (or in light groups for <strong>Diflare</strong>);The <strong>Conceptual Tetraflare/Diflare</strong> resolves;Stay away from the boss destination" slideNumber=slideCounter %}
 
-For the second **Trailblaizer**, get knocked to perform the next **Quadrupedal Crush/Impact** with ease. At that time, **Volcanic Torches** will start to draw a pattern. Once the **Trailblaizer** happens, the lines will change direction and show you the safe row/column.  
+For the second **Trailblaze**, get knocked to perform the next **Quadrupedal Crush/Impact** with ease. At that time, **Volcanic Torches** will start to draw a pattern. Once the **Trailblaze** happens, the lines will change direction and show you the safe row/column.  
 Then either stay away from the boss' **Quadrupedal Crush** and move into the safe area for **Volcanic Torches** or, use the incoming **Quadrupedal Impact** to get knocked into the safe area.
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="blaze4.jpg;blaze5.jpg;blaze6.jpg" imgDesc="Get knocked to the safe side;Use the knockback to get into the safe area;Avoid the <strong>Volcanic Torches</strong> explosions" slideNumber=slideCounter %}

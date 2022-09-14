@@ -234,6 +234,7 @@ P8S_Part2:
   - name: Strategy
     section:
       - name: Natural Alignment
+      - name: High Concept 1
       - name: Limitless Desolation
       - name: High Concept 2
 
