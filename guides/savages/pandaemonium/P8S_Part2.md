@@ -63,10 +63,10 @@ ___
 ___
 
 + **<u>End of Days</u>:**
-4 clones will appear outside the arena with 2 clones on the West side and 2 clones on the East side. Each clone will face a different row and the two first rows cannot have clones on the same side.
+6 clones will appear outside the arena with 3 clones on the West side and 3 clones on the East side. Each clone will face a row and the two first rows cannot have clones on the same side.
 The West clones will fire first then will the East clones. Their attack is a line AoE, as wide as a row, dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span>.
 
-  Clones can also appear on cardinal and tether to the closest player. They can be drag along the edge and after 5 seconds, the player is <span class='debuff'>Bind</span> and the clones use **End of Days**, dealing <span class='magic'>magical damage</span>.
+  4 clones can also appear on cardinal and tether to the closest player. They can be drag along the edge and after 5 seconds, the player is <span class='debuff'>Bind</span> and the clones use **End of Days**, dealing <span class='magic'>magical damage</span>.
 
 ___
 
@@ -154,7 +154,7 @@ Then *Hephaistos* will cast **Natural Alignment** <span class='speDebuff'>Natura
 {% assign slideCounter = 0 %}
 {% include slideshow.html imgLink="nature1-1.jpg;nature1-2.jpg;nature1-3.jpg" imgDesc="Stack middle;Dodge the baited AoEs and spread around them (or stack in front for the share);Dodge <strong>Ashing Blaze</strong> and regroup for the share (or spread for the AoEs)" slideNumber=slideCounter %}
 
-Then the 4 clones will spawn but only identify the clones of the first two rows. Since the West clones cast **End of Days** first, move on the row where the East clone is. The <span class='speDebuff'>Natural Alignment</span> players must stand in the middle of the row in order to resolve the Fire or Ice gauge:
+Then the 6 clones will spawn but only identify the clones of the first two rows. Since the West clones cast **End of Days** first, move on the row where the East clone is. The <span class='speDebuff'>Natural Alignment</span> players must stand in the middle of the row in order to resolve the Fire or Ice gauge:
 
 + For Fire, form pairs. For each pair, one player player must be on the outer tile to bait the share and the other must be on the inner tile.
 + For Ice, form two groups of three players. On each group, one player player must be on the inner tile to bait the share and the two other must be on the outer tile. Two players must
@@ -168,16 +168,20 @@ Then quickly regroup middle and mitigate for **Aioniopyr**. *Hephaistos* will do
 <a id='SHighConcept1'></a>Now the boss will cast **High Concept**. The players with a short duration on <span class='speDebuff'>Imperfection: Alpha</span>, <span class='speDebuff'>Imperfection: Beta</span> and <span class='speDebuff'>Imperfection: Gamma</span> must move to the North West, North East and South West cardinals respectively. The rest will move to the South East quadrant, the <span class='speDebuff'>Supersplice</span> player stack with the long <span class='speDebuff'>Imperfection: Alpha</span> and <span class='speDebuff'>Imperfection: Beta</span> around the East and the <span class='speDebuff'>Multisplice</span> with the long <span class='speDebuff'>Imperfection: Gamma</span> stack around South:
 <img class='soloImg' src='{{ page.imagePath | append: 'hc1-1.jpg' }}'>
 
-Once **Conceptual Shift** happens, the <span class='speDebuff'>Perfection: Alpha</span> and <span class='speDebuff'>Perfection: Beta</span> will regroup between the towers and  combine into <span class='buff'>Winged Conception</span> then they'll step inside the towers. In the meantime, the rest of group will move middle for heals and get ready to stand on the left or right side of the arena for **Ashing Blaze**:
+Once **Conceptual Shift** happens, two towers of a random element will appear. The two players that have the tower element as a a secondary element will regroup between the towers and combine into the correct element (<span class='buff'>Winged Conception</span> in this example), then they'll step inside the towers. In the meantime, the rest of group and the remaining <span class='speDebuff'>Perfection</span> debuff will move middle for heals and get ready to stand on the left or right side of the arena for **Ashing Blaze**:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="hc1-2.jpg;hc1-3.jpg;hc1-4.jpg" imgDesc="<strong>Conceptual Shift</strong> happens;Regroup mid. Alpha and Beta create Wind Conception;Dodge <strong>Ashing Blaze</strong> while Wind Conceptions step in the towers" slideNumber=slideCounter %}
 
-Then the long duration <span class='speDebuff'>Imperfection: Alpha</span>, <span class='speDebuff'>Imperfection: Beta</span> and <span class='speDebuff'>Imperfection: Gamma</span> must respectively move to the North West, North East and South West cardinals. The previous <span class='speDebuff'>Multisplice</span> and <span class='speDebuff'>Supersplice</span> move to with the Alpha and Beta player respectively to get hit. Lastly, the players with a concept must stand in the South East quadrant:
+Then the long duration <span class='speDebuff'>Imperfection: Alpha</span>, <span class='speDebuff'>Imperfection: Beta</span> and <span class='speDebuff'>Imperfection: Gamma</span> must respectively move to the North West, North East and South West cardinals. The remaining <span class='speDebuff'>Perfection</span> debuff can go back to his previous corner to reset his debuff duration if needed.  
+Each of the previous <span class='speDebuff'>Multisplice</span> and <span class='speDebuff'>Supersplice</span> players will move to a Alpha, Beta and Gamma corner. Since we need two of each <span class='speDebuff'>Imperfection</span> debuff, they must join a corner to receive a <span class='speDebuff'>Imperfection</span>. The must receive the debuffs that were used to create the previous Concept (<span class='speDebuff'>Imperfection: Alpha</span>, <span class='speDebuff'>Imperfection: Beta</span> in this diagram).  
+Lastly, the players with a concept must stand in the South East quadrant with the remaining <span class='speDebuff'>Perfection</span>:
 <img class='soloImg' src='{{ page.imagePath | append: 'hc1-5.jpg' }}'>
 
-After **Conceptual Shift** hit, the previous <span class='speDebuff'>Imperfection: Alpha</span> and <span class='speDebuff'>Imperfection: Beta</span> will move between the North towers to combine into <span class='buff'>Winged Conception</span> while the <span class='speDebuff'>Multisplice</span> and <span class='speDebuff'>Supersplice</span> players will do the same between the South towers. The two <span class='speDebuff'>Imperfection: Gamma</span> players must take care to not create a concept. Then move inside the towers and dodge the second  **Ashing Blaze**:
+After the second **Conceptual Shift** hit, four towers of a random element will appear. The 4 players that have the tower element as a secondary element must create this concept to soak the towers. The players with the long duration <span class='speDebuff'>Imperfection</span> will move between the North towers and combine while the spare <span class='speDebuff'>Imperfection</span> will do the same between the South towers (for <span class='buff'>Aquatic Conception</span> in this example).  
+The two remaining <span class='speDebuff'>Imperfection</span> players must take care to not create a concept.  
+Once the concepts are created, move inside the towers. Then everyone move to the safe half to dodge the second  **Ashing Blaze**:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="hc1-6.jpg;hc1-7.jpg;hc1-8.jpg" imgDesc="<strong>Conceptual Shift</strong> happens;Alpha and Beta create Wind Conception North, previous Multisplice and Supersplice do the same South;Dodge <strong>Ashing Blaze</strong> while Wind Conceptions step in the towers" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="hc1-6.jpg;hc1-7.jpg;hc1-8.jpg" imgDesc="<strong>Conceptual Shift</strong> happens;Long duration Alpha and Gamma create Aquatic Conception North, spare Alpha and Gamma do the same South;Dodge <strong>Ashing Blaze</strong> while Aquatic Conceptions step in the towers" slideNumber=slideCounter %}
 </div>
 
 <div class='guideSection' markdown='1'>
