@@ -236,6 +236,6 @@ It isn't necessary at all to heal since *Hephaistos* will cast **Ego Death** kil
 *Hephaistos* will next cast **Aionagonia**, quickly heal and mitigate for the incoming **Dominion**. Before it hits, everyone must on his own tile on the 1st and 2nd row. Players can occupy a column based on their role: <u>Tanks - Healers - Melee DPS - Ranged DPS</u>.  
 The players who got hit by **Orogenic Deformation** will move to the middle while the other 4 will choose a tower and soak it once it's out of the ground. Then the 4 other players will soak the second set of towers.
 
-Next is another **Aionagonia** into **Dominion** resolved the same way as previously. Finally, *Hephaistos* will cast a new **Ego Death**, the real enrage this time.
+Next is another **Aionagonia** into **Dominion** resolved the same way as previously, followed by the last **Aiongonia**. Finally, *Hephaistos* will cast **Ego Death** for a second time, the real enrage this time.
 
 </div>
