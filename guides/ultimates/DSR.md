@@ -720,7 +720,7 @@ Form a line from West to East, then 4 random players will get a <span class='spe
 + The outer players without a debuff move West and East along the stone ring.
 + The inner players without a debuff players move South West and South East along the edge.
 
-Be mindful, the players at intercardinals must stand on the tiles surrounded in red in order to dodge **Spear of the Fury** and **Twisting Dive**. Here with the same 3/1 pattern shown above:
+Be mindful, the players at intercardinals must stand on the tiles surrounded in red in order to dodge **Spear of the Fury** and **Twisting Dive**:
 <img class='soloImg' src='{{ page.imagePath | append: 'doom.jpg'}}'>
 
 *Darkscale* will cast **Cauterize**, diving in the North/South axis. *Ser Zephirin* and *Vedrfolnir* will respectively cast **Spear of the Fury** and **Twisting Dive**. Their will attack diagonally, NE->SW and NW->SE, but slightly tilted towards the East and West. (*Check diagram n°4 below to see the positions and line AoEs.*)  
