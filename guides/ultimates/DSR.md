@@ -4,12 +4,15 @@ title: Dragonsong's Reprise | DSR
 imagePath: /assets/img/guides/ultimates/DSR/
 slideNumber: 25
 ---
+{ % comment % }
+<!-- cSpell:ignore SKRAAA -->
+{ % endcomment % }
 
 *Patch: 6.11  
 Minimum ilvl: i600  
 Maximum ilvl: i605  
 Maxsubstat ilvl: (i725 probably)  
-DPS Requirement: ~1524890k or a bit less if you sacrifice a Lala  
+DPS Requirement: ~1524890k or a bit less if you sacrifice a lalafell  
 Loot:*
 
 + *Token: 1 Dragonsong Totem (1 token for an Ultimate Weapon of the Heavens)*
@@ -36,7 +39,7 @@ ___
 + **<u>Empty Dimension / Full Dimension</u>:**
 AoE based on *Ser Grinnaux* position, dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff:
   + **Empty Dimension** has a donut shape.
-  + **Full Dimension** has a pointblank shape.
+  + **Full Dimension** has a point-blank shape.
 
 ___
 
@@ -76,7 +79,7 @@ ___
 
 + **<u>Shining Blade</u>:**
 *Ser Adelphel* will appear on a random cardinal. He will dash between cardinals, 3 three times in a Z shape followed by a last dash towards his starting position. Each dash deals lethal damage and applies a <span class='debuff'>Damage Down</span> debuff.  
-On the dash paths, multiple *Brightspheres* will spawn. After 2 seconds, the *Brightsphere* will explode in AoE, dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff. (named **Bright Flare**)
+On the dash paths, multiple *Brightspheres* will spawn. After 2 seconds, the *Brightspheres* will explode in AoE, dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff. (named **Bright Flare**)
 
 ___
 
@@ -127,7 +130,7 @@ ___
 + **<u>Brightwinged Flight</u>:**
 *Ser Adelphel* will protect *Ser Charibert* while giving him two buffs:
   + <span class='buff'>Brightwinged Fortitude</span>: reducing damage taken.
-  + <span class='buff'>Brightwinged Fury</span>: when this buff has 18 seconds left, the two closest players will be targeted every 5 seconds with a thin cleave (**Brightwing**) dealing light <span class='magic'>magical damage</span>, applying a <span class='debuff'>Light Resistance Down</span> debuff lasting 18 seconds and a <span class='speDebuff'>Skyblind</span> <img class='iconImg' src='{{ site.data.iconList.DSR.Skyblind }}'> debuff lasting 5 seconds. When <span class='speDebuff'>Skyblind</span> resolves, a small AoE will explode at the player location after 2 seconds, dealing high <span class='magic'>magical damage</span>.
+  + <span class='buff'>Brightwinged Fury</span>: when this buff has 18 seconds left, the two closest players will be targeted every 5 seconds with a thin cleave dealing light <span class='magic'>magical damage</span>, applying a <span class='debuff'>Light Resistance Down</span> debuff lasting 18 seconds and a <span class='speDebuff'>Skyblind</span> <img class='iconImg' src='{{ site.data.iconList.DSR.Skyblind }}'> debuff lasting 5 seconds. When <span class='speDebuff'>Skyblind</span> resolves, a small AoE will explode at the player location after 2 seconds, dealing high <span class='magic'>magical damage</span>.
 
 ___
 
@@ -180,7 +183,7 @@ ___
 
 <a id='SPlanarImprisonment'></a>If they are killed in time, *Ser Grinnaux* will pull everyone into a smaller arena. Right after, *Ser Charibert* will start to cast **Pure of Heart** and need to be brought as low as possible.
 
-The group will stay middle at max melee range. Then the first pair will move inside *Ser Charibert*  's hitbox between him and the wall to bait the first set of **Brightwing** towards the outside. Once they're hit, they move to a side of the arena at max melee range and wait there to lose their <span class='speDebuff'>Skyblind</span> debuff before going back with the group.  
+The group will stay middle at max melee range. Then the first pair will move inside *Ser Charibert*  's hitbox between him and the wall to bait the first set of **Brightwinged** towards the outside. Once they're hit, they move to a side of the arena at max melee range and wait there to lose their <span class='speDebuff'>Skyblind</span> debuff before going back with the group.  
 The pairs order is the following: <u>Healers -> Ranged DPS -> Melee DPS -> Tanks</u>. The Healers and Melee DPS will move to the left side to drop their debuff while the Ranged DPS will move to the right side:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="planar1.jpg;planar2.jpg;planar3.jpg;planar4.jpg;planar5.jpg;planar6.jpg" imgDesc="Healers move in;Healers to the left side and Ranged DPS move in;Ranged DPS to the right side and Melee DPS move in;Melee DPS to the left side and Tanks move in;Tanks can wait here;Tanks mid and prepare for <strong>Pure of Heart</strong>" slideNumber=slideCounter %}
@@ -222,7 +225,7 @@ ___
 
   + **<u>Heavy Impact</u>:**
   Multiple delayed hit AoE performed by the Axe Knight that grow each time, dealing <span class='magic'>magical damage</span> on every hit and applying a <span class='debuff'>Damage Down</span> and a <span class='debuff'>Stun</span> debuff.  
-  The first AoE is pointblank while the four next are donut-shaped. Each donut encompass the previous AoE.
+  The first AoE is point-blank while the four next are donut-shaped. Each donut encompass the previous AoE.
 
     ___
 
@@ -366,7 +369,7 @@ From this point, you may hold your 2 minutes cooldown for the reopener on the ne
 *King Thordan* will teleport North and cast **Ultimate End**. Heal and use proper mitigation for this raid-wide.  
 Then *King Thordan* will move a bit towards mid and use **Broad Swing**. Stand behind him and move into the first cleave once it happens. He will turn and repeat this a second time.
 
-The enrage, **Aetheric Burst**, is then casted to end this phase.
+The enrage, **Aetheric Burst**, is then cast to end this phase.
 </div>
 
 <h1><a id='Phase3-Nidhogg'>Phase 3 - Nidhogg</a></h1>
@@ -423,7 +426,7 @@ ___
 + **<u>Gnash and Lash / Lash and Gnash</u>:**
 *Nidhogg* will launch two AoE attacks with small knockback, both dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.  
 **Gnash and Lash** consists of **Gnashing Wheel** into **Lashing Wheel** and **Lash and Gnash** is the opposite:
-  + **Gnashing Wheel** has a pointblank shape.
+  + **Gnashing Wheel** has a point-blank shape.
   + **Lashing Wheel** has a donut shape.
 
   There's a 4 seconds delay between the end of the cast and the first attack.
@@ -432,7 +435,7 @@ ___
 
 + **<u>Eye of the Tyrant</u>:**
 A random player in front of *Nidhogg* is targeted by a share AoE dealing <span class='magic'>magical damage</span>.  
-<u>It is non-casted and is always used when the cast of <strong>Gnash and Lash/Lash and Gnash</strong> is complete.</u>
+<u>It is non-cast and is always used when the cast of <strong>Gnash and Lash/Lash and Gnash</strong> is complete.</u>
 
 ___
 
@@ -459,7 +462,7 @@ After *Estinien* retakes control of his body, *Alphinaud* will appear along with
 + <span class='buff'>Soul of Friendship</span> <img class='iconImg' src='{{ site.data.iconList.DSR.SoulOfFriendship }}'>: given by *Haurchefant*, allows to deal damage to the *Right Eye*.
 + <span class='buff'>Soul of Devotion</span> <img class='iconImg' src='{{ site.data.iconList.DSR.SoulOfDevotion }}'>: given by *Ysayle*, allows to deal damage to the *Left Eye*.
 
-Once the *Left Eye* and *Right Eye* appear, the Duty Gauge will start to fill. When it reaches 100, *Nidhogg* will take control of *Estinien* and wipe the groupe. The Duty Gauge dissapears when both *Eyes* are dead.
+Once the *Left Eye* and *Right Eye* appear, the Duty Gauge will start to fill. When it reaches 100, *Nidhogg* will take control of *Estinien* and wipe the groupe. The Duty Gauge disappears when both *Eyes* are dead.
 
 The *Right Eye* appears with only 50% of its health.
 
@@ -481,7 +484,7 @@ ___
 
 + **<u>Flare Nova & Flare Star</u>:**
 6 orbs will spawn and grow in size overtime, detonating once they're big enough and wiping the group.  
-Each orb deals sharable <span class='magic'>magical damage</span> and applying a <span class='debuff'>Fire Resistance Down II</span> debuff for 12 seconds. The damage scales with the orb size.
+Each orb deals shareable <span class='magic'>magical damage</span> and applying a <span class='debuff'>Fire Resistance Down II</span> debuff for 12 seconds. The damage scales with the orb size.
 
   + **Flare Nova**:
   2 medium sized yellow orbs that spawn East and West. Since they're already big, they need to popped by 2 players each. Grow twice before exploding.
@@ -494,7 +497,7 @@ Each orb deals sharable <span class='magic'>magical damage</span> and applying a
 ___
 
 + **<u>Mirage Dive</u>:**
-AoE on 2 random players with <span class='speDebuff'>Clawbound</span> dealing <span class='phys'>piercing physical damage</span> and appylying <span class='debuff'>Piercing Resistance Down</span> debuff for 13 seconds. Any non-targeted player hit is also knocked away.
+AoE on 2 random players with <span class='speDebuff'>Clawbound</span> dealing <span class='phys'>piercing physical damage</span> and applying <span class='debuff'>Piercing Resistance Down</span> debuff for 13 seconds. Any non-targeted player hit is also knocked away.
 Happens 4 times with 5 seconds in between.
 
 ___
@@ -739,7 +742,7 @@ After a few seconds, **Faith Unmoving** will happen along with **The Dragon's Ga
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="death6.jpg;death7.jpg;death8.jpg;death9.jpg;death10.jpg" imgDesc="Intercardinals <strong>Doom</strong> players cross through <em>Sir Grinnaux</em> and East/West <strong>Doom</strong> players stay a bit away to bait the Circle markers;Markers appear, <strong>Doom</strong> players are anchored;<strong>Non-Doom</strong> players adjust and both Crosses are North and South;Move close to <em>Sir Grinnaux</em> and look away from <em>King Thordan</em> and the <em>Dragon Eye</em>;Get knocked away and grab the cleanse puddles" slideNumber=slideCounter %}
 
-After the explosion, 8 *Meteor Circles* will spawn, quickly get rid of them to avoid a wipe. It can be useful to keep multi-hit albilities for this part.
+After the explosion, 8 *Meteor Circles* will spawn, quickly get rid of them to avoid a wipe. It can be useful to keep multi-hit abilities for this part.
 
 It's time for *King Thordan* to come back with his **Ancient Quaga** into **Heavenly Heel** into triple **Ascalon's Might** combo. As previously, mitigate the raid-wide and swap Tanks for the tank busters or use a Tank invulnerability.  
 He will then cast his enrage **Aetheric Burst**. The cast will be cancelled if he drops below 3% HP. Stop any kind of damage to spare him and go into Phase 5.  
@@ -906,7 +909,7 @@ Meanwhile, the Tanks has to check the dragons' mouths:
 
 Example with only *Nidhogg* 's mouth glowing:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="wyrmbreath1-1.jpg;wyrmbreath1-2.jpg" imgDesc="Tanks check the dragons' mouths, DPS/Healers South and form an Ice/Fire pair;Tanks spread and avoid the breath" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="wyrmsbreath1-1.jpg;wyrmsbreath1-2.jpg" imgDesc="Tanks check the dragons' mouths, DPS/Healers South and form an Ice/Fire pair;Tanks spread and avoid the breath" slideNumber=slideCounter %}
 
 Right after, the DPS have to spread to avoid clipping other people when one of them receives <span class='speDebuff'>Mortal Vow</span>. The order to pass the debuff is the following:  
   DPS > Nidhogg Tank > Hraesvelgr Tank > Melee DPS 1 (or 2) > Phys Ranged DPS (if the Melee DPS 1 got the debuff first, Melee DPS 2 will replace him for the third pass)
@@ -928,7 +931,7 @@ Identify and move into the safe quadrant, then check *Hraesvelgr* head for **Hal
 
 Quickly make some space middle so the DPS with <span class='speDebuff'>Mortal Vow</span> can pass it to *Nidhogg* 's Tank there.
 
-Now, *Nidhogg* will cast **Wroth Flames** and *Hraesvelgr* will leave the arena for **Cauterize**. At the same time, 4 players will receive <span class='speDebuff'>Spreading Flames</span> and 2 other will get <span class='speDebuff'>Spreading Flames</span>. Futhermore, 3 sets of orbs will spawn with the first one middle and the two other on opposite intercardinal.  
+Now, *Nidhogg* will cast **Wroth Flames** and *Hraesvelgr* will leave the arena for **Cauterize**. At the same time, 4 players will receive <span class='speDebuff'>Spreading Flames</span> and 2 other will get <span class='speDebuff'>Spreading Flames</span>. Furthermore, 3 sets of orbs will spawn with the first one middle and the two other on opposite intercardinal.  
 First, find *Hraesvelgr* and where he'll dive through. If he dives mid or away from *Nidhogg* side, you can move all grouped together, next to him, to the intercardinal corner opposite of the second set of orbs, either diagonally or vertically. Otherwise, move away from *Nidhogg* but still to the intercardinal corner opposite of the second set.  
 Then **Cauterize** and the first hit of **Akh Morn** will happen, start to move toward the middle on the arena while running along *Nidhogg* 's hitbox.  
 The first **Fire Blast** happens along with the second hit of **Akh Morn**. Continue to drop the puddles next to the previous one's edge. Right after the fourth **Akh Morn** is done, the second **Fire Blast** will resolve.  
@@ -950,7 +953,7 @@ Then the <span class='speDebuff'>Spreading Flames</span> players will spread on 
 
 It's time for the second <span class='speDebuff'>Mortal Vow</span> pass where *Nidhogg* 's Tank gives it to *Hraesvelgr* 's Tank.
 
-A new **Akh Afah** will be casted, do the same as previously. This is the last **Akh Afah** of the fight so there is no need to worry about their HP difference afterward.
+A new **Akh Afah** will be cast, do the same as previously. This is the last **Akh Afah** of the fight so there is no need to worry about their HP difference afterward.
 
 Then *Hraesvelgr* will cast **Hallowed Wings** and *Nidhogg* will cast **Hot Tail / Hot Wing**. Same as before, watch out for the side *Hraesvelgr* is cleaving then move to the safe side if **Hot Tail** or move in the middle between the bosses if **Hot Wing**. Both Tanks will adjust based on *Hraesvelgr* head position while being as close as possible to their respective dragon.
 
@@ -966,7 +969,7 @@ This time the Healers and DPS need to keep their debuffs on, so they will take t
 
 Example with only *Hraesvelgr* 's mouth glowing:
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="wyrmbreath2-1.jpg;wyrmbreath2-2.jpg" imgDesc="Tanks check the dragons' mouths, everyone moves their fixed positions;Tanks spread and avoid the breath" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="wyrmsbreath2-1.jpg;wyrmsbreath2-2.jpg" imgDesc="Tanks check the dragons' mouths, everyone moves their fixed positions;Tanks spread and avoid the breath" slideNumber=slideCounter %}
 
 Here is more information about the positions if you're on:
 
@@ -974,7 +977,7 @@ Here is more information about the positions if you're on:
 + Purple: In the corner formed by **Swirling Blizzard** and the line of stones shown in orange.
 + White: Use the bleached stones shown by the white arrows as a cue.
 + Yellow: In the corner formed by **Swirling Blizzard** and the boss inner-hitbox.
-<img class='soloImg' src='{{ page.imagePath | append: 'wyrmbreath2pos.jpg' }}'>
+<img class='soloImg' src='{{ page.imagePath | append: 'wyrmsbreath2pos.jpg' }}'>
 
 After everything resolve, both wryms will leave and reappear North for **Cauterize**. Players with <span class='speDebuff'>Boiling</span> will move on *Hraesvelgr* side while the players with <span class='speDebuff'>Freezing</span> will move on *Nidhogg* side. The Tanks will move in front of the group and their respective bosses and use their invulnerability. They can also use the rest of their mitigation tools (that can carry over from the previous tank buster) and keep their invulnerability for the last phase.  
 Right before **Cauterize** happens, the debuffs will swap into <span class='speDebuff'>Pyretic</span> and <span class='speDebuff'>Deep Freeze</span> and will be removed if the players are on the correct side. If you end up with <span class='speDebuff'>Pyretic</span>, remember to not perform any action to avoid unnecessary damage.
@@ -1019,10 +1022,10 @@ ___
 
 + **<u>Fire's Edge / Ice's Edge</u>:**
 During any other **Edge** abilities, *Dragon-king Thordan* will imbue his sword with an element. He will release it at the beginning of that **Edge** ability:
-  + <span style='color:firebrick'>Fire</span>: he'll perform a pointblank AoE.
+  + <span style='color:firebrick'>Fire</span>: he'll perform a point-blank AoE.
   + <span style='color: dodgerblue'>Ice</span>: he'll perform a donut AoE.
 
-> The limit between the pointblank and the donut AoE is the boss hitbox.
+> The limit between the point-blank and the donut AoE is the boss hitbox.
 
 ___
 

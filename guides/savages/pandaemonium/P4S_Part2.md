@@ -150,9 +150,9 @@ Cone AoE aimed at the closest player dealing <span class='magic'>magical damage<
 ___
 
 + **<u>Heart Stake</u>:**
-Tank buster on the two players with the highest emnity dealing <span class='magic'>magical damage</span> and applying a <span class='speDebuff'>Bleed</span> debuff that last 15 seconds.  
+Tank buster on the two players with the highest enmity dealing <span class='magic'>magical damage</span> and applying a <span class='speDebuff'>Bleed</span> debuff that last 15 seconds.  
 The target for the first hit is set when the cast starts and aim at the top enmity player. The target for the second hit is set when the cast is done and aim at the second player in the enmity list.  
-Thus, swaping Tanks during the cast will result in both hits on the same player.
+Thus, swapping Tanks during the cast will result in both hits on the same player.
 
 ___
 
@@ -223,13 +223,13 @@ Then the boss will cast **Wreath Of Thorns** into **Dark Design**. During **Dark
 Then based on your tether and role assumed the following position:
 
 + **Dark IV** Healer has to stand at the edge between the South and West towers. Once the tether is broken, soak the first tower on South/West and the next clockwise tower.
-+ **Dark IV** Tank has to stand at max melee range between the North and East towers . Once the tether is broken, move into the North/East melee safe spot and into the next counterclockwise safe spot.
++ **Dark IV** Tank has to stand at max melee range between the North and East towers . Once the tether is broken, move into the North/East melee safe spot and into the next counter-clockwise safe spot.
 <br/><br/><!-- force a break -->
 + **Fire III** Healer has to move into the North/East tower safe spot next to the edge. The tether will break and the Healer will share the **Fire III**. Then the Healer will move into the second clockwise tower and soak it.
 + **Fire III** Tank has to move into the South/West tower safe spot at max melee range. The tether will break and the Tank will solo share the **Fire III**, the job cooldown is enough. Then move into the next clockwise safe spot.
 <br/><br/><!-- force a break -->
 + Both **Aero III** DPS has to move into the North/East tower safe spot and share with the **Fire III** Healer if possible. Then move into the next clockwise safe spot.
-+ Both **Fire III** DPS has to move into the North/East tower safe spot and share with the **Fire III** Healer if possible. Then one of the DPS will rotate into the next clockwise safe spot while the other will go counterclockwise. The tether will break and they will share with the available players.
++ Both **Fire III** DPS has to move into the North/East tower safe spot and share with the **Fire III** Healer if possible. Then one of the DPS will rotate into the next clockwise safe spot while the other will go counter-clockwise. The tether will break and they will share with the available players.
 + ***The Physical Ranged DPS has to stand into the first North/East tower and soak it regardless of his tether element.***
 
 Here's an example with the first towers on North and South:
@@ -271,10 +271,10 @@ All tethers has to be broken before **Ultimate Impulse** cast reach 60%, heal an
 <div class='guideSection' markdown='1'>
 <a id='SAkanthaiFinale'></a>
 
-*Hesperos* will continue with **Searing Stream** before casting **Akanthai: Finale**. Once **Wreath of Thorns** is casted, everyone will spread around the *Thorn* they're tethered to, with Melees in contact with the boss and Ranged along the edge or on the sides.
+*Hesperos* will continue with **Searing Stream** before casting **Akanthai: Finale**. Once **Wreath of Thorns** is cast, everyone will spread around the *Thorn* they're tethered to, with Melees in contact with the boss and Ranged along the edge or on the sides.
 <img class='soloImg' src='{{ page.imagePath | append: 'finale.jpg' }}'>
 *Hesperos* will use **Fleeting Impulse** on everyone and each players must remember the order in which they've been hit.  
-Another **Wreath of Thorns** will be casted, showing the order of the **Thunder III** explosions. Each player must stand inside the *Thorn* in the same order as **Fleeting Impulse** hit to get rid of the <span class='debuff'>Magic Vulnerability Up</span> in time.
+Another **Wreath of Thorns** will be cast, showing the order of the **Thunder III** explosions. Each player must stand inside the *Thorn* in the same order as **Fleeting Impulse** hit to get rid of the <span class='debuff'>Magic Vulnerability Up</span> in time.
 
 Once **Akanthai** is done, the boss will cast another **Nearsight** or **Farsight**, resolve as previously. Followed by **Searing Stream** into **Demigod Double**, share or use a Tank invulnerability if necessary.
 </div>

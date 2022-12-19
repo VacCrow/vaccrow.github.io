@@ -27,7 +27,7 @@ ___
 
 ___
 
-+ **<u>Sonic Hawl</u>:**
++ **<u>Sonic Howl</u>:**
 Raid-wide AoE dealing small <span class='magic'>magical damage</span>.
 
 ___
@@ -49,7 +49,7 @@ ___
 
 + **<u>Caustic Pools</u>:**
 4 towers with a countdown will appear. Each tower must be soaked by 2 players. Standing in a tower will inflict <span class='debuff'>Toxicosys</span>.  
-When a tower is failed, a *Lively Bait* will spawn and start to cast **Scatterbait**, a raid-wide dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff. Futhermore, the closest player will be targeted by **Venom**, a hard hitting share AoE, dealing <span class='magic'>magical damage</span>.
+When a tower is failed, a *Lively Bait* will spawn and start to cast **Scatterbait**, a raid-wide dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff. Furthermore, the closest player will be targeted by **Venom**, a hard hitting share AoE, dealing <span class='magic'>magical damage</span>.
 
 ___
 
@@ -136,7 +136,7 @@ Another **Venomous Mass** and **Toxic Crunch** combo, swap Tanks as previously.
 
 *Proto-Carbuncle* will cast the second **Ruby Glow** dividing the arena in 2. Along the wall, 1 *Topaz Stone* and 1 *Poison Stone* will spawn. Then the boss will move middle and cast **Double Rush**. Move behind him and use your knockback immunity during the cast. After the first dash, switch side if you're on the side with the *Topaz Stone*. Remember to have some kind of mitigation to survive the second dash.
 
-Another **Sonic Howl** is casted before the next **Ruby Glow**, dividing the arena in 4. Multiple sets of *Topaz Stones* will fall:
+Another **Sonic Howl** is cast before the next **Ruby Glow**, dividing the arena in 4. Multiple sets of *Topaz Stones* will fall:
 
 + First set: 2 *Stones* on opposite quadrants.
 + Second set: 2 *Stones* on the two other quadrants.
@@ -147,7 +147,7 @@ To solve this mechanic: move into a safe spot from the first set, then move into
 
 Next is once again a **Venomous Mass** into **Toxic Crunch** combo, swap Tanks as usual.
 
-Then the boss will cast either **Venom Squall** or **Venom Surge**. For **Venom Squall**, spread around the boss to get your AoEs, move insde the boss to bait the ground AoEs then form two groups with your Healers for the shares. Do this in reversed order for **Venom Surge**.
+Then the boss will cast either **Venom Squall** or **Venom Surge**. For **Venom Squall**, spread around the boss to get your AoEs, move inside the boss to bait the ground AoEs then form two groups with your Healers for the shares. Do this in reversed order for **Venom Surge**.
 
 Once it's over, the boss will cast **Claw to Tail** or **Tail to Claw** telling which side he'll cleave first. Beware of the **Raging Claw** part since he attacks 7 times.
 
@@ -175,7 +175,7 @@ A new set of **Caustic Pools** will spawn when the **Venom Pools** happen. Resol
 
 Then he will cast **Claw to Tail** or **Tail to Claw** followed by the **Venomous Mass**/**Toxic Crunch** combo.
 
-Next *Proto-Carbuncle* will do a **Sonic Howl** into **Ruby Glow** dividing the arena in 4. Two quadrants wil be filled with 3 *Topaz Stones* and the other two with 2 *Topaz Stones*, futhermore both Healers will get marked for **Venom Pool**.  
+Next *Proto-Carbuncle* will do a **Sonic Howl** into **Ruby Glow** dividing the arena in 4. Two quadrants wil be filled with 3 *Topaz Stones* and the other two with 2 *Topaz Stones*, furthermore both Healers will get marked for **Venom Pool**.  
 Have a group pick a quadrant with 2 *Topaz Stones* to transform them into *Poison Stones*. Stay in your quadrant and dodge the pools until the remaining *Topaz Stones* explode. Then move behind the boss and use yor knockback immunity for **Double Rush**.
 
 After is another **Venomous Mass** into **Toxic Crunch** forcing a Tank swap.

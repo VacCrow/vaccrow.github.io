@@ -4,6 +4,9 @@ title: Abyssos - The Eighth Circle (Savage) | P8S (Part 1)
 imagePath: /assets/img/guides/savages/pandaemonium/P8S_Part1/
 slideNumber: 8
 ---
+{ % comment % }
+<!-- cSpell:ignore gorgo -->
+{ % endcomment % }
 
 *Patch: 6.2  
 Minimum ilvl: i610  
@@ -24,11 +27,11 @@ Raid-wide AoE dealing <span class='magic'>magical damage</span>.
 
 ___
 
-+ **<u>Conceptual Tetraflare/Octoflare</u>:**
++ **<u>Conceptual Tetraflare/Octaflare</u>:**
 AoE on every players dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff.  
 The **Conceptual** cast will happen more than 20 seconds later and have a different effect based on its name:
   + **Tetraflare**: share AoE on every Tanks/Healers or every DPS.
-  + **Octoflare**: AoE on every players.
+  + **Octaflare**: AoE on every players.
   + **Diflare**: share AoE on both Healers.
 
 ___
@@ -53,7 +56,7 @@ ___
 
 + **<u>Reforged Reflection</u>:**
 *Hephaistos* will grow a new body part and perform different mechanics based on his transformation. When he transforms, he'll do one of these:
-  + **Snaking Kick** (Gorgon): pointblank AoE the size of his hitbox. Deals lethal damage.
+  + **Snaking Kick** (Gorgon): point-blank AoE the size of his hitbox. Deals lethal damage.
   + **Footprint** (Hippo): long knockback from *Hephaistos*.
 
 ___
@@ -97,11 +100,11 @@ ___
 *Hephaistos* will apply <span class='speDebuff'>First in Line</span> <img class='iconImg' src='{{ site.data.iconList.P8S.FirstInLine }}'> to every Tanks/Healers or DPS and <span class='speDebuff'>Second in Line </span> <img class='iconImg' src='{{ site.data.iconList.P8S.SecondInLine }}'> to the others. It only represents which set of debuffs shown below will resolve first.
 And for each <span class='speDebuff'>in Line</span> group, 2 <span class='speDebuff'>Eye of the Gorgon</span> <img class='iconImg' src='{{ site.data.iconList.P8S.EyeOfTheGorgon }}'> debuffs for 26(?) and 34 seconds and <span class='speDebuff'>Blood of the Gorgon</span> <img class='iconImg' src='{{ site.data.iconList.P8S.BloodOfTheGorgon }}'> debuffs are applied. They respectively last for 23 and 26 seconds for the <span class='speDebuff'>First in Line</span> group and 31 and 34 seconds for the <span class='speDebuff'>Second in Line</span>.
 
-  + <span class='speDebuff'>Eye of the Gorgon</span> is a cone inflicting <span class='speDebuff'>Petrifaction</span> on anyone hit. It can affect the *Gongons* adds.  
+  + <span class='speDebuff'>Eye of the Gorgon</span> is a cone inflicting <span class='speDebuff'>Petrifaction</span> on anyone hit. It can affect the *Gorgons* adds.  
   + <span class='speDebuff'>Blood of the Gorgon</span> is an AoE around the owner, dealing lethal damage to anyone with <span class='speDebuff'>Petrifaction</span>.
 
   The second cast will apply <span class='speDebuff'>Eye of the Gorgon</span> and <span class='speDebuff'>Blood of the Gorgon</span> on everyone with one buff lasting 23 seconds and the other 29 seconds. 4 players of one role will get a short duration on <span class='speDebuff'>Eye of the Gorgon</span> and the other 4 players will get a long duration. And vice-versa for <span class='speDebuff'>Blood of the Gorgon</span>.  
-  Futhermore, 2 random players will get <span class='speDebuff'>Crown of the Gorgon</span> <img class='iconImg' src='{{ site.data.iconList.P8S.CrownOfTheGorgon }}'> and 2 random players will get <span class='speDebuff'>Breath of the Gorgon</span> <img class='iconImg' src='{{ site.data.iconList.P8S.BreathOfTheGorgon }}'>. If <span class='speDebuff'>Crown of the Gorgon</span> is on Tanks/Healers, <span class='speDebuff'>Breath of the Gorgon</span> will be on DPS.
+  Furthermore, 2 random players will get <span class='speDebuff'>Crown of the Gorgon</span> <img class='iconImg' src='{{ site.data.iconList.P8S.CrownOfTheGorgon }}'> and 2 random players will get <span class='speDebuff'>Breath of the Gorgon</span> <img class='iconImg' src='{{ site.data.iconList.P8S.BreathOfTheGorgon }}'>. If <span class='speDebuff'>Crown of the Gorgon</span> is on Tanks/Healers, <span class='speDebuff'>Breath of the Gorgon</span> will be on DPS.
 
   + <span class='speDebuff'>Crown of the Gorgon</span> is an raid-wide AoE inflicting <span class='speDebuff'>Petrifaction</span> on anyone hit within direct line of sight. A petrified *Gorgon* can break the line of sight.  
   + <span class='speDebuff'>Breath of the Gorgon</span> is a share AoE around the owner, dealing lethal damage to anyone with <span class='speDebuff'>Petrifaction</span>.
@@ -154,8 +157,8 @@ ___
 
 + **<u>Quadrupedal Crush/Impact</u>:**
 *Hephaistos* will look at a cardinal and jump there then he will perform a different action based on the cast:
-+ **Quadrupedal Crush**: pointblank AoE after the jump dealing lethal damage
-+ **Quadrupedal Impact**: deals <span class='phys'>physical damage</span> and knock away everyone from the boss (cannot be immuned).
++ **Quadrupedal Crush**: point-blank AoE after the jump dealing lethal damage
++ **Quadrupedal Impact**: deals <span class='phys'>physical damage</span> and knock away everyone from the boss (cannot be immune).
 
 ___
 
@@ -177,7 +180,7 @@ ___
 
 <div class='guideSection' markdown='1'>
 
-The fight starts with **Genesis of Flame** immediately followed by **Conceptual Tetraflare/Octoflare**.
+The fight starts with **Genesis of Flame** immediately followed by **Conceptual Tetraflare/Octaflare**.
 
 The boss will then cast **Volcanic Torches**. Move into your assigned quadrant and check the flame lines for your four tiles. The corner tile is always unsafe then:
 
@@ -234,7 +237,7 @@ Then *Hephaistos* will use **Reforged Reflection** and switch to *Gorgon* or *Hi
 
 Once the second **Reforged Reflection** is completed, *Hephaistos* will swap back to his usual form and cast **Conceptual Octaflare/Tetraflare**, remember which one it is.
 
-Then the boss will cast **Fourfold Fires**, regroup middle and mitigate through it. Afterward the boss will cast **Cthonis Vents** activating the fire puddles so move away from them. Then the *Dragons* will jump out and dive into another set of puddles and the boss will cast **Octoflares** or **Tetraflare**.  
+Then the boss will cast **Fourfold Fires**, regroup middle and mitigate through it. Afterward the boss will cast **Cthonis Vents** activating the fire puddles so move away from them. Then the *Dragons* will jump out and dive into another set of puddles and the boss will cast **Octaflares** or **Tetraflare**.  
 Dodge the second explosion from **Cthonis Vents** in light parties, then either spread or stack in pairs. If you end up with **Tetraflare**, on each side make a pair with the Tank and one Melee DPS and the pair with the Healer and the Ranged DPS:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="fourfold1.jpg;fourfold2Octa.jpg;fourfold2Tetra.jpg" imgDesc="Dodge the first <strong>Fourfold Fires</strong>;Dodge the second <strong>Fourfold Fires</strong> and spread for <strong>Octaflare</strong>;Dodge the second <strong>Fourfold Fires</strong> and make pairs for <strong>Tetraflare</strong>" slideNumber=slideCounter %}

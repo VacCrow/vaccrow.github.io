@@ -47,7 +47,7 @@ ___
 + **<u>Forbidden Fruit</u>:**
 *Agdistis* will spawn a number of non-targetable adds, all their attacks apply a <span class='debuff'>Vulnerability Up</span> debuff :
   + *Stymphalide* (Bird): egg with , performs a line AoE in the direction he's facing. If they're tethered to a player, they will dash towards that player and knock him back (can be immune). Deals <span class='phys'>physical damage</span>.
-  + *Io* (Bull): egg with eyes. Perform a pointblank AoE covering the whole platform he's standing in. If they're tethered to a player, they will perform a line AoE towards that player. Deals <span class='magic'>magical damage</span>.
+  + *Io* (Bull): egg with eyes. Perform a point-blank AoE covering the whole platform he's standing in. If they're tethered to a player, they will perform a line AoE towards that player. Deals <span class='magic'>magical damage</span>.
   + *Minotaur*: egg with a mouth. Performs two cone AoEs towards the two closest player. If they're tethered to a player, they will perform a cone AoE dealing proximity based damage. Deals <span class='phys'>physical damage</span>.
 
 ___
@@ -152,7 +152,7 @@ Here is an example of different positions:
 
 Quickly regroup in light party to the left and right front platforms before *Agdistis* destroys the remaining bridges with **Roots of Altis** and cast **Forbidden Fruit**, spawning 3 Io on each platforms. Each Healers will receive a **Hemitheos's Holy III** share and right before it resolves, a new bridge will appear allowing you to side step in to dodge the Io' AoE and do the share properly.
 
-Then *Agdistis* will **Bough of Altis** at the front before cleaving two platforms, move to the safe one. Soon after a random wil be casted **Condensed/Dispersed Aero II**.
+Then *Agdistis* will **Bough of Altis** at the front before cleaving two platforms, move to the safe one. Soon after a random wil be cast **Condensed/Dispersed Aero II**.
 
 Next is another **Forbidden Fruit** spawning 2 Minotaurs with tethers on two platforms, 1 Io with 4 tethers on the remaining one and 1 Minotaur will spawn in the middle of the bridge. The players tethered to the Io must move behind him and spread to aim the line AoEs away from the arena. The players tether to a Minotaur will move to the platform where the other Minotaur is and stand behind. The two players without anything have to move close to the central Minotaur in order to bait the cleaves between the two Minotaurs platforms and give more space to the Io people:
 <img class='soloImg' src='{{ page.imagePath | append: 'fruit3.jpg' }}'>

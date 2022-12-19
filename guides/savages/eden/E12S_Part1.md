@@ -43,8 +43,8 @@ Enrage.
 <div class='guideSection' markdown='1'>
 <h2><a id='ABPrimalsAbilities'>Primal Abilities:</a></h2>
 
-Six memories of primals will appear along the North edge. *Eden's Promise* will either use Cast or Stock on Leviathan/Gaura/Ramuh/Ifrit or will use Junction on Titan/Shiva.  
-Leviathan, Garuda, Ramuh and Ifrit memories deal <span class='magic'>magical damage</span> and apply a <span class='debuff'>Damage Down</span> debuff. <u>Also, Ifrit and Garuda memories can never be casted together</u>
+Six memories of primals will appear along the North edge. *Eden's Promise* will either use Cast or Stock on Leviathan/Garuda/Ramuh/Ifrit or will use Junction on Titan/Shiva.  
+Leviathan, Garuda, Ramuh and Ifrit memories deal <span class='magic'>magical damage</span> and apply a <span class='debuff'>Damage Down</span> debuff. <u>Also, Ifrit and Garuda memories can never be cast together</u>
 
 + **<u>Cast</u>:**
 *Eden's Promise* will be tethered to two primal memories and will activate them at the end of the cast.
@@ -62,38 +62,38 @@ ___
 ___
 
 + **<u>Leviathan's memories</u>:**
-Temporary Current will be casted, performing two line AoEs on the East and West side. A North-South line through *Eden's Promise* is safe.
+**Temporary Current** will be cast, performing two line AoEs on the East and West side. A North-South line through *Eden's Promise* is safe.
 
 ___
 
 + **<u>Garuda's memories</u>:**
-Ferostorm will be casted, performing cones AoE toward each cardinal. Intercardinal cones are safe spots.
+**Ferostorm** will be cast, performing cones AoE toward each cardinal. Intercardinal cones are safe spots.
 
 ___
 
 + **<u>Ramuh's memories</u>:**
-Judgement Bolt will be casted, performing a point-blank AoE. Max melee range and beyond is safe.
+**Judgement Bolt** will be cast, performing a point-blank AoE. Max melee range and beyond is safe.
 
 ___
 
 + **<u>Ifrit's memories</u>:**
-Conflag Strike will be casted, performing two 160° cleaves toward the North and South. East and West sides of the boss are safe.
+**Conflag Strike** will be cast, performing two 160° cleaves toward the North and South. East and West sides of the boss are safe.
 
 ___
 
 + **<u>Junction Shiva</u>:**
 *Eden's Promise* will receive the Junction Shiva buff.  
-  + For the first junction casted, *Eden's Promise* will cast **Frigid Stone** twice over the buff duration, an AoE on every player dealing **ice** <span class='magic'>magical damage</span> and applying a <span class='debuff'>Ice Resistance Down II</span> debuff.  
-  + For the second junction casted, *Eden's Promise* will switch to the **Junction Shiva Phase.**  
-  + For the fourth/fifth junction casted, *Eden's Promise* will only cast **Frigid Stone** once.
+  + For the first junction cast, *Eden's Promise* will cast **Frigid Stone** twice over the buff duration, an AoE on every player dealing **ice** <span class='magic'>magical damage</span> and applying a <span class='debuff'>Ice Resistance Down II</span> debuff.  
+  + For the second junction cast, *Eden's Promise* will switch to the **Junction Shiva Phase.**  
+  + For the fourth/fifth junction cast, *Eden's Promise* will only cast **Frigid Stone** once.
 
 ___
 
 + **<u>Junction Titan</u>:**
 *Eden's Promise* will receive the Junction Titan buff.  
-  + For the first junction casted, *Eden's Promise* will cast **Under the Weight** twice over the buff duration, a share marker on both Healers dealing **earth** <span class='magic'>magical damage</span> and applying a <span class='debuff'>Earth Resistance Down II</span> debuff.  
-  + For the third junction casted, *Eden's Promise* will switch to the **Junction Titan Phase.**  
-  + For the fourth/fifth junction casted, *Eden's Promise* will only cast **Under the Weight** once.
+  + For the first junction cast, *Eden's Promise* will cast **Under the Weight** twice over the buff duration, a share marker on both Healers dealing **earth** <span class='magic'>magical damage</span> and applying a <span class='debuff'>Earth Resistance Down II</span> debuff.  
+  + For the third junction cast, *Eden's Promise* will switch to the **Junction Titan Phase.**  
+  + For the fourth/fifth junction cast, *Eden's Promise* will only cast **Under the Weight** once.
 
 </div>
 
@@ -216,7 +216,7 @@ Soon followed by **Rapturous Reach**. Dodge to the left or right then spread or 
 Once **Cast** is done, swiftly spread or stack in groups for the second attack of **Junction Shiva/Titan**.
 
 The Tanks have to be first and second in the enmity list for the incoming **Formless judgement**. Swap tanks during the cast.
-The main target will use its invulnerability while the second target will use his defensive colldown to survive, assisted by the healers.
+The main target will use its invulnerability while the second target will use his defensive cooldowns to survive, assisted by the healers.
 
 **Maleficium** says hi again.
 </div>
@@ -254,7 +254,7 @@ Another **Maleficium** is used then *Eden's Promise* will cast **Junction Titan*
 <div class='guideSection' markdown='1'>
 <a id='SJunctionTitan'></a>
 
-**Earthen Fury** will be casted.
+**Earthen Fury** will be cast.
 
 Once **Earthen Fury** is over, the first set of **Bomb Boulders** will drop.  
 <u>You can avoid the damage from the boulders when they drop if you're far enough from them aka stand between the two red circles:</u>
@@ -326,7 +326,7 @@ The main tank shall keep the boss facing North until *Eden's Promise* casts **Ra
 
 Everyone has to move to the safe side, before going to their assigned position once **Rapturous Reach** is done.
 Tethered players will move to the opposite side of their Lion and keep this positions to bait every **Lionsblazes**.  
-Meanwhile the other players will separate into two pairs North and South. The melee stays in melee range and can even go inside one **Lionsblaze** to be sure to not get targeted by the King. At the same time, the ranged bait **Kingblaze** toward the left (or the right) of the King.
+Meanwhile the other players will separate into two pairs North and South. The melee stays in melee range and can even go inside one **Lionsblaze** to be sure to not get targeted by the King. At the same time, the ranged bait **Kingsblaze** toward the left (or the right) of the King.
 
 Quickly regroup mid to get healed and get ready for **Laser Eye**.
 Everyone should use their knockback immunity to stay in place, while the melee will move under the big King and hug the previous puddle to bait **Kingsblaze** toward the outside of the arena. The ranged must stay in melee range to avoid baiting the **Kingsblaze** and getting hit by the **Lionsblazes**.
@@ -345,8 +345,8 @@ The boss will now perform **Junction Shiva** or **Junction Titan** followed by a
 
 Another **Maleficium** from *Eden's Promise*.
 
-Now, *Eden's Promise* will cast **Junction Titan** or **Junction Shiva** that wasn't casted just before.
-Immediately after, **Release** will be casted. Avoid the memories that was stored previously and dodge the incoming **Junction Titan/Shiva**.
+Now, *Eden's Promise* will cast **Junction Titan** or **Junction Shiva** that wasn't cast just before.
+Immediately after, **Release** will be cast. Avoid the memories that was stored previously and dodge the incoming **Junction Titan/Shiva**.
 
 *Eden's Promise* will cast the last **Formless Judgement** soon after. Swap tanks during the cast and use the available invulnerability.
 

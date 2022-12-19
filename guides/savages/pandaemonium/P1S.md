@@ -42,7 +42,7 @@ ___
 + **<u>Gaoler's Flail</u>:**
 *Erichthonios* will throw two weapons in succession on the ground, determining the incoming attacks. Getting hit deals <span class='phys'>physical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.
   + Anchor: left or right cleave at 270°. The flank opposite of the anchor is safe.  
-  + Morningstar: pointblank AoE. Max melee range is safe.  
+  + Morning star: point-blank AoE. Max melee range is safe.  
   + Chakram: donut AoE. Inside the boss' hitbox is safe.
 
 ___
@@ -84,7 +84,7 @@ During the cast, Fire or Holy orbs will rotate around *Erichthonios*. The sectio
 ___
 
 + **<u>Aetherflail</u>:**
-Combination of **Aetherchain** and **Gaoler's Fail** happening consecutively. One weapon will be an anchor and the other a morningstar/chakram.
+Combination of **Aetherchain** and **Gaoler's Fail** happening consecutively. One weapon will be an anchor and the other a morning star/chakram.
 
 ___
 
@@ -121,7 +121,7 @@ Have everyone spread around the boss, melees in on cardinals and ranged slightly
 If a ranged player have <span class='speDebuff'>Shackles of Companionship</span> (or a melee have <span class='speDebuff'>Shackles of Loneliness</span>), that player swap his position with his partner :
 <img class='soloImg' src='{{ page.imagePath | append: 'aetherialShackles.jpg' }}'>
 
-Next is **Gaoler's Flail**, with either the morningstar/chakram combo or double anchor.
+Next is **Gaoler's Flail**, with either the morning star/chakram combo or double anchor.
 
 Follow by **Pitiless Flail of Grace** or **Pitiless Flail of Purgation** at random. Swap tank during the cast and have the new tank share with the group or move away depending of the cast name. For the flare, the tank can stand at max melee range at North East while the rest of the rest of the group stays South to keep uptime.
 
@@ -139,7 +139,7 @@ Before using **Shining Cells** and swapping the arena.
 <div class='guideSection' markdown='1'>
 <a id='SPhase2'></a>
 
-Happy to show you his new shinny room, *Erichtonios* will cast **Aetherflail**. Move to the correct side, in or out, on the correct tile.  
+Happy to show you his new shiny room, *Erichtonios* will cast **Aetherflail**. Move to the correct side, in or out, on the correct tile.  
 
 He will chain with a random **Pitiless Flail of Grace** or **Pitiless Flail of Purgation**. The main Tank has to go to the centre to avoid being knockback into the wall.
 
@@ -159,7 +159,7 @@ Then it's **Intemperance** into **Intemperate Torment**. This one is solved like
 
 He will use **Warder's Wrath** once **Intemperence** is done.
 
-And he will show you his shinny room a second time with **Shining cells**.
+And he will show you his shiny room a second time with **Shining cells**.
 </div>
 
 <div class='guideSection' markdown='1'>

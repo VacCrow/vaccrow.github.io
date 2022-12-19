@@ -164,16 +164,16 @@ Movements if **Rejuvenating Balm** is tethering the North and South trees:
 {% include slideshow.html imgLink="antiair1.jpg;antiair2.jpg;antiair3.jpg" imgDesc="Move away from <em>Cloud of Darkness</em>;Tanks position themself in front and to the right of the boss. The Healers form two groups with their DPS to the left;Go to her sides to dodge the cleave" slideNumber=slideCounter %}
 
 Bring *Cloud of Darkness* back to the middle, before she cast another **Ground-razing Particle Beam**.
-Then **The Second Art of Darkness** will be casted:
+Then **The Second Art of Darkness** will be cast:
 
 + **First Art of Darkness**: one orb on her left or right side.
 + **Second Art of Darkness**: two orbs or no orb.
 
 *Cloud of Darkness* will cast **Wide-angle Unlimited Phaser** or **Anti-air Unlimited Phaser**. The one she didn’t cast previously.
 
-Next cast is **Devouring Dark**, you may use your Invunerability.
+Next cast is **Devouring Dark**, you may use your Invulnerability.
 
-Finally **Empty Floor** is casted, switching to the tile layout and going into the next phase.
+Finally **Empty Floor** is cast, switching to the tile layout and going into the next phase.
 </div>
 
 <div class='guideSection' markdown='1'>
@@ -208,13 +208,13 @@ Then, have everyone move one tile, so the whole party is standing on the inner t
 + If there's two orbs, each pair will get close to each other but still on their own tile.
 After the attack, move one tile to reset the timer if necessary.
 
-**Deluge of Darkness** will then be casted, switching to the normal layout.
+**Deluge of Darkness** will then be cast, switching to the normal layout.
 
 *Cloud of Darkness* will cast **Summon** followed by **The Art of Darkness** with one orb that will be replicated by the clones. Find the safe spot covering 1/8th of the arena.
 
 **Devouring Dark** is next, this one needs to be Tank swapped since no invulnerability should be up.
 
-Then **The Third Art of Darkness** will be casted:
+Then **The Third Art of Darkness** will be cast:
 
 + **First Art of Darkness**: one orb on her left or right side.
 + **Second Art of Darkness**: two orbs or no orb.
@@ -232,7 +232,7 @@ Once the *Evil Seeds* are dropped, *Cloud of Darkness* will cast **Particle Conc
 To break their <span class='speDebuff'>Thorny Vines</span> Tanks/Healers will move to the South while DPS will move to the North. Then everyone move to their designated tower:
 <img class='soloImg' src='{{ page.imagePath | append: 'particleConcentration.jpg' }}'>
 
-Right after that, a **Wide-angle Unlimited Phaser** or **Anti-air Unlimited Phaser** will be casted, followed by **Ground-razing Particle Beam** afterwards. Move as shown in Phase 1.
+Right after that, a **Wide-angle Unlimited Phaser** or **Anti-air Unlimited Phaser** will be cast, followed by **Ground-razing Particle Beam** afterwards. Move as shown in Phase 1.
 
 Then *Cloud of Darkness* will tether to two trees with **Rejuvenating Balm** and will ink up with **The Second Art of Darkness**:
 
@@ -254,6 +254,6 @@ Next is **Full-Perimeter Particles Beam**, everyone must move in close range.
 *Cloud of Darkness* will then cast **The Art of Darkness** with one orb. Once this one is done, she will cast another one with two orbs or none.
 These two **Art of Darkness** will be repeated again in the same order.
 
-The enrage will then be casted, **Deluge of Darkness**.
+The enrage will then be cast, **Deluge of Darkness**.
 
 </div>

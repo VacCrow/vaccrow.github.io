@@ -208,7 +208,7 @@ Frontal cleave by *Cruise Chaser* dealing lethal damage. Has a cast time and can
 ___
 
 + **<u>Missile Command</u>:**
-**Brute Justice** will aquiere different targets for **Ice Missile**, **Earth Missiles**, **Enumeration**, and **Hidden Mine**.
+**Brute Justice** will acquire different targets for **Ice Missile**, **Earth Missiles**, **Enumeration**, and **Hidden Mine**.
 
 ___
 
@@ -340,7 +340,7 @@ In the meantime, *Cruise Chaser* Tank needs to turn his boss toward the center o
 *Brute Justice* will now cast **Verdict** telling you which <span class='speDebuff'>Final Decree Nisi</span> debuff you need for **Gavel**. From now on, <span class='speDebuff'>Final Decree Nisi</span> transfer will be based on <span class='speDebuff'>Final Judgment: Decree Nisi α, β, γ or δ</span>.
 
 *Cruise Chaser* will cast **Limit Cut**, become invulnerable and spawn a *Plasma Shield* in front of him. The shield can only be damaged from the front and needs to be killed in 6 seconds. *Cruise Chaser* Tank and one DPS should have enough damage to bring it down.  
-Meanwhile, *Brute Justice* will cast **Flamethrower**. In order for **Flamethrower** to be casted at the Tank, only the *Brute Justice* Tank should stand inside its hitbox and aim the attack toward the South *Tornado* to remove it.
+Meanwhile, *Brute Justice* will cast **Flamethrower**. In order for **Flamethrower** to be cast at the Tank, only the *Brute Justice* Tank should stand inside its hitbox and aim the attack toward the South *Tornado* to remove it.
 
 <u>Third Nisi Pass (aka Shopping)</u>: all the players with a <span class='speDebuff'>Final Decree Nisi</span> debuff will form a line between *Brute Justice* and *Cruise Chaser*. Then the players without a debuff will pick the one requested by <span class='speDebuff'>Final Judgment: Decree Nisi</span>. Take your time to not touch each other.
 
@@ -368,7 +368,7 @@ This player will bait **Super Jump**. After the landing, *Brute Justice* will tu
 
 {% include slideshow.html imgLink="jump1.jpg;jump2.jpg;jump3.jpg" imgDesc="The player wait South;<em>Brute Justice</em> jumps;Have a step back, the rest of the group near the edge" slideNumber=slideCounter %}
 
-Then **Whirlwind** will be casted twice followed by the enrages **Eternal Darkness** & **Final Sentence**.
+Then **Whirlwind** will be cast twice followed by the enrages **Eternal Darkness** & **Final Sentence**.
 
 </div>
 
@@ -488,7 +488,7 @@ When **Temporal Stasis** cast is over, <span class='speDebuff'>Aggravated Assaul
 
 <a id='SInceptionFormation'></a>*Alexander Prime* will cast **Inception Formation** then randomly teleport to the North or South edge, *Shanoa* will spawn on the opposite side of *Alexander Prime*. *Brute Justice* will always spawn to the West and *Cruise Chaser* to the East. Wherever *Alexander Prime* spawn will be considered as True North for this mechanic. Meaning that *Brute Justice* and *Cruise Chaser* position can be flipped.
 
-Four randoms players get the **Judgement Crystal** marker. The marked players will take positions to the opposite side of *Alexander Prime* and form a square shape. The two players next to the edge can used as a landmark for the other 2 to place their AoE.  
+Four random players get the **Judgement Crystal** marker. The marked players will take positions to the opposite side of *Alexander Prime* and form a square shape. The two players next to the edge can used as a landmark for the other 2 to place their AoE.  
 Here is the **Judgment Crystals** positions for both cases:
 <img class='soloImg' src='{{ page.imagePath | append: 'crystalJudgement.jpg' }}'>
 
@@ -551,7 +551,7 @@ With all this information, numbers 1 to 4 will move to their respective intercar
 The numbers 7 & 8 will stand on the red dot while the numbers 5 & 6 will stand inside and at the edge of the **Void of Repentance**.  
 > Careful: if a *Steam Chakram* is next to your safe spot, take a few step toward the South and once the *Chakram* is done, go back to your position.
 
-The *Steam Chakrams* will go off and the first pair (1 & 2) will receive **Limit Cut**. The player 1 or 2 that is under *Brute Justice* must stay on his red dot until **Apocalyptic Ray** is casted.  
+The *Steam Chakrams* will go off and the first pair (1 & 2) will receive **Limit Cut**. The player 1 or 2 that is under *Brute Justice* must stay on his red dot until **Apocalyptic Ray** is cast.  
 At the same time, *Brute Justice* will use **Super Jump** on the furthest player, opposite of where Brute Justice spawned. The player who's baiting *Brute Justice* mustn't stay on a red dot but in front of it (you can step into a **Void of Repentance** if you have to). Once *Brute Justice* has jumped, move into the red dot to avoid the incoming **Apocalyptic Ray**.
 
 {% assign slideCounter = slideCounter | plus: 1 %}
@@ -615,7 +615,7 @@ Every player must be standing still and not attacking the boss at the end of the
 ___
 
 + **<u>Optical Sight</u>:**
-One of these two mechanics will be casted:
+One of these two mechanics will be cast:
   + **<u>Collective Reprobation</u>:** Stack marker on two players. One player from the light group and one player from the dark group will be selected. Denoted by the two orbs to *Perfect Alexander* sides.
   + **<u>Individual Reprobation</u>:** AoE markers on every player. Denoted by the multiples orbs next to *Perfect Alexander*.
 

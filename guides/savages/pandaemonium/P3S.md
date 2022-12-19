@@ -232,7 +232,7 @@ After the last Fountains, regroup mid to heal and shield everyone with the <span
 
 *Phoinix* will then cast **Firestorms of Asphodelos**. Heal everyone for **Flames of Asphodelos** into **Experimental Ashplume**, dodge the cones then either spread around the boss or stack in Melees and Ranged groups.
 
-Afterward **Flames of Asphodelos** will be casted again but with **Storms of Asphodelos** this time. Dodge the cones again and have two ranged DPS and a Healer bait the Tornadoes cones toward the outside, the Tanks must grab the tethers and move South outside the hitbox while the remaining Healer and the two Melees move inside the boss' hitbox to bait the cones toward the East, West and North East/West (based on where the other Healer is).  
+Afterward **Flames of Asphodelos** will be cast again but with **Storms of Asphodelos** this time. Dodge the cones again and have two ranged DPS and a Healer bait the Tornadoes cones toward the outside, the Tanks must grab the tethers and move South outside the hitbox while the remaining Healer and the two Melees move inside the boss' hitbox to bait the cones toward the East, West and North East/West (based on where the other Healer is).  
 If both Tanks have their invulnerability, they can grab the tethers and move South inside the boss' hitbox and use them, one ranged will bait the North Tornado toward the outside and the rest of group stack North-ish at max melee range, on the opposite side of the ranged DPS:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="stormAsphoLegit.jpg;stormAsphoInvul.jpg" imgDesc="'Classic' strategy;Strategy using Tanks' invulnerability" slideNumber=slideCounter %}

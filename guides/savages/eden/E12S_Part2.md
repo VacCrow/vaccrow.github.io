@@ -38,7 +38,7 @@ After 1 second, *Oracle Of Darkness* will knockback everyone away from her deali
 ___
 
 + **<u>Speed</u>:**
-*Oracle of Darkness* will be tethered to four houglasses. A yellow tether will speed them up and a blue tether will slow them down.
+*Oracle of Darkness* will be tethered to four hourglasses. A yellow tether will speed them up and a blue tether will slow them down.
 
 ___
 
@@ -55,10 +55,10 @@ Enrage.
 <div class='guideSection' markdown='1'>
 <h2><a id='ABSpell-in-WaitingAbilities'>Spell-in-Waiting Abilities:</a></h2>
 
-During the fight, *Oracle of Darkness* will receive the <span class='buff'>Spell-in-Waiting</span> buff and cast delayed spells as Voidwalker in E2S. She will also apply some of these delayed spells during Basic, Intermediate, Advance and Terminal Relativity instantly.  
+During the fight, *Oracle of Darkness* will receive the <span class='buff'>Spell-in-Waiting</span> buff and cast delayed spells as *Voidwalker* in E2S. She will also apply some of these delayed spells during Basic, Intermediate, Advance and Terminal Relativity instantly.  
 When she casts/applies a delayed spell, the player(s) will receive debuff(s) within this list lasting X seconds telling them when the mechanic will resolve.
 
-Furthermore, players may receive a <span class='speDebuff'>Twice-come Ruin</span> <img class='iconImg' src='{{ site.data.iconList.E12S.TwiceComeRuin }}'> debuff that can be stacked. When a player gots two stacks, it transforms into an unremovable <span class='speDebuff'>Doom</span> debuff that will kill you 3 seconds later.
+Furthermore, players may receive a <span class='speDebuff'>Twice-come Ruin</span> <img class='iconImg' src='{{ site.data.iconList.E12S.TwiceComeRuin }}'> debuff that can be stacked. When a player gets two stacks, it transforms into an unresolvable <span class='speDebuff'>Doom</span> debuff that will kill you 3 seconds later.
 
 ___
 
@@ -133,7 +133,7 @@ ___
 
 + **<u>Sorrow's Hourglasses</u>:** 7 hourglasses (that look like traffic lights) will spawn on seven random cardinal points:
   + One of them will be yellow and named **Anger's Hourglass**.  
-When **Anger's Hourglass** is filled, it will use **Empty Rage**, a pointblank AoE dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Damage Down</span> and a <span class='speDebuff'>Twice-come Ruin</span>.  
+When **Anger's Hourglass** is filled, it will use **Empty Rage**, a point-blank AoE dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Damage Down</span> and a <span class='speDebuff'>Twice-come Ruin</span>.  
 After 5 second, it will use**Empty Hate**, a raid-wide linear knockback dealing <span class='magic'>magical damage</span> and major <span class='magic'>magical damage</span> to the two closest players from **Anger's Hourglass**.
 
   + The other six are named **Joy's Hourglass**.  
@@ -154,7 +154,7 @@ Here is a comprehensive timeline:
 <div class='guideSection' markdown='1'>
 <h2><a id='ABSingularApocalypse'>Singular Apocalypse:</a></h2>
 
-After the cast, the floor of the arena will roughly change to this (the red line is white ingame):
+After the cast, the floor of the arena will roughly change to this (the red line is white in game):
 <img class='soloImg' src='{{ page.imagePath | append: 'E12SApocalypseArena.jpg' }}'>
 
 ___
@@ -211,7 +211,7 @@ Here is a comprehensive timeline:
 <h2><a id='ABDualApocalypse'>Dual Apocalypse:</a></h2>
 
 This time, two orbs of light will appear in the middle and move to opposite sides before rotating around the area in the same direction. They will move 5 times before the explosions happen.  
-Futhermore in this phase, *Oracle of Darkness* will use **Cataclysm** toward a random cardinal point, not tied to the orbs of light locations/movements like in Singular Apocalypse.
+Furthermore in this phase, *Oracle of Darkness* will use **Cataclysm** toward a random cardinal point, not tied to the orbs of light locations/movements like in Singular Apocalypse.
 
 </div>
 
@@ -233,8 +233,8 @@ For a description of each Spell-in-Waiting ability, refer to the **<a href="#ABS
 
 ___
 
-+ **<u>Anger's Hourglasses</u>:** 6 hourglasses will spawn, spreaded around the middle of the arena.  
-When an **Anger's Hourglass** is filled, it will use **Maelstrom**, a pointblank AoE dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Damage Down</span>.
++ **<u>Anger's Hourglasses</u>:** 6 hourglasses will spawn, spread around the middle of the arena.  
+When an **Anger's Hourglass** is filled, it will use **Maelstrom**, a point-blank AoE dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Damage Down</span>.
 
 ___
 
@@ -274,7 +274,7 @@ Once the first Spell-in-Waiting happens, everyone has to stand inside *Oracle of
 If the remaining Spell-in-Waiting is Dark Water III, you can already regroup and get knocked with your group.  
 Otherwise for Eruption, after the knockback, the melee can dash in. The Tanks will position themself North East/West and the DPS South East/West of the boss to avoid retard clipping things wink wink.
 
-Another **Shockwave Pulsar** will be casted.
+Another **Shockwave Pulsar** will be cast.
 
 </div>
 
@@ -328,7 +328,7 @@ Once everything is over, *Oracle Of Darkness* will cast another **Shockwave Puls
 *Oracle Of Darkness* will face the first circle the orb of light encounters and cast **Cataclysm**, everyone will move to the opposite side to avoid **Cataclysm**.
 
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="singApo1.jpg;singApo2.jpg" imgDesc="The group move to the opposite side where <em>Oracle of Darkness</em> is facing;She jumps and perform <strong>Catatlysm</strong>" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="singApo1.jpg;singApo2.jpg" imgDesc="The group move to the opposite side where <em>Oracle of Darkness</em> is facing;She jumps and perform <strong>Cataclysm</strong>" slideNumber=slideCounter %}
 
 Immediately after, the ranged will stay at this position while the melees will move in. They have to move to the safe side to avoid the three first explosions (South West in our example), being at max melee range is enough to avoid the second explosion under the boss. The main tank will move and use his invulnerability on **Black Halo** and aim it toward the outside:
 <img class='soloImg' src='{{ page.imagePath | append: 'singApo3.jpg' }}'>
@@ -396,17 +396,17 @@ Annnnnnnnnnnnnd **Shockwave Pulsar**, yay.
 {% include slideshow.html imgLink="dualApo1.jpg;dualApo2.jpg" imgDesc="" slideNumber=slideCounter %}
 
 Immediately after, the ranged will stay at this position while the melees will move in. They have to move to the safe side to avoid the two first explosions (South West in our example), being at max melee range is enough to avoid the second explosion under the boss.  
-If you're feeling confident about the timing to move between the first and the second explosion and doesn't want to take care of the orbs of light positions, you can use the position showed for the gunbreaker (and flexing).  
+If you're feeling confident about the timing to move between the first and the second explosion and doesn't want to take care of the orbs of light positions, you can use the position showed for the Gunbreaker (and flexing).  
 Once the middle explosions happens, everyone has to group in the middle:
 
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="dualApo3.jpg;dualApo4.jpg" imgDesc="" slideNumber=slideCounter %}
 
-After the third explosion, the main Tank will move toward the edge to bait **Somber Dance** being casted. Use the lines on the ground to avoid the explosion.
+After the third explosion, the main Tank will move toward the edge to bait **Somber Dance** being cast. Use the lines on the ground to avoid the explosion.
 Once the boss jumped, the other Tank will move under the boss while avoiding the last explosion to bait the second part of **Somber Dance**. The main Tank has to move to group to avoid dying:
 
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="dualApo5.jpg;dualApo6.jpg;dualApo7.jpg;dualApo8.jpg" imgDesc="The main Tank prepares to move;He moves toward the edge while avoid the fourth explosion;<em>Oracle of Darkness</em> jumps on the Tank;The other Tank remplace him to get the second hit of <strong>Somber Dance</strong>" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="dualApo5.jpg;dualApo6.jpg;dualApo7.jpg;dualApo8.jpg" imgDesc="The main Tank prepares to move;He moves toward the edge while avoid the fourth explosion;<em>Oracle of Darkness</em> jumps on the Tank;The other Tank replaces him to get the second hit of <strong>Somber Dance</strong>" slideNumber=slideCounter %}
 
 Afterward, the Tanks regroup for the incoming **Shell Crusher**. Heal the damage taken and spread around *Oracle of Darkness* for **Spirit Taker**. :
 
@@ -427,12 +427,12 @@ Once the debuffs are dispatched, adjust the group so there's a double **SiW Aero
 
 > For this phase, use the white lines on the ground to help you to position yourself.
 
-When **Speed** is casted, each group will move toward the yellow tethered hourglass on their side. The **Speed** tethers will always happen so opposite hourglasses will have the same fill speed.  
+When **Speed** is cast, each group will move toward the yellow tethered hourglass on their side. The **Speed** tethers will always happen so opposite hourglasses will have the same fill speed.  
 The group will stack behind their hourglass and behind the two circle lines while the player with double **SiW Aero III** will move a bit further toward the edge:
 <img class='soloImg' src='{{ page.imagePath | append: 'advance1.jpg' }}'>
 
 Keep these positions until the **SiW Water III** resolve and the **Return IV** puddles are dropped.
-Then the players with SiW Shadoweye will rotate counterclockwise while the others will rotate clockwise. Everyone will stop before crossing the circle lines:
+Then the players with SiW Shadoweye will rotate counter-clockwise while the others will rotate clockwise. Everyone will stop before crossing the circle lines:
 <img class='soloImg' src='{{ page.imagePath | append: 'advance2.jpg' }}'>
 
 Wait there until the **Return** puddles are dropped on the ground. Then all **SiW Aero III** players will move forward a few steps and cross the white line while the **SiW Fire III** will move further to positions themself as shown:

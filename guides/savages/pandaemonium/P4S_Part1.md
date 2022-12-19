@@ -25,7 +25,7 @@ ___
 
 + **<u>Bloodrake</u>:**
 *Hesperos* will tether to three tiles of the stage and/or four players, either Tanks/Healers or DPS, or every players dealing high <span class='magic'>magical damage</span> to tethered players and sucking their aether.  
-The boss will receive the <span class='buff'>Aethersucker</span> <img class='iconImg' src='{{ site.data.iconList.P4S.Aethersucker }}'> buff, containing the aether of the role(s) he absorbed. The next casted mechanic will consume the buff and deal lethal damage to the absorbed role(s).
+The boss will receive the <span class='buff'>Aethersucker</span> <img class='iconImg' src='{{ site.data.iconList.P4S.Aethersucker }}'> buff, containing the aether of the role(s) he absorbed. The next cast mechanic will consume the buff and deal lethal damage to the absorbed role(s).
 
 ___
 
@@ -35,7 +35,7 @@ ___
 ___
 
 + **<u>Director’s Belone</u>:**
-*Heperos* will consume his <span class='buff'>Aethersucker</span> buff and apply the <span class='speDebuff'>Role Call</span> <img class='iconImg' src='{{ site.data.iconList.P4S.RoleCall }}'> debuff on a Tank, a Healer and two DPS at random, lasting 15 seconds. The role(s) sucked by the <span class='buff'>Aethersucker</span> buff will die when <span class='speDebuff'>Role Call</span> resolves.  
+*Hesperos* will consume his <span class='buff'>Aethersucker</span> buff and apply the <span class='speDebuff'>Role Call</span> <img class='iconImg' src='{{ site.data.iconList.P4S.RoleCall }}'> debuff on a Tank, a Healer and two DPS at random, lasting 15 seconds. The role(s) sucked by the <span class='buff'>Aethersucker</span> buff will die when <span class='speDebuff'>Role Call</span> resolves.  
 If a player with <span class='speDebuff'>Role Call</span> touches another player without it, it will transfer the debuff to the second player. The first player will receive the <span class='speDebuff'>Miscast</span> <img class='iconImg' src='{{ site.data.iconList.P4S.Miscast }}'> debuff, making impossible to receive <span class='speDebuff'>Role Call</span> again.
 
 ___
@@ -45,7 +45,7 @@ Four tethers on random players, dealing AoE <span class='phys'>magical damage</s
 
 ___
 
-+ **<u>Elegent Eviseration</u>:**
++ **<u>Elegent Evisceration</u>:**
 Two hit AoE tank buster on the main target. The first hit deals <span class='phys'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff. The second hit only deals <span class='phys'>magical damage</span>.  
 Swap tank during the cast or use any invulnerability.
 
@@ -73,7 +73,7 @@ ___
 
 ___
 
-+ **<u>Northernly/Easternly/Southernly/Westernly Shift</u>:**
++ **<u>Northerly/Easterly/Southerly/Westerly Shift</u>:**
 *Hesperos* will teleport to a cardinal, based on the name of the cast, and will perform an attack based on the weapon that glows:  
   + Sword: a 90° cone toward the centre of the arena dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.  
   + Cape: knock back from *Hesperos* position.
@@ -110,7 +110,7 @@ ___
 
 + **<u>Belone Coils</u>:**
 Four towers will appear, spread around the middle of the arena. Each tower will contain a role that is forbidden. At least one player, not of a forbidden role, has to stand inside the towers.  
-The cast of **Belone Coils** will modify *Heperos*' <span class='buff'>Aethersucker</span> debuff. The towers' forbidden role(s) will be removed from <span class='buff'>Aethersucker</span> when it will be used on **Aetheric Chlamys** or **Director’s Belone**.
+The cast of **Belone Coils** will modify *Hesperos*' <span class='buff'>Aethersucker</span> debuff. The towers' forbidden role(s) will be removed from <span class='buff'>Aethersucker</span> when it will be used on **Aetheric Chlamys** or **Director’s Belone**.
 
 </div>
 ___
@@ -140,7 +140,7 @@ Right after, the boss will cast **Pinax** activating the tiles:
   + if **(Fire)** is second, form two light groups, one along the edge, the other close to the middle.  
   + if **(Poison)** is second, spread out in the arena, Melees around the boss and ranged anywhere else in the arena.
 
-After the 2nd **Mekhane** *Hesperos* will move back to the middle and cast **Northernly/Easternly/Southernly/Westernly Shift**, check where he's jumping and if he'll use his sword or cape. After the third tile activated, he will jump and perform his attack, either stand on *Hesperos* sides for the sword **Swift** or in front of him for the cape **Swift**.  
+After the 2nd **Mekhane** *Hesperos* will move back to the middle and cast **Northerly/Easterly/Southerly/Westerly Shift**, check where he's jumping and if he'll use his sword or cape. After the third tile activated, he will jump and perform his attack, either stand on *Hesperos* sides for the sword **Swift** or in front of him for the cape **Swift**.  
 There's 10 seconds between the third and fourth tile to do the **Swift** mechanic and get into positions for the fourth tile.
 
 + If the third tile is **(Lightning)**, move to the edge where *Hesperos* is jumping to:  
@@ -183,10 +183,10 @@ Next is another **Bloodrake** on every players followed by another **Belone Coil
 Once they're soaked, these players will move middle for the incoming **Director's Belone** to immediately spread <span class='speDebuff'>Role Call</span> among these players. When it's done, the 2 players without a debuff have to move in to get one.  
 Then the players who got hit by the previous **Inversive Chlamys** will grab the tethers and everyone will assume the same positions used for the first mechanic.
 
-*Heperos* will carry on with **Decollation** followed by **Elegant Evisceration**, remember to swap to use the remaining Tank invulnerability.
+*Hesperos* will carry on with **Decollation** followed by **Elegant Evisceration**, remember to swap to use the remaining Tank invulnerability.
 
 Next is **Setting the Scene** into **Pinax**, same as previously. Four different **Mekhane** with a random **Swift** between the third and forth **Mekhane**.
 
-*Heperos* will cast **Decollation** three time in a row before enraging. His needs to be brought down under 50% HP or it will be a wipe.
+*Hesperos* will cast **Decollation** three time in a row before enraging. His needs to be brought down under 50% HP or it will be a wipe.
 
 </div>

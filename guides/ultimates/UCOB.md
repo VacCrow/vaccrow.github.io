@@ -158,7 +158,7 @@ ___
   + *Light Dragon*: Cast **Wing of Salvation**, placing light puddle under a random player. After 3 seconds, it will explode killing anyone inside and will leave a small cleanse puddle on the ground, used to remove the <span class='speDebuff'>Doom</span> debuff.
 <br/><br/><!-- force a break -->
   + *Ice Dragon*: Will periodically cast **Iceball** on everyone, one by one, applying the <span class='speDebuff'>Icebitten</span> <img class='iconImg' src='{{ site.data.iconList.UCOB.Icebitten }}'> debuff. If a player got two stacks of <span class='speDebuff'>Icebitten</span>, he will die. If a player had a <span class='speDebuff'>Firescorched</span> debuff, <span class='speDebuff'>Icebitten</span> will cleanse it.
-  + *Fire Dragon*: Will tether to a random player three times. A fireball will be launch at that player applying the <span class='speDebuff'>Firescorched</span> <img class='iconImg' src='{{ site.data.iconList.UCOB.Firescorched }}'> debuff to anyone hit. If a player got two stacks of <span class='speDebuff'>Firescorched</span>, he will die. If a player had an <span class='speDebuff'>Icebitten</span> debuff, <span class='speDebuff'>Firescorched</span> will cleanse it.
+  + *Fire Dragon*: Will tether to a random player three times. A **Fireball** will be launch at that player applying the <span class='speDebuff'>Firescorched</span> <img class='iconImg' src='{{ site.data.iconList.UCOB.Firescorched }}'> debuff to anyone hit. If a player got two stacks of <span class='speDebuff'>Firescorched</span>, he will die. If a player had an <span class='speDebuff'>Icebitten</span> debuff, <span class='speDebuff'>Firescorched</span> will cleanse it.
 
 ___
 
@@ -172,7 +172,7 @@ Non telegraphed point-blank AoE dealing lethal damage and knock backing anyone h
 
 ___
 
-+ **<u>Thermonic Beam</u>:**
++ **<u>Thermionic Beam</u>:**
 Non telegraphed AoE on a random player dealing <span class='magic'>magical damage</span>.
 
 ___
@@ -218,7 +218,7 @@ Enrage during P2.
 <h2><a id='Phase2-NaelDeusDarnusQuotes'>Quotes</a></h2>
 
 Through the second and the fourth phases, *Nael* will use quotes to tell which abilities she will use next instead of casting or showing telegraphs.
-In order to easily identify which mechanics are hidden behind each quote, just find the keywords. If you see **fire, scorch or blazing** on the first part of a quote, it means that **Thermonic Beam** is the first mechanic.
+In order to easily identify which mechanics are hidden behind each quote, just find the keywords. If you see **fire, scorch or blazing** on the first part of a quote, it means that **Thermionic Beam** is the first mechanic.
 Most of the time, there's only two or four possible quotes used at a specific moment, reducing the randomness.
 
 + First set:
@@ -543,21 +543,21 @@ ___
 
 + **<u>Teraflare</u>:**
 *Bahamut Prime*'s ultimate.  
-If the <u>Aethertrail Attunement</u> reaches 100 when it is casted, it's a wipe.  
-If the gauge in inferior to 100, the whole group will be killed before being resurrected by *Phoenix*. *Phoenix* will bring everyone to full hp, grant a full LB3 to the group and a <span class='buff'>Phoenix's Blessing</span> <img class='iconImg' src='{{ site.data.iconList.UCOB.PhoenixsBlessing }}'> buff to every player, that doubles the damage done and lasts until the player death.  
-This resurrection doesn't put a <span class='debuff'>Weakness</span> debuff on players, but it will refresh the <span class='debuff'>Weakness</span> duration if someone got it before getting hit by **Treaflare**.
+If the <u>Aethertrail Attunement</u> reaches 100 when it is cast, it's a wipe.  
+If the gauge in inferior to 100, the whole group will be killed before being resurrected by *Phoenix*. *Phoenix* will bring everyone to full hp, grant a full LB3 to the group and a <span class='buff'>Phoenix's Blessing</span> <img class='iconImg' src='{{ site.data.iconList.UCOB.PhoenixesBlessing }}'> buff to every player, that doubles the damage done and lasts until the player death.  
+This resurrection doesn't put a <span class='debuff'>Weakness</span> debuff on players, but it will refresh the <span class='debuff'>Weakness</span> duration if someone got it before getting hit by **Teraflare**.
 
 </div>
 
 <div class='guideSection' markdown='1'>
 <h2><a id='AddsPhase-TeraflareStrategy'>Strategy</a></h2>
 
-*Nael* and *Twintania* will spawn to the North of the arena. If you're annoyed with *Bahamut Prime* being shinnier than your phone screen while you're in your bed, you can move the bosses. As long as they are tanked between two **Neurolinks**.  
+*Nael* and *Twintania* will spawn to the North of the arena. If you're annoyed with *Bahamut Prime* being shinier than your phone screen while you're in your bed, you can move the bosses. As long as they are tanked between two **Neurolinks**.  
 Since they both use *Bahamut Prime* enmity table, the second Tank has to provoke one of them when the phase starts.
 
 They will both start with a **Bahamut's Claw** and **Plumet**.
 
-Then, *Twintania* will cast **Liquil Hell** that must be baited as usual.  
+Then, *Twintania* will cast **Liquid Hell** that must be baited as usual.  
 Right when it ends, a triple **Generate** will target 3 random DPS. To easily resolve this, assign a **Neurolink** to 3 DPS. The last DPS will be floating and will pick the empty **Neurolink** if he has a marker.  
 But at the same time, *Twintania* will also cast **Twister**. If you're standing in a **Neurolink** next to the bosses. You have to soak the **Hatch** then move away from the **Twister** baited inside the **Neurolink**. However, if you're in the far away **Neurolink**, you have to bait the **Twister** outside before moving in.
 
@@ -605,16 +605,16 @@ Three waves of 2 AoE dealing lethal <span class='magic'>magical damage</span>. T
 <div class='guideSection' markdown='1'>
 <h2><a id='Phase4-GoldenBahamutStrategy'>Strategy</a></h2>
 
-> The DPS check is this phase is pretty lennient as long as you mitigate and dodge every ability properly. Hence don't worry about your uptime but about staying live.
+> The DPS check is this phase is pretty lenient as long as you mitigate and dodge every ability properly. Hence don't worry about your uptime but about staying live.
 
-To start with, *Golden Bahamut* will use **Morh Afah**. Every **Morn Afah** require planned mitigation beforehand.
+To start with, *Golden Bahamut* will use **Morn Afah**. Every **Morn Afah** require planned mitigation beforehand.
 Next is the first **Akh Morn**, hitting three times. Have the Tanks stack together and use all their defensive cooldowns, they will be back for the last one.
 
 **Exaflare** is next. It can cross the arena in any of the eight direction and each set of AoE won't always be adjacent, rendering this mechanic a bit random.  
 You can stand in the third explosion path and move inside the first one when it's done (you can also move between the first and second explosion).  
 And you can also cross through one explosion. Just stand at the edge of it and when it explodes, quickly move in. The timing needs to be on point however. Only use this technique when you know what you're doing.
 
-Once it's done, second **Akh Morn**, hitting four times. Use one of your tank invunerability.  
+Once it's done, second **Akh Morn**, hitting four times. Use one of your tank invulnerability.  
 Followed by **Morn Afah**, once again mitigate it.  
 And another set of **Exaflare**.
 

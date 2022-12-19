@@ -218,7 +218,7 @@ Once the <span class='buff'>Aquatic Conception</span> or <span class='buff'>Shoc
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="hc2-2.jpg;hc2-3.jpg;hc2-4.jpg;hc2-5.jpg" imgDesc="<strong>Conceptual Shift</strong> happens;Gamma combine with Alpha or Beta, both Alpha guests combine together;Regroup mid;Dodge <strong>Ashing Blaze</strong> while Aquatic/Shocking Conceptions step in the towers" slideNumber=slideCounter %}
 
-Then the long duration <span class='speDebuff'>Imperfection: Alpha</span>, <span class='speDebuff'>Imperfection: Beta</span> and <span class='speDebuff'>Imerfection: Gamma</span> must respectively move to the North West, North East and South West cardinals. The leftover <span class='speDebuff'>Perfection: X</span> player can join his colleague to refresh his timer.  
+Then the long duration <span class='speDebuff'>Imperfection: Alpha</span>, <span class='speDebuff'>Imperfection: Beta</span> and <span class='speDebuff'>Imperfection: Gamma</span> must respectively move to the North West, North East and South West cardinals. The leftover <span class='speDebuff'>Perfection: X</span> player can join his colleague to refresh his timer.  
 The players with a Conception must move to the South East quadrant:
 <img class='soloImg' src='{{ page.imagePath | append: 'hc2-6.jpg' }}'>
 
@@ -236,6 +236,6 @@ It isn't necessary at all to heal since *Hephaistos* will cast **Ego Death** kil
 *Hephaistos* will next cast **Aionagonia**, quickly heal and mitigate for the incoming **Dominion**. Before it hits, everyone must on his own tile on the 1st and 2nd row. Players can occupy a column based on their role: <u>Tanks - Healers - Melee DPS - Ranged DPS</u>.  
 The players who got hit by **Orogenic Deformation** will move to the middle while the other 4 will choose a tower and soak it once it's out of the ground. Then the 4 other players will soak the second set of towers.
 
-Next is another **Aionagonia** into **Dominion** resolved the same way as previously, followed by the last **Aiongonia**. Finally, *Hephaistos* will cast **Ego Death** for a second time, the real enrage this time.
+Next is another **Aionagonia** into **Dominion** resolved the same way as previously, followed by the last **Aionagonia**. Finally, *Hephaistos* will cast **Ego Death** for a second time, the real enrage this time.
 
 </div>

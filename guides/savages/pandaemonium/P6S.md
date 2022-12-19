@@ -13,7 +13,7 @@ Enrage timer: 10:40
 Loot:*
 
 + *Chest n°1: Abyssos Head/Hand/Foot coffer + Ultralight Tomestone (Weapon Token)*
-+ *Chest n°2: Abyssos Head/Hand/Foot coffer + Moonshine Shine  (Accesory Upgrade)*
++ *Chest n°2: Abyssos Head/Hand/Foot coffer + Moonshine Shine  (Accessory Upgrade)*
 + *Token: Book of Abyssos Mythos II (4 tokens for Abyssos Head/Hand/Foot or 4 tokens for Accessory upgrade)*
 
 ___
@@ -142,14 +142,14 @@ Next is **Aetheric Polyominoid** with 2 "+" tiles, leaving the 2 inner tiles eas
 *Hegemone* will then cast **Pathogenic Cells** numbering players from 1 to 8. Odd number will be on the West side while the even numbers wil be on the East side. The number 1 must stand on the North West diagonal and the number 2 on the north east diagonal, the rest of the players can wait South. Once an odd player is cleaved on your side, the next odd number must replace him. Do the same on the even side:
 <img class='soloImg' src='{{ page.imagePath | append: 'patho.jpg' }}'>
 
-Next, **Aetherial Exchange** is casted followed by **Exchange of Agonies** with 2 swap tethers. After the swap, the 4 **Darkbursts** will either be on every DPS or every Tanks and Healers while the four others get the 3 **Dark Perimeter** and the **Unholy Darkness**. The players with **Darkburst** has to move to their assigned intercardinal far away from the boss while the rest has to stack middle.  
+Next, **Aetherial Exchange** is cast followed by **Exchange of Agonies** with 2 swap tethers. After the swap, the 4 **Darkbursts** will either be on every DPS or every Tanks and Healers while the four others get the 3 **Dark Perimeter** and the **Unholy Darkness**. The players with **Darkburst** has to move to their assigned intercardinal far away from the boss while the rest has to stack middle.  
 While everyone is positioning themselves, *Hegemone* will cast **Choros Ixou** so remember to dodge both cleaves at the same time.
 {% assign slideCounter = 0 %}
 {% include slideshow.html imgLink="agonies1-1.jpg;agonies1-2.jpg" imgDesc="<strong>Darkburst</strong> outside at intercardinal, the others in. Dodge <strong>Chorus Ixou</strong>;Dodge the second part of <strong>Chorus Ixou</strong>" slideNumber=slideCounter %}
 
 Then, *Hegemone* will cast **Synergy**, either swap Tanks or have the main Tank use his invulnerability so counter the <span class='debuff'> Magic Vulnerability Up</span> debuff. It is followed by another **Hemitheos's Dark IV**.
 
-Quickly after, **Transmission** is casted placing debuffs on players before casting **Choros Ixou**. When they resolve, the players with <span class='speDebuff'>Chelomorph</span> must look towards the boss and the players with <span class='speDebuff'>Glossomorph</span> must look away from the boss. Furthermore they should be in the safe spot of **Choros Ixou** ready to dodge its second part:
+Quickly after, **Transmission** is cast placing debuffs on players before casting **Choros Ixou**. When they resolve, the players with <span class='speDebuff'>Chelomorph</span> must look towards the boss and the players with <span class='speDebuff'>Glossomorph</span> must look away from the boss. Furthermore they should be in the safe spot of **Choros Ixou** ready to dodge its second part:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="transm1.jpg;transm2.jpg" imgDesc="Move next to <strong>Chorus Ixou</strong>, snakes looking out and wings looking in;Dodge the second part of <strong>Chorus Ixou</strong>" slideNumber=slideCounter %}
 

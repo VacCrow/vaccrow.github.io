@@ -60,7 +60,7 @@ ___
 ___
 
 + **<u>Predatory Avarice</u>:**
-*Hyppokampos* applies a <span class='speDebuff'>Mark of the Tides</span> debuff on a random Tank and DPS and a <span class='speDebuff'>Mark of the Depths</span> debuff on a random Healer, both debuffs lasting 23 seconds:
+*Hippokampos* applies a <span class='speDebuff'>Mark of the Tides</span> debuff on a random Tank and DPS and a <span class='speDebuff'>Mark of the Depths</span> debuff on a random Healer, both debuffs lasting 23 seconds:
   + <span class='speDebuff'>Mark of the Depths</span> <img class='iconImg' src='{{ site.data.iconList.P2S.MarkOfTheDepths }}'> : cast **Hard Water**, a shared AoE dealing <span class='magic'>magical damage</span>.
   + <span class='speDebuff'>Mark of the Tides</span> <img class='iconImg' src='{{ site.data.iconList.P2S.MarkOfTheTides }}'> : cast **Deadly Current**, an AoE around the player that knockback everyone else hit into the wall.
 
@@ -144,11 +144,11 @@ Next, he will mark everyone while casting **Kampeos Harma** and become untargeta
 + The blue square players will split into two groups, numbers 2 & 4 will move to the platform where the boss is while numbers 1 & 3 will move to the platform opposite of the boss, as muc has possible in the corner.  
 The players 1 & 2 must be in front while the players 3 & 4 must stand behind their partner. Once the body dashes on number 1 or 2, they will swap their position with their partner.
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="kampos1.jpg;kampos2.jpg;kampos3.jpg;kampos4.jpg" imgDesc="First dash;Second dash, 1 & 3 swap;Third dash, 2 & 4 swap;Fourth dash" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="kampeos1.jpg;kampeos2.jpg;kampeos3.jpg;kampeos4.jpg" imgDesc="First dash;Second dash, 1 & 3 swap;Third dash, 2 & 4 swap;Fourth dash" slideNumber=slideCounter %}
 
-If you had any 2 minutes raid buff, wait for **Kampos Harma** to be done and use them when the boss is once again targetable. The Tanks have to stack together for **Doubled Impact** and the group needs to be topped for the following **Murky Depths**.
+If you had any 2 minutes raid buff, wait for **Kampeos Harma** to be done and use them when the boss is once again targetable. The Tanks have to stack together for **Doubled Impact** and the group needs to be topped for the following **Murky Depths**.
 
-Next is **Channeling Overflow**. The players with a short duration <span class='speDebuff'>Mark of the Tides</span> (13 seconds) has to stand on the edge of the platforms to slide horizontally/vertically while avoiding the flooded platform to fullfil the debuff conditions. Meanwhile the other players will receive **Tainted Flood** AoEs and has to stand out of other paths, on drains or away from other .  
+Next is **Channeling Overflow**. The players with a short duration <span class='speDebuff'>Mark of the Tides</span> (13 seconds) has to stand on the edge of the platforms to slide horizontally/vertically while avoiding the flooded platform to fulfill the debuff conditions. Meanwhile the other players will receive **Tainted Flood** AoEs and has to stand out of other paths, on drains or away from other .  
 Once the first set of <span class='speDebuff'>Mark of the Tides</span> are done, quickly regroup to get healed and do the same thing but with reversed group:
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="overflow1.jpg;overflow2.jpg" imgDesc="First set of debuffs;Second set of debuffs" slideNumber=slideCounter %}

@@ -97,7 +97,7 @@ A *Great Whirlwind* with a donut shape will cover the outer part of the arena. T
 ___
 
 + **<u>Wicked Wheel</u>:**
-Pointblank AoE on *Garuda* dealing lethal damage.
+Point-blank AoE on *Garuda* dealing lethal damage.
 When <span class='buff'>Woken</span>: **Wicked Wheel** is followed by an instant **Wicked Tornado**, a donut shaped AoE dealing lethal damage.
 
 ___
@@ -149,7 +149,7 @@ The Main Tank will now make the boss face toward the East as *Chirada* and *Supa
 After that, one Ranged DPS with 1 <span class='speDebuff'>Thermal Low</span> left will grab the West tether while the East tether will be taken by the Main Tank. Have some heals and mitigation ready for the double **Super Cyclone** when the stacks are purged.
 In the meantime, *Garuda* will use **Slipstream**.
 
-From this moment, *Garuda* is fully awaked and can be killed at any time.
+From this moment, *Garuda* is fully awakened and can be killed at any time.
 
 *Chirada* and *Suparna* will disappear with a **Feather Rain**. Remember to move.  
 *Garuda** will follow up with a **Slipstream** and a **Wicked Wheel** + **Wicked Tornado** combo. Move in immediately after the **Wicked Wheel**.
@@ -412,7 +412,7 @@ ___
     ___
 
   + **<u>Ceruleum Vent</u>:**
-  *Ultima* spawn at a random intercardinal edge and cast **Ceruleum Vent**, a pointblank AoE dealing lethal damage.
+  *Ultima* spawn at a random intercardinal edge and cast **Ceruleum Vent**, a point-blank AoE dealing lethal damage.
 
 ___
 
