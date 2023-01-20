@@ -931,7 +931,7 @@ Identify and move into the safe quadrant, then check *Hraesvelgr* head for **Hal
 
 Quickly make some space middle so the DPS with <span class='speDebuff'>Mortal Vow</span> can pass it to *Nidhogg* 's Tank there.
 
-Now, *Nidhogg* will cast **Wroth Flames** and *Hraesvelgr* will leave the arena for **Cauterize**. At the same time, 4 players will receive <span class='speDebuff'>Spreading Flames</span> and 2 other will get <span class='speDebuff'>Spreading Flames</span>. Furthermore, 3 sets of orbs will spawn with the first one middle and the two other on opposite intercardinal.  
+Now, *Nidhogg* will cast **Wroth Flames** and *Hraesvelgr* will leave the arena for **Cauterize**. At the same time, 4 players will receive <span class='speDebuff'>Spreading Flames</span> and 2 other will get <span class='speDebuff'>Entangled Flames</span>. Furthermore, 3 sets of orbs will spawn with the first one middle and the two other on opposite intercardinal.  
 First, find *Hraesvelgr* and where he'll dive through. If he dives mid or away from *Nidhogg* side, you can move all grouped together, next to him, to the intercardinal corner opposite of the second set of orbs, either diagonally or vertically. Otherwise, move away from *Nidhogg* but still to the intercardinal corner opposite of the second set.  
 Then **Cauterize** and the first hit of **Akh Morn** will happen, start to move toward the middle on the arena while running along *Nidhogg* 's hitbox.  
 The first **Fire Blast** happens along with the second hit of **Akh Morn**. Continue to drop the puddles next to the previous one's edge. Right after the fourth **Akh Morn** is done, the second **Fire Blast** will resolve.  
