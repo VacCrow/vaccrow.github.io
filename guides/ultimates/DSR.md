@@ -985,7 +985,7 @@ Right before **Cauterize** happens, the debuffs will swap into <span class='speD
 
 After **Cauterize**, stack on the cardinal where it happened. *Nidhogg* and *Hraesvelgr* will come back with **Touchdown** and its proximity damage, *Nidhogg* will jump mid while *Hraesvelgr* will jump on the opposite side where **Cauterize** happened.
 
-Right after **Touchdown**, *Hraesvelgr* 's Tank will give his <span class='speDebuff'>Mortal Vow</span> to the Physical Ranged DPS.
+Right after **Touchdown**, *Hraesvelgr* 's Melee will give his <span class='speDebuff'>Mortal Vow</span> to the Physical Ranged DPS.
 
 Finally, *Nidhogg* and *Hraesvelgr* will start their enrage, **Revenge of the Horde** and you have 25 seconds to kill them.
 
