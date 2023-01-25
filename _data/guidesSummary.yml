@@ -130,13 +130,15 @@ DSR:
       - name: Strategy
 
 TOP:
-  - name: Phase 1 - 
+  - name: Phase 1 - Omega
     section:
       - name: Abilities Breakdown
       - name: Strategy
-        phases:
-        - phase: 
-  - name: Phase 2 - 
+  - name: Phase 2 - Omega M/F
+    section:
+      - name: Abilities Breakdown
+      - name: Strategy
+  - name: Phase 3 - Omega Reconfigured
     section:
       - name: Abilities Breakdown
       - name: Strategy
