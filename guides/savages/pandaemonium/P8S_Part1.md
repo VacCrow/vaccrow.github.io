@@ -34,6 +34,8 @@ The **Conceptual** cast will happen more than 20 seconds later and have a differ
   + **Octaflare**: AoE on every players.
   + **Diflare**: share AoE on both Healers.
 
+  When a **Conceptual** is stored, the boss wil gain the <img class='iconImg' src='{{ site.data.iconList.P8S.ConceptualMastery }}'> buff.
+
 ___
 
 + **<u>Volcanic Torches</u>:**
