@@ -770,9 +770,9 @@ Players have to uphold *Nidhogg* and *Hraesvelgr* vows. If a vow is broken, the 
 
   + **Mortal Vow** <img class='iconImg' src='{{ site.data.iconList.DSR.MortalVow }}'>:
   *“Condemned by Nidhogg’s vow to avenge his brood-sister. Healing potency is decreased. Taking damage overtime, and will inflict anguish on those nearby in turn when this effect expires.”*  
-  A random DPS will receive <span class='magic'>magical damage</span> along with the <span class='speDebuff'>Mortal Vow</span> debuff, a DoT reducing healing potency by 95% and lasting 34 seconds. When the debuff resolves, it deals AoE <span class='magic'>magical damage</span> around the bearer and <span class='speDebuff'>Mortal Vow</span> is transferred to the closest player with its full duration. The vow is broken when <span class='speDebuff'>Mortal Vow</span> isn't transferred to a player.  
+  A random DPS will receive <span class='magic'>magical damage</span> along with the <span class='speDebuff'>Mortal Vow</span> debuff, a DoT reducing healing potency by 95% and lasting 34 seconds. When the debuff resolves, it deals AoE <span class='magic'>magical damage</span> around the bearer and <span class='speDebuff'>Mortal Vow</span> is transferred to the closest player hit with its full duration. The vow is broken when <span class='speDebuff'>Mortal Vow</span> isn't transferred to a player.  
 
-    The player who transferred <span class='speDebuff'>Mortal Vow</span> will gain the <span class='speDebuff'>Mortal Atonement</span> <img class='iconImg' src='{{ site.data.iconList.DSR.MortalAtonement }}'> debuff lasting 100 seconds, preventing this player to get <span class='speDebuff'>Mortal Vow</span>.  
+    The player who receives <span class='speDebuff'>Mortal Vow</span> will gain the <span class='speDebuff'>Mortal Atonement</span> <img class='iconImg' src='{{ site.data.iconList.DSR.MortalAtonement }}'> debuff lasting 100 seconds, preventing this player to get <span class='speDebuff'>Mortal Vow</span>.  
 
     If any more players are present when <span class='speDebuff'>Mortal Vow</span> resolves, they'll get the <span class='speDebuff'>Suppuration</span> <img class='iconImg' src='{{ site.data.iconList.DSR.Suppuration }}'> debuff, reducing their HP by 50% and doubling the damage taken.
 
