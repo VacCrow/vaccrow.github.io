@@ -238,6 +238,47 @@ P8S_Part2:
       - name: Limitless Desolation
       - name: High Concept 2
 
+P9S:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: Phase 1
+      - name: Phase 2
+
+P10S:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: Phase 1
+
+P11S:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: Phase 1
+
+P12S_Part1:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: HUHH
+
+P12S_Part2:
+  - name: Abilities Breakdown
+    section:
+      - name: General Abilities
+  - name: Strategy
+    section:
+      - name: HUHH
+
 #------------EDEN-----------
 E9S:
   - name: Abilities Breakdown
