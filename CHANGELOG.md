@@ -1,9 +1,14 @@
-# Change Log
+# Changelog
 
 ## TODO
 
 + TEA Limit Cut
 + UWU
++ TOP
+
+## [1.6] - 31/05/2023
+
++ Anabaseios Savage Added
 
 ## [1.5] - 12/09/2022
 
