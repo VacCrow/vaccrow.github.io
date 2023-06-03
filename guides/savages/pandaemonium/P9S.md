@@ -2,7 +2,7 @@
 layout: guides
 title: Anabaseios - The Fifth Circle (Savage) | P9S
 imagePath: /assets/img/guides/savages/pandaemonium/P9S/
-slideNumber: 1
+slideNumber: 3
 ---
 
 *Patch: 6.4  
@@ -29,8 +29,10 @@ Raid-wide AoE dealing small <span class='magic'>magical damage</span>.
 ___
 
 + **<u>Ravening</u>:**
-*Kokytos* will absorb aether and will gain one of the following buff that changes its moveset: <span class='buff'>Soul of the Mage</span>, <span class='buff'>Soul of the Martialist</span> or <span class='buff'>Chimeric Soul</span>.
+*Kokytos* will absorb aether and will gain one of the following buff that changes its moveset: <span class='buff'>Soul of the Mage</span>, <span class='buff'>Soul of the Martialist</span>, <span class='buff'>Chimeric Soul</span> or <span class='buff'>Soul of the Beast</span>.
 A few seconds after absorbing the aether he will perform **Soul Surge**, a raid-wide AoE dealing <span class='magic'>magical damage</span>.
+
+  The last **Ravening** is the enrage.
 
 ___
 
@@ -76,7 +78,7 @@ Combination of three mechanics that happen sequentially: **Inside/Outside Roundh
   + **Outside Roundhouse**: donut AoE dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff.
   + **Swinging Kick**: front/rear cleave, based on the cast name, dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Sustained Damage</span> DoT debuff.
 
-  In the meantime, fire roots will spread on the ground from the boss. After a few seconds, AoEs will appear at the tip of the roots dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff. (The ability name is **Archaic Rockbreaker** but it isn't a share damage-wise.)
+  In the meantime, fire roots will spread on the ground from the boss. After a few seconds, AoEs will appear at the tip of the roots dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> debuff. (The ability name is **Archaic Rockbreaker** but it isn't the same as the previous share.)
 
 ___
 
@@ -92,17 +94,54 @@ ___
 
 + **<u>Scrambled Succession</u>:**
 *Kokytos* will mark the four orbs along with four random players with numbers from 1 to 8. Orbs will be numbered with 1, 3, 5 and 7 in a (counter)clockwise manner and players will be numbered with 2, 4, 6 and 8.  
-*Kokytos* will teleport behind the next orb and will kick it to the opposite side. When the orb reaches the opposite wall, it explodes in a small AoE, named **Shock**, dealing lightning <span class='magic'>magical damage</span> and applying a <span class='debuff'>Lightning Resistance Down II</span> debuff for 10 seconds and a <span class='debuff'>Damage Down</span> debuff.  
-Then a tower will spawn where the orb exploded that need to be soaked, dealing small <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff for 7 seconds. If the tower sin't soaked, it explodes and wipe the group.  
-When the tower resolves, *Kokytos* will dash to the next player with **Firemeld**, dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff for 9 seconds to anyone on his path. The damage are reduced the futher away the player is from *Kokytos*.  
-This pattern will repeat for the remaining numbers.
+
+  *Kokytos* will teleport behind the next orb and will kick it to the opposite side. When the orb reaches the opposite wall, it explodes in a small AoE, named **Shock**, dealing lightning <span class='magic'>magical damage</span> and applying a <span class='debuff'>Lightning Resistance Down II</span> debuff for 10 seconds and a <span class='debuff'>Damage Down</span> debuff.  
+  Then a tower will spawn where the orb exploded that need to be soaked, dealing small <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff for 7 seconds. If the tower isn't soaked, it explodes and wipe the group.  
+  When the tower resolves, *Kokytos* will dash to the next player with **Firemeld**, an AoE dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff for 9 seconds. The damage are reduced the futher away the player is from *Kokytos*.  
+  This pattern will repeat for the remaining numbers.
 
   Meanwhile, the 4 players without a number will sequentially receive an **Icemeld** marker that explodes in a big AoE dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff lasting 16 seconds. Each **Icemeld** resolves at the same time as a **Firemeld**.
 
 ___
 
-+ **<u>BARK BARK</u>:**
-Enrage.
++ **<u>Charybdis</u>:**
+4 AoEs on either cardinals or intercardinals. Leave a wind puddle once they resolve.
+
+___
+
++ **<u>Comet</u>:**
+4 proximity AoE located between **Charybdis** wind puddles that will drop a comet dealing <span class='magic'>magical damage</span>. Two comets among the four will be cracked. Any mechanics that hits a comet will crack it. If it's already cracked, it will explode in a small lethal AoE.
+
+___
+
++ **<u>Beastly Bile</u>:**
+Share AoE on the furthest player from *Kokytos*, dealing dark <span class='magic'>magical damage</span> and applying a <span class='debuff'>Dark Resistance Down II</span> debuff for 10 seconds.
+
+___
+
++ **<u>Thunderbolt</u>:**
+4 cones AoEs toward the 4 closest players dealing lightning <span class='magic'>magical damage</span> and applying a <span class='debuff'>Light Resistance Down II</span> debuff for 10 seconds.
+
+___
+
++ **<u>Ecliptic Meteor</u>:**
+*Kokytos* aims at one comet, indicated by a marker on top of it. The comet will explode, killing anyone in direct line of sight. Can only be blocked by a comet in good condition. Any cracked comets will explode raidwide killing anyone in sight.
+
+___
+
++ **<u>Beastly Fury</u>:**
+Raid-wide AoE dealing high <span class='magic'>magical damage</span>.
+
+___
+
++ **<u>Chimeric Successsion</u>:**
+*Kokytos* will mark the four random players with numbers from 1 to 4. They will get by **Icemeld** in the same order.
+
+___
+
++ **<u>Front/Rear Firestrike</u>:**
+*Kokytos* will dash on the furthest player then he will perform a front or rear **Swinging Kick** based on the cast name. The dash, **Pyremeld**, is a proximity share AoE dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff, damage is reduced the further you are from the boss.
+There is a small amount of time between **Pyremeld** and **Swinging Kick** that can be used to turn the boss since he will aim at a random player who soaked **Pyremeld** before performing **Swinging Kick**.
 
 </div>
 ___
@@ -148,11 +187,45 @@ During the **Scrambled Succession** cast, quickly identify the first orb locatio
 {% assign slideCounter = 0 %}
 {% include slideshow.html imgLink="scramble1.jpg;scramble2.jpg;scramble3.jpg;scramble4.jpg;scramble5.jpg;scramble6.jpg;scramble7.jpg;scramble8.jpg;scramble9.jpg" imgDesc="Pair 2, 6 away from orb n°1. Pair 4, 8 away from orb n°3. First <strong>Icemeld</strong> player behind the first orb;Pair 2, 6 dodge the orb's <strong>Shock</strong>. Second <strong>Icemeld</strong> player behind the second orb;<strong>Firemeld</strong> on the next player while his buddy soaks the tower;Pair 2, 6 run accross. Pair 4, 8 dodge the orb's <strong>Shock</strong>. Third <strong>Icemeld</strong> player behind the third orb;<strong>Firemeld</strong> on the next player while his buddy soaks the tower;Pair 2, 6 dodge the orb's <strong>Shock</strong>. Pair 4, 8 run accross. Last <strong>Icemeld</strong> player behind the last orb;<strong>Firemeld</strong> on the next player while his buddy soaks the tower;Pair 4, 8 dodge the orb's <strong>Shock</strong>;<strong>Firemeld</strong> on the last player while his buddy soaks the tower" slideNumber=slideCounter %}
 
+*Kokytos* will conclude this mechanic with **Two Minds** which is the same thing as **Dualspell** using the <span style='color: dodgerblue'><strong>Ice</strong></span> element along with either <span style='color:firebrick'><strong>Fire</strong></span> or <span style='color:darkorchid'><strong>Thunder</strong></span>. Pair up or spread then move in or out based on element and amplification.
+
+> **Two Minds** applies damage faster than **Dualspell**, otherwise it's the same ability.
+
 </div>
 
 <div class='guideSection' markdown='1'>
 <a id='SPhase2'></a>
 
-BARK
+*Kokytos* will cast another **Glutonny's Augur** followed by **Ravening** / **Soul Surge**, remember to mitigate.
+
+Next he will cast **Charybdis** on cardinals or intercardinals along with **Comet** on the remaining intercardinals or cardinals, stack middle to get healed and reduce the damage. Then the DPS will move away next to a cracked comet to bait the **Beastly Bile** while the Tanks and Healers will move inside the boss hitbox to bait **Thunderbolt** toward the wind puddles from **Charybdis**.  
+Once the first set happen, the group will swap for the second set in order to destroy the second cracked comet.
+
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="comet1.jpg;comet2.jpg" imgDesc="Tanks/Healers in aiming at tornadoes, DPS stack on a cracked comet;DPS in aiming at tornadoes, Tanks/Healers stack on a cracked comet" slideNumber=slideCounter %}
+
+*Kokytos* will aim at a random comet with **Ecliptic Meteor**, hide behind the other one.
+
+He will conclude with **Beastly Fury**, mitigate this one since it deals more damage than the other raidwides.
+
+*Kokytos* will once again use **Ravening** / **Soul Surge** and follow up with **Duality of Death**, swap Tank as usual. Then regroup by pair and use **Shockwave** to get knocked into the wall to deal with **Archaic Rockbreaker**.  
+It is immediately chained with the **Archaic Rockbreaker** lines on the ground and *Kokytos* will start casting a <span style='color:firebrick'><strong>Fire</strong></span>/<span style='color: dodgerblue'><strong>Ice</strong></span> **Dualspell**. Dodge the two sets of **Archaic Rockbreaker** ground AoEs <u>then</u> pair inside or outside the boss for **Dualspell**.
+
+Afterward, *Kokytos* uses **Glutonny's Augur** before casting **Chimeric Succession**.  
+The player with number 1 will stand on the NW of the arena while the player with number 2 will stand on the NE. The other players with a number will wait slightly South of the boss. When the first explosion happens, player number 3 replaces the number 1 and when the second explosion happens, player number 4 replaces the number 2.  
+In the meantime, the players without a number will stack South to bait the **Front/Rear Firestrike**. Once it resolves, if it's **Front Firestrike** move toward the outside to bait **Swinging Kick** out, otherwise move toward the inside if it's **Rear Firestrike**.
+
+{% assign slideCounter = slideCounter | plus: 1 %}
+{% include slideshow.html imgLink="chimeric1.jpg;chimeric2.jpg;chimeric3.jpg;chimeric4.jpg;chimeric5.jpg" imgDesc="Number 1 on NW, number 2 on NE, number 3 & 4 slightly to the South. The rest bait on South edge;Number 1 and 3 swap position;Number 2 and 4 swap position. <strong>Firestrike</strong> happens;The not number group must either move toward the outside of the arena if <strong>Front Firestrike</strong> is casted as shown here or move inside if it's <strong>Rear Firestrike</strong> instead;The last <strong>Icemeld</strong> happens along with the <strong>Swinging Kick</strong>" slideNumber=slideCounter %}
+
+*Kokytos* will dash back to the middle and cast a <span style='color:firebrick'><strong>Fire</strong></span>/<span style='color: dodgerblue'><strong>Ice</strong></span> or <span style='color: dodgerblue'><strong>Ice</strong></span>/<span style='color:darkorchid'><strong>Thunder</strong></span> **Dualspell**.
+
+Then *Kokytos* will perform a **Ravening** / **Soul Surge** starting the last part of the fight.
+
+It begins with an <span style='color: dodgerblue'><strong>Ice</strong></span>/<span style='color:darkorchid'><strong>Thunder</strong></span> **Dualspell** followed by **Glutonny's Augur**.  
+Next is a <span style='color:firebrick'><strong>Fire</strong></span>/<span style='color: dodgerblue'><strong>Ice</strong></span> **Dualspell** into **Duality of Death**, swap Tanks as usual.  
+Here comes the last **Dualspell** with <span style='color: dodgerblue'><strong>Ice</strong></span>/<span style='color:darkorchid'><strong>Thunder</strong></span> elements linked with **Glutonny's Augur**.
+
+Finally *Kokytos* will cast a last **Ravening** / **Soul Surge**, the enrage.
 
 </div>
