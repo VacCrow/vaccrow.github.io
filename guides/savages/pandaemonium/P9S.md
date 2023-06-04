@@ -2,7 +2,7 @@
 layout: guides
 title: Anabaseios - The Fifth Circle (Savage) | P9S
 imagePath: /assets/img/guides/savages/pandaemonium/P9S/
-slideNumber: 4
+slideNumber: 3
 ---
 
 *Patch: 6.4  
@@ -213,22 +213,12 @@ It is immediately chained with the **Archaic Rockbreaker** lines on the ground a
 
 Afterward, *Kokytos* uses **Glutonny's Augur** before casting **Chimeric Succession**.  
 
-STRAT1 (uptime or just skip it)
-
 Have the Melees inside the boss hitbox and the Ranged outsite to bait the number markers. Since the number are handed out based on distance, Ranged can have fixed position to always ge the same number as shown in the first diagram below.  
-Number 1 will move to the West edge while number 2 will move to the East edge of the arena. Number 3 and 4 will wait North. After 1 resolves, number 3 can move to the North West and after 2 resolves, number 4 can move to the North East. Number 1 and 2 can move South but not too close to the Melee group that is baiting **Firestrike**.  
+Number 1 will stand on the North West of the arena while the player with number 2 will stand on the North East. Number 3 and 4 will wait slightly South of the boss. When the first explosion happens, player number 3 replaces the number 1 and when the second explosion happens, player number 4 replaces the number 2. Number 1 and 2 can move South but not too close to the Melee group that is baiting **Firestrike**.  
 In the meantime, the Melee will stack South to bait the **Front/Rear Firestrike**. Once it resolves, if it's **Front Firestrike** move toward the outside to bait **Swinging Kick** out, otherwise move toward the inside if it's **Rear Firestrike**.
 
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="chimeric1.jpg;chimeric2.jpg;chimeric3.jpg;chimeric4o.jpg;chimeric5o.jpg" imgDesc="Melees inside and Ranged outside. Use these position to always have the same number;First <strong>Icemeld</strong> resolves;Number 1 can move South-ish and 3 can move North West;Number 2 can move South-ish and 4 can moves North East. <strong>Firestrike</strong> happens;Melees must either move toward the outside of the arena if <strong>Front Firestrike</strong> is casted as shown here or move inside if it's <strong>Rear Firestrike</strong> instead;The last <strong>Icemeld</strong> happens along with the <strong>Swinging Kick</strong>" slideNumber=slideCounter %}
-
-STRAT2 (FFA)
-
-The player with number 1 will stand on the NW of the arena while the player with number 2 will stand on the NE. The other players with a number will wait slightly South of the boss. When the first explosion happens, player number 3 replaces the number 1 and when the second explosion happens, player number 4 replaces the number 2.  
-In the meantime, the players without a number will stack South to bait the **Front/Rear Firestrike**. Once it resolves, if it's **Front Firestrike** move toward the outside to bait **Swinging Kick** out, otherwise move toward the inside if it's **Rear Firestrike**.
-
-{% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="chimeric1o.jpg;chimeric2o.jpg;chimeric3o.jpg;chimeric4o.jpg;chimeric5o.jpg" imgDesc="Number 1 on NW, number 2 on NE, number 3 & 4 slightly to the South. The rest bait on South edge;Number 1 and 3 swap position;Number 2 and 4 swap position. <strong>Firestrike</strong> happens;The not number group must either move toward the outside of the arena if <strong>Front Firestrike</strong> is casted as shown here or move inside if it's <strong>Rear Firestrike</strong> instead;The last <strong>Icemeld</strong> happens along with the <strong>Swinging Kick</strong>" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="chimeric1.jpg;chimeric2.jpg;chimeric3.jpg;chimeric4.jpg;chimeric5.jpg" imgDesc="Melees inside and Ranged outside. You can use these positions to always have the same number;First <strong>Icemeld</strong> resolves;Number 1 and 3 swap position. Melees out to bait <strong>Firestrike</strong>;Number 2 and 4 swap position. <strong>Firestrike</strong> happens;Melees must either move toward the outside of the arena if <strong>Front Firestrike</strong> is casted as shown here or move inside if it's <strong>Rear Firestrike</strong> instead;The last <strong>Icemeld</strong> happens along with the <strong>Swinging Kick</strong>" slideNumber=slideCounter %}
 
 *Kokytos* will dash back to the middle and cast a <span style='color:firebrick'><strong>Fire</strong></span>/<span style='color: dodgerblue'><strong>Ice</strong></span> or <span style='color: dodgerblue'><strong>Ice</strong></span>/<span style='color:darkorchid'><strong>Thunder</strong></span> **Two Minds**.
 
