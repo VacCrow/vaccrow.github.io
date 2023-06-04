@@ -7,7 +7,7 @@ slideNumber: 1
 
 *Patch: 6.4  
 Minimum ilvl: i640  
-DPS Requirement: ?k  
+DPS Requirement: 76.4k  
 Enrage timer: ?  
 <span class='debuff'>Damage Down</span> potency: ?%  
 Loot:*

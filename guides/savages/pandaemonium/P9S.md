@@ -7,7 +7,7 @@ slideNumber: 3
 
 *Patch: 6.4  
 Minimum ilvl: i630  
-DPS Requirement: ?k  
+DPS Requirement: 61.3k (with downtime)  
 Enrage timer: 9:59  
 <span class='debuff'>Damage Down</span> potency: 25%  
 Loot:*
