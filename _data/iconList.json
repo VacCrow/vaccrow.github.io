@@ -79,6 +79,14 @@
     "PhoenixesBlessing": "https://assets.rpglogs.com/img/ff/abilities/015000-015819.png"
   },
 
+  "P10S": {
+    "BindingSoulSnare": "https://assets.rpglogs.com/img/ff/abilities/018000-018072.png",
+    "HeavySoulSnare": "https://assets.rpglogs.com/img/ff/abilities/018000-018132.png",
+    "DaemoniacBonds": "https://assets.rpglogs.com/img/ff/abilities/015000-015192.png",
+    "DuodaemoniacBonds": "https://assets.rpglogs.com/img/ff/abilities/015000-015193.png",
+    "TetradaemoniacBonds": "https://assets.rpglogs.com/img/ff/abilities/014000-014110.png"
+  },
+
   "P8S": {
     "ConceptualMastery": "https://assets.rpglogs.com/img/ff/abilities/015000-015486.png",
     "BloodOfTheGorgon": "https://assets.rpglogs.com/img/ff/abilities/015000-015487.png",
