@@ -254,6 +254,7 @@ P10S:
   - name: Strategy
     section:
       - name: Phase 1
+      - name: Phase 2
 
 P11S:
   - name: Abilities Breakdown
