@@ -79,6 +79,14 @@
     "PhoenixesBlessing": "https://assets.rpglogs.com/img/ff/abilities/015000-015819.png"
   },
 
+  "P11S": {
+    "LightsDiscord": "https://assets.rpglogs.com/img/ff/abilities/015000-015195.png",
+    "DarksDiscord": "https://assets.rpglogs.com/img/ff/abilities/015000-015194.png",
+    "LightsAccord": "https://assets.rpglogs.com/img/ff/abilities/015000-015197.png",
+    "DarksAccord": "https://assets.rpglogs.com/img/ff/abilities/015000-015196.png",
+    "Polarizing": "https://assets.rpglogs.com/img/ff/abilities/018000-018506.png"
+  },
+
   "P10S": {
     "BindingSoulSnare": "https://assets.rpglogs.com/img/ff/abilities/018000-018072.png",
     "HeavySoulSnare": "https://assets.rpglogs.com/img/ff/abilities/018000-018132.png",
