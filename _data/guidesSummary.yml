@@ -269,6 +269,9 @@ P11S:
 P12S_Part1:
   - name: Abilities Breakdown
     section:
+      - name: Dark And Light Debuffs
+      - name: Paradeigma
+      - name: Superchain Theory
       - name: General Abilities
   - name: Strategy
     section:
