@@ -79,6 +79,18 @@
     "PhoenixesBlessing": "https://assets.rpglogs.com/img/ff/abilities/015000-015819.png"
   },
 
+  "P12S": {
+    "AstralTilt": "https://assets.rpglogs.com/img/ff/abilities/015000-015180.png",
+    "AstralbrightSoul": "https://assets.rpglogs.com/img/ff/abilities/015000-015183.png",
+    "AstralstrongSoul": "https://assets.rpglogs.com/img/ff/abilities/015000-015185.png",
+    "HeavensflameSoul": "https://assets.rpglogs.com/img/ff/abilities/015000-015181.png",
+    "QuarteredSoul": "https://assets.rpglogs.com/img/ff/abilities/015000-015186.png",
+    "UmbralTilt": "https://assets.rpglogs.com/img/ff/abilities/015000-015179.png",
+    "UmbralbrightSoul": "https://assets.rpglogs.com/img/ff/abilities/015000-015182.png",
+    "UmbralstrongSoul": "https://assets.rpglogs.com/img/ff/abilities/015000-015184.png",
+    "XmarkedSoul": "https://assets.rpglogs.com/img/ff/abilities/015000-015187.png"
+  },
+
   "P11S": {
     "LightsDiscord": "https://assets.rpglogs.com/img/ff/abilities/015000-015195.png",
     "DarksDiscord": "https://assets.rpglogs.com/img/ff/abilities/015000-015194.png",

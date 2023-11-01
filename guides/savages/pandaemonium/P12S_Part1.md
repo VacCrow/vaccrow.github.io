@@ -18,11 +18,11 @@ ___
 
 <div class='guideSection' markdown='1'>
 <h2><a id='ABDarkandLightDebuffs'>Dark And Light Debuffs</a></h2>
-Through the fight, *Athena* will apply dark or light polarized debuff(s) and they all have a common point, a player will die if he's getting damaged by an attack from an element while having a debuff from the opposite element.  
+Through the fight, *Athena* will apply dark or light polarized debuff(s). The player will die if he receives damaged from an attack with the same element as his debuff element.  
 Here is the list of all the debuffs:
-  + <span class='speDebuff'>Astralbright/Umbralbright Soul</span>: when it resolves, drops a tower of the same element under the player, dealing small AoE <span class='magic'><u>dark/light</u> magical damage</span>. The tower must be soaked by a player with a debuff from the opposite element, dealing <span class='magic'>magical damage</span>. If not soaked, deals raid-wide <span class='magic'>magical damage</span> and applies a  <span class='debuff'>Damage Down</span> debuff.
-+ <span class='speDebuff'>Astralstrong/Umbralstrong Soul</span>: *Athena* fires a laser of the same element toward the player. It's a line AoE that must be soaked by players with a debuff from the opposite element. Apply 
-  + <span class='speDebuff'>Astral/Umbral Tilt</span>: kill the beared when hit by a attack from the same element.
+  + <span class='speDebuff'>Astralbright/Umbralbright Soul</span> <img class='iconImg' src='{{ site.data.iconList.P12S.AstralbrightSoul }}'>/<img class='iconImg' src='{{ site.data.iconList.P12S.UmbralbrightSoul }}'>: when it resolves, drops a tower of the same element under the player, dealing small AoE <span class='magic'><u>dark/light</u> magical damage</span>. The tower must be soaked by a player with a debuff from the opposite element, dealing <span class='magic'>magical damage</span>. If not soaked, deals raid-wide <span class='magic'>magical damage</span> and applies a  <span class='debuff'>Damage Down</span> debuff.
+  + <span class='speDebuff'>Astralstrong/Umbralstrong Soul</span> <img class='iconImg' src='{{ site.data.iconList.P12S.AstralstrongSoul }}'>/<img class='iconImg' src='{{ site.data.iconList.P12S.UmbralstrongSoul }}'>: *Athena* fires a laser of the same element toward the player. It's a line AoE that must be soaked by players with a debuff from the opposite element. Apply 
+  + <span class='speDebuff'>Astral/Umbral Tilt</span> <img class='iconImg' src='{{ site.data.iconList.P12S.AstralTilt }}'>/<img class='iconImg' src='{{ site.data.iconList.P12S.UmbralTilt }}'>: kill the beared when hit by a attack from the same element.
 
 </div>
 
@@ -44,7 +44,7 @@ Line AoE from *Anthropos* aimed at the closest player, dealing <span class='magi
 ___
 
 + **<u>Paradeigma 2</u>:**
-**Paradeigma 2** will spawn six *Anthropos*, four on cardinals (slightly tilted) and two on North, after a small delay. Cardinals ones will use **Polarized Sear** and the others two will use **Ray of Light**.  
+Six *Anthropos* will spawn, four on cardinals (slightly tilted) and two on North, after a small delay. Cardinals ones will use **Polarized Sear** and the others two will use **Ray of Light**.  
 **Polarized Sear** will be on 2 Tanks/Healers and 2 DPS, the non-tethered players will receive <span class='speDebuff'>Astralbright/Umbralbright Soul</span> debuffs.
 
 ___
@@ -60,41 +60,94 @@ ___
 ___
 
 + **<u>Paradeigma 3</u>:**
+Six *Anthropos* will spawn, two East, two West and two on opposite intercardinal. East/West will use **Polarized Sear** and the others two will use **White Flame**.  
+
+  All DPS will receive <span class='speDebuff'>Astral/Umbral Tilt</span> <img class='iconImg' src='{{ site.data.iconList.P12S.AstralTilt }}'>/<img class='iconImg' src='{{ site.data.iconList.P12S.UmbralTilt }}'>, two debuffs of each element.  
+  Two Tanks/Healers will receive <span class='speDebuff'>Astralbright/Umbralbright Soul</span> <img class='iconImg' src='{{ site.data.iconList.P12S.AstralbrightSoul }}'>/<img class='iconImg' src='{{ site.data.iconList.P12S.UmbralbrightSoul }}'> debuffs of the same element.  
+  The other two will respectively get <span class='speDebuff'>Quartered Soul</span> <img class='iconImg' src='{{ site.data.iconList.P12S.QuarteredSoul }}'> and <span class='speDebuff'>X-marked Soul</span> <img class='iconImg' src='{{ site.data.iconList.P12S.XmarkedSoul }}'>:
+
+  + <span class='speDebuff'>Quartered Soul</span> : the player will drop + shaped AoE when it resolves. The AoE will trigger after 3 seconds dealing <span class='magic'>magical damage</span>.
+  + <span class='speDebuff'>X-marked Soul</span> : the player will drop X shaped AoE when it resolves. The AoE will trigger after 3 seconds dealing <span class='magic'>magical damage</span>.
+
+  Once debuff are applied, *Athena* will cast **Unnatural Enchainment** to destroy 4 platforms. Each remaining platform won't have any adjacent platform.
+
+  **Polarized Sear** and <span class='speDebuff'>Astralbright/Umbralbright Soul</span> will resolve at the same time.
+The towers soak and **White Flame** will happen at the same time.
+
+___
+
++ **<u>Polarized Sear</u>:**
+Polarized tether with damage based on distance, the further the better. When it resolves, fires a line AoE dealing <span class='magic'><u>dark/light</u> magical damage</span>.
+
+___
+
++ **<u>Ray of Light</u>:**
+*Anthropos* fires a line AoE in front of it dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span>.
+
+___
+
++ **<u>Paradeigma 4</u>:**
+Two *Anthropos* will spawn on the North side of the arena, one on each half. They will cast **Ray of Light**.  
+The adds won't be perfectly placed and must looked at to properly avoid their attack.
 
 </div>
 
 <div class='guideSection' markdown='1'>
 <h2><a id='ABSuperchainTheory'>Superchain Theory</a></h2>
-Superchain Theory is a mechanic that appears three times in the fight. A number of static orbs will appear and after a few seconds, different shaped orb(s) will be chained to them and have different effect, all of them dealing <span class='magic'>magical damage</span>:
+Superchain Theory is a mechanic that appears three times in the fight. A number of static orbs will appear and after a few seconds, new orbs with different shapes will be chained to them. The shaped orbs will then start to move toward their static orb and will be resolved when they reach it:
 
 + **Superchain Emission** (purple spikes): cone AoE on every Tanks/Healers or DPS than must be shared with another player and applies a <span class='debuff'>Magic Vulnerability Up</span> debuff.
 + **Superchain Radiation** (orange spikes): cone AoE on every player and applies a <span class='debuff'>Magic Vulnerability Up</span> debuff.
 + **Superchain Burst** (green sphere): pointblank AoE that applies a <span class='debuff'>Damage Down</span> debuff.
 + **Superchain Coil** (blue donut): donut-shaped AoE that applies a <span class='debuff'>Damage Down</span> debuff.
 
-The shaped orbs effect resolves when they reach the static orb.
+  All shaped orbs deals <span class='magic'>magical damage</span>.
 
 ___
 
 + **<u>Superchain Theory 1</u>:**
-Players will receive the following debuffs (roles shown below can be swapped when applied):
-+ <span class='speDebuff'>Astralbright/Umbralbright Soul</span> on two DPS.
-+ <span class='speDebuff'>Astralstrong/Umbralstrong Soul</span> on the other two DPS.
-+ <span class='speDebuff'>Astral/Umbral Tilt</span> on every Tanks/Healers.
+Players will receive the following debuffs (roles shown below can be swapped when applied, DPS <=> Tanks/Healers):
++ <span class='speDebuff'>Astralbright/Umbralbright Soul</span> <img class='iconImg' src='{{ site.data.iconList.P12S.AstralbrightSoul }}'>/<img class='iconImg' src='{{ site.data.iconList.P12S.UmbralbrightSoul }}'> on two DPS.
++ <span class='speDebuff'>Astralstrong/Umbralstrong Soul</span> <img class='iconImg' src='{{ site.data.iconList.P12S.AstralstrongSoul }}'>/<img class='iconImg' src='{{ site.data.iconList.P12S.UmbralstrongSoul }}'> on the other two DPS.
++ <span class='speDebuff'>Astral/Umbral Tilt</span> <img class='iconImg' src='{{ site.data.iconList.P12S.AstralTilt }}'>/<img class='iconImg' src='{{ site.data.iconList.P12S.UmbralTilt }}'> on every Tanks/Healers.
 + <span class='speDebuff'>Heavensflame Soul</span> on every Tanks/Healers. Explodes in AoE on the beared when it resolves, dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Magic Vulnerability Up</span> debuff.
 
-4 static orbs spawn on intercardinals and will resolve following this order:
+  4 static orbs spawn on intercardinals and will resolve following this order:
 
-+ On a random corer: **Superchain Emission** (purple spikes) or **Superchain Radiation** (orange spikes) AND **Superchain Burst** (green sphere) or **Superchain Coil** (blue donut)
-+ Adjacent corners: **Superchain Burst** (green sphere) on a corner and **Superchain Coil** (blue donut) on the other. and 1 donut (at the same time) + laser. Light goes left, Red goes right. Light laser goes right and red laser goes left
-+ Remaining corner: **Superchain Burst** (green sphere) AND **Superchain Coil** (blue donut), one after the other.
+  + On a random corer: **Superchain Emission** (purple spikes) or **Superchain Radiation** (orange spikes) AND **Superchain Burst** (green sphere) or **Superchain Coil** (blue donut).
+  + Adjacent corners: **Superchain Burst** (green sphere) on a corner and **Superchain Coil** (blue donut) on the other.
+  + Remaining corner: **Superchain Burst** (green sphere) AND **Superchain Coil** (blue donut), one after the other, the order being random.
+
+___
+
++ **<u>Superchain Theory 2A</u>:**
+Three static orbs will appear, one North, one middle and one South and will resolve following this order:
+  + North or South: **Superchain Burst** (green sphere) AND **Superchain Emission** (purple spikes).
+  + Middle: **Superchain Coil** (blue donut).
+  + North or South: **Superchain Burst** (green sphere) AND **Superchain Emission** (purple spikes) or **Superchain Radiation** (orange spikes).
+
+  The orb order is fully random, so it can be North > Middle > North or South > Middle > North for example.
+
+  In the meantime, *Athena* will cast **Trinity of Souls**, each wing will resolve at the same time as a **Superchain Coil** (blue donut) but the last wing that will resolve 1 second before the last orb.
+
+___
+
++ **<u>Superchain Theory 2B</u>:**
+Three set of static orbs will appear, one North/South, one East/West and one North/South and will resolve following this order:
+  + North or South: **Superchain Coil** (blue donut) on one orb, **Superchain Burst** (green sphere) on the other.
+  + East or West: **Superchain Coil** (blue donut).
+  + North or South: **Superchain Burst** (green sphere) AND **Superchain Emission** (purple spikes) or **Superchain Radiation** (orange spikes).
+
+  The orb order is fully random.
+
+  When the first shaped orbs start to move, *Athena* will cast **Parthenos**.  
+  After the second orbs, adds from **Paradeigma** will cast **Ray of Light**.  
+  After the third set, the boss will cast **Unnatural Enchainment** leaving only one tile left.
 
 </div>
 
 <div class='guideSection' markdown='1'>
 <h2><a id='ABGeneralAbilities'>General Abilities</a></h2>
-
-</div>
 
 + **<u>On the Soul</u>:**
 Raid-wide AoE dealing <span class='magic'>magical damage</span>.
@@ -118,6 +171,17 @@ ___
 
 + **Apodialogos**: share AoE tank-buster on the furthest target and share AoE on the closest target.
 + **Peridialogos**: share AoE tank-buster on the closest target and share AoE on the furthest target.
+
+___
+
++ **<u>Unnatural Enchainment</u>:**
+*Athena* will tether herself to tiles and will destroy them after 7 seconds. There is, at least, always one tile remaining.
+
+___
+
+
++ **<u>Parthenos</u>:**
+Line AoE going through *Athena* aimed at the main target, dealing <span class='magic'>magical damage</span>.
 
 </div>
 
@@ -157,6 +221,10 @@ Afterward, the <span class='speDebuff'>Heavensflame Soul</span> players will mov
 
 *Athena* will perform another **Trinity of Souls** but the order for this one is random. It's followed by **Apodialogos/Peridialogos**, have the group moves in and the Tanks for the former and do the opposite for the latter. Then quickly heal for the incoming **On the Soul**.
 
-> An easy way to remember is that for **Apodialogos**, the group must <u>A</u>dvance
+> An easy way to remember is that for **Apodialogos**, the group must <u>A</u>dvance.
+
+*Athena* will cast another **One The Soul** followed by **Paradeigma 3**.
+
+DPS will receive their tether and must opposite of their adds in one of the middle platform.
 
 </div>
