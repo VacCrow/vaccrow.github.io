@@ -275,7 +275,9 @@ P12S_Part1:
       - name: General Abilities
   - name: Strategy
     section:
-      - name: HUHH
+      - name: Phase 1
+      - name: Ultimate Blade
+      - name: Phase 2
 
 P12S_Part2:
   - name: Abilities Breakdown
