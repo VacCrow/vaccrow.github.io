@@ -4,9 +4,10 @@ title: Dragonsong's Reprise | DSR
 imagePath: /assets/img/guides/ultimates/DSR/
 slideNumber: 25
 ---
-{ % comment % }
-<!-- cSpell:ignore SKRAAA -->
-{ % endcomment % }
+
+  {% comment %}
+    <!-- cSpell:ignore SKRAAA -->
+  {% endcomment %}
 
 *Patch: 6.11  
 Minimum ilvl: i600  
