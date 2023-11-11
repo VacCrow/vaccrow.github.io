@@ -5,6 +5,10 @@ imagePath: /assets/img/guides/savages/pandaemonium/P12S_Part1/
 slideNumber: 7
 ---
 
+  {% comment %}
+      <!-- cSpell:ignore dvance -->
+  {% endcomment %}
+
 *Patch: 6.4  
 Minimum ilvl: i640  
 DPS Requirement: 71.1k (with downtime)  
@@ -58,7 +62,7 @@ Six *Anthropos* will spawn, two East, two West and two on opposite intercardinal
 
   + All DPS will receive <span class='speDebuff'>Astral/Umbral Tilt</span> <img class='iconImg' src='{{ site.data.iconList.P12S.AstralTilt }}'>/<img class='iconImg' src='{{ site.data.iconList.P12S.UmbralTilt }}'>, two debuffs of each element.
   + Two Tanks/Healers will receive <span class='speDebuff'>Astralbright/Umbralbright Soul</span> <img class='iconImg' src='{{ site.data.iconList.P12S.AstralbrightSoul }}'>/<img class='iconImg' src='{{ site.data.iconList.P12S.UmbralbrightSoul }}'> debuffs of the same element.
-  + The other two will respectively get <span class='speDebuff'>Quartered Soul</span> <img class='iconImg' src='{{ site.data.iconList.P12S.QuarteredSoul }}'> and <span class='speDebuff'>X-marked Soul</span> <img class='iconImg' src='{{ site.data.iconList.P12S.XmarkedSoul }}'>:
+  + The other two will respectively get <span class='speDebuff'>Quartered Soul</span> <img class='iconImg' src='{{ site.data.iconList.P12S.QuarteredSoul }}'> and <span class='speDebuff'>X-marked Soul</span> <img class='iconImg' src='{{ site.data.iconList.P12S.XMarkedSoul }}'>:
     + <span class='speDebuff'>Quartered Soul</span> : the player will drop a + shaped AoE when it resolves. The AoE will trigger after 3 seconds dealing <span class='magic'>magical damage</span>.
     + <span class='speDebuff'>X-marked Soul</span> : the player will drop a X shaped AoE when it resolves. The AoE will trigger after 3 seconds dealing <span class='magic'>magical damage</span>.
 
@@ -253,7 +257,7 @@ At the same time, the *Anthropos* at the centre of the arena will perform either
 
 Once **Palladion** is over and the arena is back to its original shape, regroup on the North platforms to dodge **Unnatural Enchainment** and mitigate for **Theos's Ultima**.
 
-<i>Watch a video for now, I'm too lazy. uwu</i>
++ *Watch a video for now, I'm too lazy. uwu*
 
 > Due to the fact that **White Flame** and **Clear Cut** order is a bit random, the timing may not be accurate. Only a rough timing is displayed here.
 

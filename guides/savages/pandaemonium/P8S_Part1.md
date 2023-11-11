@@ -4,9 +4,9 @@ title: Abyssos - The Eighth Circle (Savage) | P8S (Part 1)
 imagePath: /assets/img/guides/savages/pandaemonium/P8S_Part1/
 slideNumber: 8
 ---
-{ % comment % }
-<!-- cSpell:ignore gorgo -->
-{ % endcomment % }
+  {% comment %}
+      <!-- cSpell:ignore gorgo -->
+  {% endcomment %}
 
 *Patch: 6.2  
 Minimum ilvl: i610  
