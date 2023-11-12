@@ -61,7 +61,7 @@ UWU:
       - name: Strategy
         phases:
           - phase: Predation
-          - phase: Anihilation
+          - phase: Annihilation
           - phase: Suppression
 
 TEA:
@@ -283,6 +283,9 @@ P12S_Part2:
   - name: Abilities Breakdown
     section:
       - name: General Abilities
+      - name: Gaiaochos
+      - name: The Classical Concepts
+      - name: Caloric Theory
   - name: Strategy
     section:
       - name: HUHH
