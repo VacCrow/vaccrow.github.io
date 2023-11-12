@@ -189,7 +189,7 @@ Four static orbs will appear, one on each cardinal and will resolve following th
   Line AoE going through *Athena* aimed at the main target, dealing <span class='magic'>magical damage</span>.
 
 </div>
-
+___
 <h1><a id='Strategy'>Strategy</a></h1>
 
 <div class='guideSection' markdown='1'>
