@@ -111,7 +111,6 @@ The others will receive the <span class='speDebuff'>Glossal Resistance Down</spa
 Both debuffs last 32 seconds.
 
   Furthermore, everyone will receive the <span class='speDebuff'>Aetheronecrosis</span> <img class='iconImg' src='{{ site.data.iconList.P6S.Aetheronecrosis }}'> debuff that explode in AoE around the player when it resolves, dealing dark <span class='magic'>magical damage</span> and applying a <span class='debuff'>Dark Resistance Down II</span> and a <span class='debuff'>Physical Vulnerability Up</span> debuffs for 10 seconds.  
-  
   Within each group of <span class='speDebuff'>Chelic Resistance Down</span> and <span class='speDebuff'>Glossal Resistance Down</span>, each player will have a different duration on <span class='speDebuff'>Aetheronecrosis</span> lasting 8, 12, 16 or 20 seconds.
 
 ___
