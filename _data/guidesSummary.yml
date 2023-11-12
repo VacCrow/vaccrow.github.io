@@ -259,8 +259,8 @@ P10S:
 P11S:
   - name: Abilities Breakdown
     section:
-      - name: Overruling Abilities
       - name: General Abilities
+      - name: Overruling Abilities
   - name: Strategy
     section:
       - name: Phase 1
@@ -269,10 +269,10 @@ P11S:
 P12S_Part1:
   - name: Abilities Breakdown
     section:
+      - name: General Abilities
       - name: Dark And Light Debuffs
       - name: Paradeigma
       - name: Superchain Theory
-      - name: General Abilities
   - name: Strategy
     section:
       - name: Phase 1

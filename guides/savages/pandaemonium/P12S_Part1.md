@@ -21,6 +21,61 @@ ___
 <h1><a id='AbilitiesBreakdown'>Abilities Breakdown</a></h1>
 
 <div class='guideSection' markdown='1'>
+<h2><a id='ABGeneralAbilities'>General Abilities</a></h2>
+
++ **<u>On the Soul</u>:**
+Raid-wide AoE dealing <span class='magic'>magical damage</span>.
+
+___
+
++ **<u>Trinity of Souls</u>:**
+Three of *Athena* wings will glow in sequence, one top wing, one middle wing and one bottom wing. Following the same order, *Athena* will cleave the same side as the glowing wings, dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> to anyone hit.  
+If the wings glow from the botton to the top, *Athena* will do a U-turn after each cleave so the second cleave will hit the other side.
+
+___
+
++ **<u>Glaukopis</u>:**
+Two hits line AoE tank buster dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Magic Vulnerability Up</span> debuff for 4 seconds.  
+Target for the first attack is set when the cast begins, target for the second attack is set when the cast is over.
+
+___
+
++ **<u>Apodialogos/Peridialogos</u>:**
+*Athena* will choose two targets and perform a shared AoE tank-buster dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Bleed</span> and a <span class='debuff'>Magic Vulnerability Up</span> debuffs on one target and a shared AoE dealing <span class='magic'>magical damage</span> on the other target.
+
+  + **Apodialogos**: shared AoE tank-buster on the furthest target and shared AoE on the closest target.
+  + **Peridialogos**: shared AoE tank-buster on the closest target and shared AoE on the furthest target.
+
+  The shared AoE is called **Dialogos**.
+
+___
+
++ **<u>Unnatural Enchainment</u>:**
+*Athena* will tether herself to tiles and will destroy them after 7 seconds. There is, at least, always one tile remaining.
+
+___
+
++ **<u>Ultima Blade</u>:**
+Raid-wide AoE dealing high <span class='magic'>magical damage</span>. It also create new walls in the arena forming an octagon.  
+Furthemore, 8 *Anthropos* will spawn around *Athena* and cardinal ones will glow yellow and use **White Flame** while the others will glow purple and use **Clear Cut**.
+
+___
+
++ **<u>Palladion</u>:**
+Player will be numbered from 1 to 8. then *Athena* will jump to a random (inter)cardinal and will dash toward each number in order. It's a line AoE that deals <span class='magic'>magical damage</span> and applies a <span class='debuff'>Magic Vulnerability Up</span> debuff to anyone hit.  
+Damage inflicted decreases with distance and will leave a puddle, that apply a <span class='debuff'>Bleed</span> debuff, at the location where the main target is hit.
+
+  During the cast, the 8 adds will fly off in a certain order and while **Palladion** is happening, following that same order, they will fly down in the middle and use their ability then will proceed to leave the arena.
+
+___
+
++ **<u>Theos's Ultima</u>:**
+Raid-wide AoE dealing high <span class='magic'>magical damage</span>.  
+The second cast is the enrage, a 7 second long cast.
+
+</div>
+
+<div class='guideSection' markdown='1'>
 <h2><a id='ABDarkAndLightDebuffs'>Dark And Light Debuffs</a></h2>
 Through the fight, *Athena* will apply dark or light polarized debuff(s) that will interact with other polarized debuffs or mechanics. If a player is hit by an attack from the same element, he will die. Here is the list of all the debuffs:
   + <span class='speDebuff'>Astralbright/Umbralbright Soul</span> <img class='iconImg' src='{{ site.data.iconList.P12S.AstralbrightSoul }}'>/<img class='iconImg' src='{{ site.data.iconList.P12S.UmbralbrightSoul }}'>: when it resolves, drops a tower of the same element under the player and do a small AoE, dealing <u>dark/light</u> <span class='magic'> magical damage</span>.  
@@ -132,61 +187,6 @@ Four static orbs will appear, one on each cardinal and will resolve following th
 
   + **<u>Parthenos</u>:**
   Line AoE going through *Athena* aimed at the main target, dealing <span class='magic'>magical damage</span>.
-
-</div>
-
-<div class='guideSection' markdown='1'>
-<h2><a id='ABGeneralAbilities'>General Abilities</a></h2>
-
-+ **<u>On the Soul</u>:**
-Raid-wide AoE dealing <span class='magic'>magical damage</span>.
-
-___
-
-+ **<u>Trinity of Souls</u>:**
-Three of *Athena* wings will glow in sequence, one top wing, one middle wing and one bottom wing. Following the same order, *Athena* will cleave the same side as the glowing wings, dealing <span class='magic'>magical damage</span> and applying a <span class='debuff'>Damage Down</span> to anyone hit.  
-If the wings glow from the botton to the top, *Athena* will do a U-turn after each cleave so the second cleave will hit the other side.
-
-___
-
-+ **<u>Glaukopis</u>:**
-Two hits line AoE tank buster dealing <span class='magic'>magical damage</span>, applying a <span class='debuff'>Magic Vulnerability Up</span> debuff for 4 seconds.  
-Target for the first attack is set when the cast begins, target for the second attack is set when the cast is over.
-
-___
-
-+ **<u>Apodialogos/Peridialogos</u>:**
-*Athena* will choose two targets and perform a shared AoE tank-buster dealing <span class='phys'>physical damage</span> and applying a <span class='debuff'>Bleed</span> and a <span class='debuff'>Magic Vulnerability Up</span> debuffs on one target and a shared AoE dealing <span class='magic'>magical damage</span> on the other target.
-
-  + **Apodialogos**: shared AoE tank-buster on the furthest target and shared AoE on the closest target.
-  + **Peridialogos**: shared AoE tank-buster on the closest target and shared AoE on the furthest target.
-
-  The shared AoE is called **Dialogos**.
-
-___
-
-+ **<u>Unnatural Enchainment</u>:**
-*Athena* will tether herself to tiles and will destroy them after 7 seconds. There is, at least, always one tile remaining.
-
-___
-
-+ **<u>Ultima Blade</u>:**
-Raid-wide AoE dealing high <span class='magic'>magical damage</span>. It also create new walls in the arena forming an octagon.  
-Furthemore, 8 *Anthropos* will spawn around *Athena* and cardinal ones will glow yellow and use **White Flame** while the others will glow purple and use **Clear Cut**.
-
-___
-
-+ **<u>Palladion</u>:**
-Player will be numbered from 1 to 8. then *Athena* will jump to a random (inter)cardinal and will dash toward each number in order. It's a line AoE that deals <span class='magic'>magical damage</span> and applies a <span class='debuff'>Magic Vulnerability Up</span> debuff to anyone hit.  
-Damage inflicted decreases with distance and will leave a puddle, that apply a <span class='debuff'>Bleed</span> debuff, at the location where the main target is hit.
-
-  During the cast, the 8 adds will fly off in a certain order and while **Palladion** is happening, following that same order, they will fly down in the middle and use their ability then will proceed to leave the arena.
-
-___
-
-+ **<u>Theos's Ultima</u>:**
-Raid-wide AoE dealing high <span class='magic'>magical damage</span>.  
-The second cast is the enrage, a 7 second long cast.
 
 </div>
 
