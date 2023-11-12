@@ -288,7 +288,8 @@ P12S_Part2:
       - name: Caloric Theory
   - name: Strategy
     section:
-      - name: HUHH
+      - name: Phase 1
+      - name: Phase 2
 
 #------------EDEN-----------
 E9S:
