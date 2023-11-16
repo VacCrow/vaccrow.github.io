@@ -2,7 +2,7 @@
 layout: guides
 title: Anabaseios - The Twelfth Circle (Savage) | P12S (Part 2)
 imagePath: /assets/img/guides/savages/pandaemonium/P12S_Part2/
-slideNumber: 4
+slideNumber: 8
 ---
 
   {% comment %}
@@ -161,10 +161,10 @@ Right after, the two blades will stab the floor and **Palladian Ray** must be ba
 
 *Pallan Athena* will resume with another **Ultima** followed by **Crushing Helm**, remember to dispell the <span class='debuff'>Physical Vulnerability Up</span> debuff on the Tanks before the last hit.
 
-{% assign slideCounter = 0 %}
+{% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="calo1-1.jpg;calo1-2.jpg;calo1-3.jpg;calo1-4.jpg;calo1-5.jpg;calo1-6.jpg" imgDesc="Get to your static position and wait for getting the fire marker;Marked players move mid and Tank(s) replace them;Debuffs are assigned;Outer wind debuff move to the next clockwise fire player (or counter-clockwise if impossible);Middle players pair with remaining pyrefaction players;Debuffs resolve" slideNumber=slideCounter %}
 
-{% assign slideCounter = 0 %}
+{% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="calo1-7.jpg;calo1-8.jpg;calo1-9.jpg;calo1-10.jpg;calo1-.jpg;calo1-.jpg" imgDesc="Debuffs are assigned;Pyrefaction players move out to pair with the next clockwise non-atmosfaction player (or counter-clockwise if impossible);Players without debuff rejoin their partner;Debuffs resolve" slideNumber=slideCounter %}
 
 </div>
