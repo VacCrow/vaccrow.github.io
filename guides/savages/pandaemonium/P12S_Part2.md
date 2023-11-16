@@ -2,7 +2,7 @@
 layout: guides
 title: Anabaseios - The Twelfth Circle (Savage) | P12S (Part 2)
 imagePath: /assets/img/guides/savages/pandaemonium/P12S_Part2/
-slideNumber: 2
+slideNumber: 4
 ---
 
   {% comment %}
@@ -13,7 +13,7 @@ slideNumber: 2
 Minimum ilvl: i640  
 DPS Requirement: 76.4k  
 Enrage timer: 8:43  
-<span class='debuff'>Damage Down</span> potency: ?%  
+<span class='debuff'>Damage Down</span> potency: 42%  
 Loot:*
 
 + *Chest n°1: Anabaseios Weapon*
@@ -160,6 +160,12 @@ Right after, the two blades will stab the floor and **Palladian Ray** must be ba
 {% include slideshow.html imgLink="concept1-1.jpg;concept1-2.jpg;concept1-3.jpg;concept1-4.jpg" imgDesc="Move in pair to your assigned position;Block your shape: alpha for red triangle, beta for yellow square;Dodge <strong>Implode<strong>;Bait <strong>Palladian Ray</strong> and move out" slideNumber=slideCounter %}
 
 *Pallan Athena* will resume with another **Ultima** followed by **Crushing Helm**, remember to dispell the <span class='debuff'>Physical Vulnerability Up</span> debuff on the Tanks before the last hit.
+
+{% assign slideCounter = 0 %}
+{% include slideshow.html imgLink="calo1-1.jpg;calo1-2.jpg;calo1-3.jpg;calo1-4.jpg;calo1-5.jpg;calo1-6.jpg" imgDesc="Get to your static position and wait for getting the fire marker;Marked players move mid and Tank(s) replace them;Debuffs are assigned;Outer wind debuff move to the next clockwise fire player (or counter-clockwise if impossible);Middle players pair with remaining pyrefaction players;Debuffs resolve" slideNumber=slideCounter %}
+
+{% assign slideCounter = 0 %}
+{% include slideshow.html imgLink="calo1-7.jpg;calo1-8.jpg;calo1-9.jpg;calo1-10.jpg;calo1-.jpg;calo1-.jpg" imgDesc="Debuffs are assigned;Pyrefaction players move out to pair with the next clockwise non-atmosfaction player (or counter-clockwise if impossible);Players without debuff rejoin their partner;Debuffs resolve" slideNumber=slideCounter %}
 
 </div>
 
