@@ -89,6 +89,7 @@
     "UmbralbrightSoul": "https://assets.rpglogs.com/img/ff/abilities/015000-015182.png",
     "UmbralstrongSoul": "https://assets.rpglogs.com/img/ff/abilities/015000-015184.png",
     "XMarkedSoul": "https://assets.rpglogs.com/img/ff/abilities/015000-015187.png",
+    "Ascended": "https://assets.rpglogs.com/img/ff/abilities/015000-015189.png",
     "MissingLink": "https://assets.rpglogs.com/img/ff/abilities/015000-015190.png",
     "ShackledTogether": "https://assets.rpglogs.com/img/ff/abilities/015000-015328.png",
     "AlphaTarget": "https://assets.rpglogs.com/img/ff/abilities/014000-014103.png",
@@ -96,12 +97,10 @@
     "CloseCaloric": "https://assets.rpglogs.com/img/ff/abilities/018000-018826.png",
     "Pyrefaction": "https://assets.rpglogs.com/img/ff/abilities/015000-015198.png",
     "Atmosfaction": "https://assets.rpglogs.com/img/ff/abilities/015000-015199.png",
-
-    "Entropifaction": "https://assets.rpglogs.com/img/ff/abilities/018000-018052.png",
-    "Ascended": "https://assets.rpglogs.com/img/ff/abilities/015000-015189.png",
-    "CriticalFactor": "https://assets.rpglogs.com/img/ff/abilities/015000-015200.png",
     "UnstableFactor": "https://assets.rpglogs.com/img/ff/abilities/017000-017178.png",
+    "CriticalFactor": "https://assets.rpglogs.com/img/ff/abilities/015000-015200.png",
     "StableSystem": "https://assets.rpglogs.com/img/ff/abilities/014000-014108.png",
+    "Entropifaction": "https://assets.rpglogs.com/img/ff/abilities/018000-018052.png",
     "EntropyResistance": "https://assets.rpglogs.com/img/ff/abilities/014000-014107.png"
   },
 
