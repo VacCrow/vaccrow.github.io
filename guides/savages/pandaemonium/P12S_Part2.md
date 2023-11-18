@@ -273,7 +273,7 @@ Players with no stack of <span class='speDebuff'>Unstable Factor</span> will mov
 + Players with 2 stack: once **Pantheos** cast is over, they will move to the correct side based on their <span class='speDebuff'>Astral/Umbral Tilt</span> debuff element and the first tower element. The correct side being the side with a tower of the opposite element of the debuff. Then short duration debuff (16s) will soak the tower from the first set while the long duration debuff (20s) will get in position to soak the South tower form the second set.
 
 {% assign slideCounter = slideCounter | plus: 1 %}
-{% include slideshow.html imgLink="pant1.jpg;pant2.jpg;pant3.jpg;pant4.jpg" imgDesc="Form a line;1 stack players move in front, 0 stack players move in the back;1 stack players move move to South tower of 2nd set</br>0 stack players move to the first tower;Short <span class='speDebuff'>Tilt</span> duration (16s) move inside the first towers</br>Long <span class='speDebuff'>Tilt</span> duration (20s) move to South tower of 2nd set (timers not displayed here)" slideNumber=slideCounter %}
+{% include slideshow.html imgLink="pant1.jpg;pant2.jpg;pant3.jpg;pant4.jpg" imgDesc="Form a line;0 stack players move to the front</br>1 stack players move to the back;0 stack players move to the first tower</br>1 stack players move move to South tower of 2nd set;Short <span class='speDebuff'>Tilt</span> duration (16s) move inside the first towers</br>Long <span class='speDebuff'>Tilt</span> duration (20s) move to South tower of 2nd set (timers not displayed here)" slideNumber=slideCounter %}
 
 > For tower pattern, follow this link => <a href="{{ post_url | append: '#ABPantheos' }}">HERE</a> <=
 
