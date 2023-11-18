@@ -5,6 +5,10 @@ imagePath: /assets/img/guides/savages/pandaemonium/P7S/
 slideNumber: 5
 ---
 
+  {% comment %}
+      <!-- cSpell:ignore purga -->
+  {% endcomment %}
+
 *Patch: 6.2  
 Minimum ilvl: i610  
 DPS Requirement: 58.8k  
