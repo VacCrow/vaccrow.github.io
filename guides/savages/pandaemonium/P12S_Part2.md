@@ -199,7 +199,7 @@ Raid-wide AoE dealing high <span class='magic'>magical damage</span>.
 ___
 
 + **<u>Pantheos</u>:**
-<a id='Pantheos'></a>
+<a id='ABPantheos'></a>
 3 sets of polarized towers will spawn in a half random partern. Each tower requires two players to soak it, one player with a <span class='speDebuff'>Astral/Umbral Tilt</span> debuff of the opposite element and one player without a polarized debuff.  
 The spawn order is shown below and follow this order: towers n°1 > towers n°2 and n°3 > towers n°4 and n°5. And then on each side, the towers elements are based on the first tower:
   + Tower n°1 element is random. Each side have opposite element.
@@ -275,8 +275,11 @@ Players with no stack of <span class='speDebuff'>Unstable Factor</span> will mov
 {% assign slideCounter = slideCounter | plus: 1 %}
 {% include slideshow.html imgLink="pant1.jpg;pant2.jpg;pant3.jpg;pant4.jpg" imgDesc="Form a line;1 stack players move in front, 0 stack players move in the back;1 stack players move move to South tower of 2nd set</br>0 stack players move to the first tower;Short <span class='speDebuff'>Tilt</span> duration (16s) move inside the first towers</br>Long <span class='speDebuff'>Tilt</span> duration (20s) move to South tower of 2nd set (timers not displayed here)" slideNumber=slideCounter %}
 
+> For tower pattern, follow this link => <a href="{{ post_url | append: '#ABPantheos' }}">HERE</a> <=
+
 While the first set of tower is done, each pair will start to start their <span class='speDebuff'>Unstable Factor</span> debuff. Wait for the fusing to be done before moving to the next spot. Players who soak the first tower will move into the North tower from the second set on their side.  
-Once the second set is done, wait if your fusing isn't over yet and move into the next spot. Players with <span class='speDebuff'>Astral/Umbral Tilt</span> debuff must swap line (North -> South and vice versa) and player without <span class='speDebuff'>Astral/Umbral Tilt</span> will stay on the same line for the last tower.  
+Once the second set is done, wait if your fusing isn't over yet and move into the next spot. Players with <span class='speDebuff'>Astral/Umbral Tilt</span> debuff must swap line (North -> South and vice versa) and player without <span class='speDebuff'>Astral/Umbral Tilt</span> will stay on the same line for the last tower.
+
 Once the tower are done, the slime tethers will appear. The group will move to the South while staying of the left side of th arena.  
 The left and right player who had no stack of <span class='speDebuff'>Unstable Factor</span> thus no <span class='speDebuff'>Critical Factor</span> debuff must grab the 3 tethers on their side. Then the left player will move to the North West corner and the right player will move North (East-ish) while staying on the right side of the arena.  
 At the same time, the main Tank will get **Palladian Grasp** and should be on the right side of the arena. The right player who grabbed the tethers must remember to move to the left side once **Factor In** is done.
